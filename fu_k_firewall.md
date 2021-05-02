@@ -3,12 +3,14 @@
 安卓梯子客户端：
 v2rayNG
 https://zgq-inc.lanzous.com/tp/iaLTwmz4uwd
-（待补）
+
+（其它待补）
 
 PC梯子客户端：
 PC梯子：v2rayN
 https://zgq-inc.lanzous.com/iXjhqlqq25a
-（待补）
+
+（其它待补）
 
 
 节点订阅
