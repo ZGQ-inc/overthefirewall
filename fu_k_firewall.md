@@ -33,6 +33,6 @@ http://freeperson.xyz/auth/login
 > ### 我的资源群
 >
 > 中转1（Github）
-> https://github.com/ZGQ-inc/transit-groups/blob/main/addgroup.md
+>> https://github.com/ZGQ-inc/transit-groups/blob/main/addgroup.md
 > 中转2（码云）
-> https://gitee.com/zgqinc/transit-groups/blob/master/joingroup.md
+>> https://gitee.com/zgqinc/transit-groups/blob/master/joingroup.md
