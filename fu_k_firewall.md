@@ -16,7 +16,11 @@ https://zgq-inc.lanzous.com/iXjhqlqq25a
 
 （其它待补）
 
+#### 未整理
 
+https://zgq-inc.lanzous.com/b00ob0zsj
+
+密码:VPN
 
 ### 节点订阅
 
@@ -30,10 +34,17 @@ https://bulink.xyz/
 http://freeperson.xyz/auth/login
 项目地址：未开源
 
-> ### 我的资源群
+### Steam加速器|Steam++
+
+下载地址及官网：https://www.steampp.net/
+
+
+
+> ## 我的资源群
 >
 > 中转1（Github）
->> https://github.com/ZGQ-inc/transit-groups/blob/main/addgroup.md
+> > https://github.com/ZGQ-inc/transit-groups/blob/main/addgroup.md
 >
 > 中转2（码云）
->> https://gitee.com/zgqinc/transit-groups/blob/master/joingroup.md
+>
+> > https://gitee.com/zgqinc/transit-groups/blob/master/joingroup.md
