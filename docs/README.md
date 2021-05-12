@@ -24,7 +24,7 @@ https://zgq-inc.lanzous.com/b00ob0zsj
 
 密码:VPN
 
-### 节点订阅
+### 订阅平台（需注册）
 
 ##### BuLink永久免费网络加速
 
