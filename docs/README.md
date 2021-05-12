@@ -6,7 +6,7 @@
 
 v2rayNG
 
-https://zgq-inc.lanzous.com/tp/iaLTwmz4uwd
+https://zgq-inc.lanzoux.com/tp/iaLTwmz4uwd
 
 （其它待补）
 
@@ -14,13 +14,13 @@ https://zgq-inc.lanzous.com/tp/iaLTwmz4uwd
 
 v2rayN
 
-https://zgq-inc.lanzous.com/iXjhqlqq25a
+https://zgq-inc.lanzoux.com/iXjhqlqq25a
 
 （其它待补）
 
 #### 未整理
 
-https://zgq-inc.lanzous.com/b00ob0zsj
+https://zgq-inc.lanzoux.com/b00ob0zsj
 
 密码:VPN
 
