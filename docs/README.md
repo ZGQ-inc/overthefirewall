@@ -55,6 +55,12 @@ https://www.steampp.net/
 
 # *以下为赞助内容*
 
+> ## 起飞交流群（非官方）
+
+> https://jq.qq.com/?_wv=1027&k=IA9uFoQq
+
+> 群号：485668627
+
 ### V2ray+winXray订阅（通用） 
 
 ①http://120.92.132.166:8888/down/ecafFaSfovkG
