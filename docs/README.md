@@ -65,7 +65,7 @@ https://www.steampp.net/
 
 ①http://120.92.132.166:8888/down/ecafFaSfovkG
 
-Clash订阅：（长短订阅均可用，2选1即可）
+### Clash订阅：（长短订阅均可用，2选1即可）
 
 ①短订阅：https://suo.yt/r0THB35
 
