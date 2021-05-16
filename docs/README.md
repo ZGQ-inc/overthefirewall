@@ -51,3 +51,25 @@ https://www.steampp.net/
 > ## 我的资源群
 >
 >https://zgq-inc.github.io/transit-groups/
+
+
+# *以下为赞助内容*
+
+### V2ray+winXray订阅（通用） 
+
+①http://120.92.132.166:8888/down/ecafFaSfovkG
+
+Clash订阅：（长短订阅均可用，2选1即可）
+
+①短订阅：https://suo.yt/r0THB35
+
+②长订阅： https://pub-api-1.bianyuan.xyz/sub?target=clash&url=http%3A%2F%2F120.92.132.166%3A8888%2Fdown%2FecafFaSfovkG&insert=false
+
+### 〔赞助〕SSR节点19个.txt
+
+https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9%E3%80%95SSR%E8%8A%82%E7%82%B919%E4%B8%AA.txt
+
+### 〔赞助〕V2ray节点65个.txt
+
+https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9%E3%80%95V2ray%E8%8A%82%E7%82%B965%E4%B8%AA.txt
+
