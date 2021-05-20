@@ -46,6 +46,10 @@ http://freeperson.xyz/auth/login
 
 https://www.steampp.net/
 
+项目地址：
+
+https://github.com/SteamTools-Team/SteamTools
+
 
 
 > ## 我的资源群
