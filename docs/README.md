@@ -23,6 +23,21 @@ https://zgq-inc.lanzoux.com/iXjhqlqq25a
 https://zgq-inc.lanzoux.com/b00ob0zsj
 
 密码:VPN
+shadowsocks / shadowsocks-windows
+https://github.com/shadowsocks/shadowsocks-windows
+2dust / v2rayN
+https://github.com/2dust/v2rayN
+2dust / v2rayNG
+https://github.com/2dust/v2rayNG
+Fndroid / clash_for_windows_pkg
+https://github.com/Fndroid/clash_for_windows_pkg
+shadowsocksr-backup / shadowsocksr-android
+https://github.com/shadowsocksr-backup/shadowsocksr-android
+Kr328 / ClashForAndroid
+https://github.com/Kr328/ClashForAndroid
+BoyceLig / ClashR_for_Windows
+https://github.com/BoyceLig/ClashR_for_Windows
+
 
 ### 订阅平台（需注册）
 
