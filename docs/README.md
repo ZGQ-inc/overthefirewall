@@ -6,7 +6,21 @@
 
 v2rayNG
 
-https://zgq-inc.lanzoux.com/tp/iaLTwmz4uwd
+32位https://zgq-inc.lanzoui.com/ie3a4p9i14h
+
+64位https://zgq-inc.lanzoui.com/issIYp9i11e
+
+2dust / v2rayNG
+https://github.com/2dust/v2rayNG
+
+Clash
+
+32位https://zgq-inc.lanzoui.com/ixlmIp9i1xg
+
+64位https://zgq-inc.lanzoui.com/iFweEp9i1ud
+
+Kr328 / ClashForAndroid
+https://github.com/Kr328/ClashForAndroid
 
 （其它待补）
 
@@ -14,7 +28,17 @@ https://zgq-inc.lanzoux.com/tp/iaLTwmz4uwd
 
 v2rayN
 
-https://zgq-inc.lanzoux.com/iXjhqlqq25a
+https://zgq-inc.lanzoui.com/iW7M9p9i0xa
+
+2dust / v2rayN
+https://github.com/2dust/v2rayN
+
+ClashR
+
+https://zgq-inc.lanzoui.com/irWwzp9jm3i
+
+BoyceLig / ClashR_for_Windows
+https://github.com/BoyceLig/ClashR_for_Windows
 
 （其它待补）
 
@@ -25,18 +49,11 @@ https://zgq-inc.lanzoux.com/b00ob0zsj
 密码:VPN
 shadowsocks / shadowsocks-windows
 https://github.com/shadowsocks/shadowsocks-windows
-2dust / v2rayN
-https://github.com/2dust/v2rayN
-2dust / v2rayNG
-https://github.com/2dust/v2rayNG
+
 Fndroid / clash_for_windows_pkg
 https://github.com/Fndroid/clash_for_windows_pkg
 shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
-Kr328 / ClashForAndroid
-https://github.com/Kr328/ClashForAndroid
-BoyceLig / ClashR_for_Windows
-https://github.com/BoyceLig/ClashR_for_Windows
 
 
 ### 订阅平台（需注册）
