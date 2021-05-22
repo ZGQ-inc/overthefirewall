@@ -91,11 +91,12 @@ https://github.com/SteamTools-Team/SteamTools
 
 # *以下为赞助内容*
 
-> ## 起飞交流群（非官方）
+> ## 起飞交流群
 >
-> https://jq.qq.com/?_wv=1027&k=IA9uFoQq
->
+> Q群：https://jq.qq.com/?_wv=1027&k=IA9uFoQq
 > 群号：485668627
+>
+> Telegram群组：https://t.me/freessrvpn
 
 ### V2ray+winXray订阅（通用） 
 
