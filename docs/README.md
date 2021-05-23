@@ -91,13 +91,6 @@ https://github.com/SteamTools-Team/SteamTools
 
 # *以下为赞助内容*
 
-> ## 起飞交流群
->
-> Q群：https://jq.qq.com/?_wv=1027&k=IA9uFoQq
-> 群号：485668627
->
-> Telegram群组：https://t.me/freessrvpn
-
 ### V2ray+winXray订阅（通用） 
 
 ①http://120.92.132.166:8888/down/ecafFaSfovkG
@@ -116,7 +109,22 @@ https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9
 
 https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9%E3%80%95V2ray%E8%8A%82%E7%82%B965%E4%B8%AA.txt
 
+> ## 起飞交流群
+>
+> Q群：https://jq.qq.com/?_wv=1027&k=IA9uFoQq
+>
+> 群号：485668627
+>
+> Telegram群组：https://t.me/freessrvpn
+
 ### 赞助2-v2ray&clash节点.txt
 
 https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A92-v2ray%26clash%E8%8A%82%E7%82%B9.txt
 
+> 资源群群员赞助
+
+### 赞助3-v2ray(shadowsocks&vmess).txt
+
+https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A93-v2ray(shadowsocks%26vmess).txt
+
+>
