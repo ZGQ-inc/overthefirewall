@@ -42,6 +42,19 @@ https://github.com/BoyceLig/ClashR_for_Windows
 
 （其它待补）
 
+### iOS
+
+OneClick - Unrestricted access to the Internet
+https://oneclick.earth/#/
+
+### MacOS
+
+正在施工...
+
+### Linux
+
+正在施工...
+
 ### 未整理
 
 https://zgq-inc.lanzoux.com/b00ob0zsj
