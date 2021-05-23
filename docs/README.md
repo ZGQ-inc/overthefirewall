@@ -141,3 +141,31 @@ https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A92-v2ray%2
 https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A93-v2ray(shadowsocks%26vmess).txt
 
 >https://github.com/szkjw
+
+## 软件
+
+### Telegram 客户端安装包下载
+
+Android 安卓安装包: https://telegram.org/dl/android/apk
+
+Windows 安装包: https://telegram.org/dl/desktop/win
+
+MacOS 安装包: https://telegram.org/dl/macos
+
+### GMS三件套
+
+正在施工...
+
+### Twitter
+
+
+
+### Facebook
+
+
+
+### Netflix
+
+
+
+### Spotify
