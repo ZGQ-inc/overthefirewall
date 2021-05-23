@@ -1,8 +1,8 @@
 # 节点订阅-v2ray/shadowsocks/clash
 
-### 梯子客户端
+## 梯子客户端
 
-##### 安卓
+### Android
 
 v2rayNG
 
@@ -24,7 +24,7 @@ https://github.com/Kr328/ClashForAndroid
 
 （其它待补）
 
-##### PC
+### PC
 
 v2rayN
 
@@ -42,7 +42,7 @@ https://github.com/BoyceLig/ClashR_for_Windows
 
 （其它待补）
 
-#### 未整理
+### 未整理
 
 https://zgq-inc.lanzoux.com/b00ob0zsj
 
@@ -56,9 +56,9 @@ shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 
-### 订阅平台（需注册）
+## 订阅平台（需注册）
 
-##### BuLink永久免费网络加速
+### BuLink永久免费网络加速
 
 https://bulink.xyz/
 
@@ -66,7 +66,7 @@ https://bulink.xyz/
 
 https://github.com/freefq/free
 
-##### 自由人士
+### 自由人士
 
 http://freeperson.xyz/auth/login
 
