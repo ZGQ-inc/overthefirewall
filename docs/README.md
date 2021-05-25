@@ -49,7 +49,8 @@ https://oneclick.earth/#/
 
 ### MacOS
 
-正在施工...
+V2rayU
+https://zgq-inc.lanzoux.com/iHUK9mz4b3a
 
 ### Linux
 
@@ -60,11 +61,13 @@ https://oneclick.earth/#/
 https://zgq-inc.lanzoux.com/b00ob0zsj
 
 密码:VPN
+
 shadowsocks / shadowsocks-windows
 https://github.com/shadowsocks/shadowsocks-windows
 
 Fndroid / clash_for_windows_pkg
 https://github.com/Fndroid/clash_for_windows_pkg
+
 shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
 
@@ -98,7 +101,7 @@ https://github.com/SteamTools-Team/SteamTools
 
 
 > ## 我的资源群
->
+> 
 >https://zgq-inc.github.io/transit-groups/
 
 
