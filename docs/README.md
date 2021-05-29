@@ -4,11 +4,11 @@
 
 ### Android
 
-v2rayNG
+v2rayNG（由于更新太频繁，采用Github直链）
 
-32位https://zgq-inc.lanzoui.com/ie3a4p9i14h
+32位https://github.com/2dust/v2rayNG/releases/download/1.6.11/v2rayNG_1.6.11_armeabi-v7a.apk
 
-64位https://zgq-inc.lanzoui.com/issIYp9i11e
+64位https://github.com/2dust/v2rayNG/releases/download/1.6.11/v2rayNG_1.6.11_arm64-v8a.apk
 
 2dust / v2rayNG
 https://github.com/2dust/v2rayNG
