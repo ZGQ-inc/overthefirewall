@@ -88,7 +88,7 @@ http://freeperson.xyz/auth/login
 
 项目地址：未开源
 
-### Steam加速器|Steam++
+## Steam加速器|Steam++
 
 下载地址及官网：
 
@@ -97,6 +97,13 @@ https://www.steampp.net/
 项目地址：
 
 https://github.com/SteamTools-Team/SteamTools
+
+## 全球IP共享（Android应用程序）
+
+应用介绍&下载
+http://a.ruansky.com/up/122377
+
+直链下载
 
 
 
