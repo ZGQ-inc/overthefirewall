@@ -105,6 +105,9 @@ http://a.ruansky.com/up/122377
 
 直链下载
 
+https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk
+
+
 
 
 > ## 我的资源群
