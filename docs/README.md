@@ -24,6 +24,10 @@ https://github.com/Kr328/ClashForAndroid
 
 （其它待补）
 
+强烈推荐ExpressVPN，破解版进群下载，请至下方“我的资源群”进入2.3群获取
+
+破解内容：生成伪造的邮箱，无限试用
+
 ### PC
 
 v2rayN
