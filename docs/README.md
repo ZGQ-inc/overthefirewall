@@ -28,11 +28,16 @@ https://github.com/Kr328/ClashForAndroid
 
 破解内容：生成伪造的邮箱，无限试用
 
+> ## 我的资源群
+> 
+>https://github.com/ZGQ-inc/transit-groups
+>
+
 ### PC
 
 v2rayN
 
-https://zgq-inc.lanzoui.com/iW7M9p9i0xa
+https://github.com/2dust/v2rayN/releases/download/4.18/v2rayN-Core.zip
 
 2dust / v2rayN
 https://github.com/2dust/v2rayN
@@ -114,9 +119,7 @@ https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.
 
 
 
-> ## 我的资源群
-> 
->https://zgq-inc.github.io/transit-groups/
+
 
 
 # *以下为赞助内容*
