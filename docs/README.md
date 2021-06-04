@@ -140,6 +140,14 @@ https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9
 
 https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9%E3%80%95V2ray%E8%8A%82%E7%82%B965%E4%B8%AA.txt
 
+### 赞助-SSR节点7个.txt
+
+https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A9-SSR%E8%8A%82%E7%82%B97%E4%B8%AA.txt
+
+### 赞助-V2ray节点36个.txt
+
+https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A9-V2ray%E8%8A%82%E7%82%B936%E4%B8%AA.txt
+
 > ## 起飞交流群
 >
 > Q群：https://jq.qq.com/?_wv=1027&k=IA9uFoQq
