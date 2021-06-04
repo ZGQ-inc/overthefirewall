@@ -155,6 +155,13 @@ https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A9-V2ray%E8
 > 群号：485668627
 >
 > Telegram群组：https://t.me/freessrvpn
+> 
+> 中国白嫖党
+>
+> https://t.me/CN_baipiaodang
+>
+> https://t.me/CN_baipiao
+>
 
 ### 赞助2-v2ray&clash节点.txt
 
