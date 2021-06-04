@@ -6,9 +6,7 @@
 
 v2rayNG（由于更新太频繁，采用Github直链）
 
-32位https://github.com/2dust/v2rayNG/releases/download/1.6.11/v2rayNG_1.6.11_armeabi-v7a.apk
-
-64位https://github.com/2dust/v2rayNG/releases/download/1.6.11/v2rayNG_1.6.11_arm64-v8a.apk
+https://github.com/2dust/v2rayNG/releases
 
 2dust / v2rayNG
 https://github.com/2dust/v2rayNG
@@ -24,9 +22,9 @@ https://github.com/Kr328/ClashForAndroid
 
 （其它待补）
 
-强烈推荐ExpressVPN，破解版进群下载，请至下方“我的资源群”进入2.3群获取
+强烈推荐ExpressVPN，基本可以稳定在5MB/s，破解版进群下载，请至下方“我的资源群”进入2.3群获取
 
-破解内容：生成伪造的邮箱，无限试用
+破解内容：生成伪造的邮箱，无限7天试用
 
 > ## 我的资源群
 > 
@@ -37,7 +35,7 @@ https://github.com/Kr328/ClashForAndroid
 
 v2rayN
 
-https://github.com/2dust/v2rayN/releases/download/4.18/v2rayN-Core.zip
+https://github.com/2dust/v2rayN/releases
 
 2dust / v2rayN
 https://github.com/2dust/v2rayN
