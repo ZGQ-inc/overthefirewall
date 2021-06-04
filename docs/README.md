@@ -1,4 +1,4 @@
-# 节点订阅-v2ray/shadowsocks/clash
+# 节点订阅
 
 ## 梯子客户端
 
