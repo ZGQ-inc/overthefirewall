@@ -125,6 +125,36 @@ https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.
 
 https://vpncn.github.io/
 
+# 软件
+
+### Telegram 客户端安装包下载
+
+Android 安装包: https://telegram.org/dl/android/apk
+
+Windows 安装包: https://telegram.org/dl/desktop/win
+
+MacOS 安装包: https://telegram.org/dl/macos
+
+### GMS三件套
+
+https://zgq-inc.lanzoui.com/b00nj0mlg
+
+### Twitter
+
+
+
+### Facebook
+
+
+
+### Netflix
+
+
+
+### Spotify
+
+
+
 
 
 
@@ -182,34 +212,3 @@ https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A92-v2ray%2
 https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A93-v2ray(shadowsocks%26vmess).txt
 
 > https://github.com/szkjw
-
-## 软件
-
-### Telegram 客户端安装包下载
-
-Android 安装包: https://telegram.org/dl/android/apk
-
-Windows 安装包: https://telegram.org/dl/desktop/win
-
-MacOS 安装包: https://telegram.org/dl/macos
-
-### GMS三件套
-
-https://zgq-inc.lanzoui.com/b00nj0mlg
-
-### Twitter
-
-
-
-### Facebook
-
-
-
-### Netflix
-
-
-
-### Spotify
-
-
-
