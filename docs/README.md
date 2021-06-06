@@ -22,7 +22,11 @@ https://github.com/Kr328/ClashForAndroid
 
 （其它待补）
 
-强烈推荐ExpressVPN，基本可以稳定在5MB/s，破解版进群下载，请至下方“我的资源群”进入2.3群获取
+### Express VPN
+
+强烈推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至下方“我的资源群”进入2.3群获取
+
+群文件搜索：express，下载19MB那个
 
 破解内容：生成伪造的邮箱，无限7天试用
 
