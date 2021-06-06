@@ -28,10 +28,10 @@ https://github.com/Kr328/ClashForAndroid
 
 破解内容：生成伪造的邮箱，无限7天试用
 
-> ## 我的资源群
-> 
->https://github.com/ZGQ-inc/transit-groups
->
+## 我的资源群
+
+https://github.com/ZGQ-inc/transit-groups
+
 
 （其它待补）
 
