@@ -127,7 +127,7 @@ https://vpncn.github.io/
 
 # 软件
 
-### Telegram 客户端安装包下载
+## Telegram 客户端安装包下载
 
 Android 安装包: https://telegram.org/dl/android/apk
 
