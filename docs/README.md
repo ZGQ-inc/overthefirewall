@@ -22,19 +22,6 @@ https://github.com/2dust/v2rayNG
 Kr328 / ClashForAndroid
 https://github.com/Kr328/ClashForAndroid
 
-### Express VPN
-
-强烈推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至下方“我的资源群”进入2.3群获取
-
-群文件搜索：express，下载19MB那个
-
-破解内容：生成伪造的邮箱，无限7天试用
-
-*我的资源群*
-
-https://github.com/ZGQ-inc/transit-groups
-
-
 （其它待补）
 
 ## PC
@@ -103,7 +90,19 @@ http://freeperson.xyz/auth/login
 
 项目地址：未开源
 
-## Steam加速器|Steam++
+# Express VPN（Android应用程序）
+
+强烈推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至下方“我的资源群”进入2.3群获取
+
+群文件搜索：express 下载19MB那个
+
+破解内容：生成伪造的邮箱，无限7天试用
+
+*我的资源群*
+
+https://github.com/ZGQ-inc/transit-groups
+
+# Steam加速器|Steam++
 
 下载地址及官网：
 
@@ -113,7 +112,7 @@ https://www.steampp.net/
 
 https://github.com/SteamTools-Team/SteamTools
 
-## 全球IP共享（Android应用程序）
+# 全球IP共享（Android应用程序）
 
 应用介绍&下载
 http://a.ruansky.com/up/122377
