@@ -20,8 +20,6 @@ Clash
 Kr328 / ClashForAndroid
 https://github.com/Kr328/ClashForAndroid
 
-（其它待补）
-
 ### Express VPN
 
 强烈推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至下方“我的资源群”进入2.3群获取
@@ -35,9 +33,11 @@ https://github.com/Kr328/ClashForAndroid
 >https://github.com/ZGQ-inc/transit-groups
 >
 
+（其它待补）
+
 ### PC
 
-v2rayN
+v2rayN（由于更新太频繁，采用Github直链）
 
 https://github.com/2dust/v2rayN/releases
 
