@@ -6,14 +6,14 @@ Beta 重大改版发布版
 
 - Android
 
- v2rayNG（由于更新太频繁，采用Github直链）
+v2rayNG（由于更新太频繁，采用Github直链）
 
 https://github.com/2dust/v2rayNG/releases
 
 2dust / v2rayNG
 https://github.com/2dust/v2rayNG
 
-～ Clash
+Clash
 
 32位https://zgq-inc.lanzoui.com/ixlmIp9i1xg
 
@@ -26,7 +26,7 @@ https://github.com/Kr328/ClashForAndroid
 
 - PC
 
-  - v2rayN（由于更新太频繁，采用Github直链）
+v2rayN（由于更新太频繁，采用Github直链）
 
 https://github.com/2dust/v2rayN/releases
 
@@ -35,7 +35,7 @@ https://github.com/2dust/v2rayN/releases
 2dust / v2rayN
 https://github.com/2dust/v2rayN
 
-  - ClashR
+ClashR
 
 https://zgq-inc.lanzoui.com/irWwzp9jm3i
 
@@ -52,6 +52,7 @@ https://oneclick.earth/#/
 - MacOS
 
   - V2rayU
+
 https://zgq-inc.lanzoux.com/iHUK9mz4b3a
 
 - Linux
