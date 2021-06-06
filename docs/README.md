@@ -41,6 +41,8 @@ v2rayN
 
 https://github.com/2dust/v2rayN/releases
 
+下载v2rayN-Core.zip
+
 2dust / v2rayN
 https://github.com/2dust/v2rayN
 
