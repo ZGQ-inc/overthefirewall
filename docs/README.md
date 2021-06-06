@@ -91,7 +91,9 @@ http://freeperson.xyz/auth/login
 
 项目地址：未开源
 
-# Express VPN（Android应用程序）
+# Express VPN
+
+- Android应用程序
 
 强烈推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至[我的资源群](https://github.com/ZGQ-inc/transit-groups)进入2.3群获取
 
@@ -109,7 +111,9 @@ https://www.steampp.net/
 
 https://github.com/SteamTools-Team/SteamTools
 
-# 全球IP共享（Android应用程序）
+# 全球IP共享
+
+-  Android应用程序
 
 应用介绍&下载
 http://a.ruansky.com/up/122377
