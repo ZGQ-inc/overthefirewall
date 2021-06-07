@@ -34,7 +34,7 @@ https://github.com/Kr328/ClashForAndroid
 
 ## PC
 
-## v2rayN
++ v2rayN
 
 `由于更新太频繁，采用Github直链`
 
