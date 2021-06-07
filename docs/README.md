@@ -2,6 +2,8 @@
 
 Beta 重大改版发布版
 
+别忘了点个`stars`
+
 # 梯子客户端
 
 - Android
