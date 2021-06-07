@@ -4,18 +4,24 @@ Beta 重大改版发布版
 
 别忘了点个`stars`
 
+***
+
 # 梯子客户端
 
-- Android
+---
 
-v2rayNG（由于更新太频繁，采用Github直链）
+## Android
+
++ v2rayNG
+
+`由于更新太频繁，采用Github直链`
 
 https://github.com/2dust/v2rayNG/releases
 
 2dust / v2rayNG
 https://github.com/2dust/v2rayNG
 
-Clash
++ Clash
 
 32位https://zgq-inc.lanzoui.com/ixlmIp9i1xg
 
@@ -26,9 +32,13 @@ https://github.com/Kr328/ClashForAndroid
 
 （其它待补）
 
-- PC
+***
 
-v2rayN（由于更新太频繁，采用Github直链）
+## PC
+
+`v2rayN`
+
+- 由于更新太频繁，采用Github直链
 
 https://github.com/2dust/v2rayN/releases
 
@@ -37,7 +47,7 @@ https://github.com/2dust/v2rayN/releases
 2dust / v2rayN
 https://github.com/2dust/v2rayN
 
-ClashR
++ ClashR
 
 https://zgq-inc.lanzoui.com/irWwzp9jm3i
 
@@ -46,22 +56,28 @@ https://github.com/BoyceLig/ClashR_for_Windows
 
 （其它待补）
 
-- iOS
+***
 
-  - OneClick - Unrestricted access to the Internet
+## iOS
+
++ OneClick - Unrestricted access to the Internet
 https://oneclick.earth/#/
 
-- MacOS
+***
 
-  - V2rayU
+## MacOS
+
++ V2rayU
 
 https://zgq-inc.lanzoux.com/iHUK9mz4b3a
 
-- Linux
+***
 
-正在施工...
+## Linux
 
-- 未整理&其它
+～～正在施工……～～
+
+## 未整理&其它
 
 https://zgq-inc.lanzoux.com/b00ob0zsj
 
@@ -76,6 +92,8 @@ https://github.com/Fndroid/clash_for_windows_pkg
 shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
 
+
+***
 
 # 订阅平台（需注册）
 
@@ -93,6 +111,8 @@ http://freeperson.xyz/auth/login
 
 项目地址：未开源
 
+***
+
 # Express VPN
 
 - Android应用程序
@@ -103,6 +123,8 @@ http://freeperson.xyz/auth/login
 
 破解内容：生成伪造的邮箱，无限7天试用
 
+***
+
 # Steam加速器|Steam++
 
 下载地址及官网：
@@ -112,6 +134,8 @@ https://www.steampp.net/
 项目地址：
 
 https://github.com/SteamTools-Team/SteamTools
+
+***
 
 # 全球IP共享
 
@@ -124,10 +148,13 @@ http://a.ruansky.com/up/122377
 
 https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk
 
+***
 
 # 2021中国翻墙软件VPN推荐指南
 
 https://vpncn.github.io/
+
+***
 
 # 软件
 
@@ -158,7 +185,7 @@ https://zgq-inc.lanzoui.com/b00nj0mlg
 - Spotify
 
 
-
+***
 
 # *以下为赞助内容*
 
