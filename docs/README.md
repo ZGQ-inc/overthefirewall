@@ -30,8 +30,6 @@ https://github.com/Kr328/ClashForAndroid
 
 （其它待补）
 
-***
-
 ## PC
 
 + v2rayN
@@ -54,14 +52,10 @@ https://github.com/BoyceLig/ClashR_for_Windows
 
 （其它待补）
 
-***
-
 ## iOS
 
 + OneClick - Unrestricted access to the Internet
 https://oneclick.earth/#/
-
-***
 
 ## MacOS
 
@@ -69,11 +63,9 @@ https://oneclick.earth/#/
 
 https://zgq-inc.lanzoux.com/iHUK9mz4b3a
 
-***
-
 ## Linux
 
-～～正在施工……～～
+～～正在施工～～
 
 ## 未整理&其它
 
@@ -89,7 +81,6 @@ https://github.com/Fndroid/clash_for_windows_pkg
 
 shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
-
 
 ***
 
@@ -113,7 +104,7 @@ http://freeperson.xyz/auth/login
 
 # Express VPN
 
-- Android应用程序
+`Android应用程序`
 
 强烈推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至[我的资源群](https://github.com/ZGQ-inc/transit-groups)进入2.3群获取
 
@@ -137,7 +128,7 @@ https://github.com/SteamTools-Team/SteamTools
 
 # 全球IP共享
 
--  Android应用程序
+`Android应用程序`
 
 应用介绍&下载
 http://a.ruansky.com/up/122377
@@ -164,11 +155,17 @@ Windows 安装包: https://telegram.org/dl/desktop/win
 
 MacOS 安装包: https://telegram.org/dl/macos
 
+Android直连版下载地址：
+
+
+
 - GMS三件套
 
 https://zgq-inc.lanzoui.com/b00nj0mlg
 
 - Twitter
+
+推特直连版下载地址：
 
 
 
@@ -177,6 +174,8 @@ https://zgq-inc.lanzoui.com/b00nj0mlg
 
 
 - Netflix
+
+第三方网飞下载地址：
 
 
 
