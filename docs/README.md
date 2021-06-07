@@ -8,8 +8,6 @@ Beta 重大改版发布版
 
 # 梯子客户端
 
----
-
 ## Android
 
 + v2rayNG
