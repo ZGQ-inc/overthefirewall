@@ -149,15 +149,21 @@ https://vpncn.github.io/
 
 - Telegram 客户端安装包下载
 
-Android 安装包: https://telegram.org/dl/android/apk
+Android 安装包:
 
-Windows 安装包: https://telegram.org/dl/desktop/win
+ https://telegram.org/dl/android/apk
 
-MacOS 安装包: https://telegram.org/dl/macos
+Windows 安装包:
 
-Android直连版下载地址：
+ https://telegram.org/dl/desktop/win
 
+MacOS 安装包:
 
+ https://telegram.org/dl/macos
+
+Android 直连版下载地址：
+
+http://a.ruansky.com/up/102463
 
 - GMS三件套
 
@@ -167,7 +173,7 @@ https://zgq-inc.lanzoui.com/b00nj0mlg
 
 推特直连版下载地址：
 
-
+http://a.ruansky.com/up/117084
 
 - Facebook
 
@@ -177,6 +183,9 @@ https://zgq-inc.lanzoui.com/b00nj0mlg
 
 第三方网飞下载地址：
 
+http://a.ruansky.com/up/87967
+
+http://a.ruansky.com/up/111615
 
 
 - Spotify
