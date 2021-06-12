@@ -96,11 +96,11 @@ https://github.com/freefq/free
 
 - 自由人士
 
+※通知：近期高墙，节点类型改为Trojan，V2ray最新版兼容Trojan，请使用支持Trojan的客户端！
+
 http://freeperson.xyz/auth/login
 
 项目地址：未开源
-
-※通知：近期高墙，节点类型改为Trojan，V2ray最新版兼容Trojan，请使用支持Trojan的客户端！
 
 ***
 
