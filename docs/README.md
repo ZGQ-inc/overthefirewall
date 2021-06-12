@@ -108,9 +108,13 @@ http://freeperson.xyz/auth/login
 
 强烈推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至[我的资源群](https://github.com/ZGQ-inc/transit-groups)进入2.3群获取
 
-群文件搜索：express 下载19MB那个
+群文件搜索：express 下载最新版
 
-破解内容：生成伪造的邮箱，无限7天试用
+ExpressVPNv10.4.0-betaAllinoneModML_A2ZAPK.COM.apk
+
+破解内容：无限7天试用
+
+使用方法，进入应用，点击试用，随便输入一个邮箱地址，然后一路确定。7天过后退出账号，重新输入邮箱地址
 
 ***
 
