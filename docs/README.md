@@ -155,7 +155,7 @@ https://vpncn.github.io/
 
 # 软件
 
-- Telegram 客户端安装包下载
+- Telegram
 
 Android 安装包:
 
