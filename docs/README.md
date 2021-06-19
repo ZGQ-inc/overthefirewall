@@ -175,6 +175,14 @@ http://a.ruansky.com/up/102463
 
 - GMS三件套
 
+GO谷歌安装器-一键安装谷歌套件
+
+下载地址：
+
+http://a.ruansky.com/up/129340
+
+官方渠道搬运（已停更）
+
 https://zgq-inc.lanzoui.com/b00nj0mlg
 
 - Twitter
