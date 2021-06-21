@@ -114,11 +114,11 @@ http://freeperson.xyz/auth/login
 
 群文件搜索：express 下载最新版
 
-ExpressVPNv10.4.0-betaAllinoneModML_A2ZAPK.COM.apk
+ExpressVPN_v10.4.0_UNI_Mod_By_ZackModz_x_RBMods_A2ZAPK.COM.apk(28.95MB)
 
 破解内容：无限7天试用
 
-使用方法：进入应用，点击试用，随便输入一个邮箱地址，然后一路确定。7天过后退出账号，重新输入邮箱地址
+使用方法：进入应用，点击上面的7天试用，会自动生成伪造的邮箱，然后一路确定。7天过后退出账号，重新按照流程来一遍
 
 ***
 
