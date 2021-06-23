@@ -90,6 +90,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 - BuLink永久免费网络加速
 
+`推荐使用网友分享节点，每月限流5GB，速率最高可到5MB/s`
+
 https://bulink.xyz/
 
 项目地址：
@@ -97,6 +99,8 @@ https://bulink.xyz/
 https://github.com/freefq/free
 
 - 自由人士
+
+`每日签到10GB，别忘了签到，速率最高30Mbps`
 
 ※通知：近期高墙，节点类型改为Trojan，V2ray最新版兼容Trojan，请使用支持Trojan的客户端！
 
