@@ -124,7 +124,9 @@ http://freeperson.xyz/auth/login
 
 群文件搜索：express 下载最新版
 
-ExpressVPN_v10.4.0_UNI_Mod_By_ZackModz_x_RBMods_A2ZAPK.COM.apk(28.95MB)
+> ExpressVPN_v10.4.0_UNI_Mod_By_ZackModz_x_RBMods_A2ZAPK.COM.apk
+
+> 28.95MB
 
 破解内容：无限7天试用
 
