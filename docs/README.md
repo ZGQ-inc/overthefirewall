@@ -90,7 +90,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 - BuLink永久免费网络加速
 
-`推荐使用网友分享节点
+`推荐使用网友分享节点`
 
 `每月限流5GB`
 
