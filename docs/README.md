@@ -124,9 +124,9 @@ http://freeperson.xyz/auth/login
 
 群文件搜索：express 下载最新版
 
-> ExpressVPN_v10.4.0_UNI_Mod_By_ZackModz_x_RBMods_A2ZAPK.COM.apk
+> ExpressVPN_1_Trusted_VPN_v10.5.0-beta_Mod_A2ZAPK.COM.apk
 
-> 28.95MB
+> 31.8MB
 
 破解内容：无限7天试用
 
@@ -211,7 +211,7 @@ http://a.ruansky.com/up/117084
 
 第三方网飞下载地址：
 
-http://a.ruansky.com/up/87967
+http://a.ruansky.com/up/133167
 
 http://a.ruansky.com/up/111615
 
