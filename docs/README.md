@@ -150,12 +150,9 @@ https://github.com/SteamTools-Team/SteamTools
 
 `Android应用程序`
 
-应用介绍&下载
-http://a.ruansky.com/up/122377
+[应用介绍&下载](http://a.ruansky.com/up/122377)
 
-直链下载
-
-https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk
+[直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
 
 ***
 
@@ -169,39 +166,29 @@ https://vpncn.github.io/
 
 - Telegram
 
-Android 安装包:
+[Android 安装包](https://telegram.org/dl/android/apk)
 
- https://telegram.org/dl/android/apk
+[Windows 安装包](https://telegram.org/dl/desktop/win)
 
-Windows 安装包:
+[MacOS 安装包](https://telegram.org/dl/macos)
 
- https://telegram.org/dl/desktop/win
-
-MacOS 安装包:
-
- https://telegram.org/dl/macos
-
-Android 直连版下载地址：
-
-http://a.ruansky.com/up/102463
+[Android 直连版](http://a.ruansky.com/up/102463)
 
 - GMS三件套
 
 GO谷歌安装器-一键安装谷歌套件
 
-下载地址：
-
-http://a.ruansky.com/up/129340
+[下载](http://a.ruansky.com/up/129340)
 
 官方渠道搬运（已停更）
 
-https://zgq-inc.lanzoui.com/b00nj0mlg
+[蓝奏云](https://zgq-inc.lanzoui.com/b00nj0mlg)
 
 - Twitter
 
-推特直连版下载地址：
+推特直连版
 
-http://a.ruansky.com/up/117084
+[下载](http://a.ruansky.com/up/117084)
 
 - Facebook
 
@@ -209,15 +196,13 @@ http://a.ruansky.com/up/117084
 
 - Netflix
 
-第三方网飞下载地址：
+第三方网飞
 
-http://a.ruansky.com/up/133167
+[下载1](http://a.ruansky.com/up/133167)
 
-http://a.ruansky.com/up/111615
-
+[下载2](http://a.ruansky.com/up/111615)
 
 - Spotify
-
 
 ***
 
