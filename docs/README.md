@@ -136,6 +136,8 @@ http://freeperson.xyz/auth/login
 
 # Steam加速器|Steam++
 
+`Windows软件`
+
 下载地址及官网：
 
 https://www.steampp.net/
