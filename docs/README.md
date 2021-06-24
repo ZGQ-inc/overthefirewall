@@ -120,7 +120,7 @@ http://freeperson.xyz/auth/login
 
 `Android应用程序`
 
-极力推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至[我的资源群](https://github.com/ZGQ-inc/transit-groups)进入2.3群的群文件获取
+极力推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入2.3群的群文件获取
 
 群文件搜索：express 下载最新版
 
