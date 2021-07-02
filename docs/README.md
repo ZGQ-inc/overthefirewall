@@ -16,19 +16,21 @@ Beta 重大改版发布版
 
 `由于更新太频繁，采用Github直链`
 
-https://github.com/2dust/v2rayNG/releases
+[release](https://github.com/2dust/v2rayNG/releases)
 
 2dust / v2rayNG
-https://github.com/2dust/v2rayNG
+
+[项目地址](https://github.com/2dust/v2rayNG)
 
 + Clash
 
-32位https://zgq-inc.lanzoui.com/ixlmIp9i1xg
+[32位（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
 
-64位https://zgq-inc.lanzoui.com/iFweEp9i1ud
+[64位（蓝奏云）](https://zgq-inc.lanzoui.com/iFweEp9i1ud)
 
 Kr328 / ClashForAndroid
-https://github.com/Kr328/ClashForAndroid
+
+[项目地址](https://github.com/Kr328/ClashForAndroid)
 
 （其它待补）
 
@@ -38,32 +40,35 @@ https://github.com/Kr328/ClashForAndroid
 
 `由于更新太频繁，采用Github直链`
 
-https://github.com/2dust/v2rayN/releases
+[release](https://github.com/2dust/v2rayN/releases)
 
 下载v2rayN-Core.zip
 
 2dust / v2rayN
-https://github.com/2dust/v2rayN
+
+[项目地址](https://github.com/2dust/v2rayN)
 
 + ClashR
 
-https://zgq-inc.lanzoui.com/irWwzp9jm3i
+[蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
 
 BoyceLig / ClashR_for_Windows
-https://github.com/BoyceLig/ClashR_for_Windows
+
+[项目地址](https://github.com/BoyceLig/ClashR_for_Windows)
 
 （其它待补）
 
 ## iOS
 
 + OneClick - Unrestricted access to the Internet
-https://oneclick.earth/#/
+
+[官网](https://oneclick.earth/#/)
 
 ## MacOS
 
 + V2rayU
 
-https://zgq-inc.lanzoux.com/iHUK9mz4b3a
+[蓝奏云](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
 
 ## Linux
 
@@ -71,7 +76,7 @@ https://zgq-inc.lanzoux.com/iHUK9mz4b3a
 
 ## 未整理&其它
 
-https://zgq-inc.lanzoux.com/b00ob0zsj
+[蓝奏云](https://zgq-inc.lanzoux.com/b00ob0zsj)
 
 密码:VPN
 
@@ -96,11 +101,9 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `速率最高可到5MB/s`
 
-https://bulink.xyz/
+[网址](https://bulink.xyz/)
 
-项目地址：
-
-https://github.com/freefq/free
+[项目地址](https://github.com/freefq/free)
 
 - 自由人士
 
@@ -110,7 +113,7 @@ https://github.com/freefq/free
 
 ※通知：近期高墙，节点类型改为Trojan，V2ray最新版兼容Trojan，请使用支持Trojan的客户端！
 
-http://freeperson.xyz/auth/login
+[网址](http://freeperson.xyz/auth/login)
 
 项目地址：未开源
 
@@ -138,13 +141,9 @@ http://freeperson.xyz/auth/login
 
 `Windows软件`
 
-下载地址及官网：
+[下载地址及官网](https://www.steampp.net/)
 
-https://www.steampp.net/
-
-项目地址：
-
-https://github.com/SteamTools-Team/SteamTools
+[项目地址](https://github.com/SteamTools-Team/SteamTools)
 
 ***
 
@@ -160,7 +159,7 @@ https://github.com/SteamTools-Team/SteamTools
 
 # 2021中国翻墙软件VPN推荐指南
 
-https://vpncn.github.io/
+[Github Pages](https://vpncn.github.io/)
 
 ***
 
@@ -178,9 +177,7 @@ https://vpncn.github.io/
 
 - GMS三件套
 
-GO谷歌安装器-一键安装谷歌套件
-
-[下载](http://a.ruansky.com/up/129340)
+[GO谷歌安装器-一键安装谷歌套件](http://a.ruansky.com/up/129340)
 
 官方渠道搬运（已停更）
 
@@ -188,9 +185,7 @@ GO谷歌安装器-一键安装谷歌套件
 
 - Twitter
 
-推特直连版
-
-[下载](http://a.ruansky.com/up/117084)
+[推特直连版](http://a.ruansky.com/up/117084)
 
 - Facebook
 
@@ -200,11 +195,15 @@ GO谷歌安装器-一键安装谷歌套件
 
 第三方网飞
 
-[下载1](http://a.ruansky.com/up/133167)
+[Netflix by APKMODY](http://a.ruansky.com/up/133167)
 
-[下载2](http://a.ruansky.com/up/111615)
+[VivaTV](http://a.ruansky.com/up/111615)
 
 - Spotify
+
+[完整版破解高级功能](http://a.ruansky.com/up/136841)
+
+[Lite版破解高级功能](http://a.ruansky.com/up/136843)
 
 ***
 
@@ -220,47 +219,35 @@ GO谷歌安装器-一键安装谷歌套件
 
 ②长订阅： https://pub-api-1.bianyuan.xyz/sub?target=clash&url=http%3A%2F%2F120.92.132.166%3A8888%2Fdown%2FecafFaSfovkG&insert=false
 
-- 〔赞助〕SSR节点19个.txt
+- [〔赞助〕SSR节点19个.txt](https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9%E3%80%95SSR%E8%8A%82%E7%82%B919%E4%B8%AA.txt)
 
-https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9%E3%80%95SSR%E8%8A%82%E7%82%B919%E4%B8%AA.txt
+- [〔赞助〕V2ray节点65个.txt](https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9%E3%80%95V2ray%E8%8A%82%E7%82%B965%E4%B8%AA.txt)
 
-- 〔赞助〕V2ray节点65个.txt
+- [赞助-SSR节点7个.txt](https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A9-SSR%E8%8A%82%E7%82%B97%E4%B8%AA.txt)
 
-https://github.com/ZGQ-inc/overthefirewall/blob/main/%E3%80%94%E8%B5%9E%E5%8A%A9%E3%80%95V2ray%E8%8A%82%E7%82%B965%E4%B8%AA.txt
-
-- 赞助-SSR节点7个.txt
-
-https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A9-SSR%E8%8A%82%E7%82%B97%E4%B8%AA.txt
-
-- 赞助-V2ray节点36个.txt
-
-https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A9-V2ray%E8%8A%82%E7%82%B936%E4%B8%AA.txt
+- [赞助-V2ray节点36个.txt](https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A9-V2ray%E8%8A%82%E7%82%B936%E4%B8%AA.txt)
 
 > - 起飞交流群
 >
-> Q群：https://jq.qq.com/?_wv=1027&k=IA9uFoQq
+> [Q群链接](http://t.cn/Rxg223t)
 >
 > 群号：485668627
 >
 >问题答案：@freessrvpn
 >
-> Telegram群组：https://t.me/freessrvpn
+> [Telegram群组](https://t.me/freessrvpn)
 > 
 > 中国白嫖党
 >
-> https://t.me/CN_baipiaodang
+> [群组](https://t.me/CN_baipiaodang)
 >
-> https://t.me/CN_baipiao
+> [频道](https://t.me/CN_baipiao)
 >
 
-- 赞助2-v2ray&clash节点.txt
-
-https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A92-v2ray%26clash%E8%8A%82%E7%82%B9.txt
+- [赞助2-v2ray&clash节点.txt](https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A92-v2ray%26clash%E8%8A%82%E7%82%B9.txt)
 
 > 资源群群员赞助
 
-- 赞助3-v2ray(shadowsocks&vmess).txt
+- [赞助3-v2ray(shadowsocks&vmess).txt](https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A93-v2ray(shadowsocks%26vmess).txt)
 
-https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A93-v2ray(shadowsocks%26vmess).txt
-
-> https://github.com/szkjw
+> [原项目地址](https://github.com/szkjw)
