@@ -34,7 +34,7 @@ Kr328 / ClashForAndroid
 
 （其它待补）
 
-## PC
+## Windows
 
 + v2rayN
 
