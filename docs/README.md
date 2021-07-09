@@ -58,7 +58,7 @@ BoyceLig / ClashR_for_Windows
 
 （其它待补）
 
-## iOS
+## iOS/iPadOS
 
 + OneClick - Unrestricted access to the Internet
 
