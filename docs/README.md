@@ -166,7 +166,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ***
 
-# Steam加速器Steam++
+# Steam加速器
 
 `Windows软件`
 
