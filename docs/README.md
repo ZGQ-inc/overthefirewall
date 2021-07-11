@@ -14,15 +14,15 @@ Beta 重大改版发布版
 > ### 1. [梯子客户端](#梯子客户端)
 >> #### 3.1 [Android](#Android)
 >> #### 3.2 [Windows](#Windows)
->> #### 3.3 [iOS/iPadOS](#iOS/iPadOS)
+>> #### 3.3 [iOS/iPadOS](#iOSiPadOS)
 >> #### 5.1 [MacOS](#MacOS)
 >> #### 6.1 [Linux](#Linux)
->> #### 5.1 [未整理&其它](#未整理&其它)
-> ### 9. [订阅平台（需注册）](#订阅平台（需注册）)
+>> #### 5.1 [未整理&其它](#未整理其它)
+> ### 9. [订阅平台（需注册）](#订阅平台需注册)
 >> #### 6.1 [BuLink永久免费网络加速](#BuLink永久免费网络加速)
 >> #### 6.1 [自由人士](#自由人士)
 > ### 10. [ExpressVPN](#ExpressVPN)
-> ### 11. [Steam加速器|Steam++](#Steam加速器|Steam++)
+> ### 11. [Steam加速器|Steam++](#Steam加速器)
 > ### 12. [全球IP共享](#全球IP共享)
 > ### 13. [2021中国翻墙软件VPN推荐指南](#2021中国翻墙软件VPN推荐指南)
 > ### 14. [软件](#软件)
@@ -32,7 +32,7 @@ Beta 重大改版发布版
 >> #### 6.1 [Facebook](#Facebook)
 >> #### 6.1 [Netflix](#Netflix)
 >> #### 6.1 [Spotify](#Spotify)
-> ### 14. [赞助内容](#*以下为赞助内容*)
+> ### 14. [赞助内容](#以下为赞助内容)
 
 ***
 ***
@@ -87,7 +87,7 @@ BoyceLig / ClashR_for_Windows
 
 （其它待补）
 
-## iOS/iPadOS
+## iOSiPadOS
 
 + OneClick - Unrestricted access to the Internet
 
@@ -103,7 +103,7 @@ BoyceLig / ClashR_for_Windows
 
 ～～正在施工～～
 
-## 未整理&其它
+## 未整理其它
 
 [蓝奏云](https://zgq-inc.lanzoux.com/b00ob0zsj)
 
@@ -120,7 +120,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ***
 
-# 订阅平台（需注册）
+# 订阅平台需注册
 
 - BuLink永久免费网络加速
 
@@ -166,7 +166,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ***
 
-# Steam加速器|Steam++
+# Steam加速器Steam++
 
 `Windows软件`
 
