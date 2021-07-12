@@ -33,6 +33,7 @@ Beta 重大改版发布版
 >> #### [Facebook](#Facebook)
 >> #### [Netflix](#Netflix)
 >> #### [Spotify](#Spotify)
+>> #### [Pixiv](#Pixiv)
 >
 > ### [赞助内容](#以下为赞助内容)
 
@@ -234,6 +235,12 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [完整版破解高级功能](http://a.ruansky.com/up/136841)
 
 [Lite版破解高级功能](http://a.ruansky.com/up/136843)
+
+- Pixiv
+
+[官方版破解会员](http://a.ruansky.com/up/116565)
+
+[直连版](http://a.ruansky.com/up/88394)
 
 ***
 
