@@ -18,6 +18,7 @@ Beta 重大改版发布版
 >> #### [Linux](#Linux)
 >> #### [未整理&其它](#未整理其它)
 >
+> ### [梯子客户端使用教程](#梯子客户端使用教程)
 > ### [订阅平台（需注册）](#订阅平台需注册)
 >> #### [BuLink永久免费网络加速](#BuLink永久免费网络加速)
 >> #### [自由人士](#自由人士)
@@ -120,6 +121,12 @@ https://github.com/Fndroid/clash_for_windows_pkg
 
 shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
+
+***
+
+# 梯子客户端使用教程
+
+[Gitbook](https://zgq-inc.gitbook.io/overthefirewall/)
 
 ***
 
