@@ -162,9 +162,9 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `Android应用程序`
 
-极力推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入2.3群的群文件获取
+极力推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入2.4群的群文件获取
 
-群文件搜索：express 下载最新版
+群文件搜索：express 下载以下版本
 
 > ExpressVPN_1_Trusted_VPN_v10.5.0-beta_Mod_A2ZAPK.COM.apk
 
