@@ -30,11 +30,13 @@ Beta 重大改版发布版
 > ### [软件](#软件)
 >> #### [Telegram](#Telegram)
 >> #### [GMS三件套](#GMS三件套)
+>> #### [YouTube](YouTube)
 >> #### [Twitter](#Twitter)
 >> #### [Facebook](#Facebook)
 >> #### [Netflix](#Netflix)
 >> #### [Spotify](#Spotify)
 >> #### [Pixiv](#Pixiv)
+>> #### [WhatsApp](WhatsApp)
 >
 > ### [赞助内容](#以下为赞助内容)
 
@@ -222,6 +224,10 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 [蓝奏云](https://zgq-inc.lanzoui.com/b00nj0mlg)
 
+- YouTube
+
+[Vanced Manager-第三方YouTube](http://a.ruansky.com/up/108761)
+
 - Twitter
 
 [推特直连版](http://a.ruansky.com/up/117084)
@@ -248,6 +254,10 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [官方版破解会员](http://a.ruansky.com/up/116565)
 
 [直连版](http://a.ruansky.com/up/88394)
+
+- WhatsApp
+
+[GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
 ***
 
