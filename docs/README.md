@@ -14,6 +14,7 @@ Beta 重大改版发布版
 - （有没有Markdown带佬fork一下项目帮我看看格式出了什么问题，留个Issues，谢谢了）
 
 > ## 目录
+> ### [梯子客户端使用教程](#梯子客户端使用教程)
 > ### [梯子客户端](#梯子客户端)
 >> #### [Android](#Android)
 >> #### [Windows](#Windows)
@@ -21,8 +22,6 @@ Beta 重大改版发布版
 >> #### [MacOS](#MacOS)
 >> #### [Linux](#Linux)
 >> #### [未整理&其它](#未整理其它)
->
-> ### [梯子客户端使用教程](#梯子客户端使用教程)
 > ### [订阅平台（需注册）](#订阅平台需注册)
 >> #### [BuLink永久免费网络加速](#BuLink永久免费网络加速)
 >> #### [自由人士](#自由人士)
@@ -45,6 +44,12 @@ Beta 重大改版发布版
 > ### [赞助内容](#以下为赞助内容)
 
 ***
+***
+
+# 梯子客户端使用教程
+
+[Gitbook](https://zgq-inc.gitbook.io/overthefirewall/)
+
 ***
 
 # 梯子客户端
@@ -130,12 +135,6 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ***
 
-# 梯子客户端使用教程
-
-[Gitbook](https://zgq-inc.gitbook.io/overthefirewall/)
-
-***
-
 # 订阅平台需注册
 
 - BuLink永久免费网络加速
@@ -172,9 +171,9 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 群文件搜索：express 下载以下版本
 
-> ExpressVPN_1_Trusted_VPN_v10.5.0-beta_Mod_A2ZAPK.COM.apk
+> ExpressVPNv10.6.1Mod_A2ZAPK.COM.apk
 
-> 31.8MB
+> 33.7M
 
 破解内容：无限7天试用
 
