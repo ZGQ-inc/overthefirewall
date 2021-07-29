@@ -184,6 +184,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 # EveryProxy
 
+[下载地址（Apkpure）](https://m.apkpure.com/cn/every-proxy/com.gorillasoftware.everyproxy/download)
+
 [使用教程](https://zgq-inc.gitbook.io/overthefirewall/every-proxy/every-proxy)
 
 ***
