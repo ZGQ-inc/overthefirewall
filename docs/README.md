@@ -6,54 +6,38 @@ Beta 重大改版发布版
 
 别忘了点个`Star`
 
-***
-***
 
 - 目录跳转有问题，不能跳转，本人无法解决，请手动翻阅，实在抱歉
 
 - （有没有Markdown带佬fork一下项目帮我看看格式出了什么问题，留个Issues，谢谢了）
-
-> ## 目录
-> ### [梯子客户端使用教程](#梯子客户端使用教程)
-> ### [梯子客户端](#梯子客户端)
->> #### [Android](#Android)
->> #### [Windows](#Windows)
->> #### [iOS/iPadOS](#iOSiPadOS)
->> #### [MacOS](#MacOS)
->> #### [Linux](#Linux)
->> #### [未整理&其它](#未整理其它)
-> ### [订阅平台（需注册）](#订阅平台需注册)
->> #### [BuLink永久免费网络加速](#BuLink永久免费网络加速)
->> #### [自由人士](#自由人士)
->
-> ### [ExpressVPN](#ExpressVPN)
-> ### [Steam加速器|Steam++](#Steam加速器)
-> ### [全球IP共享](#全球IP共享)
-> ### [2021中国翻墙软件VPN推荐指南](#2021中国翻墙软件VPN推荐指南)
-> ### [软件](#软件)
->> #### [Telegram](#Telegram)
->> #### [GMS三件套](#GMS三件套)
->> #### [YouTube](YouTube)
->> #### [Twitter](#Twitter)
->> #### [Facebook](#Facebook)
->> #### [Netflix](#Netflix)
->> #### [Spotify](#Spotify)
->> #### [Pixiv](#Pixiv)
->> #### [WhatsApp](WhatsApp)
->
-> ### [赞助内容](#以下为赞助内容)
-
 ***
+## 目录
++ [梯子客户端使用教程](#梯子客户端使用教程)  
++ [梯子客户端](#梯子客户端)  
+  - [Android](#Android)
+  - [Windows](#Windows)
+  - [MacOS](#MacOS)
+  - [Linux](#Linux)
+  - [未整理其它](#未整理其它)
+
++ [订阅平台（需注册）](#订阅平台需注册)  
++ [ExpressVPN](#ExpressVPN)  
++ [Steam加速器|Steam++](#Steam加速器)  
++ [全球IP共享](#全球IP共享)  
++ [2021中国翻墙软件VPN指南](#2021中国翻墙软件VPN指南)  
++ [常用被封锁软件](#软件)  
++ [赞助内容](#以下为赞助内容)  
 ***
 
+<span id="梯子客户端使用教程"></span>
 # 梯子客户端使用教程
 
 [Gitbook](https://zgq-inc.gitbook.io/overthefirewall/)
 
 ***
-
+<span id="梯子客户端"></span>
 # 梯子客户端
-
+<span id="Android"></span>
 ## Android
 
 + v2rayNG
@@ -77,7 +61,7 @@ Kr328 / ClashForAndroid
 [项目地址](https://github.com/Kr328/ClashForAndroid)
 
 （其它待补）
-
+<span id="Windows"></span>
 ## Windows
 
 + v2rayN
@@ -101,23 +85,24 @@ BoyceLig / ClashR_for_Windows
 [项目地址](https://github.com/BoyceLig/ClashR_for_Windows)
 
 （其它待补）
-
+<span id="iOSiPadOS"></span>
 ## iOSiPadOS
 
 + OneClick - Unrestricted access to the Internet
 
 [官网](https://oneclick.earth/#/)
-
+<span id="MacOS"></span>
 ## MacOS
 
 + V2rayU
 
 [蓝奏云](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
+<span id="Linux"></span>
 
 ## Linux
 
 ～～正在施工～～
-
+<span id="未整理其它"></span>
 ## 未整理其它
 
 [蓝奏云](https://zgq-inc.lanzoux.com/b00ob0zsj)
@@ -134,7 +119,7 @@ shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ***
-
+<span id="订阅平台需注册"></span>
 # 订阅平台需注册
 
 - BuLink永久免费网络加速
@@ -162,7 +147,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 项目地址：未开源
 
 ***
-
+<span id="ExpressVPN"></span>
 # ExpressVPN
 
 `Android应用程序`
@@ -180,7 +165,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 使用方法：进入应用，点击上面的7天试用，随便输入一个邮箱地址或使用自动生成伪造的邮箱地址（依破解版版本而定），然后一路确定。7天过后退出账号，重新按照流程来一遍
 
 ***
-
+<span id="Steam加速器"></span>
 # Steam加速器
 
 `Windows软件`
@@ -190,7 +175,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [项目地址](https://github.com/SteamTools-Team/SteamTools)
 
 ***
-
+<span id="全球IP共享"></span>
 # 全球IP共享
 
 `Android应用程序`
@@ -200,14 +185,14 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
 
 ***
-
+<span id="2021中国翻墙软件VPN指南"></span>
 # 2021中国翻墙软件VPN推荐指南
 
 [Github Pages](https://vpncn.github.io/)
 
 ***
-
-# 软件
+<span id="软件"></span>
+# 常用被封锁软件
 
 - Telegram
 
@@ -263,7 +248,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
 ***
-
+<span id="以下为赞助内容"></span>
 # *以下为赞助内容*
 
 - V2ray+winXray订阅（通用） 
