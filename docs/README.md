@@ -25,14 +25,14 @@ Beta 重大改版发布版
 > ### [订阅平台（需注册）](#订阅平台需注册)
 >> #### [BuLink永久免费网络加速](#BuLink永久免费网络加速)
 >> #### [自由人士](#自由人士)
->
 > ### [ExpressVPN](#ExpressVPN)
+> ### [共享手机VPN给其它设备](EveryProxy)
 > ### [Steam加速器|Steam++](#Steam加速器)
 > ### [全球IP共享](#全球IP共享)
 > ### [2021中国翻墙软件VPN推荐指南](#2021中国翻墙软件VPN推荐指南)
 > ### [软件](#软件)
 >> #### [Telegram](#Telegram)
->> #### [GMS三件套](#GMS三件套)
+>> #### [Google](#Google)
 >> #### [YouTube](YouTube)
 >> #### [Twitter](#Twitter)
 >> #### [Facebook](#Facebook)
@@ -40,7 +40,6 @@ Beta 重大改版发布版
 >> #### [Spotify](#Spotify)
 >> #### [Pixiv](#Pixiv)
 >> #### [WhatsApp](WhatsApp)
->
 > ### [赞助内容](#以下为赞助内容)
 
 ***
@@ -179,6 +178,14 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 使用方法：进入应用，点击上面的7天试用，随便输入一个邮箱地址或使用自动生成伪造的邮箱地址（依破解版版本而定），然后一路确定。7天过后退出账号，重新按照流程来一遍
 
+[图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
+
+***
+
+# EveryProxy
+
+[使用教程](https://zgq-inc.gitbook.io/overthefirewall/every-proxy/every-proxy)
+
 ***
 
 # Steam加速器
@@ -211,17 +218,19 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 - Telegram
 
-[Android 安装包](https://telegram.org/dl/android/apk)
+[Android](https://telegram.org/dl/android/apk)
 
-[Windows 安装包](https://telegram.org/dl/desktop/win)
+[Windows](https://telegram.org/dl/desktop/win)
 
-[MacOS 安装包](https://telegram.org/dl/macos)
+[MacOS](https://telegram.org/dl/macos)
 
-[Android 直连版](http://a.ruansky.com/up/102463)
+[Android直连版](http://a.ruansky.com/up/102463)
 
-- GMS三件套
+- Google
 
-[GO谷歌安装器-一键安装谷歌套件](http://a.ruansky.com/up/129340)
+[GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
+
+[谷歌商店应用下载](https://apkpure.com/cn)
 
 官方渠道搬运（已停更）
 
@@ -233,10 +242,13 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 - Twitter
 
+[官方版（Apkpure）](https://m.apkpure.com/cn/twitter/com.twitter.android/download)
+
 [推特直连版](http://a.ruansky.com/up/117084)
 
 - Facebook
 
+[官方版（Apkpure）](https://m.apkpure.com/cn/facebook/com.facebook.katana/download)
 
 - Netflix
 
@@ -252,9 +264,11 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 [Lite版破解高级功能](http://a.ruansky.com/up/136843)
 
+[xManager-Spotify破解版下载](http://a.ruansky.com/up/165744)
+
 - Pixiv
 
-[官方版破解会员](http://a.ruansky.com/up/116565)
+[官方版破解会员](http://a.ruansky.com/up/168092)
 
 [直连版](http://a.ruansky.com/up/88394)
 
