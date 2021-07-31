@@ -166,7 +166,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `Android应用程序`
 
-极力推荐Express VPN，基本可以稳定在2MB/s，最高可到7MB/s，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入2.4群的群文件获取
+极力推荐Express VPN，基本可以稳定在6MB/s，最高可到7MB/s，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入2.4群的群文件获取
 
 群文件搜索：express 下载以下版本
 
@@ -179,6 +179,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 使用方法：进入应用，点击上面的7天试用，随便输入一个邮箱地址或使用自动生成伪造的邮箱地址（依破解版版本而定），然后一路确定。7天过后退出账号，重新按照流程来一遍
 
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
+
+[最新测速结果](https://1drv.ms/x/s!ArOBwePPv1uJ0FVXv10pviJAp1tH)
 
 ***
 
