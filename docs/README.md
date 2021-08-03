@@ -101,6 +101,12 @@ BoyceLig / ClashR_for_Windows
 
 （其它待补）
 
++ SocksCap64
+
+`支持HTTP/SOCKS 4/SOCKS 5协议`
+
+[SocksCap64-setup-4.7下载地址](https://zgq-inc.lanzoui.com/iLkIRs6mcoh)
+
 ## iOSiPadOS
 
 + OneClick - Unrestricted access to the Internet
@@ -205,6 +211,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 # 全球IP共享
 
 `Android应用程序`
+
+`提供HTTP/SOCKS 4/SOCKS 5协议的节点`
 
 [应用介绍&下载](http://a.ruansky.com/up/122377)
 
