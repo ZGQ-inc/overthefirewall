@@ -192,9 +192,19 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 # EveryProxy
 
+`支持HTTP/HTTPS/SOCKS4/SOCKS5协议`
+
+在Android设备上运行代理服务器
+
+[谷歌商店](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)
+
+[官网](http://www.everyproxy.co.uk)
+
 [下载地址（Apkpure）](https://m.apkpure.com/cn/every-proxy/com.gorillasoftware.everyproxy/download)
 
 [使用教程](https://zgq-inc.gitbook.io/overthefirewall/every-proxy/every-proxy)
+
+[官方论坛](https://groups.google.com/forum/#!forum/every-proxy)
 
 ***
 
