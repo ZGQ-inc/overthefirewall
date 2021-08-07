@@ -192,6 +192,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 # EveryProxy
 
+共享手机VPN给其它设备
+
 `支持HTTP/HTTPS/SOCKS4/SOCKS5协议`
 
 在Android设备上运行代理服务器
@@ -212,7 +214,13 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `Windows软件`
 
+解决Steam/Epic/Origin等平台网络错误问题，另外支持Pixiv、Google等平台的加速服务
+
 [下载地址及官网](https://www.steampp.net/)
+
+[官方下载地址](https://cliencer.lanzoux.com/b0165duja)
+
+密码：1234
 
 [项目地址](https://github.com/SteamTools-Team/SteamTools)
 
