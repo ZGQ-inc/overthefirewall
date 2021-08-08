@@ -55,6 +55,8 @@ Beta 重大改版发布版
 
 ## Android
 
+***安卓推荐使用ExpressVPN***
+
 + v2rayNG
 
 `由于更新太频繁，采用Github直链`
@@ -156,11 +158,13 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 - 自由人士
 
+*最近平台出现些许状况，可能无法使用*
+
 `每日签到10GB`
 
 `速率最高30Mbps`
 
-※通知：近期高墙，节点类型改为Trojan，V2ray最新版兼容Trojan，请使用支持Trojan的客户端！
+**※通知**：近期高墙，节点类型改为Trojan，V2ray最新版兼容Trojan，请使用支持Trojan的客户端！
 
 [网址](http://freeperson.xyz/auth/login)
 
@@ -176,9 +180,9 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 群文件搜索：express 下载以下版本
 
-> ExpressVPNv10.6.1Mod_A2ZAPK.COM.apk
+`ExpressVPNv10.6.1Mod_A2ZAPK.COM.apk`
 
-> 33.7M
+`33.7M`
 
 破解内容：无限7天试用
 
@@ -187,6 +191,20 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
 
 [最新测速结果](https://1drv.ms/x/s!ArOBwePPv1uJ0FVXv10pviJAp1tH)
+
+**※注意**：请随便输入邮箱地址，格式可以是
+
+> [乱输]@[乱输].com
+
+示例：
+
+> wordhenda@nirenyixia.com
+
+之前别人或是自己使用过的邮箱地址无法使用，有可能弹出试用过期的购买界面，如果按照流程做了还是弹出，那么应该是运气问题，多试几次即可
+
+`为什么要特地说明要随便输入邮箱地址？`
+
+因为总有人把自己的邮箱填上去，导致此邮箱试用期被浪费，万一哪天破解版不可用，连自己邮箱的试用也没了，那会很难堪
 
 ***
 
