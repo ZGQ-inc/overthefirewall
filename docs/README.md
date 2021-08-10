@@ -57,6 +57,8 @@ Beta 重大改版发布版
 
 ***安卓推荐使用ExpressVPN***
 
+***※注意：不在此栏目，请翻阅至对应栏目获取***
+
 + v2rayNG
 
 `由于更新太频繁，采用Github直链`
@@ -176,7 +178,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `Android应用程序`
 
-极力推荐Express VPN，基本可以稳定在6MB/s，最高可到14MB/s，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入2.4群的群文件获取
+极力推荐Express VPN，基本可以稳定在6MB/s，历史测速最高33MB/s*，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入2.4群的群文件获取
 
 群文件搜索：express 下载以下版本
 
@@ -192,7 +194,9 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 [最新测速结果](https://1drv.ms/x/s!ArOBwePPv1uJ0FVXv10pviJAp1tH)
 
-**※注意**：请随便输入邮箱地址，格式可以是
+`历史测速最高33MB/s` ：结果来自群员测速
+
+**※注意**：再次强调请随便输入邮箱地址，格式可以是
 
 > [乱输]@[乱输].com
 
@@ -200,7 +204,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 > wordhenda@nirenyixia.com
 
-之前别人或是自己使用过的邮箱地址无法使用，有可能弹出试用过期的购买界面，如果按照流程做了还是弹出，那么应该是运气问题，多试几次即可
+之前别人或是自己使用过的邮箱地址无法使用，有可能弹出试用过期的购买界面，如果按照流程做了还是弹出，那么应该是运气问题，多试几次即可，原因是破解版虽然免除了IP检测，但是会记录邮箱地址至服务器，因此不能使用重复的邮箱地址
 
 `为什么特地说明随便输入邮箱地址？`
 
