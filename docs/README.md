@@ -178,7 +178,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `Android应用程序`
 
-极力推荐Express VPN，基本可以稳定在6MB/s，历史测速最高33MB/s`*`，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入2.4群的群文件获取
+极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入**2.4群**的群文件获取
 
 群文件搜索：express 下载以下版本
 
@@ -188,7 +188,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 破解内容：无限7天试用
 
-使用方法：进入应用，点击上面的7天试用，随便输入一个邮箱地址或使用自动生成伪造的邮箱地址（依破解版版本而定），然后一路确定。7天过后退出账号，重新按照流程来一遍
+使用方法：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，连接即可。7天过后**退出账号**，重新按照流程操作一遍。
 
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
 
@@ -196,7 +196,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `历史测速最高33MB/s` ：结果来自群员测速
 
-**※注意**：再次强调请随便输入邮箱地址，格式可以是
+**※注意**：再次强调请**随便输入邮箱地址**，格式可以是
 
 > [乱输]@[乱输].com
 
@@ -204,11 +204,11 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 > wordhenda@nirenyixia.com
 
-之前别人或是自己使用过的邮箱地址无法使用，有可能弹出试用过期的购买界面，如果按照流程做了还是弹出，那么应该是运气问题，多试几次即可，原因是破解版虽然免除了IP检测，但是会记录邮箱地址至服务器，因此不能使用重复的邮箱地址
+之前别人或是自己使用过的邮箱地址无法使用，有可能弹出试用过期的购买界面，如果按照流程做了还是弹出，那么应该是运气问题，多试几次即可。原因是破解版虽然免除了IP检测，但是会记录邮箱地址至服务器，因此不能使用重复的邮箱地址。
 
 `为什么特地说明随便输入邮箱地址？`
 
-因为总有人把自己的邮箱填上去，导致此邮箱试用期被浪费，万一哪天破解版不可用，连自己邮箱的试用也没了，那会很难堪
+因为总有人把自己的邮箱填上去，导致此邮箱试用期被浪费，万一哪天破解版不可用，连自己邮箱的试用也没了，那会很难堪。
 
 ***
 
