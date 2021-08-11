@@ -196,7 +196,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `如何判断试用期过期？`
 
-当通知栏提示
+当**通知栏**或**应用内部弹窗**提示
 
 > `Trial Expiring Soon`
 > 
