@@ -194,6 +194,16 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 使用方法：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，连接即可。7天过后**退出账号**，重新按照流程操作一遍。
 
+`如何判断试用期过期？`
+
+当通知栏提示
+
+> `Trial Expiring Soon`
+> 
+> Your ExpressVPN trial will expire in 24 hours.
+
+说明7天试用到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照流程操作**。
+
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
 
 [最新测速结果](https://1drv.ms/x/s!ArOBwePPv1uJ0FVXv10pviJAp1tH)
