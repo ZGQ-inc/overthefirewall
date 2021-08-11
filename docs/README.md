@@ -202,7 +202,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 > 
 > Your ExpressVPN trial will expire in 24 hours.
 
-说明7天试用到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照流程操作**。
+说明24小时后即到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照流程操作**。
 
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
 
