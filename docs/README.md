@@ -6,12 +6,13 @@
 
 别忘了点个`Star`
 
-<span style="color: #C1C1C1">目录跳转已修复</a></span>
+<span style="color: #C1C1C1">目录跳转已修复</span>
 
 ***
 ***
 
 > # 目录
+
  [梯子客户端使用教程](#梯子客户端使用教程)
  
  [梯子客户端](#梯子客户端)
@@ -37,9 +38,9 @@
 
 [ExpressVPN](#ExpressVPN)
 
-[共享手机VPN给其它设备|EveryProxy](#EveryProxy)
+[共享手机VPN给其它设备EveryProxy](#EveryProxy)
 
-[Steam加速器|Steam++](#Steam++)
+[Steam加速器Steam++](#Steam++)
 
 [全球IP共享](#全球IP共享)
 
@@ -59,8 +60,10 @@
 [赞助内容](#赞助内容)
 
 [鸣谢](#鸣谢)
+
 ***
 ***
+
 <span id="梯子客户端使用教程"></span>
 # 梯子客户端使用教程
 
@@ -312,7 +315,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 [Github Pages](https://vpncn.github.io/)
 
-  <span style="color: #FF0004">黑名单列表</a><br />
+  <span style="color: #FF0004">黑名单列表<br />
 + 老王VPN
 + 佛跳墙VPN
 + 蓝灯VPN
