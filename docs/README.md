@@ -26,9 +26,10 @@
 >> #### [MacOS](#MacOS)
 >> #### [Linux](#Linux)
 >> #### [未整理&其它](#未整理其它)
-> ### [订阅平台（需注册）](#订阅平台需注册)
+> ### [订阅平台](#订阅平台)
 >> #### [BuLink永久免费网络加速](#BuLink永久免费网络加速)
 >> #### [自由人士](#自由人士)
+>> #### [iKuuu](#iKuuu)
 > ### [ExpressVPN](#ExpressVPN)
 > ### [共享手机VPN给其它设备](EveryProxy)
 > ### [Steam加速器|Steam++](#Steam加速器)
@@ -148,7 +149,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ***
 
-# 订阅平台需注册
+# 订阅平台
 
 - BuLink永久免费网络加速
 
@@ -172,9 +173,25 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 **※通知**：近期高墙，节点类型改为Trojan，V2ray最新版兼容Trojan，请使用支持Trojan的客户端！
 
-[网址](http://freeperson.xyz/auth/login)
+[注册地址](http://freeperson.xyz/auth/register)
 
 项目地址：未开源
+
+- 注册 — iKuuu VPN
+
+`每日签到1GB`
+
+`速率最高50Mbps`
+
+[注册地址](https://ikuuu.co/auth/register)
+
+节点池-所有国家 代理服务器 - SOCKS5
+
+[网址](http://free-proxy.cz/zh/proxylist/country/all/socks5/ping/all)
+
+Shadowsocks免费上网账号
+
+[网址](https://free-ss.site/)
 
 ***
 
