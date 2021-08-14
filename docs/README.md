@@ -189,11 +189,11 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 [注册地址](https://ikuuu.co/auth/register)
 
-节点池-所有国家 代理服务器 - SOCKS5
+- 节点池-所有国家 代理服务器 - SOCKS5
 
 [网址](http://free-proxy.cz/zh/proxylist/country/all/socks5/ping/all)
 
-Shadowsocks免费上网账号
+- Shadowsocks免费上网账号
 
 [网址](https://free-ss.site/)
 
