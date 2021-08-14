@@ -2,70 +2,70 @@
 
 ## Beta 重大改版发布版
 
-这个暑假计划加入客户端使用教程，如何添加订阅和节点，已完成进度60%
+这个暑假计划加入客户端使用教程，如何添加订阅和节点，已完成进度70%
 
 别忘了点个`Star`
 
+<span style="color: #C1C1C1">目录跳转已修复</a></span>
+
 ***
 ***
-
-# **目录跳转有问题，不能正常跳转，本人无法解决，请手动翻阅，实在抱歉**
-
-- （有没有Markdown带佬fork一下项目帮我看看格式出了什么问题，留个Issues，谢谢了）
-
-`为什么文字这么大？`
-
-因为总有某些星际玩家看不见，然后点了目录，接着就是404
 
 > ## 目录
 > ### [梯子客户端使用教程](#梯子客户端使用教程)
 > ### [梯子客户端](#梯子客户端)
->> #### [Android](#Android)
->> #### [Windows](#Windows)
->> #### [iOS/iPadOS](#iOSiPadOS)
->> #### [MacOS](#MacOS)
->> #### [Linux](#Linux)
->> #### [未整理&其它](#未整理其它)
++ [Android](#Android)
+  - [v2rayNG](#v2rayNG)
+  - [Clash](#Clash)
++ [Windows](#Windows)
+  - [v2rayN](#v2rayN)
+  - [ClashR](#ClashR)
+  - [SocksCap64](#SocksCap64)
++ [iOS/iPadOS](#iOS/iPadOS)
+  - [OneClick](#OneClick)
++ [MacOS](#MacOS)
+  - [v2rayU](v2rayU)
++ [Linux](#Linux)
++ [未整理&其它](#未整理&其它)
 > ### [订阅平台](#订阅平台)
->> #### [BuLink永久免费网络加速](#BuLink永久免费网络加速)
->> #### [自由人士](#自由人士)
->> #### [iKuuu](#iKuuu)
->> #### [节点池-SOCKS5](节点池-SOCKS5)
->> #### [Shadowsocks免费上网账号](Shadowsocks免费上网账号)
++ [BuLink永久免费网络加速](#BuLink)
++ [自由人士](#自由人士)
++ [iKuuu](#iKuuu)
++ [节点池-SOCKS5](#proxypool)
++ [Shadowsocks免费上网账号](#freess)
 > ### [ExpressVPN](#ExpressVPN)
-> ### [共享手机VPN给其它设备](EveryProxy)
-> ### [Steam加速器|Steam++](#Steam加速器)
+> ### [共享手机VPN给其它设备|EveryProxy](#EveryProxy)
+> ### [Steam加速器|Steam++](#Steam++)
 > ### [全球IP共享](#全球IP共享)
-> ### [2021中国翻墙软件VPN推荐指南](#2021中国翻墙软件VPN推荐指南)
+> ### [2021翻墙VPN推荐指南&黑名单](#2021中国翻墙软件VPN推荐指南)
 > ### [软件](#软件)
->> #### [Telegram](#Telegram)
->> #### [Google](#Google)
->> #### [YouTube](YouTube)
->> #### [Twitter](#Twitter)
->> #### [Facebook](#Facebook)
->> #### [Netflix](#Netflix)
->> #### [Spotify](#Spotify)
->> #### [Pixiv](#Pixiv)
->> #### [WhatsApp](WhatsApp)
-> ### [赞助内容](#以下为赞助内容)
-
++  [Telegram](#Telegram)
++  [Google](#Google)
++  [YouTube](#YouTube)
++  [Twitter](#Twitter)
++  [Facebook](#Facebook)
++  [Netflix](#Netflix)
++  [Spotify](#Spotify)
++  [Pixiv](#Pixiv)
++  [WhatsApp](#WhatsApp)
+> ### [赞助内容](#赞助内容)
+> ### [鸣谢](#鸣谢)
 ***
 ***
-
+<span id="梯子客户端使用教程"></span>
 # 梯子客户端使用教程
 
 [Gitbook](https://zgq-inc.gitbook.io/overthefirewall/)
 
 ***
-
+<span id="梯子客户端"></span>
 # 梯子客户端
-
+<span id="Android"></span>
 ## Android
 
-**安卓推荐使用ExpressVPN**
+**安卓推荐使用[ExpressVPN](#ExpressVPN)**
 
-***※注意：不在此栏目，请翻阅至对应栏目获取***
-
+<span id="v2rayNG"></span>
 + v2rayNG
 
 `由于更新太频繁，采用Github直链`
@@ -75,7 +75,7 @@
 2dust / v2rayNG
 
 [项目地址](https://github.com/2dust/v2rayNG)
-
+<span id="Clash"></span>
 + Clash
 
 [32位（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
@@ -87,9 +87,9 @@ Kr328 / ClashForAndroid
 [项目地址](https://github.com/Kr328/ClashForAndroid)
 
 （其它待补）
-
+<span id="Windows"></span>
 ## Windows
-
+<span id="v2rayN"></span>
 + v2rayN
 
 `由于更新太频繁，采用Github直链`
@@ -101,7 +101,7 @@ Kr328 / ClashForAndroid
 2dust / v2rayN
 
 [项目地址](https://github.com/2dust/v2rayN)
-
+<span id="ClashR"></span>
 + ClashR
 
 [蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
@@ -111,30 +111,30 @@ BoyceLig / ClashR_for_Windows
 [项目地址](https://github.com/BoyceLig/ClashR_for_Windows)
 
 （其它待补）
-
+<span id="SocksCap64"></span>
 + SocksCap64
 
 `支持HTTP/SOCKS 4/SOCKS 5协议`
 
 [SocksCap64-setup-4.7下载地址](https://zgq-inc.lanzoui.com/iLkIRs6mcoh)
-
-## iOSiPadOS
-
+<span id="iOS/iPadOS"></span>
+## iOS/iPadOS
+<span id="OneClick"></span>
 + OneClick - Unrestricted access to the Internet
 
 [官网](https://oneclick.earth/#/)
-
+<span id="MacOS"></span>
 ## MacOS
-
-+ V2rayU
+<span id="v2rayU"></span>
++ v2rayU
 
 [蓝奏云](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
-
+<span id="Linux"></span>
 ## Linux
 
 ～～正在施工～～
-
-## 未整理其它
+<span id="未整理/其它"></span>
+## 未整理/其它
 
 [蓝奏云](https://zgq-inc.lanzoux.com/b00ob0zsj)
 
@@ -150,9 +150,9 @@ shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ***
-
+<span id="订阅平台"></span>
 # 订阅平台
-
+<span id="BuLink"></span>
 - BuLink永久免费网络加速
 
 `推荐使用网友分享节点`
@@ -164,7 +164,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [网址](https://bulink.xyz/)
 
 [项目地址](https://github.com/freefq/free)
-
+<span id="自由人士"></span>
 - 自由人士
 
 *最近平台出现些许状况，可能无法使用*
@@ -180,7 +180,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [注册地址](http://freeperson.xyz/auth/register)
 
 项目地址：未开源
-
+<span id="iKuuu"></span>
 - 注册 — iKuuu VPN
 
 `每日签到1GB`
@@ -190,22 +190,22 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 `速率最高50Mbps`
 
 [注册地址](https://ikuuu.co/auth/register)
-
+<span id="proxypool"></span>
 - 节点池-所有国家 代理服务器 - SOCKS5
 
 [网址](http://free-proxy.cz/zh/proxylist/country/all/socks5/ping/all)
-
+<span id="freess"></span>
 - Shadowsocks免费上网账号
 
 [网址](https://free-ss.site/)
 
 ***
-
+<span id="ExpressVPN"></span>
 # ExpressVPN
 
 `Android应用程序`
 
-极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请至[我的资源群](https://zgq-inc.github.io/transit-groups/)进入**2.4群**的群文件获取
+极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请点击蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.4群**</span>的群文件获取
 
 群文件搜索：express 下载以下版本
 
@@ -215,7 +215,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 破解内容：无限7天试用
 
-使用方法：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，连接即可。7天过后**退出账号**，重新按照流程操作一遍。
+使用方法：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，连接即可。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
 
 `如何判断试用期过期？`
 
@@ -233,7 +233,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `历史测速最高33MB/s` ：结果来自群员测速
 
-**※注意**：再次强调请**随便输入邮箱地址**，格式可以是
+**※注意**：再次强调请<span style="color: #FF0004">**随便输入一个邮箱地址**</span>，格式可以是
 
 > [乱输]@[乱输].com
 
@@ -248,7 +248,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 因为总有人把自己的邮箱填上去，导致此邮箱试用期被浪费，万一哪天破解版不可用，连自己邮箱的试用也没了，那会很难堪。
 
 ***
-
+<span id="EveryProxy"></span>
 # EveryProxy
 
 共享手机VPN给其它设备
@@ -268,8 +268,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [官方论坛](https://groups.google.com/forum/#!forum/every-proxy)
 
 ***
-
-# Steam加速器
+<span id="Steam++"></span>
+# Steam++
 
 `Windows软件`
 
@@ -284,27 +284,35 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [项目地址](https://github.com/SteamTools-Team/SteamTools)
 
 ***
-
+<span id="全球IP共享"></span>
 # 全球IP共享
 
 `Android应用程序`
 
 `提供HTTP/SOCKS 4/SOCKS 5协议的节点`
 
+节点池，与[节点池-SOCKS5](#proxypool)类似
+
 [应用介绍&下载](http://a.ruansky.com/up/122377)
 
 [直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
 
 ***
-
+<span id="2021中国翻墙软件VPN推荐指南"></span>
 # 2021中国翻墙软件VPN推荐指南
 
 [Github Pages](https://vpncn.github.io/)
 
+  <span style="color: #FF0004">黑名单列表</a><br />
++ 老王VPN
++ 佛跳墙VPN
++ 蓝灯VPN
++ VyprVPN
+
 ***
-
+<span id="软件"></span>
 # 软件
-
+<span id="Telegram"></span>
 - Telegram
 
 [Android](https://telegram.org/dl/android/apk)
@@ -314,7 +322,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [MacOS](https://telegram.org/dl/macos)
 
 [Android直连版](http://a.ruansky.com/up/102463)
-
+<span id="Google"></span>
 - Google
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
@@ -324,29 +332,29 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 官方渠道搬运（已停更）
 
 [蓝奏云](https://zgq-inc.lanzoui.com/b00nj0mlg)
-
+<span id="YouTube"></span>
 - YouTube
 
 [Vanced Manager-第三方YouTube](http://a.ruansky.com/up/108761)
-
+<span id="Twitter"></span>
 - Twitter
 
 [官方版（Apkpure）](https://m.apkpure.com/cn/twitter/com.twitter.android/download)
 
 [推特直连版](http://a.ruansky.com/up/117084)
-
+<span id="Facebook"></span>
 - Facebook
 
 [官方版（Apkpure）](https://m.apkpure.com/cn/facebook/com.facebook.katana/download)
-
+<span id="Netflix"></span>
 - Netflix
 
 第三方网飞
 
-[Netflix by APKMODY](http://a.ruansky.com/up/133167)
+[Netflix by APKMODY](http://a.ruansky.com/up/188158)
 
 [VivaTV](http://a.ruansky.com/up/111615)
-
+<span id="Spotify"></span>
 - Spotify
 
 [完整版破解高级功能](http://a.ruansky.com/up/136841)
@@ -354,19 +362,19 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [Lite版破解高级功能](http://a.ruansky.com/up/136843)
 
 [xManager-Spotify破解版下载](http://a.ruansky.com/up/165744)
-
+<span id="Pixiv"></span>
 - Pixiv
 
 [官方版破解会员](http://a.ruansky.com/up/168092)
 
 [直连版](http://a.ruansky.com/up/88394)
-
+<span id="WhatsApp"></span>
 - WhatsApp
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
 ***
-
+<span id="赞助内容"></span>
 # *以下为赞助内容*
 
 - V2ray+winXray订阅（通用） 
@@ -411,3 +419,14 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 - [赞助3-v2ray(shadowsocks&vmess).txt](https://github.com/ZGQ-inc/overthefirewall/blob/main/%E8%B5%9E%E5%8A%A93-v2ray(shadowsocks%26vmess).txt)
 
 > [原项目地址](https://github.com/szkjw)
+
+<span id="鸣谢"></span>
+# 鸣谢
+
+[GitHub用户Ibroad](https://github.com/Ibroad)：修复目录跳转问题
+
+[A2ZAPK安卓破解网](https://a2zapk.com/)：提供ExpressVPN破解版
+
+[软天空平台](http://imtt.dd.qq.com/16891/apk/053D5936E7F1A25D91B538B3313F67F1.apk?fsname=%E8%BD%AF%E5%A4%A9%E7%A9%BA.apk)：提供部分下载地址
+
+以及本项目中所有引用链接和内容
