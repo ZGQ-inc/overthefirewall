@@ -242,7 +242,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
 
-[最新测速结果](https://1drv.ms/x/s!ArOBwePPv1uJ0FVXv10pviJAp1tH)
+[最新测速结果](https://zgqinc-my.sharepoint.com/:x:/g/personal/zgq_zgqinc_onmicrosoft_com/ERlGmtlYvYFEgF2IcRR9eKkBMo5JnsujACdIO0u6Lj1N_g?e=kmK5tb)
 
 `历史测速最高33MB/s` ：结果来自群员测速
 
