@@ -169,6 +169,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `每日签到10GB`
 
+`新用户赠送30GB`
+
 `速率最高30Mbps`
 
 **※通知**：近期高墙，节点类型改为Trojan，V2ray最新版兼容Trojan，请使用支持Trojan的客户端！
@@ -180,6 +182,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 - 注册 — iKuuu VPN
 
 `每日签到1GB`
+
+`新用户赠送50GB`
 
 `速率最高50Mbps`
 
