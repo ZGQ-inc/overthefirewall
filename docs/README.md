@@ -76,7 +76,9 @@
 <span id="Android"></span>
 ## Android
 
-**安卓推荐使用[ExpressVPN](#ExpressVPN)**
+<span style="color: #ff0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</span>
+
+<span style="color: #ff0000">★★★★★五星推荐</span>
 
 <span id="v2rayNG"></span>
 + v2rayNG
