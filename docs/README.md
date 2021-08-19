@@ -224,15 +224,15 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 群文件搜索：express 下载以下版本
 
-`ExpressVPNv10.6.1Mod_A2ZAPK.COM.apk`
+**`ExpressVPNv10.6.1Mod_A2ZAPK.COM.apk`**
 
 `33.7M`
 
-破解内容：无限7天试用
+**破解内容**：<span style="color: #ff0000">无限七天试用</span>
 
-使用方法：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，连接即可。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
+**使用方法**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，连接即可。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
 
-`如何判断试用期过期？`
+**`如何判断试用期过期？`**
 
 当**通知栏**或**应用内部弹窗**提示
 
@@ -256,9 +256,9 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 > wordhenda@nirenyixia.com
 
-之前别人或是自己使用过的邮箱地址无法使用，有可能弹出试用过期的购买界面，如果按照流程做了还是弹出，那么应该是运气问题，多试几次即可。原因是破解版虽然免除了IP检测，但是会记录邮箱地址至服务器，因此不能使用重复的邮箱地址。
+之前别人或是自己使用过的邮箱地址**无法使用**，有可能弹出试用过期的购买界面，如果按照流程做了还是弹出，那么应该是运气问题，多试几次即可。原因是破解版虽然**免除了IP检测**，但是会**记录邮箱地址至服务器**，因此不能使用重复的邮箱地址。
 
-`为什么特地说明随便输入邮箱地址？`
+**`为什么特地说明随便输入邮箱地址？`**
 
 因为总有人把自己的邮箱填上去，导致此邮箱试用期被浪费，万一哪天破解版不可用，连自己邮箱的试用也没了，那会很难堪。
 
