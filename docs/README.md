@@ -1,6 +1,8 @@
-# 节点订阅 `β`
+节点订阅 `β`
+=
 
-## Beta 重大改版发布版
+Beta 重大改版发布版
+-
 
 这个暑假计划加入客户端使用教程，如何添加订阅和节点，已完成进度70%
 
@@ -84,6 +86,8 @@
 
 <span style="color: #ff0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</span>
 
+**点击蓝体字获取**
+
 <span style="color: #ff0000">★★★★★五星推荐</span>
 
 <span id="v2rayNG"></span>
@@ -153,7 +157,8 @@ BoyceLig / ClashR_for_Windows
 <span id="Linux"></span>
 ## Linux
 
-～～正在施工～～
+~~正在施工~~
+
 <span id="others"></span>
 ## 未整理/其它
 
