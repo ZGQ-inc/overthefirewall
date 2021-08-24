@@ -19,9 +19,9 @@
 
 > # 目录
 
- [梯子客户端使用教程](#梯子客户端使用教程)
+ [梯子客户端使用教程](#tutorials)
  
- [梯子客户端](#梯子客户端)
+ [梯子客户端](#VPN)
 + [Android](#Android)
   - [v2rayNG](#v2rayNG)
   - [Clash](#Clash)
@@ -34,11 +34,11 @@
 + [MacOS](#MacOS)
   - [v2rayU](v2rayU)
 + [Linux](#Linux)
-+ [未整理&其它](#未整理&其它)
++ [未整理&其它](#others)
 
-[订阅平台](#订阅平台)
+[订阅平台](#sub)
 + [BuLink永久免费网络加速](#BuLink)
-+ [自由人士](#自由人士)
++ [自由人士](#freeperson)
 + [iKuuu](#iKuuu)
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks免费上网账号](#freess)
@@ -49,11 +49,11 @@
 
 [Steam加速器Steam++](#Steam++)
 
-[全球IP共享](#全球IP共享)
+[全球IP共享](#blockanet)
 
-[2021翻墙VPN推荐指南&黑名单](#2021中国翻墙软件VPN推荐指南)
+[2021翻墙VPN推荐指南&黑名单](#guide)
 
-[软件](#软件)
+[软件](#software)
 +  [Telegram](#Telegram)
 +  [Google](#Google)
 +  [YouTube](#YouTube)
@@ -64,20 +64,20 @@
 +  [Pixiv](#Pixiv)
 +  [WhatsApp](#WhatsApp)
 
-[赞助内容](#赞助内容)
+[赞助内容](#sponsor)
 
-[鸣谢](#鸣谢)
+[鸣谢](#thanks)
 
 ***
 ***
 
-<span id="梯子客户端使用教程"></span>
+<span id="tutorials"></span>
 # 梯子客户端使用教程
 
 [Gitbook](https://zgq-inc.gitbook.io/overthefirewall/)
 
 ***
-<span id="梯子客户端"></span>
+<span id="VPN"></span>
 # 梯子客户端
 <span id="Android"></span>
 ## Android
@@ -154,7 +154,7 @@ BoyceLig / ClashR_for_Windows
 ## Linux
 
 ～～正在施工～～
-<span id="未整理/其它"></span>
+<span id="others"></span>
 ## 未整理/其它
 
 [蓝奏云](https://zgq-inc.lanzoux.com/b00ob0zsj)
@@ -171,7 +171,7 @@ shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ***
-<span id="订阅平台"></span>
+<span id="sub"></span>
 # 订阅平台
 <span id="BuLink"></span>
 - BuLink永久免费网络加速
@@ -185,7 +185,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [网址](https://bulink.xyz/)
 
 [项目地址](https://github.com/freefq/free)
-<span id="自由人士"></span>
+<span id="freeperson"></span>
 - 自由人士
 
 *最近平台出现些许状况，可能无法使用*
@@ -305,7 +305,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [项目地址](https://github.com/SteamTools-Team/SteamTools)
 
 ***
-<span id="全球IP共享"></span>
+<span id="blockanet"></span>
 # 全球IP共享
 
 `Android应用程序`
@@ -319,7 +319,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
 
 ***
-<span id="2021中国翻墙软件VPN推荐指南"></span>
+<span id="guide"></span>
 # 2021中国翻墙软件VPN推荐指南
 
 [Github Pages](https://vpncn.github.io/)
@@ -375,7 +375,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 其他国产的私人或者小型VPN避免使用，这些大部分都是名字叫VPN，只有翻墙的功能，并无安全性可言。其中不少涉嫌钓鱼，用户使用的时候被ISP发现并上报的，已经有记录的就有**极光加速器、QuickQ、佛跳墙加速器、老王VPN、IP精灵、旋风加速器、坚果加速器、蚂蚁加速器、快连VPN、神风加速器**等。
 
 ***
-<span id="软件"></span>
+<span id="software"></span>
 # 软件
 <span id="Telegram"></span>
 - Telegram
@@ -439,7 +439,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
 ***
-<span id="赞助内容"></span>
+<span id="sponsor"></span>
 # *以下为赞助内容*
 
 - V2ray+winXray订阅（通用） 
@@ -470,7 +470,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 >
 > [Telegram群组](https://t.me/freessrvpn)
 > 
-> 中国白嫖党
+> - 中国白嫖党
 >
 > [群组](https://t.me/CN_baipiaodang)
 >
@@ -485,7 +485,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 > [原项目地址](https://github.com/szkjw)
 
-<span id="鸣谢"></span>
+<span id="thanks"></span>
 # 鸣谢
 
 [GitHub用户Ibroad](https://github.com/Ibroad)：修复目录跳转问题
