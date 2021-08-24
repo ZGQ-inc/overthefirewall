@@ -226,7 +226,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `Android应用程序`
 
-极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.4群**</span>的群文件获取
+极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.5群**</span>的群文件获取
 
 群文件搜索：express 下载以下版本
 
@@ -386,7 +386,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [MacOS](https://telegram.org/dl/macos)
 
-[Android直连版](http://a.ruansky.com/up/102463)
+[Android直连版](http://a.ruansky.com/up/199832)
 <span id="Google"></span>
 - Google
 
