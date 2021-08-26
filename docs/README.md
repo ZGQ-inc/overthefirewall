@@ -84,7 +84,7 @@ Beta 重大改版发布版
 <span id="Android"></span>
 ## Android
 
-![Android](../image/Android-logo.png)
+![img](../image/Android-logo.png)
 
 <span style="color: #ff0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</span>
 
@@ -95,6 +95,8 @@ Beta 重大改版发布版
 <span id="v2rayNG"></span>
 + v2rayNG
 
+> ![img](../image/v2ray.png)
+
 `由于更新太频繁，采用Github直链`
 
 [release](https://github.com/2dust/v2rayNG/releases)
@@ -104,6 +106,8 @@ Beta 重大改版发布版
 [项目地址](https://github.com/2dust/v2rayNG)
 <span id="Clash"></span>
 + Clash
+
+> ![img](../image/clash.png)
 
 [32位（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
 
@@ -116,8 +120,13 @@ Kr328 / ClashForAndroid
 （其它待补）
 <span id="Windows"></span>
 ## Windows
+
+> ![img](../image/Win10-logo.png)
+
 <span id="v2rayN"></span>
 + v2rayN
+
+> ![img](../image/v2ray.png)
 
 `由于更新太频繁，采用Github直链`
 
@@ -130,6 +139,8 @@ Kr328 / ClashForAndroid
 [项目地址](https://github.com/2dust/v2rayN)
 <span id="ClashR"></span>
 + ClashR
+
+> ![img](../image/clash.png)
 
 [蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
 
@@ -146,18 +157,30 @@ BoyceLig / ClashR_for_Windows
 [SocksCap64-setup-4.7下载地址](https://zgq-inc.lanzoui.com/iLkIRs6mcoh)
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS
+
+> ![img](../image/iOS-iPadOS-logo.png)
+
 <span id="OneClick"></span>
 + OneClick - Unrestricted access to the Internet
+
+> ![img](../image/oneclick-logo.png)
 
 [官网](https://oneclick.earth/#/)
 <span id="MacOS"></span>
 ## MacOS
+
+> ![img](../image/MacOS-logo.png)
+
 <span id="v2rayU"></span>
 + v2rayU
+
+> ![img](../image/)
 
 [蓝奏云](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
 <span id="Linux"></span>
 ## Linux
+
+> ![img](../image/Linux-logo.png)
 
 ~~正在施工~~
 
@@ -233,7 +256,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `Android应用程序`
 
-> [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
+> ![img](../image/)
 
 极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.5群**</span>的群文件获取
 
@@ -476,6 +499,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Telegram"></span>
 - Telegram
 
+> ![img](../image/telegram.png)
+
 [Android](https://telegram.org/dl/android/apk)
 
 [Windows](https://telegram.org/dl/desktop/win)
@@ -485,6 +510,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Android直连版](http://a.ruansky.com/up/199832)
 <span id="Google"></span>
 - Google
+
+> ![img](../image/google-play-logo.png)
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
@@ -496,9 +523,13 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="YouTube"></span>
 - YouTube
 
+> ![img](../image/YouTube-logo.png)
+
 [Vanced Manager-第三方YouTube](http://a.ruansky.com/up/108761)
 <span id="Twitter"></span>
 - Twitter
+
+> ![img](../image/twitter.png)
 
 [官方版（Apkpure）](https://m.apkpure.com/cn/twitter/com.twitter.android/download)
 
@@ -506,9 +537,13 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Facebook"></span>
 - Facebook
 
+> ![img](../image/Facebook-white.png)
+
 [官方版（Apkpure）](https://m.apkpure.com/cn/facebook/com.facebook.katana/download)
 <span id="Netflix"></span>
 - Netflix
+
+> ![img](../image/Netflix-logo.png)
 
 第三方网飞
 
@@ -518,6 +553,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Spotify"></span>
 - Spotify
 
+> ![img](../image/Spotify_logo.png)
+
 [完整版破解高级功能](http://a.ruansky.com/up/136841)
 
 [Lite版破解高级功能](http://a.ruansky.com/up/136843)
@@ -526,11 +563,15 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Pixiv"></span>
 - Pixiv
 
+> ![img](../image/Pixiv-logo.png)
+
 [官方版破解会员](http://a.ruansky.com/up/168092)
 
 [直连版](http://a.ruansky.com/up/88394)
 <span id="WhatsApp"></span>
 - WhatsApp
+
+> ![img](../image/WhatsApp-logo.png)
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
