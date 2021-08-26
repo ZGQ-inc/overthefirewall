@@ -497,7 +497,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Telegram"></span>
 - Telegram
 
-> ![img](../image/telegram.png)
+> ![img](../image/Telegram-logo.jpg)
 
 [Android](https://telegram.org/dl/android/apk)
 
