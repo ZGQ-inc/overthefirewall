@@ -84,7 +84,7 @@ Beta 重大改版发布版
 <span id="Android"></span>
 ## Android
 
-![img](../image/Android-logo.png)
+> ![img](../image/Android-logo.png)
 
 <span style="color: #ff0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</span>
 
@@ -173,8 +173,6 @@ BoyceLig / ClashR_for_Windows
 
 <span id="v2rayU"></span>
 + v2rayU
-
-> ![img](../image/)
 
 [蓝奏云](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
 <span id="Linux"></span>
@@ -511,7 +509,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Google"></span>
 - Google
 
-> ![img](../image/google-play-logo.png)
+> ![img](../image/google-play-logo.jpg)
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
@@ -553,7 +551,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Spotify"></span>
 - Spotify
 
-> ![img](../image/Spotify_logo.png)
+> ![img](../image/Spotify_logo.jpg)
 
 [完整版破解高级功能](http://a.ruansky.com/up/136841)
 
@@ -571,7 +569,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="WhatsApp"></span>
 - WhatsApp
 
-> ![img](../image/WhatsApp-logo.png)
+> ![img](../image/WhatsApp-logo.jpg)
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
