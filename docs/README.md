@@ -84,6 +84,8 @@ Beta 重大改版发布版
 <span id="Android"></span>
 ## Android
 
+![Android](./image/Android-logo.png)
+
 <span style="color: #ff0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</span>
 
 **点击蓝体字获取**
@@ -231,6 +233,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `Android应用程序`
 
+> [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
+
 极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.5群**</span>的群文件获取
 
 群文件搜索：express 下载以下版本
@@ -280,8 +284,6 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 <a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
 >2021年2月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，很多VPN软件并不好用，iPhone用户首选这款。
-
-[![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，**适合对网络速度要求高和较好使用体验的朋友**。
 
