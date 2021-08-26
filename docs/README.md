@@ -551,7 +551,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Spotify"></span>
 - Spotify
 
-> ![img](../image/Spotify_logo.jpg)
+> ![img](../image/Spotify-logo.png)
 
 [完整版破解高级功能](http://a.ruansky.com/up/136841)
 
