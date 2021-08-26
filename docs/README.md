@@ -84,7 +84,7 @@ Beta 重大改版发布版
 <span id="Android"></span>
 ## Android
 
-![Android](./image/Android-logo.png)
+![Android](../image/Android-logo.png)
 
 <span style="color: #ff0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</span>
 
