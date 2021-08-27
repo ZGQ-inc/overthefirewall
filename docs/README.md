@@ -451,7 +451,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 一部分情况属于第 3 种，通过修改电脑和手机hosts文件多数可以解决这个问题。但是像Google等网站和手机上的一些APP是直接IP都被墙了，这种办法就行不通了，只能翻墙访问
 
-**<details><summary>什么是hosts文件？</summary>**
+<details><summary>什么是hosts文件？</summary>
 
 hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过编辑它能把域名定向到正确的ip，可以解锁在国内受到DNS污染的网站服务。
 
@@ -459,7 +459,7 @@ hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过
 
 </details>
 
-**<details><summary>解决方法</summary>**
+<details><summary>解决方法</summary>
 
 1. **修改hosts文件**
 
