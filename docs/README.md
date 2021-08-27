@@ -86,7 +86,7 @@ Beta 重大改版发布版
 <span id="Android"></span>
 ## Android
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Android-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Android-logo.png)
 
 <span style="color: #ff0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</span>
 
@@ -97,7 +97,7 @@ Beta 重大改版发布版
 <span id="v2rayNG"></span>
 + v2rayNG
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png)
 
 `由于更新太频繁，采用Github直链`
 
@@ -109,7 +109,7 @@ Beta 重大改版发布版
 <span id="Clash"></span>
 + Clash
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png)
 
 [32位（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
 
@@ -123,12 +123,12 @@ Kr328 / ClashForAndroid
 <span id="Windows"></span>
 ## Windows
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Win10-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Win10-logo.png)
 
 <span id="v2rayN"></span>
 + v2rayN
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png)
 
 `由于更新太频繁，采用Github直链`
 
@@ -142,7 +142,7 @@ Kr328 / ClashForAndroid
 <span id="ClashR"></span>
 + ClashR
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png)
 
 [蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
 
@@ -160,18 +160,18 @@ BoyceLig / ClashR_for_Windows
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/iOS-iPadOS-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/iOS-iPadOS-logo.png)
 
 <span id="OneClick"></span>
 + OneClick - Unrestricted access to the Internet
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/oneclick-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/oneclick-logo.png)
 
 [官网](https://oneclick.earth/#/)
 <span id="MacOS"></span>
 ## MacOS
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/MacOS-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/MacOS-logo.png)
 
 <span id="v2rayU"></span>
 + v2rayU
@@ -180,7 +180,7 @@ BoyceLig / ClashR_for_Windows
 <span id="Linux"></span>
 ## Linux
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Linux-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Linux-logo.png)
 
 ~~正在施工~~
 
@@ -256,7 +256,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `Android应用程序`
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/express-logo-2021.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/express-logo-2021.png)
 
 极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.5群**</span>的群文件获取
 
@@ -344,7 +344,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers-min" alt="" /></span>](https://www.fastvpncn.com/expressvpn)
+[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers-min" alt=" " /></span>](https://www.fastvpncn.com/expressvpn)
 
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右。
 
@@ -569,7 +569,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Telegram"></span>
 - Telegram
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Telegram-logo.jpg" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Telegram-logo.jpg)
 
 [Android](https://telegram.org/dl/android/apk)
 
@@ -581,7 +581,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Google"></span>
 - Google
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/google-play-logo.jpg" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/google-play-logo.jpg)
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
@@ -593,13 +593,13 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="YouTube"></span>
 - YouTube
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/YouTube-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/YouTube-logo.png)
 
 [Vanced Manager-第三方YouTube](http://a.ruansky.com/up/108761)
 <span id="Twitter"></span>
 - Twitter
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/twitter.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/twitter.png)
 
 [官方版（Apkpure）](https://m.apkpure.com/cn/twitter/com.twitter.android/download)
 
@@ -607,13 +607,13 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Facebook"></span>
 - Facebook
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Facebook-white.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Facebook-white.png)
 
 [官方版（Apkpure）](https://m.apkpure.com/cn/facebook/com.facebook.katana/download)
 <span id="Netflix"></span>
 - Netflix
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Netflix-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Netflix-logo.png)
 
 第三方网飞
 
@@ -623,7 +623,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Spotify"></span>
 - Spotify
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Spotify-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Spotify-logo.png)
 
 [完整版破解高级功能](http://a.ruansky.com/up/136841)
 
@@ -633,7 +633,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Pixiv"></span>
 - Pixiv
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Pixiv-logo.png" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Pixiv-logo.png)
 
 [官方版破解会员](http://a.ruansky.com/up/168092)
 
@@ -641,7 +641,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="WhatsApp"></span>
 - WhatsApp
 
-<span class="image main"><img src="https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/WhatsApp-logo.jpg" alt="" /></span>
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/WhatsApp-logo.jpg)>
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
