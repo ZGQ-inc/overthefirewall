@@ -53,6 +53,8 @@ Beta 重大改版发布版
 
 [全球IP共享](#blockanet)
 
+[解决DNS污染问题](#DNS)
+
 [2021翻墙VPN推荐指南&黑名单](#guide)
 
 [软件](#software)
@@ -434,6 +436,76 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 [应用介绍&下载](http://a.ruansky.com/up/122377)
 
 [直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
+
+***
+<span id="DNS"></span>
+# 解决DNS污染问题
+
+有时你会发现，某些网站在国内地区无法访问，一般有三种可能：
+
+1. 网站关闭了
+
+2. 被墙了
+
+3. **DNS污染**
+
+一部分情况属于第 3 种，通过修改电脑和手机hosts文件多数可以解决这个问题。但是像Google等网站和手机上的一些APP是直接IP都被墙了，这种办法就行不通了，只能翻墙访问
+
+**<details><summary>什么是hosts文件？</summary>**
+
+hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过编辑它能把域名定向到正确的ip，可以解锁在国内受到DNS污染的网站服务。
+
+修改电脑和手机Hosts文件，可以绕过网络运营商的DNS，为域名指定正确的 IP 地址，达到访问被屏蔽网站的目的。
+
+</details>
+
+**<details><summary>解决方法</summary>**
+
+1. **修改hosts文件**
+
+首先通过网站IP查询工具或网站查询某一网站的所有域名的真实IP
+
+[IP查询IPAddress](https://www.ipaddress.com/)
+
+hosts是一个系统文件，在各个系统的位置如下
+
+- Windows：`C:\windows\system32\drivers\etc`
+
+> 需要管理员权限
+
+- Android、iOS、MacOS、Linux：`/etc/hosts`
+
+> Android需要root，也可以免root使用
+> 
+> iOS需要越狱
+> 
+> MacOS、Linux可以直接修改
+
+在最后面添加查询到的IP地址
+
+然后保存，注意Windows不能直接保存，因为记事本没有写入system32文件夹的权限，点击另存为，然后把另存为的文件去除后缀.txt，然后替换原有的hosts文件，
+
+2. **更改系统DNS**
+
+- Android
+
+[DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/155031)
+
+- Windows
+
+打开`网络和共享中心`，点击`更改适配器设置`
+
+进入`网络连接`页面，`本地连接`右键，点击`属性`
+
+进去`本地连接属性`界面，点击`Internet协议版本4(TCP/IPv4)`
+
+进去之后，把`自动获得DNS服务器地址`改成`使用下面的DNS服务器地址`
+
+MacOS、Linux同理
+
+[DNS Test-发现优质DNS服务器](http://a.ruansky.com/up/191985)
+
+</details>
 
 ***
 <span id="guide"></span>
