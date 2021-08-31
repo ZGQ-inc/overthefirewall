@@ -262,7 +262,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 群文件搜索：express 下载以下版本
 
-**`ExpressVPNv10.6.1Mod_A2ZAPK.COM.apk`**
+**`ExpressVPN_v10.9.0_MOD_apkmody.io.apk.rename`**
 
 `33.7M`
 
