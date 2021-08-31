@@ -672,10 +672,16 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="thanks"></span>
 # 鸣谢
 
-[GitHub用户Ibroad](https://github.com/Ibroad)：修复目录跳转问题
+[GitHub用户Ibroad](https://github.com/Ibroad)
 
-[A2ZAPK安卓破解网](https://a2zapk.com/)：提供ExpressVPN破解版
+> 修复目录跳转问题
 
-[软天空平台](http://imtt.dd.qq.com/16891/apk/053D5936E7F1A25D91B538B3313F67F1.apk?fsname=%E8%BD%AF%E5%A4%A9%E7%A9%BA.apk)：提供部分下载地址
+[A2ZAPK安卓破解网](https://a2zapk.com/) [APKMODY安卓破解网](https://apkmody.io/)
+
+> 提供ExpressVPN破解版
+
+[软天空平台](http://imtt.dd.qq.com/16891/apk/053D5936E7F1A25D91B538B3313F67F1.apk?fsname=%E8%BD%AF%E5%A4%A9%E7%A9%BA.apk)
+
+> 提供部分下载地址
 
 以及本项目中所有引用链接和内容
