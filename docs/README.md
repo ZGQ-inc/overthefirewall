@@ -51,7 +51,7 @@ Beta 重大改版发布版
 
 [Steam加速器Steam++](#Steam++)
 
-[全球IP共享](#blockanet)
+[全球IP共享Blockanet](#blockanet)
 
 [解决DNS污染问题](#DNS)
 
