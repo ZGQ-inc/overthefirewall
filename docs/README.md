@@ -425,7 +425,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ***
 <span id="blockanet"></span>
-# 全球IP共享
+# Blockanet
 
 `Android应用程序`
 
