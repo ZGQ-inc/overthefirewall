@@ -8,11 +8,15 @@ Beta 重大改版发布版
 
 别忘了点个`Star`
 
+***
+
 欢迎进群讨论/提问
 
 [我的资源群](https://zgq-inc.github.io/transit-groups/)
 
 提问前提是在<span style="color: #ff0000">看清这篇文档之后</span>如有问题可以反馈，别粗略看过一遍之后就开始提问
+
+**温馨提示**：本文档中所有蓝体字可点击
 
 <span style="color: #C1C1C1">目录跳转已修复</span>
 
@@ -268,7 +272,14 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 **破解内容**：<span style="color: #ff0000">无限七天试用</span>
 
-**使用方法**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，连接即可。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
+**使用方法**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
+
+如果无法连接，请点击按钮下方`节点列表`，选择下方推荐的节点
+
+- United States
+- Singapore - Marina Bay
+- UK - Wembley
+- Japan
 
 **`如何判断试用期过期？`**
 
