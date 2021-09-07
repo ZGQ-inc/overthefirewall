@@ -262,6 +262,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/express-logo-2021.png)
 
+<span style="color: #FF0004">最近很多人反馈第二次无法进入，仍旧跳出购买界面，备用方案有2个，但是不一定可行，如果动用备用方案要花很长时间做使用教程，况且本人学业繁忙没什么时间...**白嫖半年终翻车**，太痛苦了</span>
+
 极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.5群**</span>的群文件获取
 
 群文件搜索：express 下载以下版本
