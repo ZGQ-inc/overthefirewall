@@ -545,9 +545,9 @@ MacOS、Linux同理
 
 [Github Pages](https://vpncn.github.io/)
 
-  <span style="color: #FF0004">黑名单列表<br />
+  <span style="color: #FF0004">黑名单列表（点击查看详情）<br />
 
-<details><summary>老王VPN</summary>
+<details><summary><span style="color: #ff0000">老王VPN</span></summary>
 
 有读者和我说对这款老王VPN的安全性有疑虑，据我的了解和调查，老王VPN可能存在钓鱼风险，网上查得到有人因为在手机上使用老王VPN被请喝茶的消息。我自己在手机上测试了一下，下载的最新版，连接方式选择快速连接，显示连上了，已经翻墙状态了哇，结果一查IP笑死我，原本的IP纹丝不动，依然和本地IP一样，这就存在安全隐患了。
 
@@ -555,7 +555,7 @@ MacOS、Linux同理
 
 </details>
 
-<details><summary>佛跳墙VPN</summary>
+<details><summary><span style="color: #ff0000">佛跳墙VPN</span></summary>
 
 有读者问我佛跳墙VPN怎么样？好用靠谱吗？
 
@@ -563,7 +563,7 @@ MacOS、Linux同理
 
 </details>
 
-<details><summary>蓝灯VPN</summary>
+<details><summary><span style="color: #ff0000">蓝灯VPN</span></summary>
 
 之前陆陆续续有不少读者问我蓝灯好用吗，下载蓝灯还能用吗？其实蓝灯VPN我2年前用过，买过一年的套餐，由于蓝灯经常被封、无法连接就没续费了。前段时间我只买了一个月Pro版进行测试，还是老问题，能用率不足6成，不推荐购买蓝灯的付费版。
 
