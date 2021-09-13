@@ -266,7 +266,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 <span style="color: #FF0004">9月8日发现可用版本，惯例进群下载</span>
 
-极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.6群**</span>的群文件获取
+极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.6群！2.6群！2.6群！**</span>的群文件获取
 
 群文件搜索：express 下载以下版本
 
@@ -662,20 +662,29 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Lite版破解高级功能](http://a.ruansky.com/up/136843)
 
 [xManager-Spotify破解版下载](http://a.ruansky.com/up/165744)
+
+[SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/223509)
+
 <span id="Pixiv"></span>
 - Pixiv
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Pixiv-logo.png)
 
-[官方版破解会员](http://a.ruansky.com/up/168092)
+[官方版破解会员](http://a.ruansky.com/up/226275)
 
-[直连版](http://a.ruansky.com/up/88394)
+[第三方客户端Shaft](http://a.ruansky.com/up/88394)
 <span id="WhatsApp"></span>
 - WhatsApp
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/WhatsApp-logo.jpg)
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
+<span id="Reddit"></span>
+- Reddit
+
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/bb4104a47fae72f2b4bafe9f9cd3647accc9a55f/image/Reddit-logo.jpg)
+
+[rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/226268)
 
 ***
 <span id="sponsor"></span>
