@@ -73,6 +73,7 @@ Beta 重大改版发布版
 +  [WhatsApp](#WhatsApp)
 +  [Reddit](#Reddit)
 +  [Instagram](#Instagram)
++  [我的上传](#Upload)
 
 [赞助内容](#sponsor)
 
@@ -696,6 +697,14 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Instander-第三方Instagram](http://a.ruansky.com/up/224136)
 
 [iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
+
+- 我的上传
+
+项目作者在`软天空`平台分享的软件资源
+
+~~这其实是在做宣传（打广告）~~
+
+[点我查看](http://a.ruansky.com/myup/449647/)
 
 ***
 <span id="sponsor"></span>
