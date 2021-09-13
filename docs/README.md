@@ -10,11 +10,11 @@ Beta 重大改版发布版
 
 ***
 
-欢迎进群讨论/提问
+欢迎进群**讨论/提问**
 
 [我的资源群](https://zgq-inc.github.io/transit-groups/)
 
-提问前提是在<span style="color: #ff0000">看清这篇文档之后</span>如有问题可以反馈，别粗略看过一遍之后就开始提问
+提问前提是在<span style="color: #ff0000">看清这篇文档之后</span>如有问题可以反馈，拒绝粗略看过一遍之后就开始提问。
 
 **温馨提示**：本文档中所有蓝体字可点击
 
@@ -72,10 +72,13 @@ Beta 重大改版发布版
 +  [Pixiv](#Pixiv)
 +  [WhatsApp](#WhatsApp)
 +  [Reddit](#Reddit)
++  [Instagram](#Instagram)
 
 [赞助内容](#sponsor)
 
 [鸣谢](#thanks)
+
+[捐赠](#Donate)
 
 ***
 ***
@@ -263,11 +266,11 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/express-logo-2021.png)
 
-~~<span style="color: #FF0004">最近很多人反馈第二次无法进入，仍旧跳出购买界面，备用方案有2个，但是不一定可行，如果动用备用方案要花很长时间做使用教程，况且本人学业繁忙没什么时间...**白嫖半年终翻车**，太痛苦了</span>~~
+~~<span style="color: #FF0004">最近很多人反馈第二次无法进入，仍旧跳出购买界面，备用方案有2个，但是不一定可行，如果动用备用方案要花很长时间做使用教程，况且本人学业繁忙没什么时间...**白嫖半年终翻车**，太痛苦了。</span>~~
 
-<span style="color: #FF0004">9月8日发现可用版本，惯例进群下载</span>
+<span style="color: #FF0004">9月8日发现可用版本，惯例进群下载。</span>
 
-极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.6群！2.6群！2.6群！**</span>的群文件获取
+极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.6群！2.6群！2.6群！**</span>的群文件获取。
 
 群文件搜索：express 下载以下版本
 
@@ -413,11 +416,11 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 没有哪个服务比express**更好用，更安全**，付费机场和VPS除外
 
-1. ExpressVPN用的是**RAM服务器**，相当于电脑的内存条，**不可能保留数据**，其它都没一个能做到，齐刷刷全是**硬盘服务器**，你看了什么都留在上面，硬盘就这样，删掉了还能恢复
+1. ExpressVPN用的是**RAM服务器**，相当于电脑的内存条，**不可能保留数据**，其它都没一个能做到，齐刷刷全是**硬盘服务器**，你看了什么都留在上面，硬盘就这样，删掉了还能恢复。
 
 2. 还有两三天更新一波节点，防止被GFW封锁，这也就是为什么**敏感时期照样好用的原因**，其它都有几个能做到？
 
-3. 再有就是照顾大陆用户，提供的**服务质量全球保持一致**，有些节点**针对大陆GFW进行混淆优化**，但是不可能所有都给你优化一遍，毕竟GFW太厉害了
+3. 再有就是照顾大陆用户，提供的**服务质量全球保持一致**，有些节点**针对大陆GFW进行混淆优化**，但是不可能所有都给你优化一遍，毕竟GFW太厉害了。
 
 ***
 
@@ -605,6 +608,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Telegram-logo.jpg)
 
 [Android直连版](http://a.ruansky.com/up/199832)
+
+[Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 <span id="Google"></span>
 - Google
 
@@ -623,6 +628,10 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/YouTube-logo.png)
 
 [Vanced Manager-第三方YouTube](http://a.ruansky.com/up/108761)
+
+[Snaptube-油管视频下载器](http://a.ruansky.com/up/226243)
+
+[TubeMate（版本更新）-油管视频下载器](http://a.ruansky.com/up/179362)
 <span id="Twitter"></span>
 - Twitter
 
@@ -679,11 +688,20 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/226268)
 
+<span id="Instagram"></span>
+- Instagram
+
+![img](https://github.com/ZGQ-inc/overthefirewall/blob/29ecb1a435572e877d39f16f79c10e58176777ff/image/Instagram-logo.jpg)
+
+[Instander-第三方Instagram](http://a.ruansky.com/up/224136)
+
+[iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
+
 ***
 <span id="sponsor"></span>
 # *赞助内容*
 
-<span style="color: #ff0000">不再更新，请进赞助群获取</span>
+<span style="color: #ff0000">不再更新，请进赞助群获取。</span>
 
 > - 起飞交流群
 >
@@ -719,4 +737,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 > 提供部分下载地址
 
-以及本项目中所有引用链接和内容
+以及本项目中所有引用链接和内容。
+<span id="Donate"></span>
+# 捐赠
+
+**宣传这个项目**就是对项目最好的**捐赠**和**支持**。
