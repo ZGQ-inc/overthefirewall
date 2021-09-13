@@ -604,12 +604,6 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Telegram-logo.jpg)
 
-[Android](https://telegram.org/dl/android/apk)
-
-[Windows](https://telegram.org/dl/desktop/win)
-
-[MacOS](https://telegram.org/dl/macos)
-
 [Android直连版](http://a.ruansky.com/up/199832)
 <span id="Google"></span>
 - Google
@@ -634,15 +628,13 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/twitter.png)
 
-[官方版（Apkpure）](https://m.apkpure.com/cn/twitter/com.twitter.android/download)
-
 [推特直连版](http://a.ruansky.com/up/117084)
 <span id="Facebook"></span>
 - Facebook
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Facebook-white.png)
 
-[官方版（Apkpure）](https://m.apkpure.com/cn/facebook/com.facebook.katana/download)
+[Swipe-第三方Facebook](http://a.ruansky.com/up/226321)
 <span id="Netflix"></span>
 - Netflix
 
