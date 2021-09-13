@@ -71,6 +71,7 @@ Beta 重大改版发布版
 +  [Spotify](#Spotify)
 +  [Pixiv](#Pixiv)
 +  [WhatsApp](#WhatsApp)
++  [Reddit](#Reddit)
 
 [赞助内容](#sponsor)
 
