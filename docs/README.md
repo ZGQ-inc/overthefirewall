@@ -8,6 +8,8 @@ Beta 重大改版发布版
 
 ***
 
+项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
+
 欢迎进群**讨论/提问**
 
 [我的资源群](https://zgq-inc.github.io/transit-groups/)
