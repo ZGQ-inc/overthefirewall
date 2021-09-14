@@ -6,9 +6,9 @@ Beta 重大改版发布版
 
 别忘了点个`Star`
 
-***
-
 项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
+
+***
 
 欢迎进群**讨论/提问**
 
