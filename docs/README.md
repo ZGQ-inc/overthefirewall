@@ -279,7 +279,9 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `27.3MB`
 
-**破解内容**：<span style="color: #ff0000">无限七天试用</span>
+<span style="color: #ff0000">**请务必下载带有后缀`.rename`的版本，可以绕过QQ的安全检查。**</span>
+
+**破解内容**：<span style="color: #ff0000">无限七天试用。</span>
 
 **使用方法**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
 
@@ -307,7 +309,9 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 说明24小时后即到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照流程操作**。
 
+<!--
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
+-->
 
 [最新测速结果](https://zgqinc-my.sharepoint.com/:x:/g/personal/zgq_zgqinc_onmicrosoft_com/ERlGmtlYvYFEgF2IcRR9eKkBMo5JnsujACdIO0u6Lj1N_g?e=kmK5tb)
 
