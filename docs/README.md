@@ -283,6 +283,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 **破解内容**：<span style="color: #ff0000">无限七天试用。</span>
 
+<span id="instructions"></span>
 **使用方法**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
 
 > 如果**无法进入**，出现此信息`Free trial is unavailable.`
@@ -290,7 +291,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 **按照步骤**：
 1. 转到应用程序的`应用程序信息`，清除数据
 2. 打开`飞行模式`，然后关闭
-3. 重新打开ExpressVPN，点击`免费试用`
+3. 重新按照[使用方法](#instructions)操作
 
 > 如果**无法连接**，请点击按钮下方`节点列表`，选择下方推荐的节点
 
