@@ -449,6 +449,8 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 [谷歌商店](https://play.google.com/store/apps/details?id=com.opera.max.global)
 
+[下载地址（蓝奏云）](https://zgq-inc.lanzoui.com/i75oIuhtpqh)
+
 破解内容：已升级至 `Deluxe+`
 
 所有功能均已解锁，所有广告均已移除。您现在可以选择位置。
