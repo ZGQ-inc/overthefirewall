@@ -264,7 +264,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 <span id="ProxypoolCollection"></span>
 - 96个节点池合集
 
-[点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/d25c8229c8ed5bc22dbeb1ab2efc0dd873d745e9/docs/proxypool.md)
+[点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/main/docs/proxypool.md)
 
 ***
 <span id="ExpressVPN"></span>
