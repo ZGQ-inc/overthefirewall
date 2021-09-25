@@ -1,4 +1,4 @@
-## Samsung Max
+# Samsung Max
 
 来自三星的隐私 VPN，具有免费和高级级别 + 强大的数据节省功能
 
@@ -16,13 +16,17 @@
 - 没有广告
 - 您选择的位置
 
+**使用方法**：
+
+进入应用，打开`隐私保护`，可选择地区
+
 > **最新测速结果**
 
 21/09/25 下午6:26
 
 下载↓ `4.55 MB/s`
 
-上传↑ `2.56MB/s`
+上传↑ `2.56 MB/s`
 
 > Powered by [Speedtest](https://www.speedtest.net/zh-Hans)
 > 

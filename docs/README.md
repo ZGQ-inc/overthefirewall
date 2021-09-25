@@ -48,14 +48,16 @@ Beta 重大改版发布版
 + [iKuuu](#iKuuu)
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks免费上网账号](#freess)
++ [96个节点池合集](#ProxypoolCollection)
+[ExpressVPN 全球第一](#ExpressVPN)
 
-[ExpressVPN全球第一](#ExpressVPN)
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax)
 
 [共享手机VPN给其它设备EveryProxy](#EveryProxy)
 
-[Steam加速器Steam++](#Steam++)
+[Steam加速器 Steam++](#Steam++)
 
-[全球IP共享Blockanet](#blockanet)
+[全球IP共享 Blockanet](#blockanet)
 
 [解决DNS污染问题](#DNS)
 
@@ -258,6 +260,10 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 - Shadowsocks免费上网账号
 
 [网址](https://free-ss.site/)
+<span id="ProxypoolCollection"></span>
+- 96个节点池合集
+
+[点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/d25c8229c8ed5bc22dbeb1ab2efc0dd873d745e9/docs/proxypool.md)
 
 ***
 <span id="ExpressVPN"></span>
@@ -309,6 +315,12 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 > Your ExpressVPN trial will expire in 24 hours.
 
 说明24小时后即到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照流程操作**。
+
+**`如何设置分应用代理？`**
+
+> 可选的步骤
+
+点击`侧边栏`，进入`Settings`，点击`Split Tunneling`，选择`Do not allow selected apps to use the VPN`，点击右边`+`添加**不需要代理的应用**
 
 <!--
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
@@ -429,7 +441,42 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 3. 再有就是照顾大陆用户，提供的**服务质量全球保持一致**，有些节点**针对大陆GFW进行混淆优化**，但是不可能所有都给你优化一遍，毕竟GFW太厉害了。
 
 ***
+<span id="SamsungMax"></span>
+# Samsung Max
 
+来自三星的隐私 VPN，具有免费和高级级别 + 强大的数据节省功能
+
+[谷歌商店](https://play.google.com/store/apps/details?id=com.opera.max.global)
+
+破解内容：已升级至 `Deluxe+`
+
+所有功能均已解锁，所有广告均已移除。您现在可以选择位置。
+
+> **Deluxe+ 套餐**
+
+- 未提供价格
+- 使用全部功能
+- 隐私保护不受限制
+- 没有广告
+- 您选择的位置
+
+**使用方法**：
+
+进入应用，打开`隐私保护`，可选择地区
+
+> **最新测速结果**
+
+21/09/25 下午6:26
+
+下载↓ `4.55 MB/s`
+
+上传↑ `2.56 MB/s`
+
+> Powered by [Speedtest](https://www.speedtest.net/zh-Hans)
+> 
+> © 2006-2021  Ookla , LLC.All Rights Reserved
+
+***
 <span id="EveryProxy"></span>
 # EveryProxy
 
