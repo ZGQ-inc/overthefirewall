@@ -278,7 +278,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 <span style="color: #FF0004">9月8日发现可用版本，惯例进群下载。</span>
 
-极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.6群！2.6群！2.6群！**</span>的群文件获取。
+极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.7群！2.7群！2.7群！**</span>的群文件获取。
 
 群文件搜索：express 下载以下版本
 
