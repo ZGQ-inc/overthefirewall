@@ -317,6 +317,12 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 说明24小时后即到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照流程操作**。
 
+在新版本`10.9.0`中，首页最上方会显示
+
+`Free trial expires in □ days`
+
+这将会是剩余试用天数。
+
 **`如何设置分应用代理？`**
 
 > 可选的步骤
