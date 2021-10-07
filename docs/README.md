@@ -58,7 +58,7 @@ Beta 重大改版发布版
 
 [Steam加速器 Steam++](#Steam++)
 
-[全球IP共享 Blockanet](#blockanet)
+[全球IP共享 Blockanet](#BlockaNet)
 
 [解决DNS污染问题](#DNS)
 
@@ -522,8 +522,8 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 [项目地址](https://github.com/SteamTools-Team/SteamTools)
 
 ***
-<span id="blockanet"></span>
-# Blockanet
+<span id="BlockaNet"></span>
+# BlockaNet
 
 `Android应用程序`
 
