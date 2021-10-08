@@ -93,8 +93,10 @@ Beta 重大改版发布版
 [Gitbook](https://zgq-inc.gitbook.io/overthefirewall/)
 
 ***
+
 <span id="VPN"></span>
 # 梯子客户端
+
 <span id="Android"></span>
 ## Android
 
@@ -118,6 +120,9 @@ Beta 重大改版发布版
 2dust / v2rayNG
 
 [项目地址](https://github.com/2dust/v2rayNG)
+
+[使用教程](#tutorials)
+
 <span id="Clash"></span>
 + Clash
 
@@ -131,7 +136,10 @@ Kr328 / ClashForAndroid
 
 [项目地址](https://github.com/Kr328/ClashForAndroid)
 
-（其它待补）
+[使用教程](#tutorials)
+
+~~（其它待补）~~
+
 <span id="Windows"></span>
 ## Windows
 
@@ -151,6 +159,9 @@ Kr328 / ClashForAndroid
 2dust / v2rayN
 
 [项目地址](https://github.com/2dust/v2rayN)
+
+[使用教程](#tutorials)
+
 <span id="ClashR"></span>
 + ClashR
 
@@ -162,13 +173,15 @@ BoyceLig / ClashR_for_Windows
 
 [项目地址](https://github.com/BoyceLig/ClashR_for_Windows)
 
-（其它待补）
+~~（其它待补）~~
+
 <span id="SocksCap64"></span>
 + SocksCap64
 
 `支持HTTP/SOCKS 4/SOCKS 5协议`
 
 [SocksCap64-setup-4.7下载地址](https://zgq-inc.lanzoui.com/iLkIRs6mcoh)
+
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS
 
@@ -180,6 +193,9 @@ BoyceLig / ClashR_for_Windows
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/oneclick-logo.png)
 
 [官网](https://oneclick.earth/#/)
+
+[使用教程](#tutorials)
+
 <span id="MacOS"></span>
 ## MacOS
 
@@ -189,8 +205,9 @@ BoyceLig / ClashR_for_Windows
 + v2rayU
 
 [蓝奏云](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
+
 <span id="Linux"></span>
-## Linux
+## ~~Linux~~
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Linux-logo.png)
 
@@ -213,8 +230,10 @@ shadowsocksr-backup / shadowsocksr-android
 https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 ***
+
 <span id="sub"></span>
 # 订阅平台
+
 <span id="BuLink"></span>
 - BuLink永久免费网络加速
 
@@ -227,6 +246,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [网址](https://bulink.xyz/)
 
 [项目地址](https://github.com/freefq/free)
+
 <span id="freeperson"></span>
 - 自由人士
 
@@ -242,31 +262,36 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 [注册地址](http://freeperson.xyz/auth/register)
 
-项目地址：未开源
 <span id="iKuuu"></span>
 - 注册 — iKuuu VPN
 
 `每日签到1GB`
 
-`新用户赠送50GB`
+`初始50GB`
 
 `速率最高50Mbps`
 
+**`每月重置签到流量`**
+
 [注册地址](https://ikuuu.co/auth/register)
+
 <span id="proxypool"></span>
 - 节点池-所有国家 代理服务器 - SOCKS5
 
 [网址](http://free-proxy.cz/zh/proxylist/country/all/socks5/ping/all)
+
 <span id="freess"></span>
 - Shadowsocks免费上网账号
 
 [网址](https://free-ss.site/)
+
 <span id="ProxypoolCollection"></span>
 - 96个节点池合集
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/main/docs/proxypool.md)
 
 ***
+
 <span id="ExpressVPN"></span>
 # ExpressVPN
 
@@ -353,101 +378,18 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 **`为什么推荐ExpressVPN？`**
 
-<details><summary>引用内容</summary>
-
-<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
-
->2021年2月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，很多VPN软件并不好用，iPhone用户首选这款。
-
-ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，**适合对网络速度要求高和较好使用体验的朋友**。
-
-### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
-
-因为他看重中国市场，售后服务很不错。应对防火长城的封锁反应很快，一般2-3个工作日内就可以通过更新客户端解决，在封锁期内使用`L2TP – IPsec`”协议连接其他服务器也能使用，长期可用率能保持在95%左右，能在中国做到这样的翻墙软件真的寥寥无几。
-
-全球范围内的VPN软件多如牛毛，有耐心一直为中国用户提供镜像站点的一只手数得过来，ExpressVPN的镜像站点对中国用户始终保持着可访问。ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网基本一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。但是**目前镜像网站需要从软件、APP界面中的链接进入，仅用于客户端的下载和更新、客服沟通和账号后台信息查看**。
-
-> 由于冒牌网站很多，严重损害了品牌价值，**ExpressVPN官方已经不再使用镜像域名处理新用户的注册**，国内能访问的镜像域名仅供更新客户端使用，目前中国大陆的访客需要其他梯子才能进入ExpressVPN官网进行注册和购买。
-
-- 全世界都能访问
-
-因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，不仅支持Netflix网飞等流媒体，并且在香港等地都有VPN服务器。
-
-- 24小时在线客服
-
-如果在安装和使用过程遇到了问题，可以通过电子邮件或者实时在线聊天的方式联系在线客服。
-
-- 中国大陆速度最快
-
-看Youtube的1080P毫无压力。首先是APP会自动检测最快的服务器，不需要自己一个个去试，绝大多数情况下软件检测到的（`Smart Location`）就是当时最佳节点，当然你也可以收藏你喜欢的节点进行连接，比如`Smart Location`经常给我定位到HK-4节点，但我更喜欢Los Angeles 4/5或者Marina Bay节点，对我来说速度更快一些。其次，断线自动重连，虽然只是个小功能但真的很有用，而且每次重连时它会自动切断网络（`Kill Switch`），防止某些应用程序流量无意间泄露，当然这个功能一般大厂的VPN产品也都支持。
-
-- 隐私保护
-
-ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是说不像很多口是心非的不良厂商，ExpressVPN的无日志政策是实打实的无日志。因为据我所知，ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，用户数据被储存在临时内存中，技术上，这种服务器无法保留任何上网痕迹，重启或断掉所有信息都会被抹得一干二净。传输速度方面也比传统的硬盘快不止一个数量级，在使用用户多的时候这个优势尤为明显。
-
-- 同时访问内外网
-
-开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分通道技术（`Split Tunneling`）让你配置哪些应用程序走VPN加密通道，哪些走本地网络流量。
-
-- 30天退款承诺
-
-30之内如果你觉得ExpressVPN不好用，可以找客服申请无条件退款，这点确实是大厂风范。
-
-### ExpressVPN的缺点
-
-[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers-min" alt=" " /></span>](https://www.fastvpncn.com/expressvpn)
-
-- ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右。
-
->适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[StrongVPN](#2-strongvpn--性价比最佳)可能更适合你，[StrongVPN](#2-strongvpn--性价比最佳)建议优先连接韩国、欧洲地区、日本、新加坡的服务器节点，速度相对其他节点更快，但整体速度我的体验是不如ExpressVPN，各方面使用体验Expresss还是比StrongVPN好一些。
-
-在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
-
-- Singapore–Marina Bay
-- USA–Los Angeles–5
-- Hong Kong–4
-- Japan - Yokohama
-- Canada - Toronto - 2
-- USA–Los Angeles–4
-- USA–Santa Monica
-- France - Strasbourg
-- Germany - Nuremberg
-
-连接协议可以设置成默认的Automatic，也可以改为Lightway或OpenVPN协议，我一般使用Lightway或OpenVPN。其中Lightway是Expresss官方于2021年新开发的VPN协议，在保证安全性的前提下，在国内的速度和连接成功率更加有改善。Lightway协议目前是Expresss独家开发，比起传统的VPN协议更加具有优势。
-
-除了上面那些优化过的服务器线路，**中国用户也可以改为“`L2TP – IPsec`”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
-
-关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。
-
-[![ExpressVPN支持设备](https://www.safewebcn.com/img/express-vpn-devices.png "ExpressVPN支持设备截图")](#1-expressvpn--速度体验最佳)
-
->**2021最新提示**：ExpressVPN在国内电脑端（Windows/Mac OS）和手机端（iOS/安卓）的APP客户端直接一键连接就行了，不用自己手动配置。
->
->另外，ExpressVPN在国内使用的稳定性也非常不错，在目前防火长城不断升级的大环境下，能保证95%以上的稳定使用时间，按照过去2年的使用经验，一般3个月左右服务器可能会暂时被屏蔽几天，但改用L2TP协议的服务器还能使用，而且官方每次的应对很快，2-3个工作日会推出更新版本，更新客户端就可以继续使用了。
->
->安装或者使用过程中出现问题一定要联系在线客服，通过官网右下角的在线聊天框进入，之前有几次墙升级导致无法连接都是找客服解决的，还多送了一个月的使用期。
->
->**推荐用户**：对速度和稳定性有要求的用户、iPhone和Mac用户首选
-
-### <center><a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
-
-> 由于冒牌网站很多，官方已经不再使用镜像域名（只提供更新客户端、联系客服使用）处理中国地区的新订单，目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。
-
-</details>
-
-引用自[2021翻墙VPN推荐指南](#guide)
-
 **总结以下几点**
 
 没有哪个服务比express**更好用，更安全**，付费机场和VPS除外
 
 1. ExpressVPN用的是**RAM服务器**，相当于电脑的内存条，**不可能保留数据**，其它都没一个能做到，齐刷刷全是**硬盘服务器**，你看了什么都留在上面，硬盘就这样，删掉了还能恢复。
 
-2. 还有两三天更新一波节点，防止被GFW封锁，这也就是为什么**敏感时期照样好用的原因**，其它都有几个能做到？
+2. 还有**两三天更新一波节点，平均一个月会有一次大更新**，防止节点IP被GFW封锁，这也就是为什么**敏感时期照样好用的原因**，其它都有几个能做到？
 
 3. 再有就是照顾大陆用户，提供的**服务质量全球保持一致**，有些节点**针对大陆GFW进行混淆优化**，但是不可能所有都给你优化一遍，毕竟GFW太厉害了。
 
 ***
+
 <span id="SamsungMax"></span>
 # Samsung Max
 
@@ -486,6 +428,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 > © 2006-2021  Ookla , LLC.All Rights Reserved
 
 ***
+
 <span id="EveryProxy"></span>
 # EveryProxy
 
@@ -506,6 +449,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 [官方论坛](https://groups.google.com/forum/#!forum/every-proxy)
 
 ***
+
 <span id="Steam++"></span>
 # Steam++
 
@@ -522,6 +466,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 [项目地址](https://github.com/SteamTools-Team/SteamTools)
 
 ***
+
 <span id="BlockaNet"></span>
 # BlockaNet
 
@@ -536,6 +481,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 [直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
 
 ***
+
 <span id="DNS"></span>
 # 解决DNS污染问题
 
@@ -606,6 +552,7 @@ MacOS、Linux同理
 </details>
 
 ***
+
 <span id="guide"></span>
 # 2021中国翻墙软件VPN推荐指南
 
@@ -662,8 +609,10 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 其他国产的私人或者小型VPN避免使用，这些大部分都是名字叫VPN，只有翻墙的功能，并无安全性可言。其中不少涉嫌钓鱼，用户使用的时候被ISP发现并上报的，已经有记录的就有**极光加速器、QuickQ、佛跳墙加速器、老王VPN、IP精灵、旋风加速器、坚果加速器、蚂蚁加速器、快连VPN、神风加速器**等。
 
 ***
+
 <span id="software"></span>
 # 软件
+
 <span id="Telegram"></span>
 - Telegram
 
@@ -672,6 +621,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Android直连版](http://a.ruansky.com/up/199832)
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
+
 <span id="Google"></span>
 - Google
 
@@ -684,6 +634,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 官方渠道搬运（已停更）
 
 [蓝奏云](https://zgq-inc.lanzoui.com/b00nj0mlg)
+
 <span id="YouTube"></span>
 - YouTube
 
@@ -694,18 +645,21 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Snaptube-油管视频下载器](http://a.ruansky.com/up/226243)
 
 [TubeMate（版本更新）-油管视频下载器](http://a.ruansky.com/up/179362)
+
 <span id="Twitter"></span>
 - Twitter
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/twitter.png)
 
 [推特直连版](http://a.ruansky.com/up/117084)
+
 <span id="Facebook"></span>
 - Facebook
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Facebook-white.png)
 
 [Swipe-第三方Facebook](http://a.ruansky.com/up/226321)
+
 <span id="Netflix"></span>
 - Netflix
 
@@ -716,6 +670,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Netflix by APKMODY](http://a.ruansky.com/up/188158)
 
 [VivaTV](http://a.ruansky.com/up/111615)
+
 <span id="Spotify"></span>
 - Spotify
 
@@ -737,12 +692,14 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [官方版破解会员](http://a.ruansky.com/up/226275)
 
 [第三方客户端Shaft](http://a.ruansky.com/up/88394)
+
 <span id="WhatsApp"></span>
 - WhatsApp
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/WhatsApp-logo.jpg)
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
+
 <span id="Reddit"></span>
 - Reddit
 
@@ -758,6 +715,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Instander-第三方Instagram](http://a.ruansky.com/up/224136)
 
 [iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
+
 <span id="Upload"></span>
 - 我的上传
 
@@ -768,6 +726,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [点我查看](http://a.ruansky.com/myup/449647/)
 
 ***
+
 <span id="sponsor"></span>
 # *赞助内容*
 
@@ -791,6 +750,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 >
 
 ***
+
 <span id="thanks"></span>
 # 鸣谢
 
@@ -808,6 +768,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 > 提供部分下载地址
 
 以及本项目中所有引用链接和内容。
+
 <span id="Donate"></span>
 # 捐赠
 

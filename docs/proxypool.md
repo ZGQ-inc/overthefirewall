@@ -193,19 +193,3 @@ https://proxy.purel.in/
 https://clashpool.ml/
 
 https://ditan.ml/
-
-## 原节点链接：
-
-github链接：https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/link.txt
-
-jsdelivr提供cdn：https://cdn.jsdelivr.net/gh/freebaipiao/freebaipiao@main/link.txt
-
-Clash：
-github订阅： https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/freebaipiao.yaml
-
-jsdelivr提供cdn：https://cdn.jsdelivr.net/gh/freebaipiao/freebaipiao@main/freebaipiao.yaml
-
-V2Ray：
-github订阅：https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/freebaipiaov2.txt
-
-jsdelivr提供cdn：https://cdn.jsdelivr.net/gh/freebaipiao/freebaipiao@main/freebaipiaov2.txt
