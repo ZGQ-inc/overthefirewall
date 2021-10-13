@@ -102,11 +102,11 @@ Beta 重大改版发布版
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Android-logo.png)
 
-<span style="color: #ff0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</span>
+<font size="6" color="#FF0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</font>
 
 **点击蓝体字获取**
 
-<span style="color: #ff0000">★★★★★五星推荐</span>
+<font size="5" color="#FF0000">★★★★★五星推荐</font>
 
 <span id="v2rayNG"></span>
 + v2rayNG
@@ -311,6 +311,8 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 `27.3MB`
 
+> 现开启`先行体验`计划，加入方法很简单，只需下载群文件的`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`即可获得未完全测试可用性的最新版本
+
 <span style="color: #ff0000">**请务必下载带有后缀`.rename`的版本，可以绕过QQ的安全检查。**</span>
 
 **破解内容**：<span style="color: #ff0000">无限七天试用。</span>
@@ -368,7 +370,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 
 示例：
 
-> wordhenda@nirenyixia.com
+> wordhenda@nirenyixia.wyf
 
 之前别人或是自己使用过的邮箱地址**无法使用**，有可能弹出试用过期的购买界面，如果按照流程做了还是弹出，那么应该是运气问题，多试几次即可。原因是破解版虽然**免除了IP检测**，但是会**记录邮箱地址至服务器**，因此不能使用重复的邮箱地址。
 
@@ -558,7 +560,7 @@ MacOS、Linux同理
 
 [Github Pages](https://vpncn.github.io/)
 
-  <span style="color: #FF0004">黑名单列表（点击查看详情）<br />
+  <font size="5" color="#FF0000">黑名单列表（点击查看详情）</font>
 
 <details><summary><span style="color: #ff0000">老王VPN</span></summary>
 
