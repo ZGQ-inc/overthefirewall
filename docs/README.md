@@ -298,7 +298,7 @@ Unrestricted access to the Internet
 
 `27.3MB`
 
-> 现开启`先行体验`计划，加入方法很简单，只需下载群文件的`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`即可获得未完全测试可用性的最新版本
+> 现开启`先行体验`计划，加入方法很简单，只需下载群文件的`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`即可获得**未完全测试可用性的最新版本**
 
 <span style="color: #ff0000">**请务必下载带有后缀`.rename`的版本，可以绕过QQ的安全检查。**</span>
 
