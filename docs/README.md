@@ -102,27 +102,25 @@ Beta 重大改版发布版
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Android-logo.png)
 
-**<font size="6" color="#FF0000">安卓推荐使用</font>**[<font size="6" color="#FF0000">ExpressVPN</font>](#ExpressVPN)
+**<font size="6" color="#FF0000">安卓推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
 
 <font size="5" color="#FF0000">★★★★★五星推荐</font>
 
 <span id="v2rayNG"></span>
-+ v2rayNG
++ <font size="5">v2rayNG</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png)
 
 `由于更新太频繁，采用Github直链`
 
-[release](https://github.com/2dust/v2rayNG/releases)
+[release页面](https://github.com/2dust/v2rayNG/releases)
 
-2dust / v2rayNG
-
-[项目地址](https://github.com/2dust/v2rayNG)
+[项目地址 2dust / v2rayNG](https://github.com/2dust/v2rayNG)
 
 [使用教程](#tutorials)
 
 <span id="Clash"></span>
-+ Clash
++ <font size="5">Clash</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png)
 
@@ -130,9 +128,7 @@ Beta 重大改版发布版
 
 [64位（蓝奏云）](https://zgq-inc.lanzoui.com/iFweEp9i1ud)
 
-Kr328 / ClashForAndroid
-
-[项目地址](https://github.com/Kr328/ClashForAndroid)
+[项目地址 Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
 
 [使用教程](#tutorials)
 
@@ -144,37 +140,31 @@ Kr328 / ClashForAndroid
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Win10-logo.png)
 
 <span id="v2rayN"></span>
-+ v2rayN
++ <font size="5">v2rayN</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png)
 
 `由于更新太频繁，采用Github直链`
 
-[release](https://github.com/2dust/v2rayN/releases)
+[release页面](https://github.com/2dust/v2rayN/releases)
 
-下载v2rayN-Core.zip
-
-2dust / v2rayN
-
-[项目地址](https://github.com/2dust/v2rayN)
+[项目地址 2dust / v2rayN](https://github.com/2dust/v2rayN)
 
 [使用教程](#tutorials)
 
 <span id="ClashR"></span>
-+ ClashR
++ <font size="5">ClashR</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png)
 
 [蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
 
-BoyceLig / ClashR_for_Windows
-
-[项目地址](https://github.com/BoyceLig/ClashR_for_Windows)
+[项目地址 BoyceLig / ClashR_for_Windows](https://github.com/BoyceLig/ClashR_for_Windows)
 
 ~~（其它待补）~~
 
 <span id="SocksCap64"></span>
-+ SocksCap64
++ <font size="5">SocksCap64</font>
 
 `支持HTTP/SOCKS 4/SOCKS 5协议`
 
@@ -186,9 +176,11 @@ BoyceLig / ClashR_for_Windows
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/iOS-iPadOS-logo.png)
 
 <span id="OneClick"></span>
-+ OneClick - Unrestricted access to the Internet
++ <font size="5">OneClick</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/oneclick-logo.png)
+
+Unrestricted access to the Internet
 
 [官网](https://oneclick.earth/#/)
 
@@ -200,7 +192,7 @@ BoyceLig / ClashR_for_Windows
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/MacOS-logo.png)
 
 <span id="v2rayU"></span>
-+ v2rayU
++ <font size="5">v2rayU</font>
 
 [蓝奏云](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
 
@@ -218,14 +210,11 @@ BoyceLig / ClashR_for_Windows
 
 密码:VPN
 
-shadowsocks / shadowsocks-windows
-https://github.com/shadowsocks/shadowsocks-windows
+[shadowsocks / shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 
-Fndroid / clash_for_windows_pkg
-https://github.com/Fndroid/clash_for_windows_pkg
+[Fndroid / clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
 
-shadowsocksr-backup / shadowsocksr-android
-https://github.com/shadowsocksr-backup/shadowsocksr-android
+[shadowsocksr-backup / shadowsocksr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android)
 
 ***
 
@@ -233,7 +222,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 # 订阅平台
 
 <span id="BuLink"></span>
-- BuLink永久免费网络加速
+- <font size="5">BuLink永久免费网络加速</font>
 
 `推荐使用网友分享节点`
 
@@ -246,7 +235,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [项目地址](https://github.com/freefq/free)
 
 <span id="freeperson"></span>
-- 自由人士
+- <font size="5">自由人士</font>
 
 *最近平台出现些许状况，可能无法使用*
 
@@ -261,7 +250,7 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [注册地址](http://freeperson.xyz/auth/register)
 
 <span id="iKuuu"></span>
-- 注册 — iKuuu VPN
+- <font size="5">iKuuu VPN</font>
 
 `每日签到1GB`
 
@@ -274,17 +263,17 @@ https://github.com/shadowsocksr-backup/shadowsocksr-android
 [注册地址](https://ikuuu.co/auth/register)
 
 <span id="proxypool"></span>
-- 节点池-所有国家 代理服务器 - SOCKS5
+- <font size="5">节点池-所有国家 代理服务器 - SOCKS5</font>
 
 [网址](http://free-proxy.cz/zh/proxylist/country/all/socks5/ping/all)
 
 <span id="freess"></span>
-- Shadowsocks免费上网账号
+- <font size="5">Shadowsocks免费上网账号</font>
 
 [网址](https://free-ss.site/)
 
 <span id="ProxypoolCollection"></span>
-- 96个节点池合集
+- <font size="5">96个节点池合集</font>
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/main/docs/proxypool.md)
 
