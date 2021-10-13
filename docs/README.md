@@ -16,7 +16,7 @@ Beta 重大改版发布版
 
 提问前提是在<span style="color: #ff0000">看清这篇文档之后</span>如有问题可以反馈，拒绝粗略看过一遍之后就开始提问。
 
-**温馨提示**：本文档中所有蓝体字可点击
+**温馨提示**：本文档中所有`蓝体字/下划线`可点击
 
 <span style="color: #C1C1C1">目录跳转已修复</span>
 
@@ -102,9 +102,7 @@ Beta 重大改版发布版
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Android-logo.png)
 
-**<font size="6" color="#FF0000">安卓推荐使用[ExpressVPN](#ExpressVPN)</font>**
-
-**点击蓝体字获取**
+**<font size="6" color="#FF0000">安卓推荐使用</font>**[<font size="6" color="#FF0000">ExpressVPN</font>](#ExpressVPN)
 
 <font size="5" color="#FF0000">★★★★★五星推荐</font>
 
