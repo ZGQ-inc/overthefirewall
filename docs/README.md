@@ -102,7 +102,7 @@ Beta 重大改版发布版
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Android-logo.png)
 
-<font size="6" color="#FF0000">**安卓推荐使用[ExpressVPN](#ExpressVPN)**</font>
+**<font size="6" color="#FF0000">安卓推荐使用[ExpressVPN](#ExpressVPN)</font>**
 
 **点击蓝体字获取**
 
