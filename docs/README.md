@@ -90,7 +90,7 @@ Beta 重大改版发布版
 <span id="tutorials"></span>
 # 梯子客户端使用教程
 
-[Gitbook](https://zgq-inc.gitbook.io/overthefirewall/)
+[<font size="5">Gitbook</font>](https://zgq-inc.gitbook.io/overthefirewall/)
 
 ***
 
