@@ -50,15 +50,17 @@ Beta 重大改版发布版
 + [Shadowsocks免费上网账号](#freess)
 + [96个节点池合集](#ProxypoolCollection)
 
-[ExpressVPN 全球第一](#ExpressVPN)
+[ExpressVPN 全球第一](#ExpressVPN)`破解版`
++ [稳定版](#ExpressVPN_stable)
++ [公测版](#ExpressVPN_nightly)
 
-[SamsungMax 三星旗下隐私保护软件](#SamsungMax)
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax)`破解版`
 
 [共享手机VPN给其它设备EveryProxy](#EveryProxy)
 
 [Steam加速器 Steam++](#Steam++)
 
-[全球IP共享 Blockanet](#BlockaNet)
+[全球IP共享 Blockanet](#BlockaNet)`破解版`
 
 [解决DNS污染问题](#DNS)
 
@@ -294,17 +296,25 @@ Unrestricted access to the Internet
 
 群文件搜索：express 下载以下版本
 
+**<font size="4">稳定版</font>**
+
+<span id="ExpressVPN_stable"></span>
 **`ExpressVPN v10.9.0 RahulModz [Premium].apk.rename`**
 
 `27.3MB`
 
-> 现开启`先行体验`计划，加入方法很简单，只需下载群文件的`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`即可获得**未完全测试可用性的最新版本**
+**<font size="4">公测版</font>**
+
+<span id="ExpressVPN_nightly"></span>
+现开启`先行体验`计划，加入方法很简单，只需下载群文件的`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`即可获得**未完全测试可用性的最新版本**。
+
+新版本的试用期变为了30天。
 
 <span style="color: #ff0000">**请务必下载带有后缀`.rename`的版本，可以绕过QQ的安全检查。**</span>
 
 **破解内容**：<span style="color: #ff0000">无限七天试用。</span>
 
-<span id="instructions"></span>
+<span id="ExpressVPN_instructions"></span>
 **使用方法**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
 
 > 如果**无法进入**，出现此信息`Free trial is unavailable.`
@@ -312,7 +322,7 @@ Unrestricted access to the Internet
 **按照步骤**：
 1. 转到应用程序的`应用程序信息`，清除数据
 2. 打开`飞行模式`，然后关闭
-3. 重新按照[使用方法](#instructions)操作
+3. 重新按照[使用方法](#ExpressVPN_instructions)操作
 
 > 如果**无法连接**，请点击按钮下方`节点列表`，选择下方推荐的节点
 
@@ -331,7 +341,7 @@ Unrestricted access to the Internet
 
 说明24小时后即到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照流程操作**。
 
-在新版本`10.9.0`中，首页最上方会显示
+在新版本`10.9.0`及以上，首页最上方会显示
 
 `Free trial expires in □ days`
 
@@ -402,7 +412,7 @@ Unrestricted access to the Internet
 
 **使用方法**：
 
-进入应用，打开`隐私保护`，可选择地区
+进入应用，打开`隐私保护`，可选择地区。
 
 > **最新测速结果**
 
@@ -463,7 +473,9 @@ Unrestricted access to the Internet
 
 `提供HTTP/SOCKS 4/SOCKS 5协议的节点`
 
-节点池，与[节点池-SOCKS5](#proxypool)类似
+**破解内容**：高级功能已解锁
+
+与[节点池](#proxypool)类似
 
 [应用介绍&下载](http://a.ruansky.com/up/122377)
 
@@ -482,7 +494,7 @@ Unrestricted access to the Internet
 
 3. **DNS污染**
 
-一部分情况属于第 3 种，通过修改电脑和手机hosts文件多数可以解决这个问题。但是像Google等网站和手机上的一些APP是直接IP都被墙了，这种办法就行不通了，只能翻墙访问
+一部分情况属于第 3 种，通过修改电脑和手机hosts文件多数可以解决这个问题。但是像Google等网站和手机上的一些APP是直接IP都被墙了，这种办法就行不通了，只能翻墙访问。
 
 <details><summary>什么是hosts文件？</summary>
 
