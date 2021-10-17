@@ -50,17 +50,20 @@ Beta 重大改版发布版
 + [Shadowsocks免费上网账号](#freess)
 + [96个节点池合集](#ProxypoolCollection)
 
-[ExpressVPN 全球第一](#ExpressVPN)`破解版`
+[ExpressVPN 全球第一](#ExpressVPN) `破解版`
+
+<!--
 + [稳定版](#ExpressVPN_stable)
 + [公测版](#ExpressVPN_nightly)
+-->
 
-[SamsungMax 三星旗下隐私保护软件](#SamsungMax)`破解版`
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax) `破解版`
 
 [共享手机VPN给其它设备EveryProxy](#EveryProxy)
 
 [Steam加速器 Steam++](#Steam++)
 
-[全球IP共享 Blockanet](#BlockaNet)`破解版`
+[全球IP共享 Blockanet](#BlockaNet) `破解版`
 
 [解决DNS污染问题](#DNS)
 
@@ -288,9 +291,13 @@ Unrestricted access to the Internet
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/express-logo-2021.png)
 
+<!--
 ~~<span style="color: #FF0004">最近很多人反馈第二次无法进入，仍旧跳出购买界面，备用方案有2个，但是不一定可行，如果动用备用方案要花很长时间做使用教程，况且本人学业繁忙没什么时间...**白嫖半年终翻车**，太痛苦了。</span>~~
+-->
 
+<!--
 <span style="color: #FF0004">9月8日发现可用版本，惯例进群下载。</span>
+-->
 
 极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.7群！2.7群！2.7群！**</span>的群文件获取。
 
