@@ -299,23 +299,29 @@ Unrestricted access to the Internet
 <span style="color: #FF0004">9月8日发现可用版本，惯例进群下载。</span>
 -->
 
-极力推荐Express VPN，基本可以稳定在7MB/s，历史测速最高33MB/s`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**2.7群！2.7群！2.7群！**</span>的群文件获取。
+极力推荐Express VPN，基本可以稳定在**7MB/s**，历史测速最高**33MB/s**`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.7群！2.7群！2.7群！</font>**</span>的群文件获取。
 
-群文件搜索：express 下载以下版本
+**群文件搜索：`express` 下载以下版本**
 
-**<font size="4">稳定版</font>**
+- **<font size="4">稳定版</font>**
 
 <span id="ExpressVPN_stable"></span>
 **`ExpressVPN v10.9.0 RahulModz [Premium].apk.rename`**
 
 `27.3MB`
 
-**<font size="4">公测版</font>**
+- **<font size="4">公测版</font>**
 
 <span id="ExpressVPN_nightly"></span>
-现开启`先行体验`计划，加入方法很简单，只需下载群文件的`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`即可获得**未完全测试可用性的最新版本**。
+现开启`先行体验`计划，加入方法很简单，只需下载群文件的
 
-新版本的试用期变为了30天。
+**`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`**
+
+`19.4MB`
+
+即可获得**未完全测试可用性的最新版本**。
+
+新版本的试用时长变为了**30天**。
 
 <span style="color: #ff0000">**请务必下载带有后缀`.rename`的版本，可以绕过QQ的安全检查。**</span>
 
