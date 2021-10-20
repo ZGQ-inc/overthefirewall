@@ -330,21 +330,21 @@ Unrestricted access to the Internet
 <span id="ExpressVPN_instructions"></span>
 **使用方法**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
 
-> 如果**无法进入**，出现此信息`Free trial is unavailable.`
+> 如果<font size="5">**无法进入**</font>，出现此信息`Free trial is unavailable.`
 
 **按照步骤**：
 1. 转到应用程序的`应用程序信息`，清除数据
 2. 打开`飞行模式`，然后关闭
 3. 重新按照[使用方法](#ExpressVPN_instructions)操作
 
-> 如果**无法连接**，请点击按钮下方`节点列表`，选择下方推荐的节点
+> 如果<font size="5">**无法连接**</font>，请点击按钮下方`节点列表`，选择下方推荐的节点
 
 - United States
 - Singapore - Marina Bay
 - UK - Wembley
 - Japan
 
-**`如何判断试用期过期？`**
+<font size="5">**`如何判断试用期过期？`**</font>
 
 当**通知栏**或**应用内部弹窗**提示
 
@@ -358,9 +358,9 @@ Unrestricted access to the Internet
 
 `Free trial expires in □ days`
 
-这将会是剩余试用天数。
+这将会是**剩余试用天数**。
 
-**`如何设置分应用代理？`**
+<font size="5">**`如何设置分应用代理？`**</font>
 
 > 可选的步骤
 
@@ -370,10 +370,11 @@ Unrestricted access to the Internet
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
 -->
 
-[最新测速结果](https://zgqinc-my.sharepoint.com/:x:/g/personal/zgq_zgqinc_onmicrosoft_com/ERlGmtlYvYFEgF2IcRR9eKkBMo5JnsujACdIO0u6Lj1N_g?e=kmK5tb)
+[<font size="6">最新测速结果</font>](https://zgqinc-my.sharepoint.com/:x:/g/personal/zgq_zgqinc_onmicrosoft_com/ERlGmtlYvYFEgF2IcRR9eKkBMo5JnsujACdIO0u6Lj1N_g?e=kmK5tb)
 
 `历史测速最高33MB/s` ：结果来自群员测速
 
+<!--
 **※注意**：再次强调请<span style="color: #FF0004">**随便输入一个邮箱地址**</span>，格式可以是
 
 > [乱输]@[乱输].com
@@ -387,8 +388,9 @@ Unrestricted access to the Internet
 **`为什么特地说明随便输入邮箱地址？`**
 
 因为总有人把自己的邮箱填上去，导致此邮箱试用期被浪费，万一哪天破解版不可用，连自己邮箱的试用也没了，那会很难堪。
+-->
 
-**`为什么推荐ExpressVPN？`**
+<font size="5">**`为什么推荐ExpressVPN？`**</font>
 
 **总结以下几点**
 
