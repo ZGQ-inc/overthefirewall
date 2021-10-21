@@ -344,7 +344,7 @@ Unrestricted access to the Internet
 - UK - Wembley
 - Japan
 
-**`<font size="5">如何判断试用期过期？</font>`**
+**<font size="5">如何判断试用期过期？</font>**
 
 当**通知栏**或**应用内部弹窗**提示
 
@@ -360,7 +360,7 @@ Unrestricted access to the Internet
 
 这将会是**剩余试用天数**。
 
-**`<font size="5">如何设置分应用代理？</font>`**
+**<font size="5">如何设置分应用代理？</font>**
 
 > 可选的步骤
 
@@ -390,7 +390,7 @@ Unrestricted access to the Internet
 因为总有人把自己的邮箱填上去，导致此邮箱试用期被浪费，万一哪天破解版不可用，连自己邮箱的试用也没了，那会很难堪。
 -->
 
-**`<font size="5">为什么推荐ExpressVPN？</font>`**
+**<font size="5">为什么推荐ExpressVPN？</font>**
 
 **总结以下几点**
 
