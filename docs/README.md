@@ -49,8 +49,11 @@ Beta 重大改版发布版
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks免费上网账号](#freess)
 + [96个节点池合集](#ProxypoolCollection)
++ [84个免费机场合集](#AirfieldCollection)
 
-[ExpressVPN 全球第一](#ExpressVPN) `破解版`
+[ExpressVPN 全球第一](#ExpressVPN)
++ [Android](#ExpressVPN_Android) `破解版`
++ [Windows](#ExpressVPN_Windows) `注册码分享`
 
 <!--
 + [稳定版](#ExpressVPN_stable)
@@ -282,14 +285,27 @@ Unrestricted access to the Internet
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/main/docs/proxypool.md)
 
+
+<span id="AirfieldCollection"></span>
+- <font size="5">84个免费机场合集</font>
+
+[点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/68e38ba4a460fc1990ee5190dcdeae419ead0e9a/docs/airfield.md)
+
 ***
 
 <span id="ExpressVPN"></span>
 # ExpressVPN
 
-`Android应用程序`
+- 官网
+
+High-Speed, Secure & Anonymous VPN Service | ExpressVPN
+
+https://www.expressvpn.com/
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/express-logo-2021.png)
+
+<span id="ExpressVPN_Android"></span>
+# Android
 
 <!--
 ~~<span style="color: #FF0004">最近很多人反馈第二次无法进入，仍旧跳出购买界面，备用方案有2个，但是不一定可行，如果动用备用方案要花很长时间做使用教程，况且本人学业繁忙没什么时间...**白嫖半年终翻车**，太痛苦了。</span>~~
@@ -365,6 +381,35 @@ Unrestricted access to the Internet
 > 可选的步骤
 
 点击`侧边栏`，进入`Settings`，点击`Split Tunneling`，选择`Do not allow selected apps to use the VPN`，点击右边`+`添加**不需要代理的应用**
+
+<span id="ExpressVPN_Windows"></span>
+# Windows
+
+注册码分享（不定时更新）
+
+> 1.
+> 
+> 邮箱：nabire8874@settags.com
+> 
+> 密码：cUFULF4s
+> 
+> 注册码：EEDKRYQEBWXJG2NYVGZUCFN
+
+> 2.
+> 
+> 邮箱：neyara4799@otozuz.com
+> 
+> 密码：cQkCLngo
+> 
+> 注册码：EOSETMKMZ9RRIYACLC4J4YU
+
+> 3.
+> 
+> 邮箱：siravi2437@settags.com
+> 
+> 密码：c5GXBgLo
+> 
+> 注册码：EHM3BCXE99N69KLCYYGRUU2
 
 <!--
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
