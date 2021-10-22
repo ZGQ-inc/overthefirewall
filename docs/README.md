@@ -385,6 +385,12 @@ https://www.expressvpn.com/
 <span id="ExpressVPN_Windows"></span>
 # Windows
 
+官方软件下载地址
+
+[蓝奏云](https://zgq-inc.lanzoui.com/io95avn7vob)
+
+[蓝奏云直链](https://dev16.baidupan.com/102222bb/2021/10/22/1ca94889658424cf33752518332c1705.exe?st=Ril1oxJFRUasers6TiVZiQ&e=1634916142&b=BxAOdgV1VyBRYV57BSYDcQUgDT8EWgJbAGIOMwApVW8IdF5uV3kDNwNvXlcAIgJjVG0NNA1tC34GMFx_aBWdSKAcw&fi=54879001&pid=101-88-127-67&up=2)
+
 注册码分享（不定时更新）
 
 > 1.
