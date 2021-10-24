@@ -696,7 +696,15 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
-[谷歌商店应用下载](https://apkpure.com/cn)
+[APKPure Store-知名第三方谷歌商店](http://a.ruansky.com/up/261281)
+
+[Appvn-第三方谷歌商店](http://a.ruansky.com/up/261239)
+
+[Aptoide-第三方谷歌商店](http://a.ruansky.com/up/256651)
+
+[Aurora Store-第三方谷歌商店](http://a.ruansky.com/up/232774)
+
+[Uptodown App Store-第三方谷歌商店](http://a.ruansky.com/up/232202)
 
 官方渠道搬运（已停更）
 
@@ -707,11 +715,15 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/YouTube-logo.png)
 
-[Vanced Manager-第三方YouTube](http://a.ruansky.com/up/108761)
+[Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259)
+
+[Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
 
 [Snaptube-油管视频下载器](http://a.ruansky.com/up/226243)
 
 [TubeMate（版本更新）-油管视频下载器](http://a.ruansky.com/up/179362)
+
+[PowerTube-视频下载器](http://a.ruansky.com/up/254341)
 
 <span id="Twitter"></span>
 - Twitter
@@ -719,6 +731,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/twitter.png)
 
 [推特直连版](http://a.ruansky.com/up/117084)
+
+[Talon-第三方Twitter](http://a.ruansky.com/up/202613)
 
 <span id="Facebook"></span>
 - Facebook
@@ -736,8 +750,6 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Netflix by APKMODY](http://a.ruansky.com/up/188158)
 
-[VivaTV](http://a.ruansky.com/up/111615)
-
 <span id="Spotify"></span>
 - Spotify
 
@@ -749,14 +761,14 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [xManager-Spotify破解版下载](http://a.ruansky.com/up/165744)
 
-[SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/223509)
+[SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/261332)
 
 <span id="Pixiv"></span>
 - Pixiv
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Pixiv-logo.png)
 
-[官方版破解会员](http://a.ruansky.com/up/226275)
+[官方版破解会员](http://a.ruansky.com/up/267037)
 
 [第三方客户端Shaft](http://a.ruansky.com/up/88394)
 
