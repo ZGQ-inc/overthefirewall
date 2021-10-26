@@ -73,18 +73,18 @@ Beta 重大改版发布版
 [2021翻墙VPN推荐指南&黑名单](#guide)
 
 [软件](#software)
-+  [Telegram](#Telegram)
-+  [Google Play & GMS](#Google)
-+  [YouTube](#YouTube)
-+  [Twitter](#Twitter)
-+  [Facebook](#Facebook)
-+  [Netflix](#Netflix)
-+  [Spotify](#Spotify)
-+  [Pixiv](#Pixiv)
-+  [WhatsApp](#WhatsApp)
-+  [Reddit](#Reddit)
-+  [Instagram](#Instagram)
-+  [我的上传](#Upload)
++  [Telegram](#Telegram) `直连版` `主题`
++  [Google Play & GMS](#Google) `安装器` `第三方`
++  [YouTube](#YouTube) `下载器` `第三方`
++  [Twitter](#Twitter) `直连版` `第三方`
++  [Facebook](#Facebook) `第三方`
++  [Netflix](#Netflix) `第三方`
++  [Spotify](#Spotify) `下载器` `破解版`
++  [Pixiv](#Pixiv) `破解版` `第三方`
++  [WhatsApp](#WhatsApp) `第三方`
++  [Reddit](#Reddit) `第三方`
++  [Instagram](#Instagram) `第三方`
++  [我的上传](#Upload) `上千破解软件`
 
 [赞助内容](#sponsor)
 
@@ -759,13 +759,15 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Spotify-logo.png)
 
+<!--
 [完整版破解高级功能](http://a.ruansky.com/up/136841)
-
-[Lite版破解高级功能](http://a.ruansky.com/up/136843)
+-->
 
 [xManager-Spotify破解版下载](http://a.ruansky.com/up/165744)
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/261332)
+
+[Lite版破解高级功能](http://a.ruansky.com/up/136843)
 
 <span id="Pixiv"></span>
 - <font size="5">Pixiv</font>
