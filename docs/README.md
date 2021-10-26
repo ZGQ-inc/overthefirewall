@@ -74,7 +74,7 @@ Beta 重大改版发布版
 
 [软件](#software)
 +  [Telegram](#Telegram)
-+  [Google](#Google)
++  [Google Play & GMS](#Google)
 +  [YouTube](#YouTube)
 +  [Twitter](#Twitter)
 +  [Facebook](#Facebook)
@@ -451,12 +451,14 @@ https://www.expressvpn.com/
 
 2. 还有**两三天更新一波节点，平均一个月会有一次大更新**，防止节点IP被GFW封锁，这也就是为什么**敏感时期照样好用的原因**，其它都有几个能做到？
 
-3. 再有就是照顾大陆用户，提供的**服务质量全球保持一致**，有些节点**针对大陆GFW进行混淆优化**，但是不可能所有都给你优化一遍，毕竟GFW太厉害了。
+3. 再有就是照顾大陆用户，提供的**服务质量全球保持一致**，有些节点**针对大陆GFW（长城防火墙）进行混淆优化**，但是不可能所有都给你优化一遍，毕竟GFW太厉害了。
 
 ***
 
 <span id="SamsungMax"></span>
 # Samsung Max
+
+`Android应用程序`
 
 来自三星的隐私 VPN，具有免费和高级级别 + 强大的数据节省功能
 
@@ -496,6 +498,8 @@ https://www.expressvpn.com/
 
 <span id="EveryProxy"></span>
 # EveryProxy
+
+`Android应用程序`
 
 共享手机VPN给其它设备
 
@@ -681,7 +685,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 # 软件
 
 <span id="Telegram"></span>
-- Telegram
+- <font size="5">Telegram</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Telegram-logo.jpg)
 
@@ -690,7 +694,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
 <span id="Google"></span>
-- Google
+- <font size="5">Google Play & GMS</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/google-play-logo.jpg)
 
@@ -706,12 +710,12 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Uptodown App Store-第三方谷歌商店](http://a.ruansky.com/up/232202)
 
-官方渠道搬运（已停更）
+`官方渠道搬运（已停更）`
 
 [蓝奏云](https://zgq-inc.lanzoui.com/b00nj0mlg)
 
 <span id="YouTube"></span>
-- YouTube
+- <font size="5">YouTube</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/YouTube-logo.png)
 
@@ -726,7 +730,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [PowerTube-视频下载器](http://a.ruansky.com/up/254341)
 
 <span id="Twitter"></span>
-- Twitter
+- <font size="5">Twitter</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/twitter.png)
 
@@ -735,23 +739,23 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Talon-第三方Twitter](http://a.ruansky.com/up/202613)
 
 <span id="Facebook"></span>
-- Facebook
+- <font size="5">Facebook</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Facebook-white.png)
 
 [Swipe-第三方Facebook](http://a.ruansky.com/up/226321)
 
 <span id="Netflix"></span>
-- Netflix
+- <font size="5">Netflix</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Netflix-logo.png)
 
-第三方网飞
+`第三方网飞`
 
 [Netflix by APKMODY](http://a.ruansky.com/up/188158)
 
 <span id="Spotify"></span>
-- Spotify
+- <font size="5">Spotify</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Spotify-logo.png)
 
@@ -764,7 +768,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/261332)
 
 <span id="Pixiv"></span>
-- Pixiv
+- <font size="5">Pixiv</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Pixiv-logo.png)
 
@@ -773,21 +777,21 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [第三方客户端Shaft](http://a.ruansky.com/up/88394)
 
 <span id="WhatsApp"></span>
-- WhatsApp
+- <font size="5">WhatsApp</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/WhatsApp-logo.jpg)
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
 <span id="Reddit"></span>
-- Reddit
+- <font size="5">Reddit</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/bb4104a47fae72f2b4bafe9f9cd3647accc9a55f/image/Reddit-logo.jpg)
 
 [rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/226268)
 
 <span id="Instagram"></span>
-- Instagram
+- <font size="5">Instagram</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/29ecb1a435572e877d39f16f79c10e58176777ff/image/Instagram-logo.jpg)
 
@@ -796,7 +800,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
 
 <span id="Upload"></span>
-- 我的上传
+- <font size="5">我的上传</font>
 
 项目作者在`软天空`平台分享的软件资源
 
@@ -811,7 +815,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span style="color: #ff0000">不再更新，请进赞助群获取。</span>
 
-> - 起飞交流群
+> - <font size="5">起飞交流群</font>
 >
 > [Q群链接](https://dwz.mk/63qiay)
 >
@@ -821,7 +825,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 >
 > [Telegram群组](https://t.me/freessrvpn) @freessrvpn
 > 
-> - 中国白嫖党
+> - <font size="5">中国白嫖党</font>
 >
 > [Telegram群组](https://t.me/CN_baipiaodang)
 >
