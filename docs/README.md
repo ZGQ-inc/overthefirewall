@@ -325,6 +325,8 @@ https://www.expressvpn.com/
 
 **破解版**进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.8群！2.8群！2.8群！</font>**</span>的群文件获取。
 
+**<font size="5">破解内容</font>**：<span style="color: #ff0000">无限试用。</span>
+
 **群文件搜索：`express` 下载以下版本**
 
 - **<font size="4">稳定版</font>**
@@ -333,6 +335,8 @@ https://www.expressvpn.com/
 **`ExpressVPN v10.9.0 RahulModz [Premium].apk.rename`**
 
 `27.3MB`
+
+此版本的试用时长为**<font size="5">7天</font>**。
 
 - **<font size="4">公测版</font>**
 
@@ -345,14 +349,12 @@ https://www.expressvpn.com/
 
 即可获得**未完全测试可用性的最新版本**。
 
-新版本的试用时长变为了**30天**。
+新版本的试用时长变为了**<font size="5">30天</font>**。
 
 <span style="color: #ff0000">**请务必下载带有后缀`.rename`的版本，可以绕过QQ的安全检查。**</span>
 
-**破解内容**：<span style="color: #ff0000">无限七天试用。</span>
-
 <span id="ExpressVPN_instructions"></span>
-**使用方法**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。7天过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
+**<font size="5">使用方法</font>**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照流程操作一遍。
 
 > 如果**<font size="5">无法进入</font>**，出现此信息`Free trial is unavailable.`
 
