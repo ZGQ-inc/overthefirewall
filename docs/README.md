@@ -298,14 +298,19 @@ Unrestricted access to the Internet
 
 - 官网
 
-High-Speed, Secure & Anonymous VPN Service | ExpressVPN
+**高速、安全且匿名的 VPN 服务**
+
+**High-Speed, Secure & Anonymous VPN Service**
 
 https://www.expressvpn.com/
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/express-logo-2021.png)
 
-<span id="ExpressVPN_Android"></span>
-# Android
+极力推荐Express VPN，基本可以稳定在**7MB/s**，历史测速最高**33MB/s**`*`。
+
+[<font size="6">最新测速结果</font>](https://zgqinc-my.sharepoint.com/:x:/g/personal/zgq_zgqinc_onmicrosoft_com/ERlGmtlYvYFEgF2IcRR9eKkBMo5JnsujACdIO0u6Lj1N_g?e=kmK5tb)
+
+`历史测速最高33MB/s` ：结果来自群员测速
 
 <!--
 ~~<span style="color: #FF0004">最近很多人反馈第二次无法进入，仍旧跳出购买界面，备用方案有2个，但是不一定可行，如果动用备用方案要花很长时间做使用教程，况且本人学业繁忙没什么时间...**白嫖半年终翻车**，太痛苦了。</span>~~
@@ -315,7 +320,10 @@ https://www.expressvpn.com/
 <span style="color: #FF0004">9月8日发现可用版本，惯例进群下载。</span>
 -->
 
-极力推荐Express VPN，基本可以稳定在**7MB/s**，历史测速最高**33MB/s**`*`，破解版进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.8群！2.8群！2.8群！</font>**</span>的群文件获取。
+<span id="ExpressVPN_Android"></span>
+# Android
+
+**破解版**进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.8群！2.8群！2.8群！</font>**</span>的群文件获取。
 
 **群文件搜索：`express` 下载以下版本**
 
@@ -420,10 +428,6 @@ https://www.expressvpn.com/
 <!--
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
 -->
-
-[<font size="6">最新测速结果</font>](https://zgqinc-my.sharepoint.com/:x:/g/personal/zgq_zgqinc_onmicrosoft_com/ERlGmtlYvYFEgF2IcRR9eKkBMo5JnsujACdIO0u6Lj1N_g?e=kmK5tb)
-
-`历史测速最高33MB/s` ：结果来自群员测速
 
 <!--
 **※注意**：再次强调请<span style="color: #FF0004">**随便输入一个邮箱地址**</span>，格式可以是
