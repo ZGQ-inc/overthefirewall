@@ -53,12 +53,9 @@ Beta 重大改版发布版
 
 [ExpressVPN 全球第一](#ExpressVPN)
 + [Android](#ExpressVPN_Android) `破解版`
+  - [稳定版](#ExpressVPN_stable)
+  - [公测版](#ExpressVPN_nightly)
 + [Windows](#ExpressVPN_Windows) `注册码分享`
-
-<!--
-+ [稳定版](#ExpressVPN_stable)
-+ [公测版](#ExpressVPN_nightly)
--->
 
 [SamsungMax 三星旗下隐私保护软件](#SamsungMax) `破解版`
 
@@ -110,7 +107,7 @@ Beta 重大改版发布版
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Android-logo.png)
 
-**<font size="6" color="#FF0000">安卓推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
 
 <font size="5" color="#FF0000">★★★★★五星推荐</font>
 
@@ -144,6 +141,10 @@ Beta 重大改版发布版
 
 <span id="Windows"></span>
 ## Windows
+
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
+
+<font size="5" color="#FF0000">★★★★★五星推荐</font>
 
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Win10-logo.png)
 
