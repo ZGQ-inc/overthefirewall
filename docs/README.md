@@ -297,8 +297,6 @@ Unrestricted access to the Internet
 <span id="ExpressVPN"></span>
 # ExpressVPN
 
-- 官网
-
 **高速、安全且匿名的 VPN 服务**
 
 **High-Speed, Secure & Anonymous VPN Service**
@@ -324,7 +322,7 @@ https://www.expressvpn.com/
 <span id="ExpressVPN_Android"></span>
 # Android
 
-**破解版**进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[我的资源群](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.8群！2.8群！2.8群！</font>**</span>的群文件获取。
+**破解版**进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[**<font size="5">我的资源群</font>**](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.8群！2.8群！2.8群！</font>**</span>的群文件获取。
 
 **<font size="5">破解内容</font>**：<span style="color: #ff0000">无限试用。</span>
 
