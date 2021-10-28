@@ -305,7 +305,7 @@ https://www.expressvpn.com/
 
 [<font size="6">最新测速结果</font>](https://zgqinc-my.sharepoint.com/:x:/g/personal/zgq_zgqinc_onmicrosoft_com/ERlGmtlYvYFEgF2IcRR9eKkBMo5JnsujACdIO0u6Lj1N_g?e=kmK5tb)
 
-`历史测速最高33MB/s` ：结果来自群员测速
+`历史测速最高33MB/s` ：结果来自群员测速。
 
 <!--
 ~~<span style="color: #FF0004">最近很多人反馈第二次无法进入，仍旧跳出购买界面，备用方案有2个，但是不一定可行，如果动用备用方案要花很长时间做使用教程，况且本人学业繁忙没什么时间...**白嫖半年终翻车**，太痛苦了。</span>~~
@@ -320,7 +320,7 @@ https://www.expressvpn.com/
 
 **破解版**进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[**<font size="5">我的资源群</font>**](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.8群！2.8群！2.8群！</font>**</span>的群文件获取。
 
-**<font size="5">破解内容</font>**：<span style="color: #ff0000">无限试用。</span>
+**<font size="4">破解内容</font>**：<span style="color: #ff0000">无限试用。</span>
 
 **群文件搜索：`express` 下载以下版本**
 
@@ -349,7 +349,7 @@ https://www.expressvpn.com/
 <span style="color: #ff0000">**请务必下载带有后缀`.rename`的版本，可以绕过QQ的安全检查。**</span>
 
 <span id="ExpressVPN_instructions"></span>
-**<font size="5">使用方法</font>**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_instructions)操作一遍。
+**<font size="4">使用方法</font>**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_instructions)操作一遍。
 
 > 如果**<font size="5">无法进入</font>**，出现此信息`Free trial is unavailable.`
 
@@ -385,18 +385,18 @@ https://www.expressvpn.com/
 
 > 可选的步骤
 
-点击`侧边栏`，进入`Settings`，点击`Split Tunneling`，选择`Do not allow selected apps to use the VPN`，点击右边`+`添加**不需要代理的应用**
+点击`侧边栏`，进入`Settings`，点击`Split Tunneling`，选择`Do not allow selected apps to use the VPN`，点击右边`+`添加**不需要代理的应用**。
 
 <span id="ExpressVPN_Windows"></span>
 # Windows
 
-官方软件下载地址
+- **<font size="4">官方软件下载地址</font>**
 
 [蓝奏云](https://zgq-inc.lanzoui.com/io95avn7vob)
 
 [蓝奏云直链](https://dev16.baidupan.com/102222bb/2021/10/22/1ca94889658424cf33752518332c1705.exe?st=Ril1oxJFRUasers6TiVZiQ&e=1634916142&b=BxAOdgV1VyBRYV57BSYDcQUgDT8EWgJbAGIOMwApVW8IdF5uV3kDNwNvXlcAIgJjVG0NNA1tC34GMFx_aBWdSKAcw&fi=54879001&pid=101-88-127-67&up=2)
 
-注册码分享（不定时更新）
+- **<font size="4">注册码分享（不定时更新）</font>**
 
 > 1.
 > 
@@ -465,9 +465,13 @@ https://www.expressvpn.com/
 
 [谷歌商店](https://play.google.com/store/apps/details?id=com.opera.max.global)
 
-[下载地址（蓝奏云）](https://zgq-inc.lanzoui.com/i75oIuhtpqh)
+- **<font size="4">下载地址</font>**
 
-破解内容：已升级至 `Deluxe+`
+[蓝奏云](https://zgq-inc.lanzoui.com/i75oIuhtpqh)
+
+[蓝奏云直链](https://developer78.baidupan.com/102820bb/2021/09/25/59bfe9821863b8a30364b3902363d5f9.apk?st=pdUXzSrYqqnIgRsWTWck4Q&e=1635427468&b=BQQKa1U4A3UDI1ZuBTIOVQYeXmMNdFAJVDMJKgczVnpTNw86BFtWHgAgBSBVcQFNATUOJFA0AFkIGlxjB1pWFQUHCkFVewMoAzdWcAU_b&fi=52947747&pid=94-177-118-138&up=2)
+
+**<font size="4">破解内容</font>**：已升级至 `Deluxe+`
 
 所有功能均已解锁，所有广告均已移除。您现在可以选择位置。
 
@@ -544,13 +548,13 @@ https://www.expressvpn.com/
 
 `提供HTTP/SOCKS 4/SOCKS 5协议的节点`
 
-**破解内容**：高级功能已解锁
+**<font size="4">破解内容</font>**：高级功能已解锁。
 
 与[节点池](#proxypool)类似
 
 [应用介绍&下载](http://a.ruansky.com/up/122377)
 
-[直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
+[Github直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
 
 ***
 
