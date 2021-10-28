@@ -1,6 +1,6 @@
 # [节点订阅 β](https://zgq-inc.github.io/overthefirewall/)
 
-**已取消README.md，请点击上方蓝体字进入渲染页面查看。**
+## 已取消README.md，请点击上方蓝体字进入渲染页面查看。
 
 **★覆盖全平台★完全免费★节点订阅★机场推荐★**
 
