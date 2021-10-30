@@ -348,15 +348,15 @@ https://www.expressvpn.com/
 
 <span style="color: #ff0000">**请务必下载带有后缀`.rename`的版本，可以绕过QQ的安全检查。**</span>
 
-<span id="ExpressVPN_instructions"></span>
-**<font size="4">使用方法</font>**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意点击，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_instructions)操作一遍。
+<span id="ExpressVPN_Android_instructions"></span>
+**<font size="4">使用方法</font>**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
 
 > 如果**<font size="5">无法进入</font>**，出现此信息`Free trial is unavailable.`
 
 **按照步骤**：
 1. 转到应用程序的`应用程序信息`，清除数据
 2. 打开`飞行模式`，然后关闭
-3. 重新按照[使用方法](#ExpressVPN_instructions)操作
+3. 重新按照[使用方法](#ExpressVPN_Android_instructions)操作
 
 > 如果**<font size="5">无法连接</font>**，请点击按钮下方`节点列表`，选择下方推荐的节点
 
@@ -375,7 +375,7 @@ https://www.expressvpn.com/
 > 
 > Your ExpressVPN trial will expire in 24 hours.
 
-说明24小时后即到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照[使用方法](#ExpressVPN_instructions)操作**。
+说明24小时后即到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照[使用方法](#ExpressVPN_Android_instructions)操作**。
 
 在新版本`10.9.0`及以上，首页最上方会显示
 
@@ -400,29 +400,42 @@ https://www.expressvpn.com/
 
 - **<font size="4">注册码分享（不定时更新）</font>**
 
+<span id="ExpressVPN_Windows_instructions"></span>
+**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写`注册码`，点击`Continue`，如遇登录失败，请额外填写邮箱和密码，之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
+
+首页最上方显示
+
+`Free trial expires in □ days`
+
+这将会是**剩余试用天数**。<span style="color: #FF0004">试用期过后将不可用</span>，点击`Sign Out`退出登录，**见文档内最新注册码**，重新按照[使用方法](#ExpressVPN_Windows_instructions)操作一遍。
+
 > 1.
+> 
+> 注册码：EEDKRYQEBWXJG2NYVGZUCFN
 > 
 > 邮箱：nabire8874@settags.com
 > 
 > 密码：cUFULF4s
-> 
-> 注册码：EEDKRYQEBWXJG2NYVGZUCFN
 
 > 2.
+> 
+> 注册码：EOSETMKMZ9RRIYACLC4J4YU
 > 
 > 邮箱：neyara4799@otozuz.com
 > 
 > 密码：cQkCLngo
-> 
-> 注册码：EOSETMKMZ9RRIYACLC4J4YU
+
 
 > 3.
+> 
+> 注册码：EHM3BCXE99N69KLCYYGRUU2
 > 
 > 邮箱：siravi2437@settags.com
 > 
 > 密码：c5GXBgLo
-> 
-> 注册码：EHM3BCXE99N69KLCYYGRUU2
+
+
+> 更新时间：2021/10/24
 
 <!--
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
