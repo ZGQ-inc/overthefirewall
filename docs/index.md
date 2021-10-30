@@ -65,7 +65,7 @@
 
 [2021翻墙VPN推荐指南&黑名单](#guide)
 
-[软件](#software)
+[Android软件](#Android_software)
 +  [Telegram](#Telegram) `直连版` `主题`
 +  [Google Play & GMS](#Google) `安装器` `第三方`
 +  [YouTube](#YouTube) `下载器` `第三方`
@@ -701,8 +701,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 ***
 
-<span id="software"></span>
-# 软件
+<span id="Android_software"></span>
+# Android软件
 
 <span id="Telegram"></span>
 - <font size="5">Telegram</font>
