@@ -351,21 +351,21 @@ https://www.expressvpn.com/
 <span id="ExpressVPN_Android_instructions"></span>
 **<font size="4">使用方法</font>**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
 
-> 如果**<font size="5">无法进入</font>**，出现此信息`Free trial is unavailable.`
+> 如果**<font size="5">无法进入</font>**，出现此信息`Free trial is unavailable.`。
 
 **按照步骤**：
 1. 转到应用程序的`应用程序信息`，清除数据
 2. 打开`飞行模式`，然后关闭
 3. 重新按照[使用方法](#ExpressVPN_Android_instructions)操作
 
-> 如果**<font size="5">无法连接</font>**，请点击按钮下方`节点列表`，选择下方推荐的节点
+> 如果**<font size="5">无法连接</font>**，请点击按钮下方`节点列表`，选择下方推荐的节点。
 
 - United States
 - Singapore - Marina Bay
 - UK - Wembley
 - Japan
 
-大陆地区只有部分节点能连上，因为只有这些节点针对大陆GFW（长城防火墙）做了混淆优化，IP不会被封禁。**来自官方公告**。
+大陆地区只有部分节点能连上，因为只有这些节点**针对大陆GFW（长城防火墙）做了混淆优化，IP不会被封禁**。**来自官方公告**。
 
 **<font size="5">如何判断试用期过期？</font>**
 
@@ -398,6 +398,7 @@ https://www.expressvpn.com/
 
 [蓝奏云直链](https://dev16.baidupan.com/102222bb/2021/10/22/1ca94889658424cf33752518332c1705.exe?st=Ril1oxJFRUasers6TiVZiQ&e=1634916142&b=BxAOdgV1VyBRYV57BSYDcQUgDT8EWgJbAGIOMwApVW8IdF5uV3kDNwNvXlcAIgJjVG0NNA1tC34GMFx_aBWdSKAcw&fi=54879001&pid=101-88-127-67&up=2)
 
+<span id="ExpressVPN_account"></span>
 - **<font size="4">注册码分享（不定时更新）</font>**
 
 <span id="ExpressVPN_Windows_instructions"></span>
@@ -436,6 +437,20 @@ https://www.expressvpn.com/
 
 
 > 更新时间：2021/10/24
+
+> 如果**<font size="5">无法连接</font>**，请点击按钮下方`节点列表`，选择下方推荐的节点
+
+- United States
+- Singapore - Marina Bay
+- UK - Wembley
+- Japan
+
+大陆地区只有部分节点能连上，因为只有这些节点针对大陆GFW（长城防火墙）做了混淆优化，IP不会被封禁。**来自官方公告**。
+
+> 如果**<font size="5">出现窗口`Connection Limit Reached`</font>**，是由于免费试用的账号同时只能给**一台设备**连接。
+
+点击左上角`菜单栏`，点击`Sign Out`退出账号，选择其它[注册码](#ExpressVPN_account)登录。
+
 
 <!--
 [图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
@@ -567,9 +582,11 @@ https://www.expressvpn.com/
 
 与[节点池](#proxypool)类似
 
-[应用介绍&下载](http://a.ruansky.com/up/122377)
+[应用介绍&下载](http://a.ruansky.com/up/273391)
 
+<!--
 [Github直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
+-->
 
 ***
 
