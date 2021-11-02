@@ -1,6 +1,4 @@
-**★覆盖全平台★完全免费★节点订阅★机场推荐★**
-
-**v2ray/shadowsocks/clash**
+**<font size="5">★覆盖全平台★完全免费★节点订阅★机场推荐★破解VPN软件分享★</font>**
 
 项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
 
@@ -14,7 +12,9 @@
 
 **温馨提示**：本文档中所有`蓝体字/下划线`可点击
 
+<!--
 <span style="color: #C1C1C1">目录跳转已修复</span>
+-->
 
 ***
 ***
@@ -39,11 +39,11 @@
 + [未整理&其它](#others)
 
 [订阅平台](#sub)
-+ [BuLink永久免费网络加速](#BuLink)
++ [BuLink 永久免费网络加速](#BuLink)
 + [自由人士](#freeperson)
 + [iKuuu](#iKuuu)
 + [节点池-SOCKS5](#proxypool)
-+ [Shadowsocks免费上网账号](#freess)
++ [Shadowsocks 免费上网账号](#freess)
 + [96个节点池合集](#ProxypoolCollection)
 + [84个免费机场合集](#AirfieldCollection)
 
@@ -55,11 +55,13 @@
 
 [SamsungMax 三星旗下隐私保护软件](#SamsungMax) `破解版`
 
-[共享手机VPN给其它设备EveryProxy](#EveryProxy)
+[Get Shadowrocket iOS小火箭账号分享](#GetShadowrocket)
 
-[Steam加速器 Steam++](#Steam++)
+[EveryProxy 共享手机VPN给其它设备](#EveryProxy)
 
-[全球IP共享 Blockanet](#BlockaNet) `破解版`
+[Steam++ Steam加速器](#Steam++)
+
+[Blockanet 全球IP共享](#BlockaNet) `破解版`
 
 [解决DNS污染问题](#DNS)
 
@@ -101,7 +103,9 @@
 <span id="Android"></span>
 ## Android
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Android-logo.png)
+-->
 
 **<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
 
@@ -110,7 +114,9 @@
 <span id="v2rayNG"></span>
 + <font size="5">v2rayNG</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png)
+-->
 
 `由于更新太频繁，采用Github直链`
 
@@ -123,7 +129,9 @@
 <span id="Clash"></span>
 + <font size="5">Clash</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png)
+-->
 
 [32位（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
 
@@ -142,12 +150,16 @@
 
 <font size="5" color="#FF0000">★★★★★五星推荐</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Win10-logo.png)
+-->
 
 <span id="v2rayN"></span>
 + <font size="5">v2rayN</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png)
+-->
 
 `由于更新太频繁，采用Github直链`
 
@@ -160,7 +172,9 @@
 <span id="ClashR"></span>
 + <font size="5">ClashR</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png)
+-->
 
 [蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
 
@@ -178,12 +192,18 @@
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/iOS-iPadOS-logo.png)
+-->
+
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Get Shadowrocket</font>](#GetShadowrocket)
 
 <span id="OneClick"></span>
 + <font size="5">OneClick</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/oneclick-logo.png)
+-->
 
 Unrestricted access to the Internet
 
@@ -194,7 +214,9 @@ Unrestricted access to the Internet
 <span id="MacOS"></span>
 ## MacOS
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/MacOS-logo.png)
+-->
 
 <span id="v2rayU"></span>
 + <font size="5">v2rayU</font>
@@ -204,7 +226,9 @@ Unrestricted access to the Internet
 <span id="Linux"></span>
 ## ~~Linux~~
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Linux-logo.png)
+-->
 
 ~~正在施工~~
 
@@ -299,7 +323,9 @@ Unrestricted access to the Internet
 
 https://www.expressvpn.com/
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/express-logo-2021.png)
+-->
 
 极力推荐Express VPN，基本可以稳定在**7MB/s**，历史测速最高**33MB/s**`*`。
 
@@ -531,6 +557,15 @@ https://www.expressvpn.com/
 
 ***
 
+<span id="GetShadowrocket"></span>
+# Get Shadowrocket
+
+Apple ID 已购买小火箭（Shadowrocket）账号分享
+
+[网址](https://free.shadowrocket.online/)
+
+***
+
 <span id="EveryProxy"></span>
 # EveryProxy
 
@@ -583,10 +618,6 @@ https://www.expressvpn.com/
 与[节点池](#proxypool)类似
 
 [应用介绍&下载](http://a.ruansky.com/up/273391)
-
-<!--
-[Github直链下载](https://github.com/ZGQ-inc/overthefirewall/raw/main/BlockaNetFreeProxyListPROv1.40build70Mod_A2ZAPK.COM.apk)
--->
 
 ***
 
@@ -724,7 +755,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Telegram"></span>
 - <font size="5">Telegram</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Telegram-logo.jpg)
+-->
 
 [Android直连版](http://a.ruansky.com/up/199832)
 
@@ -733,7 +766,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Google"></span>
 - <font size="5">Google Play & GMS</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/google-play-logo.jpg)
+-->
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
@@ -745,7 +780,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Aurora Store-第三方谷歌商店](http://a.ruansky.com/up/232774)
 
-[Uptodown App Store-第三方谷歌商店](http://a.ruansky.com/up/232202)
+[Uptodown App Store-第三方谷歌商店](http://a.ruansky.com/up/273533)
 
 `官方渠道搬运（已停更）`
 
@@ -754,7 +789,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="YouTube"></span>
 - <font size="5">YouTube</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/YouTube-logo.png)
+-->
 
 [Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259)
 
@@ -769,7 +806,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Twitter"></span>
 - <font size="5">Twitter</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/twitter.png)
+-->
 
 [推特直连版](http://a.ruansky.com/up/117084)
 
@@ -778,14 +817,18 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Facebook"></span>
 - <font size="5">Facebook</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Facebook-white.png)
+-->
 
 [Swipe-第三方Facebook](http://a.ruansky.com/up/226321)
 
 <span id="Netflix"></span>
 - <font size="5">Netflix</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Netflix-logo.png)
+-->
 
 `第三方网飞`
 
@@ -794,7 +837,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Spotify"></span>
 - <font size="5">Spotify</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Spotify-logo.png)
+-->
 
 <!--
 [完整版破解高级功能](http://a.ruansky.com/up/136841)
@@ -809,7 +854,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Pixiv"></span>
 - <font size="5">Pixiv</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Pixiv-logo.png)
+-->
 
 [官方版破解会员](http://a.ruansky.com/up/267037)
 
@@ -818,21 +865,27 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="WhatsApp"></span>
 - <font size="5">WhatsApp</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/WhatsApp-logo.jpg)
+-->
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
 <span id="Reddit"></span>
 - <font size="5">Reddit</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/bb4104a47fae72f2b4bafe9f9cd3647accc9a55f/image/Reddit-logo.jpg)
+-->
 
 [rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/226268)
 
 <span id="Instagram"></span>
 - <font size="5">Instagram</font>
 
+<!--
 ![img](https://github.com/ZGQ-inc/overthefirewall/blob/29ecb1a435572e877d39f16f79c10e58176777ff/image/Instagram-logo.jpg)
+-->
 
 [Instander-第三方Instagram](http://a.ruansky.com/up/224136)
 
