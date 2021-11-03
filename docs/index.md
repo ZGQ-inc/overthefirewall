@@ -346,7 +346,7 @@ https://www.expressvpn.com/
 
 **破解版**进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[**<font size="5">我的资源群</font>**](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.8群！2.8群！2.8群！</font>**</span>的群文件获取。
 
-**<font size="4">破解内容</font>**：<span style="color: #ff0000">无限试用。</span>
+**<font size="4">破解内容</font>：<span style="color: #ff0000">无限试用次数</span>**。
 
 **群文件搜索：`express` 下载以下版本**
 
@@ -377,14 +377,16 @@ https://www.expressvpn.com/
 <span id="ExpressVPN_Android_instructions"></span>
 **<font size="4">使用方法</font>**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
 
-> 如果**<font size="5">无法进入</font>**，出现此信息`Free trial is unavailable.`。
+> 如果**<font size="5">无法进入</font>**，出现此窗口`Free trial is unavailable.`。
 
 **按照步骤**：
 1. 转到应用程序的`应用程序信息`，清除数据
 2. 打开`飞行模式`，然后关闭
 3. 重新按照[使用方法](#ExpressVPN_Android_instructions)操作
 
-> 如果**<font size="5">无法连接</font>**，请点击按钮下方`节点列表`，选择下方推荐的节点。
+> 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
+
+**请点击按钮下方`节点列表`，选择下方推荐的节点。**
 
 - United States
 - Singapore - Marina Bay
