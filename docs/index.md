@@ -344,6 +344,9 @@ https://www.expressvpn.com/
 <span id="ExpressVPN_Android"></span>
 # Android
 
+**※通知**：<font size="4" color="#FF0000">最近发现好多人一进群拿到安装包就就退群，这里说一下，ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议先保留至少一个群，当然各位也可以选择收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
+
+
 **破解版**进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[**<font size="5">我的资源群</font>**](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.8群！2.8群！2.8群！</font>**</span>的群文件获取。
 
 **<font size="4">破解内容</font>：<span style="color: #ff0000">无限试用次数</span>**。
