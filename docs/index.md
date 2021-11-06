@@ -433,13 +433,35 @@ https://www.expressvpn.com/
 - **<font size="4">注册码分享（不定时更新）</font>**
 
 <span id="ExpressVPN_Windows_instructions"></span>
-**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写`注册码`，点击`Continue`，如遇登录失败，请额外填写邮箱和密码，之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
+**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写`注册码`，点击`Continue`。~~如遇登录失败，请额外填写邮箱和密码。~~之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
 
 首页最上方显示
 
 `Free trial expires in □ days`
 
 这将会是**剩余试用天数**。<span style="color: #FF0004">试用期过后将不可用</span>，点击`Sign Out`退出登录，**见文档内最新注册码**，重新按照[使用方法](#ExpressVPN_Windows_instructions)操作一遍。
+
+<font size="4">新注册码</font>
+
+`EF2USUVRNKXECQLZIH7GDO2`
+
+`E72P6BEH3UE5PV8YTFNRQA4`
+
+`ER4RYYLPTWMEJRHSROYPZKL`
+
+`EDQZX9UDGDXABFSVLKZPNJ7`
+
+`EQWRWPHFWYNXREUB44NFPEK`
+
+`E6SGJDEAVW32CG2Q4TNDLCA`
+
+`ETCHDHMSVODQFWNSYGUFFR9`
+
+`EGSJKAXYRJSA6FGCDPMDJEW`
+
+`EJV7V3RQEJPM3MUNHM88S5E`
+
+<font size="4">快过期的旧注册码</font>
 
 > 1.
 > 
@@ -467,7 +489,7 @@ https://www.expressvpn.com/
 > 密码：c5GXBgLo
 
 
-**更新时间：2021/10/24**
+**更新时间：2021/11/07**
 
 > 如果**<font size="5">无法连接</font>**，请点击按钮下方`节点列表`，选择下方推荐的节点
 
