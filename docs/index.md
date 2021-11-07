@@ -360,7 +360,7 @@ https://www.expressvpn.com/
 
 `19.4MB`
 
-此版本的试用时长为**<font size="5">7天</font>**。
+此版本的试用时长为**<font size="5">30天</font>**。
 
 - **<font size="4">公测版</font>**
 
