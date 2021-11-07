@@ -12,10 +12,6 @@
 
 **温馨提示**：本文档中所有`蓝体字/下划线`可点击
 
-<!--
-<span style="color: #C1C1C1">目录跳转已修复</span>
--->
-
 ***
 ***
 
@@ -40,7 +36,6 @@
 
 [订阅平台](#sub)
 + [BuLink 永久免费网络加速](#BuLink)
-+ [自由人士](#freeperson)
 + [iKuuu](#iKuuu)
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks 免费上网账号](#freess)
@@ -79,6 +74,7 @@
 +  [WhatsApp](#WhatsApp) `第三方`
 +  [Reddit](#Reddit) `第三方`
 +  [Instagram](#Instagram) `第三方`
++  [TikTok](#TikTok)`修改版``插件`
 +  [我的上传](#Upload) `上千破解软件`
 
 [赞助内容](#sponsor)
@@ -103,20 +99,12 @@
 <span id="Android"></span>
 ## Android
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Android-logo.png)
--->
-
 **<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
 
 <font size="5" color="#FF0000">★★★★★五星推荐</font>
 
 <span id="v2rayNG"></span>
 + <font size="5">v2rayNG</font>
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png)
--->
 
 `由于更新太频繁，采用Github直链`
 
@@ -128,10 +116,6 @@
 
 <span id="Clash"></span>
 + <font size="5">Clash</font>
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png)
--->
 
 [32位（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
 
@@ -150,16 +134,8 @@
 
 <font size="5" color="#FF0000">★★★★★五星推荐</font>
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Win10-logo.png)
--->
-
 <span id="v2rayN"></span>
 + <font size="5">v2rayN</font>
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/v2ray.png)
--->
 
 `由于更新太频繁，采用Github直链`
 
@@ -171,10 +147,6 @@
 
 <span id="ClashR"></span>
 + <font size="5">ClashR</font>
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/clash.png)
--->
 
 [蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
 
@@ -192,18 +164,10 @@
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/iOS-iPadOS-logo.png)
--->
-
 **<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Get Shadowrocket</font>](#GetShadowrocket)
 
 <span id="OneClick"></span>
 + <font size="5">OneClick</font>
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/oneclick-logo.png)
--->
 
 Unrestricted access to the Internet
 
@@ -214,10 +178,6 @@ Unrestricted access to the Internet
 <span id="MacOS"></span>
 ## MacOS
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/MacOS-logo.png)
--->
-
 <span id="v2rayU"></span>
 + <font size="5">v2rayU</font>
 
@@ -225,10 +185,6 @@ Unrestricted access to the Internet
 
 <span id="Linux"></span>
 ## ~~Linux~~
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Linux-logo.png)
--->
 
 ~~正在施工~~
 
@@ -262,21 +218,6 @@ Unrestricted access to the Internet
 [网址](https://bulink.xyz/)
 
 [项目地址](https://github.com/freefq/free)
-
-<span id="freeperson"></span>
-- <font size="5">自由人士</font>
-
-*最近平台出现些许状况，可能无法使用*
-
-`每日签到10GB`
-
-`新用户赠送30GB`
-
-`速率最高30Mbps`
-
-**※通知**：近期高墙，节点类型改为Trojan，V2ray最新版兼容Trojan，请使用支持Trojan的客户端！
-
-[注册地址](http://freeperson.xyz/auth/register)
 
 <span id="iKuuu"></span>
 - <font size="5">iKuuu VPN</font>
@@ -323,59 +264,38 @@ Unrestricted access to the Internet
 
 https://www.expressvpn.com/
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/express-logo-2021.png)
--->
-
 极力推荐Express VPN，基本可以稳定在**7MB/s**，历史测速最高**33MB/s**`*`。
 
 [<font size="6">最新测速结果</font>](https://zgqinc-my.sharepoint.com/:x:/g/personal/zgq_zgqinc_onmicrosoft_com/ERlGmtlYvYFEgF2IcRR9eKkBMo5JnsujACdIO0u6Lj1N_g?e=kmK5tb)
 
 `历史测速最高33MB/s` ：结果来自群员测速。
 
-<!--
-~~<span style="color: #FF0004">最近很多人反馈第二次无法进入，仍旧跳出购买界面，备用方案有2个，但是不一定可行，如果动用备用方案要花很长时间做使用教程，况且本人学业繁忙没什么时间...**白嫖半年终翻车**，太痛苦了。</span>~~
--->
-
-<!--
-<span style="color: #FF0004">9月8日发现可用版本，惯例进群下载。</span>
--->
-
 <span id="ExpressVPN_Android"></span>
 # Android
 
-**※通知**：<font size="4" color="#FF0000">最近发现好多人一进群拿到安装包就就退群，这里说一下，ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议先保留至少一个群，当然各位也可以选择收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
+**※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
+**<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
 
-**破解版**进群下载，请<span style="color: #ff0000">**点击**</span>蓝体字[**<font size="5">我的资源群</font>**](https://zgq-inc.github.io/transit-groups/)进入<span style="color: #FF0004">**<font size="5">2.9群！2.9群！2.9群！</font>**</span>的群文件获取。
+- **<font size="4">破解版下载地址</font>**
 
-**<font size="4">破解内容</font>：<span style="color: #ff0000">无限试用次数</span>**。
-
-**群文件搜索：`express` 下载以下版本**
-
-- **<font size="4">稳定版</font>**
+**<font size="4">稳定版</font>**
 
 <span id="ExpressVPN_stable"></span>
-**`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`**
+**`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk`**
 
-`19.4MB`
+[蓝奏云](https://zgq-inc.lanzoui.com/iZgLLw8ydda)
 
-此版本的试用时长为**<font size="5">30天</font>**。
-
-- **<font size="4">公测版</font>**
+**<font size="4">公测版</font>**
 
 <span id="ExpressVPN_nightly"></span>
-现开启`先行体验`计划，加入方法很简单，只需下载群文件的
+现开启`先行体验`计划，加入方法很简单，只需下载以下版本
 
-**`ExpressVPN10.14.1_A2ZAPK.COM.apk.rename`**
+**`ExpressVPN10.14.1_A2ZAPK.COM.apk`**
 
-`20.0MB`
+[蓝奏云](https://zgq-inc.lanzoui.com/iSpyzw8ydif)
 
 即可获得**未完全测试可用性的最新版本**。
-
-新版本的试用时长变为了**<font size="5">30天</font>**。
-
-<span style="color: #ff0000">**请务必下载带有后缀`.rename`的版本，可以绕过QQ的安全检查。**</span>
 
 <span id="ExpressVPN_Android_instructions"></span>
 **<font size="4">使用方法</font>**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
@@ -426,8 +346,6 @@ https://www.expressvpn.com/
 - **<font size="4">官方软件下载地址</font>**
 
 [蓝奏云](https://zgq-inc.lanzoui.com/io95avn7vob)
-
-[蓝奏云直链](https://dev16.baidupan.com/102222bb/2021/10/22/1ca94889658424cf33752518332c1705.exe?st=Ril1oxJFRUasers6TiVZiQ&e=1634916142&b=BxAOdgV1VyBRYV57BSYDcQUgDT8EWgJbAGIOMwApVW8IdF5uV3kDNwNvXlcAIgJjVG0NNA1tC34GMFx_aBWdSKAcw&fi=54879001&pid=101-88-127-67&up=2)
 
 <span id="ExpressVPN_account"></span>
 - **<font size="4">注册码分享（不定时更新）</font>**
@@ -503,27 +421,6 @@ https://www.expressvpn.com/
 > 如果**<font size="5">出现窗口</font>**`Connection Limit Reached`，是由于免费试用的账号同时只能给**一台设备**连接。
 
 点击`Cancel`，点击左上角`菜单栏`，点击`Sign Out`退出账号，选择其它[注册码](#ExpressVPN_account)登录。
-
-
-<!--
-[图文教程](https://zgq-inc.gitbook.io/overthefirewall/android/expressvpn)
--->
-
-<!--
-**※注意**：再次强调请<span style="color: #FF0004">**随便输入一个邮箱地址**</span>，格式可以是
-
-> [乱输]@[乱输].com
-
-示例：
-
-> wordhenda@nirenyixia.wyf
-
-之前别人或是自己使用过的邮箱地址**无法使用**，有可能弹出试用过期的购买界面，如果按照流程做了还是弹出，那么应该是运气问题，多试几次即可。原因是破解版虽然**免除了IP检测**，但是会**记录邮箱地址至服务器**，因此不能使用重复的邮箱地址。
-
-**`为什么特地说明随便输入邮箱地址？`**
-
-因为总有人把自己的邮箱填上去，导致此邮箱试用期被浪费，万一哪天破解版不可用，连自己邮箱的试用也没了，那会很难堪。
--->
 
 **<font size="5">为什么推荐ExpressVPN？</font>**
 
@@ -782,20 +679,12 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Telegram"></span>
 - <font size="5">Telegram</font>
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Telegram-logo.jpg)
--->
-
 [Android直连版](http://a.ruansky.com/up/199832)
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
 <span id="Google"></span>
 - <font size="5">Google Play & GMS</font>
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/google-play-logo.jpg)
--->
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
@@ -816,10 +705,6 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="YouTube"></span>
 - <font size="5">YouTube</font>
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/YouTube-logo.png)
--->
-
 [Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259)
 
 [Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
@@ -833,10 +718,6 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Twitter"></span>
 - <font size="5">Twitter</font>
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/twitter.png)
--->
-
 [推特直连版](http://a.ruansky.com/up/117084)
 
 [Talon-第三方Twitter](http://a.ruansky.com/up/202613)
@@ -844,18 +725,10 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Facebook"></span>
 - <font size="5">Facebook</font>
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Facebook-white.png)
--->
-
 [Swipe-第三方Facebook](http://a.ruansky.com/up/226321)
 
 <span id="Netflix"></span>
 - <font size="5">Netflix</font>
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Netflix-logo.png)
--->
 
 `第三方网飞`
 
@@ -863,14 +736,6 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span id="Spotify"></span>
 - <font size="5">Spotify</font>
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Spotify-logo.png)
--->
-
-<!--
-[完整版破解高级功能](http://a.ruansky.com/up/136841)
--->
 
 [xManager-Spotify破解版下载](http://a.ruansky.com/up/165744)
 
@@ -881,10 +746,6 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Pixiv"></span>
 - <font size="5">Pixiv</font>
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/Pixiv-logo.png)
--->
-
 [官方版破解会员](http://a.ruansky.com/up/267037)
 
 [第三方客户端Shaft](http://a.ruansky.com/up/88394)
@@ -892,31 +753,25 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="WhatsApp"></span>
 - <font size="5">WhatsApp</font>
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/a7bee54b71d88c8a5f8ff5ce1de20e019ffe95b8/image/WhatsApp-logo.jpg)
--->
-
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
 <span id="Reddit"></span>
 - <font size="5">Reddit</font>
-
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/bb4104a47fae72f2b4bafe9f9cd3647accc9a55f/image/Reddit-logo.jpg)
--->
 
 [rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/226268)
 
 <span id="Instagram"></span>
 - <font size="5">Instagram</font>
 
-<!--
-![img](https://github.com/ZGQ-inc/overthefirewall/blob/29ecb1a435572e877d39f16f79c10e58176777ff/image/Instagram-logo.jpg)
--->
-
 [Instander-第三方Instagram](http://a.ruansky.com/up/224136)
 
 [iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
+
+<span id="TikTok"></span>
+- <font size="5">TikTok</font>
+[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/224128)
+
+[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/224126)
 
 <span id="Upload"></span>
 - <font size="5">我的上传</font>
