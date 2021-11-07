@@ -356,9 +356,9 @@ https://www.expressvpn.com/
 - **<font size="4">稳定版</font>**
 
 <span id="ExpressVPN_stable"></span>
-**`ExpressVPN v10.9.0 RahulModz [Premium].apk.rename`**
+**`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`**
 
-`27.3MB`
+`19.4MB`
 
 此版本的试用时长为**<font size="5">7天</font>**。
 
@@ -367,9 +367,9 @@ https://www.expressvpn.com/
 <span id="ExpressVPN_nightly"></span>
 现开启`先行体验`计划，加入方法很简单，只需下载群文件的
 
-**`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk.rename`**
+**`ExpressVPN10.14.1_A2ZAPK.COM.apk.rename`**
 
-`19.4MB`
+`20.0MB`
 
 即可获得**未完全测试可用性的最新版本**。
 
