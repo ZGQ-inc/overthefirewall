@@ -36,7 +36,7 @@
 
 [订阅平台](#sub)
 + [BuLink 永久免费网络加速](#BuLink)
-+ [Fly 破解大佬耗子爱吃草搭的机场](#Fly)
++ [Fly](#Fly)
 + [iKuuu](#iKuuu)
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks 免费上网账号](#freess)
@@ -223,7 +223,9 @@ Unrestricted access to the Internet
 <span id="Fly"></span>
 - <font size="5">Fly</font><font size="3" color="#FF0000"> !测评中!</font>
 
-耗子大神（耗子爱吃草）搭的公益机场
+~~耗子大神（耗子爱吃草）搭的公益机场~~
+
+**并不是本人**
 
 `每月限流5GB`
 
