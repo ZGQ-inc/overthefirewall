@@ -36,6 +36,7 @@
 
 [订阅平台](#sub)
 + [BuLink 永久免费网络加速](#BuLink)
++ [Fly 破解大佬耗子爱吃草搭的机场](#Fly)
 + [iKuuu](#iKuuu)
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks 免费上网账号](#freess)
@@ -218,6 +219,19 @@ Unrestricted access to the Internet
 [网址](https://bulink.xyz/)
 
 [项目地址](https://github.com/freefq/free)
+
+<span id="Fly"></span>
+- <font size="5">Fly</font><font size="3" color="#FF0000"> !测评中!</font>
+
+耗子大神（耗子爱吃草）搭的公益机场
+
+`每月限流5GB`
+
+`速率最高30Mbps`
+
+[网址](https://fly.nullmouse.xyz/)
+
+注册成功后，点击`侧边栏`，进入`套餐购买`，最下面有`白嫖套餐`，**可延长免费账号有效期**。
 
 <span id="iKuuu"></span>
 - <font size="5">iKuuu VPN</font>
