@@ -42,6 +42,7 @@
 + [Shadowsocks 免费上网账号](#freess)
 + [上百个节点池合集](#ProxypoolCollection)
 + [上百个免费机场合集](#AirfieldCollection)
++ [订阅链接分享](#subshare)
 
 [ExpressVPN 全球第一](#ExpressVPN)
 + [Android](#ExpressVPN_Android) `破解版`
@@ -269,6 +270,13 @@ Unrestricted access to the Internet
 - <font size="5">上百个免费机场合集</font>
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/68e38ba4a460fc1990ee5190dcdeae419ead0e9a/docs/airfield.md)
+
+来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享
+
+<span id="subshare"></span>
+- <font size="5">订阅链接分享</font>
+
+[点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/696c0152d0ac6f740f9b4d3ff59ef6b8f4b182e8/docs/nodesub.md)
 
 来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享
 
