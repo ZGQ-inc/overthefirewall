@@ -571,6 +571,8 @@ Apple ID 已购买小火箭（Shadowrocket）账号分享
 
 [应用介绍&下载](http://a.ruansky.com/up/273391)
 
+[蓝奏云](https://zgq-inc.lanzoui.com/iJzXuwgwxjc)
+
 ***
 
 <span id="DNS"></span>
