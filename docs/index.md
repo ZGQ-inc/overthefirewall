@@ -40,8 +40,8 @@
 + [iKuuu](#iKuuu)
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks 免费上网账号](#freess)
-+ [96个节点池合集](#ProxypoolCollection)
-+ [84个免费机场合集](#AirfieldCollection)
++ [上百个节点池合集](#ProxypoolCollection)
++ [上百个免费机场合集](#AirfieldCollection)
 
 [ExpressVPN 全球第一](#ExpressVPN)
 + [Android](#ExpressVPN_Android) `破解版`
@@ -259,14 +259,14 @@ Unrestricted access to the Internet
 [网址](https://free-ss.site/)
 
 <span id="ProxypoolCollection"></span>
-- <font size="5">96个节点池合集</font>
+- <font size="5">上百个节点池合集</font>
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/main/docs/proxypool.md)
 
 来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享
 
 <span id="AirfieldCollection"></span>
-- <font size="5">84个免费机场合集</font>
+- <font size="5">上百个免费机场合集</font>
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/68e38ba4a460fc1990ee5190dcdeae419ead0e9a/docs/airfield.md)
 
