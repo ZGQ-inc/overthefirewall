@@ -317,7 +317,7 @@ https://www.expressvpn.com/
 即可获得**未完全测试可用性的最新版本**。
 
 <span id="ExpressVPN_Android_instructions"></span>
-**<font size="4">使用方法</font>**：进入应用，如有弹窗点击`NO THANKS`，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**随便输入一个邮箱地址**或**使用自动生成伪造的邮箱地址**</span>（依破解版版本而定），点击`Start Free Trial`，之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
+**<font size="4">使用方法</font>**：进入应用，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**使用自动生成伪造的邮箱地址（不必另外填写）**</span>，点击`Start Free Trial`，之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
 
 > 如果**<font size="5">无法进入</font>**，出现此窗口`Free trial is unavailable.`。
 
@@ -330,8 +330,8 @@ https://www.expressvpn.com/
 
 **请点击按钮下方`节点列表`，选择下方推荐的节点。**
 
-- United States
-- Singapore - Marina Bay
+- United States `推荐`
+- Singapore - Marina Bay `推荐`
 - UK - Wembley
 - Japan
 
