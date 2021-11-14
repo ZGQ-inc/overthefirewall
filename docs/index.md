@@ -336,7 +336,7 @@ https://www.expressvpn.com/
 
 > 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
-**请点击按钮下方`节点列表`，选择下方推荐的节点。**
+**请点击按钮下方`节点列表`，选择下方的节点。**
 
 - United States `推荐`
 - Singapore - Marina Bay `推荐`
@@ -437,14 +437,16 @@ https://www.expressvpn.com/
 
 **更新时间：2021/11/07**
 
-> 如果**<font size="5">无法连接</font>**，请点击按钮下方`节点列表`，选择下方推荐的节点
+> 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
-- United States
-- Singapore - Marina Bay
+**请点击按钮下方`节点列表`，选择下方的节点。**
+
+- United States `推荐`
+- Singapore - Marina Bay `推荐`
 - UK - Wembley
 - Japan
 
-大陆地区只有部分节点能连上，因为只有这些节点针对大陆GFW（长城防火墙）做了混淆优化，IP不会被封禁。**来自官方公告**。
+大陆地区只有部分节点能连上，因为只有这些节点**针对大陆GFW（长城防火墙）做了混淆优化，IP不会被封禁**。**来自官方公告**。
 
 > 如果**<font size="5">出现窗口</font>**`Connection Limit Reached`，是由于免费试用的账号同时只能给**一台设备**连接。
 
