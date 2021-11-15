@@ -302,7 +302,15 @@ https://www.expressvpn.com/
 
 **※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
-**※重要通知**<font size="4" color="#FF0000">最近收到反馈，破解版或许失效，如始终无法进入（出现窗口`Free trial is unavailable.`），请静待解决方案。可先尝试备用方案[SamsungMax 三星旗下隐私保护软件](#SamsungMax)。</font>
+**※重要通知：**<font size="4" color="#FF0000">最近收到反馈，破解版或许失效，经证实始终无法进入。</font>
+
+**出现窗口`Free trial is unavailable.`**
+
+<font size="4" color="#FF0000">请静待解决方案。</font>
+
+<font size="4" color="#FF0000">可先尝试备用方案。</font>
+
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax)
 
 **<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
 
