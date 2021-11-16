@@ -49,6 +49,7 @@
   - [稳定版](#ExpressVPN_stable)
   - [公测版](#ExpressVPN_nightly)
 + [Windows](#ExpressVPN_Windows) `注册码分享`
++ [MacOS](#ExpressVPN_MacOS) `注册码分享`
 
 [SamsungMax 三星旗下隐私保护软件](#SamsungMax) `破解版`
 
@@ -179,6 +180,10 @@ Unrestricted access to the Internet
 
 <span id="MacOS"></span>
 ## MacOS
+
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
+
+<font size="5" color="#FF0000">★★★★★五星推荐</font>
 
 <span id="v2rayU"></span>
 + <font size="5">v2rayU</font>
@@ -386,7 +391,7 @@ https://www.expressvpn.com/
 
 - **<font size="4">官方软件下载地址</font>**
 
-[蓝奏云](https://zgq-inc.lanzoui.com/io95avn7vob)
+[蓝奏云](https://zgq-inc.lanzoui.com/iLRm5wkps4j)
 
 <span id="ExpressVPN_account"></span>
 - **<font size="4">注册码分享（不定时更新）</font>**
@@ -465,6 +470,15 @@ https://www.expressvpn.com/
 > 如果**<font size="5">出现窗口</font>**`Connection Limit Reached`，是由于免费试用的账号同时只能给**一台设备**连接。
 
 点击`Cancel`，点击左上角`菜单栏`，点击`Sign Out`退出账号，选择其它[注册码](#ExpressVPN_account)登录。
+
+<span id="ExpressVPN_MacOS"></span>
+# MacOS
+
+- **<font size="4">官方软件下载地址</font>**
+
+[蓝奏云](https://zgq-inc.lanzoui.com/iFymhwkpsej)
+
+使用方法与[Windows版](#ExpressVPN_Windows)一致。
 
 **<font size="5">为什么推荐ExpressVPN？</font>**
 
