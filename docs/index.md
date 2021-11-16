@@ -302,16 +302,6 @@ https://www.expressvpn.com/
 
 **※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
-**※重要通知：**<font size="4" color="#FF0000">最近收到反馈，破解版或许失效，经证实始终无法进入。</font>
-
-**出现窗口`Free trial is unavailable.`**
-
-<font size="4" color="#FF0000">请静待解决方案。</font>
-
-<font size="4" color="#FF0000">可先尝试备用方案。</font>
-
-[SamsungMax 三星旗下隐私保护软件](#SamsungMax)
-
 **<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
 
 - **<font size="4">破解版下载地址</font>**
@@ -343,6 +333,18 @@ https://www.expressvpn.com/
 1. 转到应用程序的`应用程序信息`，清除数据
 2. 打开`飞行模式`，然后关闭
 3. 重新按照[使用方法](#ExpressVPN_Android_instructions)操作
+
+<font size="4" color="#FF0000">※紧急通知</font>：如按步骤操作后始终无法进入，请在随机生成的邮箱后面额外添加字符
+
+示例：
+
+> ee9821zx1zxz212@Dexunpacker.Jaggu[添加字符a]
+> 
+> 效果如下↓↓↓
+> 
+> ee9821zx1zxz212@Dexunpacker.Jaggua
+
+**在`@Dexunpacker.Jaggua`后面随便添加字符即可进入**
 
 > 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
