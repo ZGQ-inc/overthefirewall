@@ -314,18 +314,18 @@ https://www.expressvpn.com/
 **<font size="4">稳定版</font>**
 
 <span id="ExpressVPN_stable"></span>
-**`ExpressVPN_10.12.0_DEX_A2ZAPK.COM.apk`**
+**`ExpressVPN10.14.1_A2ZAPK.COM.apk`**
 
-[蓝奏云](https://zgq-inc.lanzoui.com/iZgLLw8ydda)
+[蓝奏云](https://zgq-inc.lanzoui.com/iSpyzw8ydif)
 
 **<font size="4">公测版</font>**
 
 <span id="ExpressVPN_nightly"></span>
 现开启`先行体验`计划，加入方法很简单，只需下载以下版本
 
-**`ExpressVPN10.14.1_A2ZAPK.COM.apk`**
+**`ExpressVPN_10.15.0_DEX_A2ZAPK.COM.apk`**
 
-[蓝奏云](https://zgq-inc.lanzoui.com/iSpyzw8ydif)
+[蓝奏云](https://zgq-inc.lanzoui.com/iywnOwlmach)
 
 即可获得**未完全测试可用性的最新版本**。
 
