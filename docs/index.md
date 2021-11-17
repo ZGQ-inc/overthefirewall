@@ -339,6 +339,7 @@ https://www.expressvpn.com/
 2. 打开`飞行模式`，然后关闭
 3. 重新按照[使用方法](#ExpressVPN_Android_instructions)操作
 
+<span id="ExpressVPN_rednotice"></span>
 <font size="5" color="#FF0000">※紧急通知</font>
 
 如按步骤操作后始终无法进入，请在随机生成的邮箱后面额外添加字符
@@ -351,7 +352,7 @@ https://www.expressvpn.com/
 > 
 > ee9821zx1zxz212@Dexunpacker.Jaggua
 
-**在`@Dexunpacker.Jaggua`后面随便添加字符即可进入。**
+**在`@Dexunpacker.Jaggu`后面随便添加字符即可进入。**
 
 > 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
