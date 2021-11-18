@@ -468,6 +468,10 @@ EU9SVGYSDVIEYDXVBMGNNU3
 
 EBY3H8KGHMSGABYLW7RSWHU
 
+来自TG频道[@laobaivpn](https://t.me/laobaivpn)的分享
+
+**更新时间：2021/11/07**
+
 <font size="4">旧注册码</font>
 
 `EF2USUVRNKXECQLZIH7GDO2`
@@ -487,6 +491,8 @@ EBY3H8KGHMSGABYLW7RSWHU
 `EGSJKAXYRJSA6FGCDPMDJEW`
 
 `EJV7V3RQEJPM3MUNHM88S5E`
+
+**更新时间：2021/11/07**
 
 <font size="4">快过期的旧注册码</font>
 
@@ -517,7 +523,7 @@ EBY3H8KGHMSGABYLW7RSWHU
 
 来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享
 
-**更新时间：2021/11/07**
+**更新时间：2021/11/04**
 
 > 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
@@ -569,8 +575,6 @@ EBY3H8KGHMSGABYLW7RSWHU
 - **<font size="4">下载地址</font>**
 
 [蓝奏云](https://zgq-inc.lanzoui.com/i75oIuhtpqh)
-
-[蓝奏云直链](https://developer78.baidupan.com/102820bb/2021/09/25/59bfe9821863b8a30364b3902363d5f9.apk?st=pdUXzSrYqqnIgRsWTWck4Q&e=1635427468&b=BQQKa1U4A3UDI1ZuBTIOVQYeXmMNdFAJVDMJKgczVnpTNw86BFtWHgAgBSBVcQFNATUOJFA0AFkIGlxjB1pWFQUHCkFVewMoAzdWcAU_b&fi=52947747&pid=94-177-118-138&up=2)
 
 **<font size="4">破解内容</font>**：已升级至 `Deluxe+`
 
