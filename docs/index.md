@@ -685,13 +685,13 @@ Apple ID 已购买小火箭（Shadowrocket）账号分享
 
 一部分情况属于第 3 种，通过修改电脑和手机hosts文件多数可以解决这个问题。但是像Google等网站和手机上的一些APP是直接IP都被墙了，这种办法就行不通了，只能翻墙访问。
 
-<font size="4">什么是hosts文件？</font>
+**<font size="5">什么是hosts文件？</font>**
 
 hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过编辑它能把域名定向到正确的ip，可以解锁在国内受到DNS污染的网站服务。
 
 修改电脑和手机Hosts文件，可以绕过网络运营商的DNS，为域名指定正确的 IP 地址，达到访问被屏蔽网站的目的。
 
-<font size="4">解决方法</font>
+**<font size="5">解决方法：</font>**
 
 1. **修改hosts文件**
 
@@ -723,6 +723,14 @@ hosts是一个系统文件，在各个系统的位置如下
 
 [DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/155031)
 
+[DNS Test-发现优质DNS服务器](http://a.ruansky.com/up/191985)
+
+[DNS Optimizer-查找优质DNS并改变系统DNS](http://a.ruansky.com/up/224129)
+
+[DNS Changer-更改DNS 隐私保护](http://a.ruansky.com/up/243968)
+
+[Net Optimizer-网络优化&改变DNS](http://a.ruansky.com/up/261445)
+
 - Windows
 
 打开`网络和共享中心`，点击`更改适配器设置`
@@ -734,8 +742,6 @@ hosts是一个系统文件，在各个系统的位置如下
 进去之后，把`自动获得DNS服务器地址`改成`使用下面的DNS服务器地址`
 
 MacOS、Linux同理
-
-[DNS Test-发现优质DNS服务器](http://a.ruansky.com/up/191985)
 
 ***
 
@@ -953,3 +959,6 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 # 捐赠
 
 **宣传这个项目**就是对项目最好的**捐赠**和**支持**。
+
+***
+***
