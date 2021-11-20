@@ -38,6 +38,8 @@
 + [BuLink 永久免费网络加速](#BuLink)
 + [Fly](#Fly)
 + [iKuuu](#iKuuu)
++ [V2云](#cwv587)<font size="3" color="#FF0000"> !测评中!</font>
++ [五五开咖啡厅](#55kai)<font size="3" color="#FF0000"> !测评中!</font>
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks 免费上网账号](#freess)
 + [上百个节点池合集](#ProxypoolCollection)
@@ -78,6 +80,7 @@
 +  [Reddit](#Reddit) `第三方`
 +  [Instagram](#Instagram) `第三方`
 +  [TikTok](#TikTok)`修改版``插件`
++  [Twitch](#Twitch)`第三方`
 +  [我的上传](#Upload) `上千破解软件`
 
 [赞助内容](#sponsor)
@@ -227,7 +230,7 @@ Unrestricted access to the Internet
 [项目地址](https://github.com/freefq/free)
 
 <span id="Fly"></span>
-- <font size="5">Fly</font><font size="3" color="#FF0000"> !测评中!</font>
+- <font size="5">Fly</font>
 
 ~~耗子大神（耗子爱吃草）搭的公益机场~~
 
@@ -253,6 +256,16 @@ Unrestricted access to the Internet
 **`每月重置签到流量`**
 
 [注册地址](https://ikuuu.co/auth/register)
+
+<span id="cwv587"></span>
+- <font size="5">V2云</font><font size="3" color="#FF0000"> !测评中!</font>
+
+[注册地址](https://cwv587.com/auth/register)
+
+<span id="55kai"></span>
+- <font size="5">五五开咖啡厅</font><font size="3" color="#FF0000"> !测评中!</font>
+
+[注册地址](https://55kai.xyz/#/register)
 
 <span id="proxypool"></span>
 - <font size="5">节点池-所有国家 代理服务器 - SOCKS5</font>
@@ -898,9 +911,15 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span id="TikTok"></span>
 - <font size="5">TikTok</font>
+
 [TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/224128)
 
 [TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/224126)
+
+<span id="Twitch"></span>
+- <font size="5">Twitch</font>
+
+[Impulse-第三方Twitch](http://a.ruansky.com/up/292424)
 
 <span id="Upload"></span>
 - <font size="5">我的上传</font>
