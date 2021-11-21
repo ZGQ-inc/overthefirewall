@@ -307,7 +307,9 @@ Unrestricted access to the Internet
 
 **High-Speed, Secure & Anonymous VPN Service**
 
-https://www.expressvpn.com/
+[官网](https://www.expressvpn.com/)
+
+<font size="4" color="#FF0000">不要点进官网，请翻阅下去找到破解版。</font>
 
 极力推荐Express VPN，基本可以稳定在**7MB/s**，历史测速最高**33MB/s**`*`。
 
