@@ -341,14 +341,14 @@ Unrestricted access to the Internet
 
 <span id="ExpressVPN_stable"></span>
 
-[**`ExpressVPN10.14.1_A2ZAPK.COM.apk`**](https://zgq-inc.lanzoui.com/iSpyzw8ydif)
+[**ExpressVPN10.14.1_A2ZAPK.COM.apk**](https://zgq-inc.lanzoui.com/iSpyzw8ydif)
 
 **<font size="4">公测版</font>**
 
 <span id="ExpressVPN_nightly"></span>
 现开启`先行体验`计划，加入方法很简单，只需下载以下版本
 
-[**`ExpressVPN_10.15.0_DEX_A2ZAPK.COM.apk`**](https://zgq-inc.lanzoui.com/iywnOwlmach)
+[**ExpressVPN_10.15.0_DEX_A2ZAPK.COM.apk**](https://zgq-inc.lanzoui.com/iywnOwlmach)
 
 即可获得**未完全测试可用性的最新版本**。
 
