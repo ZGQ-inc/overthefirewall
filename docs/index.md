@@ -916,7 +916,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Reddit"></span>
 - <font size="5">Reddit</font>
 
-[rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/226268)
+[rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/300147)
+
+[BaconReader Premium（版本更新）-第三方Reddit](http://a.ruansky.com/up/300136)
 
 <span id="Instagram"></span>
 - <font size="5">Instagram</font>
