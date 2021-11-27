@@ -1,9 +1,11 @@
 <span id="top"></span>
-**<h3 align="center">★覆盖全平台★
-★完全免费★
-★节点订阅★
-★机场推荐★
-★破解VPN软件分享★</h3>**
+**<font size="4">★覆盖全平台★</font>**
+**<font size="4">★完全免费★</font>**
+
+**<font size="4">★节点订阅★</font>**
+**<font size="4">★机场推荐★</font>**
+
+**<font size="4">★破解VPN软件分享★</font>**
 
 项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
 
