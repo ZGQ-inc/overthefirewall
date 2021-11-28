@@ -116,7 +116,7 @@
 <span id="Android"></span>
 ## Android
 
-**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)<font size="2">←点击跳转</font>
 
 <font size="5" color="#FF0000">★★★★★五星推荐</font>
 
@@ -147,7 +147,7 @@
 <span id="Windows"></span>
 ## Windows
 
-**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)<font size="2">←点击跳转</font>
 
 <font size="5" color="#FF0000">★★★★★五星推荐</font>
 
@@ -195,7 +195,7 @@ Unrestricted access to the Internet
 <span id="MacOS"></span>
 ## MacOS
 
-**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)<font size="2">←点击跳转</font>
 
 <font size="5" color="#FF0000">★★★★★五星推荐</font>
 
