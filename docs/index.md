@@ -343,6 +343,8 @@ Unrestricted access to the Internet
 
 - **<font size="4">破解版下载地址</font>**
 
+**<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
+
 **<font size="4">稳定版</font>**
 
 <span id="ExpressVPN_stable"></span>
@@ -603,7 +605,9 @@ EBY3H8KGHMSGABYLW7RSWHU
 
 - **<font size="4">下载地址</font>**
 
-[蓝奏云](https://zgq-inc.lanzoui.com/i75oIuhtpqh)
+[SamsungMax_4.4.18_A2ZAPK.COM.apk](https://zgq-inc.lanzoui.com/iulIxwzqs9a)
+
+**<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
 **<font size="4">破解内容</font>**：已升级至 `Deluxe+`
 
@@ -699,9 +703,11 @@ Apple ID 已购买小火箭（Shadowrocket）账号分享
 
 与[节点池](#proxypool)类似
 
-[应用介绍&下载](http://a.ruansky.com/up/273391)
+- **<font size="4">下载地址</font>**
 
-[蓝奏云](https://zgq-inc.lanzoui.com/iJzXuwgwxjc)
+[ddm_blocknet-1_51_A2ZAPK.COM.apk](https://zgq-inc.lanzoui.com/iJzXuwgwxjc)
+
+**<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
 ***
 
