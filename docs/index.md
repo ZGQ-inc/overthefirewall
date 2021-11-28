@@ -642,6 +642,10 @@ Apple ID 已购买小火箭（Shadowrocket）账号分享
 
 [网址](https://free.shadowrocket.online/)
 
+部分应用大陆无法获取，个人建议注册外区Apple ID，这里提供香港Apple ID注册教程。
+
+[港区Apple ID注册流程](https://oneclick.earth/help/appleid.html)
+
 ***
 
 <span id="EveryProxy"></span>
