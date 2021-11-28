@@ -337,6 +337,10 @@ Unrestricted access to the Internet
 <span id="ExpressVPN_Android"></span>
 # Android
 
+<span style="color: #ff0000">经常有人看不到紧急通知然后反馈进不去，现引用定位锚点至此，以作强调。</span>
+
+[<font size="5" color="#FF0000">※紧急通知</font>](#ExpressVPN_rednotice)
+
 **※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
 **<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
