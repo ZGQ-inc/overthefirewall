@@ -433,7 +433,7 @@ Unrestricted access to the Internet
 - **<font size="4">注册码分享（不定时更新）</font>**
 
 <span id="ExpressVPN_Windows_instructions"></span>
-**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写`注册码`，点击`Continue`。~~如遇登录失败，请额外填写邮箱和密码。~~之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
+**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写`注册码`，点击`Continue`。如遇登录失败，请额外填写邮箱和密码（如有）。之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
 
 首页最上方显示
 
@@ -442,6 +442,31 @@ Unrestricted access to the Internet
 这将会是**剩余试用天数**。<span style="color: #FF0004">试用期过后将不可用</span>，点击`Sign Out`退出登录，**见文档内最新注册码**，重新按照[使用方法](#ExpressVPN_Windows_instructions)操作一遍。
 
 <font size="4">新注册码</font>
+
+**EI9BDSGVSN4UMU3PYRYNRJE**
+
+Mail: piwavaro@acrossgracealley.com
+
+Pass: mG69Rcx8
+
+**EP3A9RNY9T7MQJ9B9BJLMRB**
+
+Mail: heyomeb590@ineedsa.com
+
+Pass:7kChKJ2q
+
+**ECQSTTKHNNPKVKTAXYBY7KP**
+
+Mail: efijxim@leadwizzer.com
+
+Pass: WV2j5sxP
+
+
+来自TG频道[@laobaivpn](https://t.me/laobaivpn)的分享
+
+**更新时间：2021/11/30**
+
+<font size="4">旧注册码</font>
 
 EYRJVWCURIN5NHNGELEKFUK
 
@@ -503,11 +528,9 @@ EU9SVGYSDVIEYDXVBMGNNU3
 
 EBY3H8KGHMSGABYLW7RSWHU
 
-来自TG频道[@laobaivpn](https://t.me/laobaivpn)的分享
-
 **更新时间：2021/11/07**
 
-<font size="4">旧注册码</font>
+<font size="4">快过期的旧注册码</font>
 
 `EF2USUVRNKXECQLZIH7GDO2`
 
@@ -526,10 +549,6 @@ EBY3H8KGHMSGABYLW7RSWHU
 `EGSJKAXYRJSA6FGCDPMDJEW`
 
 `EJV7V3RQEJPM3MUNHM88S5E`
-
-**更新时间：2021/11/07**
-
-<font size="4">快过期的旧注册码</font>
 
 > 1.
 > 
@@ -558,7 +577,7 @@ EBY3H8KGHMSGABYLW7RSWHU
 
 来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享
 
-**更新时间：2021/11/04**
+**更新时间：2021/11/07**
 
 > 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
