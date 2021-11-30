@@ -362,6 +362,8 @@ Unrestricted access to the Internet
 
 [**ExpressVPN_10.15.0_DEX_A2ZAPK.COM.apk**](https://zgq-inc.lanzoui.com/iywnOwlmach)
 
+[**ExpressVPN10.16.0_final_A2ZAPK.COM.apk**](https://zgq-inc.lanzouo.com/iAp3ex2j0fe)
+
 即可获得**未完全测试可用性的最新版本**。
 
 <span id="ExpressVPN_Android_instructions"></span>
@@ -443,6 +445,26 @@ Unrestricted access to the Internet
 
 <font size="4">新注册码</font>
 
+EHIYGFR1C7EXDLXET3C3PTS | 状态: 可用 | 套餐: 完整 | 到期时间: Oct 28, 2021 | 再生次数: 1 
+
+EJAF1CCQABASBTAREXQ2BVY | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 06, 2021 | 再生次数: 0 
+
+EM2ZWKPSIT6TTKASEVVPRAE | 状态: 可用 | 套餐: 完整 | 到期时间: Jul 01, 2022 | 再生次数: 0 
+
+EPRECCKGFX0SJZ77487VYM8 | 状态: 可用 | 套餐: 完整 | 到期时间: Apr 09, 2022 | 再生次数: 0 
+
+ERKQHE34PY8JBLMNYEMEJS7 | 状态: 可用 | 套餐: 完整 | 到期时间: Jan 10, 2022 | 再生次数: 0 
+
+ESCZRIGAVN0ZPAMCZR5UCWM | 状态: 可用 | 套餐: 完整 | 到期时间: Oct 29, 2021 | 再生次数: 1 
+
+EUKXHBARPUSPO1WMYY6ADXX | 状态: 可用 | 套餐: 完整 | 到期时间: Jul 16, 2022 | 再生次数: 0 
+
+EVL8IYGHXUVMSSWGLKBZ7BY | 状态: 可用 | 套餐: 完整 | 到期时间: Jan 12, 2022 | 再生次数: 0 
+
+ERU30LHJEWC167EFLWZXQDK | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 15, 2021 | 再生次数: 0 
+
+ERU30LHJEWC167EFLWZXQDK | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 15, 2021 | 再生次数: 0
+
 **EI9BDSGVSN4UMU3PYRYNRJE**
 
 Mail: piwavaro@acrossgracealley.com
@@ -460,9 +482,6 @@ Pass:7kChKJ2q
 Mail: efijxim@leadwizzer.com
 
 Pass: WV2j5sxP
-
-
-来自TG频道[@laobaivpn](https://t.me/laobaivpn)的分享
 
 **更新时间：2021/11/30**
 
@@ -575,7 +594,7 @@ EBY3H8KGHMSGABYLW7RSWHU
 > 
 > 密码：c5GXBgLo
 
-来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享
+来自TG频道[@MTPdaili](https://t.me/MTPdaili) [@laobaivpn](https://t.me/laobaivpn)的分享
 
 **更新时间：2021/11/07**
 
