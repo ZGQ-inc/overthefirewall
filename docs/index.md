@@ -183,7 +183,7 @@
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS
 
-**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Get Shadowrocket</font>](#GetShadowrocket)
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Get Shadowrocket</font>](#GetShadowrocket)<font size="2">←点击跳转</font>
 
 <span id="OneClick"></span>
 + <font size="5">OneClick</font>
