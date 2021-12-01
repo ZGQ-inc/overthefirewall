@@ -421,17 +421,21 @@ Unrestricted access to the Internet
 
 说明24小时后即到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照[使用方法](#ExpressVPN_Android_instructions)操作**。
 
-在新版本`10.9.0`及以上，首页最上方会显示
+**在新版本`10.9.0`及以上，首页最上方会显示**
 
 `Free trial expires in □ days`
 
 这将会是**剩余试用天数**。
+
+**在`10.15.0`及以上版本，`侧边栏`变成了右下角的`Options`栏。**
 
 **<font size="5">如何设置分应用代理？</font>**
 
 > 可选的步骤
 
 点击`侧边栏`，进入`Settings`，点击`Split Tunneling`，选择`Do not allow selected apps to use the VPN`，点击右边`+`添加**不需要代理的应用**。
+
+**在`10.15.0`及以上版本，`侧边栏`变成了右下角的`Options`栏。**
 
 <span id="ExpressVPN_Windows"></span>
 # Windows
