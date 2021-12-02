@@ -406,6 +406,7 @@ Unrestricted access to the Internet
 
 - United States `推荐`
 - Singapore - Marina Bay `推荐`
+- Canada - Toronto - 2
 - UK - Wembley
 - Japan
 
@@ -629,6 +630,7 @@ EBY3H8KGHMSGABYLW7RSWHU
 
 - United States `推荐`
 - Singapore - Marina Bay `推荐`
+- Canada - Toronto - 2
 - UK - Wembley
 - Japan
 
