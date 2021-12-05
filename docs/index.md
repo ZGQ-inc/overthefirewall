@@ -90,8 +90,10 @@
 +  [WhatsApp](#WhatsApp) `第三方`
 +  [Reddit](#Reddit) `第三方`
 +  [Instagram](#Instagram) `第三方`
++  [VKontakte](#VKontakte)
 +  [TikTok](#TikTok)`修改版``插件`
 +  [Twitch](#Twitch)`第三方`
++  [多功能](#multifunction)
 +  [我的上传](#Upload) `上千破解软件`
 
 [赞助内容](#sponsor)
@@ -922,6 +924,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
+[Sticker Downloader-电报贴纸包下载器](http://a.ruansky.com/up/312604)
+
 <span id="Google"></span>
 - <font size="5">Google Play & GMS</font>
 
@@ -971,12 +975,12 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 `第三方网飞`
 
-[Netflix by APKMODY](http://a.ruansky.com/up/188158)
+[Netflix by APKMODY](http://a.ruansky.com/up/310271)
 
 <span id="Spotify"></span>
 - <font size="5">Spotify</font>
 
-[xManager-Spotify破解版下载](http://a.ruansky.com/up/165744)
+[xManager-Spotify破解版下载](http://a.ruansky.com/up/310318)
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/261332)
 
@@ -986,6 +990,10 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 - <font size="5">Pixiv</font>
 
 [官方版破解会员](http://a.ruansky.com/up/283461)
+
+**如安装失败请下载以下版本
+
+[官方版破解会员6.27.0](http://a.ruansky.com/up/267037)
 
 [第三方客户端Shaft](http://a.ruansky.com/up/88394)
 
@@ -1008,6 +1016,15 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
 
+<span id="VKontakte"></span>
+- <font size="5">VKontakte</font>
+
+[Kate Mobile-第三方VKontakte](http://a.ruansky.com/up/232252)
+
+[VK mp3 mod-第三方VKontakte](http://a.ruansky.com/up/232247)
+
+[VK Музыка-VK旗下音乐平台](http://a.ruansky.com/up/310470)
+
 <span id="TikTok"></span>
 - <font size="5">TikTok</font>
 
@@ -1019,6 +1036,15 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 - <font size="5">Twitch</font>
 
 [Impulse-第三方Twitch](http://a.ruansky.com/up/292424)
+
+<span id="multifunction"></span>
+- <font size="5">multifunction</font>
+
+[Friendly IQ-多功能社交媒体工具箱](http://a.ruansky.com/up/243937)
+
+[Feedster-国外社交媒体6合1](http://a.ruansky.com/up/305541)
+
+[TeeHub-Twitter & Tumblr 二合一](http://a.ruansky.com/up/310301)
 
 <span id="Upload"></span>
 - <font size="5">我的上传</font>
