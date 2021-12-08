@@ -31,18 +31,27 @@
  [梯子客户端](#VPN)
 
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)
+
+**<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
+
   - [v2rayNG](#v2rayNG)
   - [Clash](#Clash)
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
+
+**<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
+
   - [v2rayN](#v2rayN)
   - [ClashR](#ClashR)
   - [SocksCap64](#SocksCap64)
 
-[![IOS](https://img.shields.io/badge/-IOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
+[![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
   - [OneClick](#OneClick)
 
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
+
+**<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
+
   - [v2rayU](v2rayU)
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
@@ -63,20 +72,20 @@
 
 [订阅转换](#subconvert)
 
-[ExpressVPN 全球第一](#ExpressVPN)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
+[ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
 + [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#ExpressVPN_Android) `破解版`
   - [稳定版](#ExpressVPN_stable)
   - [公测版](#ExpressVPN_nightly)
 + [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#ExpressVPN_Windows) `注册码分享`
 + [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#ExpressVPN_MacOS) `注册码分享`
 
-[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
 
-[Get Shadowrocket iOS小火箭账号分享](#GetShadowrocket)![IOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
+[Get Shadowrocket iOS小火箭账号分享](#GetShadowrocket)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
 [EveryProxy 共享手机VPN给其它设备](#EveryProxy)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-[Steam++ Steam加速器](#Steam++)![Steam](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Steam&logoColor=0E1E47)
+[Steam++ Steam加速器](#Steam++)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![Steam](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Steam&logoColor=0E1E47)
 
 [Blockanet 全球IP共享](#BlockaNet)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)`破解版`
 
@@ -130,7 +139,7 @@
 <span id="tutorials"></span>
 # 梯子客户端使用教程
 
-[<font size="5">Gitbook</font>](https://zgq-inc.gitbook.io/overthefirewall/)
+[<font size="5">Gitbook</font>](https://zgq-inc.gitbook.io/overthefirewall/)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 ***
 
@@ -153,7 +162,7 @@
 
 [release页面](https://github.com/2dust/v2rayNG/releases)
 
-[项目地址 2dust / v2rayNG](https://github.com/2dust/v2rayNG)
+[项目地址 2dust / v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)
 
@@ -164,7 +173,7 @@
 
 [64位（蓝奏云）](https://zgq-inc.lanzoui.com/iFweEp9i1ud)
 
-[项目地址 Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid)
+[项目地址 Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)
 
@@ -184,7 +193,7 @@
 
 [release页面](https://github.com/2dust/v2rayN/releases)
 
-[项目地址 2dust / v2rayN](https://github.com/2dust/v2rayN)
+[项目地址 2dust / v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)
 
@@ -193,7 +202,7 @@
 
 [蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
 
-[项目地址 BoyceLig / ClashR_for_Windows](https://github.com/BoyceLig/ClashR_for_Windows)
+[项目地址 BoyceLig / ClashR_for_Windows](https://github.com/BoyceLig/ClashR_for_Windows)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 ~~（其它待补）~~
 
@@ -205,7 +214,7 @@
 [SocksCap64-setup-4.7下载地址](https://zgq-inc.lanzoui.com/iLkIRs6mcoh)
 
 <span id="iOS/iPadOS"></span>
-## iOS/iPadOS![IOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
+## iOS/iPadOS![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
 **<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Get Shadowrocket</font>](#GetShadowrocket)<font size="2">←点击跳转</font>
 
@@ -266,7 +275,7 @@ Unrestricted access to the Internet
 
 [网址](https://bulink.xyz/)
 
-[项目地址](https://github.com/freefq/free)
+[项目地址](https://github.com/freefq/free)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Fly"></span>
 - <font size="5">Fly</font>
@@ -376,7 +385,7 @@ Unrestricted access to the Internet
 
 [<font size="5" color="#FF0000">※紧急通知</font>](#ExpressVPN_rednotice)
 
-**※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
+**※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址</font>![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)<font size="4" color="#FF0000">，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
 **<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
 
@@ -728,7 +737,7 @@ EBY3H8KGHMSGABYLW7RSWHU
 
 上传↑ `2.56 MB/s`
 
-> Powered by [Speedtest](https://www.speedtest.net/zh-Hans)
+> Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
 > 
 > © 2006-2021  Ookla , LLC.All Rights Reserved
 
@@ -737,7 +746,7 @@ EBY3H8KGHMSGABYLW7RSWHU
 <span id="GetShadowrocket"></span>
 # Get Shadowrocket
 
-![IOS](https://img.shields.io/badge/-IOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)
+![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)
 
 Apple ID 已购买小火箭（Shadowrocket）账号分享
 
@@ -760,15 +769,15 @@ Apple ID 已购买小火箭（Shadowrocket）账号分享
 
 在Android设备上运行代理服务器
 
-[谷歌商店](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)
+[谷歌商店](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)![GooglePlay](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=GooglePlay&logoColor=00C4FF)
 
 [官网](http://www.everyproxy.co.uk)
 
 [下载地址（Apkpure）](https://m.apkpure.com/cn/every-proxy/com.gorillasoftware.everyproxy/download)
 
-[使用教程](https://zgq-inc.gitbook.io/overthefirewall/every-proxy/every-proxy)
+[使用教程](https://zgq-inc.gitbook.io/overthefirewall/every-proxy/every-proxy)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-[官方论坛](https://groups.google.com/forum/#!forum/every-proxy)
+[官方论坛](https://groups.google.com/forum/#!forum/every-proxy)![Google](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Google&logoColor=000000)
 
 ***
 
@@ -785,7 +794,7 @@ Apple ID 已购买小火箭（Shadowrocket）账号分享
 
 密码：1234
 
-[项目地址](https://github.com/SteamTools-Team/SteamTools)
+[项目地址](https://github.com/SteamTools-Team/SteamTools)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 ***
 
@@ -841,7 +850,7 @@ hosts是一个系统文件，在各个系统的位置如下
 
 > 需要管理员权限
 
-- Android、iOS、MacOS、Linux：`/etc/hosts`
+- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)：`/etc/hosts`
 
 > Android需要root，也可以免root使用
 > 
@@ -855,7 +864,7 @@ hosts是一个系统文件，在各个系统的位置如下
 
 2. **更改系统DNS**
 
-- Android
+- Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/155031)
 
@@ -867,7 +876,7 @@ hosts是一个系统文件，在各个系统的位置如下
 
 [Net Optimizer-网络优化&改变DNS](http://a.ruansky.com/up/261445)
 
-- Windows
+- Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
 
 打开`网络和共享中心`，点击`更改适配器设置`
 
@@ -877,7 +886,7 @@ hosts是一个系统文件，在各个系统的位置如下
 
 进去之后，把`自动获得DNS服务器地址`改成`使用下面的DNS服务器地址`
 
-MacOS、Linux同理
+MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)同理
 
 ***
 
@@ -1019,7 +1028,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [官方版破解会员](http://a.ruansky.com/up/283461)
 
-**如安装失败请下载以下版本
+**如安装失败请下载以下版本**
 
 [官方版破解会员6.27.0](http://a.ruansky.com/up/267037)
 
