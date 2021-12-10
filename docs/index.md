@@ -399,7 +399,7 @@ Unrestricted access to the Internet
 
 [**ExpressVPN10.14.1_A2ZAPK.COM.apk**](https://zgq-inc.lanzoui.com/iSpyzw8ydif)
 
-**近期多人反馈此版本无法进入，即将下架，请使用公测版。**
+**近期多人反馈此版本无法进入。即将做下架处理，请使用公测版。**
 
 **<font size="4">公测版</font>**
 
