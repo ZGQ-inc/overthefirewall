@@ -72,7 +72,7 @@
 
 [订阅转换](#subconvert)
 
-[ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
+[ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
 + [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#ExpressVPN_Android) `破解版`
   - [稳定版](#ExpressVPN_stable)
   - [公测版](#ExpressVPN_nightly)
@@ -385,7 +385,7 @@ Unrestricted access to the Internet
 
 [<font size="5" color="#FF0000">※紧急通知</font>](#ExpressVPN_rednotice)
 
-**※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)，如果弹出更新弹窗可以通过此文档获取最新版。</font>
+**※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
 **<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
 
@@ -1028,7 +1028,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [官方版破解会员](http://a.ruansky.com/up/283461)
 
-**如安装失败请下载以下版本
+**如安装失败请下载以下版本**
 
 [官方版破解会员6.27.0](http://a.ruansky.com/up/267037)
 
