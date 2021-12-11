@@ -485,181 +485,19 @@ Unrestricted access to the Internet
 <span id="ExpressVPN_account"></span>
 - **<font size="4">注册码分享（不定时更新）</font>**
 
+**此栏目已与主文档分离，请仔细浏览一遍[使用方法](#ExpressVPN_Windows_instructions)后操作。**
+
+[<font size="4">点击获取最新注册码</font>](https://github.com/ZGQ-inc/overthefirewall/blob/659f64b840069d5d1739a85749ac9b5521af2ba4/docs/ExpressVPN_Activation_code.md)
+
 <span id="ExpressVPN_Windows_instructions"></span>
-**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写`注册码`，点击`Continue`。如遇登录失败，请额外填写邮箱和密码（如有）。之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
+**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写
+**注册码**，点击`Continue`。如遇登录失败，请额外填写邮箱和密码（如有）。之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
 
 首页最上方显示
 
 `Free trial expires in □ days`
 
 这将会是**剩余试用天数**。<span style="color: #FF0004">试用期过后将不可用</span>，点击`Sign Out`退出登录，**见文档内最新注册码**，重新按照[使用方法](#ExpressVPN_Windows_instructions)操作一遍。
-
-<font size="4">新注册码</font>
-
-> **EU4O9RJ6TMIYBVYWFFI5CAY**
-> 
-> 邮箱：exxhc@mfk.app
-> 
-> 密码：sxfgA6sf
-
-> **ECVS4PH3Z4QE7XONUDQWAHL**
-> 
-> 邮箱：dylanclarkso.n3.6.7.1.0.1.0@gmail.com
-> 
-> 密码：oE9uDveG
-
-EHIYGFR1C7EXDLXET3C3PTS | 状态: 可用 | 套餐: 完整 | 到期时间: Oct 28, 2021 | 再生次数: 1 
-
-EJAF1CCQABASBTAREXQ2BVY | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 06, 2021 | 再生次数: 0 
-
-EM2ZWKPSIT6TTKASEVVPRAE | 状态: 可用 | 套餐: 完整 | 到期时间: Jul 01, 2022 | 再生次数: 0 
-
-EPRECCKGFX0SJZ77487VYM8 | 状态: 可用 | 套餐: 完整 | 到期时间: Apr 09, 2022 | 再生次数: 0 
-
-ERKQHE34PY8JBLMNYEMEJS7 | 状态: 可用 | 套餐: 完整 | 到期时间: Jan 10, 2022 | 再生次数: 0 
-
-ESCZRIGAVN0ZPAMCZR5UCWM | 状态: 可用 | 套餐: 完整 | 到期时间: Oct 29, 2021 | 再生次数: 1 
-
-EUKXHBARPUSPO1WMYY6ADXX | 状态: 可用 | 套餐: 完整 | 到期时间: Jul 16, 2022 | 再生次数: 0 
-
-EVL8IYGHXUVMSSWGLKBZ7BY | 状态: 可用 | 套餐: 完整 | 到期时间: Jan 12, 2022 | 再生次数: 0 
-
-ERU30LHJEWC167EFLWZXQDK | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 15, 2021 | 再生次数: 0 
-
-ERU30LHJEWC167EFLWZXQDK | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 15, 2021 | 再生次数: 0
-
-> **EI9BDSGVSN4UMU3PYRYNRJE**
-> 
-> Mail: piwavaro@acrossgracealley.com
-> 
-> Pass: mG69Rcx8
-
-> **EP3A9RNY9T7MQJ9B9BJLMRB**
-> 
-> Mail: heyomeb590@ineedsa.com
-> 
-> Pass:7kChKJ2q
-
-> **ECQSTTKHNNPKVKTAXYBY7KP**
-> 
-> Mail: efijxim@leadwizzer.com
-> 
-> Pass: WV2j5sxP
-
-**更新时间：2021/11/30**
-
-<font size="4">旧注册码</font>
-
-EYRJVWCURIN5NHNGELEKFUK
-
-ENGBQPL4VDPWVGAWV4SBCAF
-
-E5G7AEQDPVSALBAARLIKMB3
-
-EH8WUDPJUKUBZFSEPNURKEY
-
-EW4VH2VJKJ2SG9ISCS9UIJ2
-
-EYRDYBMQKBAASXVHN9HBLKX
-
-ECXKSD3YDBQWSRFGQ5VX7T8
-
-ECPF5VJDQABSAGICZZDNVEB
-
-EUKKKKBXHAUXBEPUMWUFFIY
-
-EJVRGJNXCQYVQXQ3BHTTULP
-
-EDKSOGO7DAWLPPSHQ5DBYY3
-
-EWBTMRWMWWK8TDLDITBRFGA
-
-EYKNMG5ZRM9HM4UO4DQTAC3
-
-EFGAYSRE2KNYGOHRUXKBDQM
-
-EUXO8AFFB8XM89JLHWHYGB9
-
-EQPU9AWKLJVIHEHDCE5NQNP
-
-EAXM44TEQU5JK7GNXH4FBRM
-
-EAEFGCRCQEURBDQYT6GAABW
-
-E4APYFHPYYS2RWP8WRSLKVU
-
-EZXVAABJGMYVBH3Y6H5TGOI
-
-EQF7DGWMAPWFUDFQRS83I2L
-
-EGHVLEBPAQM9THCRAMJJIKU
-
-EEKTKE2NBJCIT4KUJXLQNWR
-
-E3WJWC4OO9YMMWZAQJTBDXR
-
-E8FSPRUKRM8MZ8S8KMZBGEK
-
-EBGRENTJU3BMDHRSBHTCVEU
-
-EKRRPPAUJFYRN2BXYVR9EW2
-
-EAFW9XXEP47FRUGAPZKTWBR
-
-EU9SVGYSDVIEYDXVBMGNNU3
-
-EBY3H8KGHMSGABYLW7RSWHU
-
-**更新时间：2021/11/07**
-
-<font size="4">快过期的旧注册码</font>
-
-`EF2USUVRNKXECQLZIH7GDO2`
-
-`E72P6BEH3UE5PV8YTFNRQA4`
-
-`ER4RYYLPTWMEJRHSROYPZKL`
-
-`EDQZX9UDGDXABFSVLKZPNJ7`
-
-`EQWRWPHFWYNXREUB44NFPEK`
-
-`E6SGJDEAVW32CG2Q4TNDLCA`
-
-`ETCHDHMSVODQFWNSYGUFFR9`
-
-`EGSJKAXYRJSA6FGCDPMDJEW`
-
-`EJV7V3RQEJPM3MUNHM88S5E`
-
-> 1.
-> 
-> 注册码：EEDKRYQEBWXJG2NYVGZUCFN
-> 
-> 邮箱：nabire8874@settags.com
-> 
-> 密码：cUFULF4s
-
-> 2.
-> 
-> 注册码：EOSETMKMZ9RRIYACLC4J4YU
-> 
-> 邮箱：neyara4799@otozuz.com
-> 
-> 密码：cQkCLngo
-
-
-> 3.
-> 
-> 注册码：EHM3BCXE99N69KLCYYGRUU2
-> 
-> 邮箱：siravi2437@settags.com
-> 
-> 密码：c5GXBgLo
-
-来自TG频道[@MTPdaili](https://t.me/MTPdaili) [@laobaivpn](https://t.me/laobaivpn)的分享
-
-**更新时间：2021/11/07**
 
 > 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
