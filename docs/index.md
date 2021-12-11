@@ -46,8 +46,11 @@
   - [SocksCap64](#SocksCap64)
 
 [![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
-  - [OneClick](#OneClick)
 
+  - [OneClick](#OneClick)
+  - [Potatso Lite](#Potatso_Lite)
+  - [Shadowrocket](#Shadowrocket)
+  
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
 
 **<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
@@ -56,7 +59,9 @@
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
 
-[未整理&其它](#others)
+  - [未整理&其它](#others)
+
+[路由规则](#rule)
 
 [订阅平台](#sub)
 + [BuLink 永久免费网络加速](#BuLink)
@@ -81,7 +86,13 @@
 
 [SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
 
-[Get Shadowrocket iOS小火箭账号分享](#GetShadowrocket)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
+[Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
+
++ [Get Shadowrocket](#GetShadowrocket)
+
++ [苹果帝-Appledi.com](#Appledi)
+
+[注册外区 Apple ID 帐号教程](#Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
 [EveryProxy 共享手机VPN给其它设备](#EveryProxy)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
@@ -216,7 +227,7 @@
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
-**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Get Shadowrocket</font>](#GetShadowrocket)<font size="2">←点击跳转</font>
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Shadowrocket账号分享</font>](#Shadowrocket_Apple_ID)<font size="2">←点击跳转</font>
 
 <span id="OneClick"></span>
 + <font size="5">OneClick</font>
@@ -226,6 +237,20 @@ Unrestricted access to the Internet
 [官网](https://oneclick.earth/#/)
 
 [使用教程](#tutorials)
+
+<span id="Potatso Lite"></span>
++ <font size="5">Potatso Lite</font>
+
+[Potatso Lite 代理工具 在线安装](https://shadowsockshelp.github.io/Potatso-Lite/)
+
+[App Store 链接](https://apps.apple.com/us/app/potatso-lite/id1239860606)
+
+<span id="Shadowrocket"></span>
++ <font size="5">Shadowrocket</font>
+
+[Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)
+
+[App Store 链接](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 <span id="MacOS"></span>
 ## MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)
@@ -256,6 +281,19 @@ Unrestricted access to the Internet
 [Fndroid / clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
 
 [shadowsocksr-backup / shadowsocksr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android)
+
+***
+
+<span id="rule"></span>
+# 路由规则
+
+`含Clash，Surge，Shadowrocket，Quan，Kitsunebi规则`
+
+https://github.com/ACL4SSR/ACL4SSR/tree/master
+
+https://github.com/DivineEngine/Profiles/tree/master
+
+https://github.com/lhie1/Rules/tree/master
 
 ***
 
@@ -352,6 +390,14 @@ Unrestricted access to the Internet
 # 订阅转换
 
 [つつの订阅转换 · 鲸歌](https://m.sub.tsutsu.cc/)
+
+[Subscription Converter](https://subcon.dlj.tf/)
+
+[ACL4SSR 在线订阅转换](https://acl4ssr-sub.github.io/)
+
+[项目地址leosam2048/sub-web](https://github.com/leosam2048/sub-web)
+
+[品云订阅转换](https://id9.cc/)
 
 ***
 
@@ -480,7 +526,7 @@ Unrestricted access to the Internet
 
 - **<font size="4">官方软件下载地址</font>**
 
-[蓝奏云](https://zgq-inc.lanzoui.com/iLRm5wkps4j)
+[expressvpn_windows_10.11.0.13_release.exe](https://zgq-inc.lanzoui.com/iLRm5wkps4j)
 
 <span id="ExpressVPN_account"></span>
 - **<font size="4">注册码分享（不定时更新）</font>**
@@ -520,7 +566,7 @@ Unrestricted access to the Internet
 
 - **<font size="4">官方软件下载地址</font>**
 
-[蓝奏云](https://zgq-inc.lanzoui.com/iFymhwkpsej)
+[expressvpn_mac_10.8.0.2_release.pkg](https://zgq-inc.lanzoui.com/iFymhwkpsej)
 
 使用方法与[Windows版](#ExpressVPN_Windows)一致。
 
@@ -583,18 +629,33 @@ Unrestricted access to the Internet
 
 ***
 
-<span id="GetShadowrocket"></span>
-# Get Shadowrocket
+<span id="Shadowrocket_Apple_ID"></span>
+# Shadowrocket 小火箭账号分享
 
 ![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)
 
-Apple ID 已购买小火箭（Shadowrocket）账号分享
+<span id="GetShadowrocket"></span>
++ <font size="5">GetShadowrocket</font>
 
-[网址](https://free.shadowrocket.online/)
+[Apple ID 已购买小火箭（Shadowrocket）账号分享](https://free.shadowrocket.online/)
 
-部分应用大陆无法获取，个人建议注册外区Apple ID，这里提供香港Apple ID注册教程。
+<span id="Appledi"></span>
++ <font size="5">苹果帝-Appledi.com</font>
+
+[苹果美区账号 APPLE ID 免费账号共享](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
+
+***
+
+<span id="Apple_ID"></span>
+# 注册外区 Apple ID 帐号教程
+
+![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)
+
+部分应用大陆无法获取，个人建议注册外区Apple ID，以便获取国外应用程序。
 
 [港区Apple ID注册流程](https://oneclick.earth/help/appleid.html)
+
+[注册美区 Apple ID 帐号的终极指南](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html)
 
 ***
 
