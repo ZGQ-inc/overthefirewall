@@ -225,6 +225,12 @@ Key = `EJEQQ3OCAYWBRIRCYLRUNZA`
 
 ***
 
+**更新时间：2021/12/12**
+
+***
+
+# 旧注册码
+
 > **EU4O9RJ6TMIYBVYWFFI5CAY**
 > 
 > 邮箱：exxhc@mfk.app
@@ -279,11 +285,7 @@ ERU30LHJEWC167EFLWZXQDK | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 15
 > 
 > Pass: WV2j5sxP
 
-**更新时间：2021/11/30**
-
 ***
-
-# 旧注册码
 
 EYRJVWCURIN5NHNGELEKFUK
 
@@ -345,7 +347,7 @@ EU9SVGYSDVIEYDXVBMGNNU3
 
 EBY3H8KGHMSGABYLW7RSWHU
 
-**更新时间：2021/11/07**
+**更新时间：2021/11/30**
 
 ***
 
