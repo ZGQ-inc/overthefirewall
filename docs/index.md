@@ -427,10 +427,6 @@ https://github.com/lhie1/Rules/tree/master
 <span id="ExpressVPN_Android"></span>
 # Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-<span style="color: #ff0000">经常有人看不到紧急通知然后反馈进不去，现引用定位锚点至此，以作强调。</span>
-
-[<font size="5" color="#FF0000">※紧急通知</font>](#ExpressVPN_rednotice)
-
 **※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
 **<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
@@ -459,7 +455,14 @@ https://github.com/lhie1/Rules/tree/master
 即可获得**未完全测试可用性的最新版本**。
 
 <span id="ExpressVPN_Android_instructions"></span>
-**<font size="4">使用方法</font>**：进入应用，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**使用自动生成伪造的邮箱地址（不必另外填写）**</span>，点击`Start Free Trial`，之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
+**<font size="4">使用方法</font>**：进入应用，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**使用自动生成伪造的邮箱地址（不必另外填写）**</span>，点击`Start Free Trial`。
+
+<span id="ExpressVPN_rednotice"></span>
+<font size="5" color="#FF0000">※紧急通知</font>
+
+如提示`Invalid email.`，请把邮箱域名`@dexunpacker.jaggu`改成`@gmail.com`。
+
+之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
 
 > 如果**<font size="5">无法进入</font>**，出现此窗口`Free trial is unavailable.`。
 
@@ -467,21 +470,6 @@ https://github.com/lhie1/Rules/tree/master
 1. 转到应用程序的`应用程序信息`，清除数据
 2. 打开`飞行模式`，然后关闭
 3. 重新按照[使用方法](#ExpressVPN_Android_instructions)操作
-
-<span id="ExpressVPN_rednotice"></span>
-<font size="5" color="#FF0000">※紧急通知</font>
-
-如按步骤操作后始终无法进入，请在随机生成的邮箱后面额外添加字符
-
-示例：
-
-> ee9821zx1zxz212@Dexunpacker.Jaggu[添加字符a]
-> 
-> 效果如下↓↓↓
-> 
-> ee9821zx1zxz212@Dexunpacker.Jaggua
-
-**在`@Dexunpacker.Jaggu`后面随便添加字符即可进入。**
 
 > 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
