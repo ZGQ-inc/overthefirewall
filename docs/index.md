@@ -533,7 +533,7 @@ https://github.com/lhie1/Rules/tree/master
 
 **此栏目已与主文档分离，请仔细浏览一遍[使用方法](#ExpressVPN_Windows_instructions)后操作。**
 
-[<font size="4">点击获取最新注册码</font>](https://github.com/ZGQ-inc/overthefirewall/blob/e114b81da3b825f2e8e18f0f15f63b62d54382ec/docs/ExpressVPN_activation_code.md)
+[<font size="5">点击获取最新注册码</font>](https://github.com/ZGQ-inc/overthefirewall/blob/e114b81da3b825f2e8e18f0f15f63b62d54382ec/docs/ExpressVPN_activation_code.md)
 
 <span id="ExpressVPN_Windows_instructions"></span>
 **<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写
