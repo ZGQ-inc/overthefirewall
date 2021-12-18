@@ -134,6 +134,8 @@
 
 [![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)](#Twitch)`第三方`
 
+[![LINE](https://img.shields.io/badge/-LINE-21BA52?style=for-the-badge&logo=LINE&logoColor=FFFFFF)](#LINE)`LINE相机`
+
 [多功能](#multifunction)`社交媒体多合一`
 
 [我的上传](#Upload) `上千破解软件`
@@ -579,7 +581,7 @@ https://github.com/lhie1/Rules/tree/master
 
 来自三星的隐私 VPN，具有免费和高级级别 + 强大的数据节省功能
 
-[谷歌商店](https://play.google.com/store/apps/details?id=com.opera.max.global)
+[谷歌商店](https://play.google.com/store/apps/details?id=com.opera.max.global)![GooglePlay](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=GooglePlay&logoColor=000000)
 
 - **<font size="4">下载地址</font>**
 
@@ -658,7 +660,7 @@ https://github.com/lhie1/Rules/tree/master
 
 在Android设备上运行代理服务器
 
-[谷歌商店](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)![GooglePlay](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=GooglePlay&logoColor=00C4FF)
+[谷歌商店](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)![GooglePlay](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=GooglePlay&logoColor=000000)
 
 [官网](http://www.everyproxy.co.uk)
 
@@ -844,16 +846,16 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [<font size="5">返回目录</font>](#contents)
 
 <span id="Telegram"></span>
-- ![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
+![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
 
-[Android直连版](http://a.ruansky.com/up/199832)
+[Android直连版](http://a.ruansky.com/up/329907)
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
 [Sticker Downloader-电报贴纸包下载器](http://a.ruansky.com/up/312604)
 
 <span id="Google"></span>
-- ![Google](https://img.shields.io/badge/-Google-000000?style=for-the-badge&logo=Google&logoColor=FFFFFF)
+![Google](https://img.shields.io/badge/-Google-000000?style=for-the-badge&logo=Google&logoColor=FFFFFF)
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
@@ -867,44 +869,38 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Uptodown App Store-第三方谷歌商店](http://a.ruansky.com/up/273533)
 
-`官方渠道搬运（已停更）`
-
-[蓝奏云](https://zgq-inc.lanzoui.com/b00nj0mlg)
-
 <span id="YouTube"></span>
-- ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)
+![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)
 
 [Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259)
 
 [Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
 
-[Snaptube-油管视频下载器](http://a.ruansky.com/up/226243)
+[Snaptube-油管视频下载器](http://a.ruansky.com/up/319462)
 
 [TubeMate（版本更新）-油管视频下载器](http://a.ruansky.com/up/179362)
 
 [PowerTube-视频下载器](http://a.ruansky.com/up/254341)
 
 <span id="Twitter"></span>
-- ![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)
+![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)
 
 [推特直连版](http://a.ruansky.com/up/117084)
 
 [Talon-第三方Twitter](http://a.ruansky.com/up/202613)
 
 <span id="Facebook"></span>
-- ![Facebook](https://img.shields.io/badge/-Facebook-0470E5?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)
+![Facebook](https://img.shields.io/badge/-Facebook-0470E5?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)
 
 [Swipe-第三方Facebook](http://a.ruansky.com/up/226321)
 
 <span id="Netflix"></span>
-- ![Netflix](https://img.shields.io/badge/-Netflix-221F1F?style=for-the-badge&logo=Netflix&logoColor=E21221)
+![Netflix](https://img.shields.io/badge/-Netflix-221F1F?style=for-the-badge&logo=Netflix&logoColor=E21221)
 
-`第三方网飞`
-
-[Netflix by APKMODY](http://a.ruansky.com/up/310271)
+[Netflix by APKMODY-第三方Netflix](http://a.ruansky.com/up/310271)
 
 <span id="Spotify"></span>
-- ![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)
+![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)
 
 [xManager-Spotify破解版下载](http://a.ruansky.com/up/310318)
 
@@ -913,37 +909,33 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Lite版破解高级功能](http://a.ruansky.com/up/136843)
 
 <span id="Pixiv"></span>
-- ![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)
-
-[官方版破解会员](http://a.ruansky.com/up/283461)
-
-**如安装失败请下载以下版本**
+![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)
 
 [官方版破解会员6.27.0](http://a.ruansky.com/up/267037)
 
-[第三方客户端Shaft](http://a.ruansky.com/up/88394)
+[第三方客户端Shaft](http://a.ruansky.com/up/326566)
 
 <span id="WhatsApp"></span>
-- ![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
 <span id="Reddit"></span>
-- ![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)
+![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)
 
 [rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/300147)
 
 [BaconReader Premium（版本更新）-第三方Reddit](http://a.ruansky.com/up/300136)
 
 <span id="Instagram"></span>
-- ![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)
+![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)
 
 [Instander-第三方Instagram](http://a.ruansky.com/up/224136)
 
 [iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
 
 <span id="VKontakte"></span>
-- ![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)
+![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)
 
 [Kate Mobile-第三方VKontakte](http://a.ruansky.com/up/232252)
 
@@ -952,16 +944,22 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [VK Музыка-VK旗下音乐平台](http://a.ruansky.com/up/310470)
 
 <span id="TikTok"></span>
-- ![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)
+![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)
 
 [TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/224128)
 
 [TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/296732)
 
 <span id="Twitch"></span>
-- ![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)
+![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)
 
 [Impulse-第三方Twitch](http://a.ruansky.com/up/292424)
+
+<span id="LINE"></span>
+
+![LINE](https://img.shields.io/badge/-LINE-21BA52?style=for-the-badge&logo=LINE&logoColor=FFFFFF)
+
+[LINE Camera-日本知名社交平台LINE旗下照片美化](http://a.ruansky.com/up/326559)
 
 <span id="multifunction"></span>
 - <font size="5">多功能</font>
