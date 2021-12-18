@@ -735,11 +735,11 @@ hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过
 
 hosts是一个系统文件，在各个系统的位置如下
 
-- Windows：`C:\windows\system32\drivers\etc`
+- [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)](#Windows)：`C:\windows\system32\drivers\etc`
 
 > 需要管理员权限
 
-- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)：`/etc/hosts`
+- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)：`/etc/hosts`
 
 > Android需要root，也可以免root使用
 > 
