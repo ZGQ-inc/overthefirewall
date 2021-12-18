@@ -521,6 +521,8 @@ https://github.com/lhie1/Rules/tree/master
 <span id="ExpressVPN_account"></span>
 - **<font size="4">注册码分享（不定时更新）</font>**
 
+**<span style="color: #ff0000">近期出现状况，大部分注册码已失效，如无法使用，请静待新注册码。</span>**
+
 **此栏目已与主文档分离，请仔细浏览一遍[使用方法](#ExpressVPN_Windows_instructions)后操作。**
 
 [<font size="5">点击获取最新注册码</font>](https://github.com/ZGQ-inc/overthefirewall/blob/e114b81da3b825f2e8e18f0f15f63b62d54382ec/docs/ExpressVPN_activation_code.md)
