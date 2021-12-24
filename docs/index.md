@@ -704,7 +704,7 @@ https://github.com/lhie1/Rules/tree/master
 
 - **<font size="4">下载地址</font>**
 
-[ddm_blocknet-1_51_A2ZAPK.COM.apk](https://zgq-inc.lanzoui.com/iJzXuwgwxjc)
+[ddm_blocknet-1_51_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ihfTfxwvfof)
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
@@ -932,12 +932,16 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Instagram"></span>
 ![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)
 
-[Instander-第三方Instagram](http://a.ruansky.com/up/224136)
+[Instander-Instagram修改版](http://a.ruansky.com/up/337746)
 
 [iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
 
 <span id="VKontakte"></span>
 ![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)
+
+[VK Mod-VKontakte修改版](http://a.ruansky.com/up/337748)
+
+[VK Minus-VKontakte精简版](http://a.ruansky.com/up/337749)
 
 [Kate Mobile-第三方VKontakte](http://a.ruansky.com/up/232252)
 
