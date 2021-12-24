@@ -126,17 +126,17 @@
 
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)](#Reddit) `第三方`
 
-[![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](#Instagram) `第三方`
+[![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](#Instagram) `修改版` `第三方`
 
-[![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](#VKontakte)`第三方`
+[![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](#VKontakte) `修改版` `第三方`
 
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)](#TikTok)`修改版``插件`
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)](#TikTok) `修改版` `插件`
 
-[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)](#Twitch)`第三方`
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)](#Twitch) `第三方`
 
-[![LINE](https://img.shields.io/badge/-LINE-21BA52?style=for-the-badge&logo=LINE&logoColor=FFFFFF)](#LINE)`LINE相机`
+[![LINE](https://img.shields.io/badge/-LINE-21BA52?style=for-the-badge&logo=LINE&logoColor=FFFFFF)](#LINE) `LINE相机`
 
-[多功能](#multifunction)`社交媒体多合一`
+[多功能](#multifunction) `社交媒体多合一`
 
 [我的上传](#Upload) `上千破解软件`
 
