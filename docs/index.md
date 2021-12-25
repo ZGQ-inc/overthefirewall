@@ -26,7 +26,7 @@
 
 > # 目录
 
- [梯子客户端使用教程](#tutorials)
+ [梯子客户端使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
  
  [梯子客户端](#VPN)
 
@@ -177,7 +177,7 @@
 
 [项目地址 2dust / v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[使用教程](#tutorials)
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="Clash"></span>
 + <font size="5">Clash</font>
@@ -188,7 +188,7 @@
 
 [项目地址 Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[使用教程](#tutorials)
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 ~~（其它待补）~~
 
@@ -208,7 +208,7 @@
 
 [项目地址 2dust / v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[使用教程](#tutorials)
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="ClashR"></span>
 + <font size="5">ClashR</font>
@@ -238,7 +238,7 @@ Unrestricted access to the Internet
 
 [官网](https://oneclick.earth/#/)
 
-[使用教程](#tutorials)
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="Potatso Lite"></span>
 + <font size="5">Potatso Lite</font>
