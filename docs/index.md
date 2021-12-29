@@ -47,6 +47,8 @@
 
 [![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
 
+**<font size="4">推荐使用</font>**[<font size="4" color="#7093DB">Shadowrocket账号分享</font>](#Shadowrocket_Apple_ID)<font size="2">←点击跳转</font>
+
   - [OneClick](#OneClick)
   - [Potatso Lite](#Potatso_Lite)
   - [Shadowrocket](#Shadowrocket)
@@ -428,6 +430,8 @@ https://github.com/lhie1/Rules/tree/master
 
 <span id="ExpressVPN_Android"></span>
 # Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
+<font size="6" color="#FF0000">※重要通知：破解版目前已失效，提示`Update Required`，即强制更新，请静待新破解版。</font>
 
 **※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
