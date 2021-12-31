@@ -461,7 +461,7 @@ https://github.com/lhie1/Rules/tree/master
 即可获得**未完全测试可用性的最新版本**。
 
 <span id="ExpressVPN_Android_instructions"></span>
-**<font size="4">使用方法</font>**：进入应用，<font size="5" color="#FF0000">**点击下方绿色按钮`Start 7-Day Free Trial`，不要点击`Sign In`，使用自动生成伪造的邮箱地址（不必另外填写）**</font>，点击`Start Free Trial`。
+**<font size="4">使用方法</font>**：进入应用，<font size="5" color="#FF0000">点击下方绿色按钮`Start 7-Day Free Trial`，不要点击`Sign In`，使用自动生成伪造的邮箱地址（不必另外填写）</font>，点击`Start Free Trial`。
 
 <span id="ExpressVPN_rednotice"></span>
 <font size="5" color="#FF0000">※紧急通知</font>
@@ -647,7 +647,7 @@ https://github.com/lhie1/Rules/tree/master
 
 ![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)
 
-部分应用大陆无法获取，个人建议注册外区Apple ID，以便获取国外应用程序。
+部分应用大陆区App Store无法获取，个人建议注册外区Apple ID，以便获取国外应用程序。
 
 [港区Apple ID注册流程](https://oneclick.earth/help/appleid.html)
 
