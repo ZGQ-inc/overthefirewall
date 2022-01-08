@@ -79,6 +79,8 @@
 
 [订阅转换](#subconvert)
 
+[安卓破解版VPN分享](#AndroidpatchedVPN)
+
 [ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
 + [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#ExpressVPN_Android) `破解版`
   - [稳定版](#ExpressVPN_stable)
@@ -402,6 +404,27 @@ https://github.com/lhie1/Rules/tree/master
 [项目地址leosam2048/sub-web](https://github.com/leosam2048/sub-web)
 
 [品云订阅转换](https://id9.cc/)
+
+***
+
+<span id="AndroidpatchedVPN"></span>
+# 安卓破解版VPN分享
+
+## 可用
+
+[vpnify_Dex_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iSYCcya8c2b)
+
+## 测评中
+
+[TurboVPNv3.7.3ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iWy6Byi984d)
+
+[2021-12-31PsiphonPro_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iG6Mcya8b4h)
+
+[1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS8mqxpom1a)
+
+[2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i0xp8ya8ckj)
+
+[VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iwFV2ya8c8h)
 
 ***
 
@@ -866,7 +889,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Telegram"></span>
 ![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
 
-[Android直连版](http://a.ruansky.com/up/329907)
+[Telegram-直连版](http://a.ruansky.com/up/358060)
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
@@ -894,7 +917,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
 
-[Snaptube-油管视频下载器](http://a.ruansky.com/up/319462)
+[Snaptube-油管视频下载器](http://a.ruansky.com/up/358003)
 
 [TubeMate（版本更新）-油管视频下载器](http://a.ruansky.com/up/179362)
 
@@ -947,6 +970,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [BaconReader Premium（版本更新）-第三方Reddit](http://a.ruansky.com/up/300136)
 
+[Joey-第三方Reddit](http://a.ruansky.com/up/354247)
+
 <span id="Instagram"></span>
 ![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)
 
@@ -965,7 +990,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [VK mp3 mod-第三方VKontakte](http://a.ruansky.com/up/232247)
 
-[VK Музыка-VK旗下音乐平台](http://a.ruansky.com/up/310470)
+[VK Музыка-VK旗下音乐平台](http://a.ruansky.com/up/353474)
 
 <span id="TikTok"></span>
 ![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)
