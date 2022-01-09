@@ -79,7 +79,7 @@
 
 [订阅转换](#subconvert)
 
-[安卓破解版VPN分享](#AndroidpatchedVPN)
+[安卓破解版VPN分享](#Android_patched_VPN)
 
 [ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
 + [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#ExpressVPN_Android) `破解版`
@@ -454,7 +454,7 @@ https://github.com/lhie1/Rules/tree/master
 <span id="ExpressVPN_Android"></span>
 # Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-<font size="6" color="#FF0000">※重要通知：破解版目前已失效，提示`Update Required`，即强制更新，请静待新破解版。</font>
+<font size="6" color="#FF0000">※重要通知：破解版目前已失效，提示Update Required，即强制更新，请静待新破解版。</font>
 
 这次问题很大，能不能继续白嫖都是个问题。
 
@@ -468,6 +468,15 @@ https://github.com/lhie1/Rules/tree/master
 
 大概能知道发生了什么，官方开始行动了，能不能继续白嫖就~~听天由命~~看破解者发力了。
 
+<font size="4" color="#FF0000">目前可以选择</font>
+
+[安卓破解版VPN分享](#Android_patched_VPN)
+
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
+
+<font size="4" color="#FF0000">作为替代品。</font>
+
+<!--
 **※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
 **<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
@@ -549,6 +558,7 @@ https://github.com/lhie1/Rules/tree/master
 点击`侧边栏`，进入`Settings`，点击`Split Tunneling`，选择`Do not allow selected apps to use the VPN`，点击右边`+`添加**不需要代理的应用**。
 
 **在`10.15.0`及以上版本，`侧边栏`变成了右下角的`Options`栏。**
+-->
 
 <span id="ExpressVPN_Windows"></span>
 # Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=for-the-badge&logo=Windows&logoColor=0078D6)
