@@ -407,7 +407,7 @@ https://github.com/lhie1/Rules/tree/master
 
 ***
 
-<span id="AndroidpatchedVPN"></span>
+<span id="Android_patched_VPN"></span>
 # 安卓破解版VPN分享
 
 ## 可用
