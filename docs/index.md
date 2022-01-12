@@ -106,7 +106,7 @@
 
 [解决DNS污染问题](#DNS)
 
-[Oracleusa.ml利用甲骨文搭建的反向直连项目（免梯子实现直连）](#oracleusa)
+[Oracleusa.ml利用甲骨文搭建的反向直连项目（免梯子实现直连）](#Oracleusa_ml)
 
 [Hyperbeam屏幕共享聊天室（远程浏览器投屏）](#Hyperbeam)
 
@@ -836,7 +836,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 ***
 
-<span id="oracleusa"></span>
+<span id="Oracleusa_ml"></span>
 # Oracleusa.ml
 
 用全球顶级VPS提供商之一的甲骨文做的反向直连项目，开发者未知，简单来说就是免梯子访问外网。
