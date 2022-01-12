@@ -50,7 +50,7 @@
 **<font size="4">推荐使用</font>**[<font size="4" color="#7093DB">Shadowrocket账号分享</font>](#Shadowrocket_Apple_ID)<font size="2">←点击跳转</font>
 
   - [OneClick](#OneClick)
-  - [Potatso Lite](#Potatso_Lite)
+  - [Potatso_Lite](#Potatso_Lite)
   - [Shadowrocket](#Shadowrocket)
   
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
@@ -244,7 +244,7 @@ Unrestricted access to the Internet
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-<span id="Potatso Lite"></span>
+<span id="Potatso_Lite"></span>
 + <font size="5">Potatso Lite</font>
 
 [Potatso Lite 代理工具 在线安装](https://shadowsockshelp.github.io/Potatso-Lite/)
@@ -1008,6 +1008,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/224128)
 
 [TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/296732)
+
+[TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
 <span id="Twitch"></span>
 ![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)
