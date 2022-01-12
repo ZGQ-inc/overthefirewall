@@ -106,6 +106,10 @@
 
 [解决DNS污染问题](#DNS)
 
+[Oracleusa.ml利用甲骨文搭建的反向直连项目（免梯子实现直连）](#oracleusa)
+
+[Hyperbeam屏幕共享聊天室（远程浏览器投屏）](#Hyperbeam)
+
 [2021翻墙VPN推荐指南&黑名单](#guide)
 
 [Android软件](#Android_software)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
@@ -829,6 +833,28 @@ hosts是一个系统文件，在各个系统的位置如下
 进去之后，把`自动获得DNS服务器地址`改成`使用下面的DNS服务器地址`
 
 MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)同理
+
+***
+
+<span id="oracleusa"></span>
+# Oracleusa.ml
+
+用全球顶级VPS提供商之一的甲骨文做的反向直连项目，开发者未知，简单来说就是免梯子访问外网。
+
+[点击打开](https://oracleusa.ml/)
+
+[测试直连](https://oracleusa.ml/-----https://zh.m.wikipedia.org/wiki/%E7%94%B2%E9%AA%A8%E6%96%87%E5%85%AC%E5%8F%B8)
+
+***
+
+<span id="Hyperbeam"></span>
+# Hyperbeam
+
+一个支持在线浏览器屏幕共享的聊天室平台，后台基于Linux系统，浏览器画面通过P2P远程传输，服务器在欧洲，可以实现免梯子访问外网。
+
+[官网](https://hyperbeam.com/)
+
+注册账号，创建自己的房间即可，可以私用，也可以发送邀请链接，与他人共享画面。
 
 ***
 
