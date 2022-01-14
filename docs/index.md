@@ -81,6 +81,8 @@
 
 [安卓破解版VPN分享](#Android_patched_VPN)
 
+[腾讯手游加速器全局魔改版](#Tencent)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
 [ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
 + [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#ExpressVPN_Android) `破解版`
   - [稳定版](#ExpressVPN_stable)
@@ -88,7 +90,7 @@
 + [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#ExpressVPN_Windows) `注册码分享`
 + [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#ExpressVPN_MacOS) `注册码分享`
 
-[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1) `破解版`
 
 [Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
@@ -102,13 +104,13 @@
 
 [Steam++ Steam加速器](#Steam++)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![Steam](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Steam&logoColor=0E1E47)
 
-[Blockanet 全球IP共享](#BlockaNet)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)`破解版`
+[Blockanet 全球IP共享](#BlockaNet)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) `破解版`
 
 [解决DNS污染问题](#DNS)
 
 [Oracleusa.ml利用甲骨文搭建的反向直连项目（免梯子实现直连）](#Oracleusa_ml)
 
-[Hyperbeam屏幕共享聊天室（远程浏览器投屏）](#Hyperbeam)
+[Hyperbeam屏幕共享聊天室（远程浏览器投屏）](#Hyperbeam)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [2021翻墙VPN推荐指南&黑名单](#guide)
 
@@ -418,6 +420,24 @@ https://github.com/lhie1/Rules/tree/master
 
 [vpnify_Dex_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iSYCcya8c2b)
 
+> **最新测速结果**
+
+22/01/08 下午1:07
+
+下载↓ `8.42 MB/s`
+
+上传↑ `2.43 MB/s`
+
+22/01/05 下午3:37
+
+下载↓ `12.0 MB/s`
+
+上传↑ `3.04 MB/s`
+
+> Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
+> 
+> © 2006-2022  Ookla , LLC.All Rights Reserved
+
 ## 测评中
 
 [TurboVPNv3.7.3ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iWy6Byi984d)
@@ -429,6 +449,33 @@ https://github.com/lhie1/Rules/tree/master
 [2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i0xp8ya8ckj)
 
 [VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iwFV2ya8c8h)
+
+***
+
+<span id="Tencent"></span>
+# 腾讯手游加速器全局版
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
+
+全局翻墙版腾讯加速器，下载10M+，100M宽带。
+
+[腾讯手游加速器v全局5_1_0魔改翻墙版.apk](https://zgq-inc.lanzouo.com/iEdo7yrl0qd)
+
+**使用方法**：<font size="5" color="#FF0000">重要</font>
+
+进入应用，点击右下角`游戏`，点击上方`外服`，选择`Apex英雄(香港服)`，点击`开始加速`。
+
+> **最新测速结果**
+
+22/01/14 下午3:54
+
+下载↓ `11.9 MB/s`
+
+上传↑ `2.62 MB/s`
+
+> Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
+> 
+> © 2006-2022  Ookla , LLC.All Rights Reserved
 
 ***
 
@@ -670,7 +717,7 @@ https://github.com/lhie1/Rules/tree/master
 
 > Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
 > 
-> © 2006-2021  Ookla , LLC.All Rights Reserved
+> © 2006-2022  Ookla , LLC.All Rights Reserved
 
 ***
 
@@ -792,15 +839,15 @@ hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过
 
 hosts是一个系统文件，在各个系统的位置如下
 
-- [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)](#Windows)：`C:\windows\system32\drivers\etc`
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)：`C:\windows\system32\drivers\etc`
 
 > 需要管理员权限
 
-- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)：`/etc/hosts`
+- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)：`/etc/hosts`
 
 > Android需要root，也可以免root使用
 > 
-> iOS需要越狱
+> iOS/iPadOS需要越狱
 > 
 > MacOS、Linux可以直接修改
 
@@ -849,6 +896,8 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Hyperbeam"></span>
 # Hyperbeam
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
 
 一个支持在线浏览器屏幕共享的聊天室平台，后台基于Linux系统，浏览器画面通过P2P远程传输，服务器在欧洲，可以实现免梯子访问外网。
 
