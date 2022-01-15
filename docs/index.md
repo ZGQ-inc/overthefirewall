@@ -509,6 +509,8 @@ https://github.com/lhie1/Rules/tree/master
 
 [安卓破解版VPN分享](#Android_patched_VPN)
 
+[腾讯手游加速器全局魔改版](#Tencent)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
 [SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
 
 <font size="4" color="#FF0000">作为替代品。</font>
