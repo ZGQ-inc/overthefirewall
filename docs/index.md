@@ -68,7 +68,6 @@
 [订阅平台](#sub)
 + [BuLink 永久免费网络加速](#BuLink)
 + [Fly](#Fly)
-+ [iKuuu](#iKuuu)
 + [V2云](#cwv587)<font size="3" color="#FF0000"> !测评中!</font>
 + [五五开咖啡厅](#55kai)<font size="3" color="#FF0000"> !测评中!</font>
 + [节点池-SOCKS5](#proxypool)
@@ -341,19 +340,6 @@ https://github.com/lhie1/Rules/tree/master
 [网址](https://fly.nullmouse.xyz/)
 
 注册成功后，点击`侧边栏`，进入`套餐购买`，最下面有`白嫖套餐`，**可延长免费账号有效期**。
-
-<span id="iKuuu"></span>
-- <font size="5">iKuuu VPN</font>
-
-`每日签到1GB`
-
-`初始50GB`
-
-`速率最高50Mbps`
-
-**`每月重置签到流量`**
-
-[注册地址](https://ikuuu.co/auth/register)
 
 <span id="cwv587"></span>
 - <font size="5">V2云</font><font size="3" color="#FF0000"> !测评中!</font>
