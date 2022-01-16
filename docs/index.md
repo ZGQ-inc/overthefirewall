@@ -397,6 +397,16 @@ https://github.com/lhie1/Rules/tree/master
 
 [品云订阅转换](https://id9.cc/)
 
+[边缘@订阅转换API](https://bianyuan.xyz/)
+
+[Subscription Converter](https://sub-web.netlify.app/)
+
+[Subscription Converter](https://sublink.dev/)
+
+[在线订阅转换](https://sub.789.st/)
+
+[在线订阅转换](https://www.con8.tk/)
+
 ***
 
 <span id="Android_patched_VPN"></span>
