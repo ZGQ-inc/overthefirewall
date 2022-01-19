@@ -147,13 +147,15 @@
 
 [多功能](#multifunction) `社交媒体多合一`
 
-[我的上传](#Upload) `上千破解软件`
+[我的上传](#upload) `上千破解软件`
 
 [赞助内容](#sponsor)
 
 [鸣谢](#thanks)
 
-[捐赠](#Donate)
+[声明](#announce)
+
+[捐赠](#donate)
 
 ***
 ***
@@ -1106,7 +1108,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [TeeHub-Twitter & Tumblr 二合一](http://a.ruansky.com/up/310301)
 
-<span id="Upload"></span>
+<span id="upload"></span>
 - <font size="5">我的上传</font>
 
 项目作者在`软天空`平台分享的软件资源
@@ -1159,7 +1161,16 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 以及本项目中所有引用链接和内容。
 
-<span id="Donate"></span>
+***
+
+<span id="announce"></span>
+# 声明
+
+所有资源均来源于网络搜集，如有侵权请[联系我](https://zgq-inc.github.io/homepage/#about)删除
+
+***
+
+<span id="donate"></span>
 # 捐赠
 
 **推广这个项目**就是对项目最好的**捐赠**和**支持**。
