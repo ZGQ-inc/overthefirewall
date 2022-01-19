@@ -78,7 +78,7 @@
 
 [订阅转换](#subconvert)
 
-[安卓破解版VPN分享](#Android_patched_VPN)
+[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [腾讯手游加速器全局魔改版](#Tencent)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
@@ -453,6 +453,8 @@ https://github.com/lhie1/Rules/tree/master
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
 
+<font color="#FF0000">此版本已失效</font>：`Apex英雄(香港服)`通道已被移除。
+
 全局翻墙版腾讯加速器，下载10M+，100M宽带。
 
 [腾讯手游加速器v全局5_1_0魔改翻墙版.apk](https://zgq-inc.lanzouo.com/iEdo7yrl0qd)
@@ -517,7 +519,7 @@ https://github.com/lhie1/Rules/tree/master
 
 <font size="4" color="#FF0000">目前可以选择</font>
 
-[安卓破解版VPN分享](#Android_patched_VPN)
+[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [腾讯手游加速器全局魔改版](#Tencent)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
@@ -916,8 +918,6 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 有读者和我说对这款老王VPN的安全性有疑虑，据我的了解和调查，老王VPN可能存在钓鱼风险，网上查得到有人因为在手机上使用老王VPN被请喝茶的消息。我自己在手机上测试了一下，下载的最新版，连接方式选择快速连接，显示连上了，已经翻墙状态了哇，结果一查IP笑死我，原本的IP纹丝不动，依然和本地IP一样，这就存在安全隐患了。
 
-总的来说，像Google Play里面的很多国产翻墙软件最好不要碰，尤其是不要在手机上安装，手机上隐私信息太多，存在隐私数据被截获的风险。而且目前网上因为翻墙出问题的，一般都是使用这种野路子VPN翻车的，这种翻墙软件我是不会使用的，测试都不敢。当然如果只是上网查查学习资料，不涉及账号登录和敏感信息，像老王VPN这种类型的可以也最好只在电脑上(Windows/Mac)使用，因为手机上的隐私信息太多并且容易泄露。最好是使用国外知名的VPN服务，虽然有时会被封锁，但一年中绝大部分时间都是可以连接的，最重要的是安全，不泄漏隐私信息。
-
 </details>
 
 <details><summary><span style="color: #ff0000">佛跳墙VPN</span></summary>
@@ -959,6 +959,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 * Turbo VPN
 
 其他国产的私人或者小型VPN避免使用，这些大部分都是名字叫VPN，只有翻墙的功能，并无安全性可言。其中不少涉嫌钓鱼，用户使用的时候被ISP发现并上报的，已经有记录的就有**极光加速器、QuickQ、佛跳墙加速器、老王VPN、IP精灵、旋风加速器、坚果加速器、蚂蚁加速器、快连VPN、神风加速器**等。
+
+总的来说，**像谷歌商店里面的很多国产翻墙软件最好不要碰**，尤其是不要在手机上安装，手机上隐私信息太多，存在隐私数据被截获的风险。而且目前网上因为翻墙出问题的，一般都是使用这种野路子VPN翻车的，这种翻墙软件我是不会使用的，测试都不敢。当然如果只是上网查查学习资料，不涉及账号登录和敏感信息，像**老王VPN**这种类型的可以也最好只在电脑上(Windows/Mac)使用，因为手机上的隐私信息太多并且容易泄露。最好是使用**国外知名的VPN服务**，虽然有时会被封锁，但一年中绝大部分时间都是可以连接的，**最重要的是安全，不泄漏隐私信息**。
 
 ***
 
