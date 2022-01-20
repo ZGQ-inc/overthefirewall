@@ -193,9 +193,9 @@
 <span id="Clash"></span>
 + <font size="5">Clash</font>
 
-[32位（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
+[32位下载地址（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
 
-[64位（蓝奏云）](https://zgq-inc.lanzoui.com/iFweEp9i1ud)
+[64位下载地址（蓝奏云）](https://zgq-inc.lanzoui.com/iFweEp9i1ud)
 
 [项目地址 Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -224,7 +224,7 @@
 <span id="ClashR"></span>
 + <font size="5">ClashR</font>
 
-[蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
+[下载地址（蓝奏云）](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
 
 [项目地址 BoyceLig / ClashR_for_Windows](https://github.com/BoyceLig/ClashR_for_Windows)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -275,7 +275,7 @@ Unrestricted access to the Internet
 <span id="v2rayU"></span>
 + <font size="5">v2rayU</font>
 
-[蓝奏云](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
+[下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
 
 <span id="Linux"></span>
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
@@ -285,7 +285,7 @@ Unrestricted access to the Internet
 <span id="others"></span>
 ## 未整理/其它
 
-[蓝奏云](https://zgq-inc.lanzoux.com/b00ob0zsj)
+[下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/b00ob0zsj)
 
 密码:VPN
 
