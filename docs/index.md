@@ -459,13 +459,14 @@ https://github.com/lhie1/Rules/tree/master
 
 `Apex英雄(香港服)`通道已被移除。
 
+<!--
 全局翻墙版腾讯加速器，下载10M+，100M宽带。
 
 [腾讯手游加速器v全局5_1_0魔改翻墙版.apk](https://zgq-inc.lanzouo.com/iEdo7yrl0qd)
 
 **使用方法**：<font size="5" color="#FF0000">重要</font>
 
-进入应用，点击右下角`游戏`，点击上方`外服`，选择`Apex英雄(香港服)`，点击`开始加速`。
+进入应用，点击右下角`游戏`，点击上方`外服`，选择`Among Us`，点击`开始加速`。
 
 > **最新测速结果**
 
@@ -478,6 +479,26 @@ https://github.com/lhie1/Rules/tree/master
 > Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
 > 
 > © 2006-2022  Ookla , LLC.All Rights Reserved
+
+among us
+
+**可以使用**
+telegram
+twitter
+onedrive
+tiktok
+
+**无法使用**
+浏览器
+gmail
+谷歌翻译
+Instagram
+
+**能连接但是无法使用**
+google play
+google earth
+YouTube
+-->
 
 ***
 
@@ -999,6 +1020,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Uptodown App Store-第三方谷歌商店](http://a.ruansky.com/up/273533)
 
+[β-Maniac-管理谷歌商店测试版应用](http://a.ruansky.com/up/384323)
+
 <span id="YouTube"></span>
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)
 
@@ -1034,7 +1057,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Spotify"></span>
 ![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)
 
-[xManager-Spotify破解版下载](http://a.ruansky.com/up/310318)
+[xManager-Spotify破解版下载](http://a.ruansky.com/up/381388)
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/261332)
 
@@ -1084,9 +1107,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="TikTok"></span>
 ![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)
 
-[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/224128)
+[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/388270)
 
-[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/296732)
+[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/388251)
 
 [TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
