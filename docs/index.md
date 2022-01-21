@@ -455,7 +455,9 @@ https://github.com/lhie1/Rules/tree/master
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
 
-<font color="#FF0000">此版本已失效</font>：`Apex英雄(香港服)`通道已被移除。
+<font size="6" color="#FF0000">此版本已失效</font>：
+
+`Apex英雄(香港服)`通道已被移除。
 
 全局翻墙版腾讯加速器，下载10M+，100M宽带。
 
