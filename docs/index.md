@@ -884,7 +884,7 @@ hosts是一个系统文件，在各个系统的位置如下
 
 - Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-[DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/155031)
+[DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/370662)
 
 [DNS Test-发现优质DNS服务器](http://a.ruansky.com/up/191985)
 
@@ -1149,13 +1149,11 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span style="color: #ff0000">不再更新，请进赞助群获取。</span>
 
-> - <font size="5">起飞交流群</font>
->
-> [Q群链接](https://dwz.mk/63qiay)
+> - <font size="5">起飞交流群（Q群）</font>
 >
 > 群号：485668627
 >
->问题答案：@freessrvpn
+> 问题答案：@freessrvpn
 >
 > Telegram群组 [@freessrvpn](https://t.me/freessrvpn)
 > 
@@ -1163,7 +1161,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 >
 > Telegram群组 [@CN_baipiaodang](https://t.me/CN_baipiaodang)
 >
-> Telegram频道 [CN_baipiao](https://t.me/CN_baipiao)
+> Telegram频道 [@CN_baipiao](https://t.me/CN_baipiao)
 >
 
 ***
