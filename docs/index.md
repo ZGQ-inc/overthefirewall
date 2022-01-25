@@ -35,14 +35,14 @@
 **<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
   - [v2rayNG](#v2rayNG)
-  - [Clash](#Clash)
+  - [Clash](#Clash_Android)
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
 
 **<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
   - [v2rayN](#v2rayN)
-  - [ClashR](#ClashR)
+  - [Clash](#Clash_Windows)
   - [SocksCap64](#SocksCap64)
 
 [![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
@@ -58,6 +58,7 @@
 **<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
   - [v2rayU](#v2rayU)
+  - [Clash](#Clash_MacOS)
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
 
@@ -190,12 +191,10 @@
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-<span id="Clash"></span>
+<span id="Clash_Android"></span>
 + <font size="5">Clash</font>
 
-[32位下载地址（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
-
-[64位下载地址（蓝奏云）](https://zgq-inc.lanzoui.com/iFweEp9i1ud)
+`由于更新太频繁，采用Github直链`
 
 [项目地址 Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -221,12 +220,14 @@
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-<span id="ClashR"></span>
-+ <font size="5">ClashR</font>
+<span id="Clash_Windows"></span>
++ <font size="5">Clash</font>
 
-[下载地址（蓝奏云）](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
+`由于更新太频繁，采用Github直链`
 
-[项目地址 BoyceLig / ClashR_for_Windows](https://github.com/BoyceLig/ClashR_for_Windows)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+**<font size="4">汉化补丁</font>**[项目地址 BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 ~~（其它待补）~~
 
@@ -277,6 +278,15 @@ Unrestricted access to the Internet
 
 [下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
 
+[项目地址 yanue/V2rayU](https://github.com/yanue/V2rayU)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="Clash_MacOS"></span>
++ <font size="5">Clash</font>
+
+`由于更新太频繁，采用Github直链`
+
+[项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
 <span id="Linux"></span>
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
@@ -290,8 +300,6 @@ Unrestricted access to the Internet
 密码:VPN
 
 [shadowsocks / shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
-
-[Fndroid / clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
 
 [shadowsocksr-backup / shadowsocksr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android)
 
@@ -999,7 +1007,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Telegram"></span>
 ![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
 
-[Telegram-直连版](http://a.ruansky.com/up/358060)
+[Telegram-直连版](http://a.ruansky.com/up/391880)
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
