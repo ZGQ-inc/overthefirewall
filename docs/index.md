@@ -472,6 +472,8 @@ https://github.com/lhie1/Rules/tree/master
 
 [SkyVPNv2.3.2ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iDNSxzb48xg)
 
+[Speed_VPN_v5.0.6_MOD_apkmody.io.apk](https://zgq-inc.lanzouo.com/i0LT6zb5yyj)
+
 ***
 
 <span id="Tencent"></span>
