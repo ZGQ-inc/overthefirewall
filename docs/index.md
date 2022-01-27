@@ -200,8 +200,6 @@
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-~~（其它待补）~~
-
 <span id="Windows"></span>
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
 
@@ -229,7 +227,7 @@
 
 **<font size="4">汉化补丁</font>**[项目地址 BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-~~（其它待补）~~
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="SocksCap64"></span>
 + <font size="5">SocksCap64</font>
@@ -286,6 +284,8 @@ Unrestricted access to the Internet
 `由于更新太频繁，采用Github直链`
 
 [项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="Linux"></span>
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
@@ -422,9 +422,13 @@ https://github.com/lhie1/Rules/tree/master
 <span id="Android_patched_VPN"></span>
 # 安卓破解版VPN分享
 
+**<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
+
 ## 可用
 
 [vpnify_Dex_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iSYCcya8c2b)
+
+[vpnifyv1.9.7.8Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ih3Lgz48maj)
 
 > **最新测速结果**
 
@@ -455,6 +459,18 @@ https://github.com/lhie1/Rules/tree/master
 [2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i0xp8ya8ckj)
 
 [VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iwFV2ya8c8h)
+
+[VPN_Pro_v2.1.3_b213_arm64-v8a_armeabi-v7a_x86_x86_64_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS3P7yw2x7i)
+
+[KeepSolid_VPN_Unlimited__Free_VPN_for_Android_v8.7.0_Premium__A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ixREmz0yrij)
+
+[VyprVPN MOD_4.5.1.apk](https://zgq-inc.lanzouo.com/izsYXz598wj)
+
+[VPN_PE_PRO_v7.0_b7_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iVMpXz728wj)
+
+[Betternet.v.5.21.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iZbtRzb48be)
+
+[SkyVPNv2.3.2ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iDNSxzb48xg)
 
 ***
 
