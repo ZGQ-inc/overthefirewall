@@ -474,6 +474,8 @@ https://github.com/lhie1/Rules/tree/master
 
 [Speed_VPN_v5.0.6_MOD_apkmody.io.apk](https://zgq-inc.lanzouo.com/i0LT6zb5yyj)
 
+[Smart_OXP_VPN_vV4.0.1-32_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ipcVMzcmfpe)
+
 ***
 
 <span id="Tencent"></span>
@@ -855,7 +857,7 @@ YouTube
 
 - **<font size="4">下载地址</font>**
 
-[ddm_blocknet-1_51_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ihfTfxwvfof)
+[BlockaNet-Pro-v1.53_build_78-Mod-arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iWdypzcwcri)
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
