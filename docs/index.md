@@ -476,6 +476,10 @@ https://github.com/lhie1/Rules/tree/master
 
 [Smart_OXP_VPN_vV4.0.1-32_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ipcVMzcmfpe)
 
+[120X_VPN_Pro_v1.1_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iP5pBzdgjtc)
+
+[Snap_VPN_v1.4.1_MOD_apkmody.io.apk](https://zgq-inc.lanzouo.com/inTWSzdgjwf)
+
 ***
 
 <span id="Tencent"></span>
@@ -1087,7 +1091,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [xManager-Spotify破解版下载](http://a.ruansky.com/up/381388)
 
-[SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/261332)
+[SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/407302)
 
 [Lite版破解高级功能](http://a.ruansky.com/up/136843)
 
