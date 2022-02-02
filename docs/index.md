@@ -48,9 +48,9 @@
 [![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
 
   - [OneClick](#OneClick)
-  - [Potatso_Lite](#Potatso_Lite)
-  - [Shadowrocket小火箭在线安装](#Shadowrocket)
-  - [Shadowrocket小火箭账号分享](#Shadowrocket_Apple_ID)
+  - [Potatso Lite 在线安装](#Potatso_Lite)
+  - [Shadowrocket 小火箭在线安装](#Shadowrocket)
+  - [Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)
 
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
 
