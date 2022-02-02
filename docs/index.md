@@ -47,12 +47,11 @@
 
 [![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
 
-**<font size="4">推荐使用</font>**[<font size="4" color="#7093DB">Shadowrocket账号分享</font>](#Shadowrocket_Apple_ID)<font size="2">←点击跳转</font>
-
   - [OneClick](#OneClick)
   - [Potatso_Lite](#Potatso_Lite)
-  - [Shadowrocket](#Shadowrocket)
-  
+  - [Shadowrocket小火箭在线安装](#Shadowrocket)
+  - [Shadowrocket小火箭账号分享](#Shadowrocket_Apple_ID)
+
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
 
 **<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
@@ -1093,7 +1092,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/407302)
 
-[Lite版破解高级功能](http://a.ruansky.com/up/136843)
+[Spotify Lite-精简版](http://a.ruansky.com/up/415346)
 
 <span id="Pixiv"></span>
 ![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)
