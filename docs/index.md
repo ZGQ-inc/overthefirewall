@@ -681,7 +681,7 @@ YouTube
 
 **此栏目已与主文档分离，请仔细浏览一遍[使用方法](#ExpressVPN_Windows_instructions)后操作。**
 
-[<font size="5">点击获取最新注册码</font>](https://github.com/ZGQ-inc/overthefirewall/blob/e114b81da3b825f2e8e18f0f15f63b62d54382ec/docs/ExpressVPN_activation_code.md)
+[<font size="5">点击获取最新注册码</font>](https://zgq-inc.github.io/overthefirewall/ExpressVPN_activation_code.md)
 
 <span id="ExpressVPN_Windows_instructions"></span>
 **<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写
@@ -1083,7 +1083,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Netflix"></span>
 ![Netflix](https://img.shields.io/badge/-Netflix-221F1F?style=for-the-badge&logo=Netflix&logoColor=E21221)
 
-[Netflix by APKMODY-第三方Netflix](http://a.ruansky.com/up/310271)
+[Netflix by APKMODY-第三方Netflix](http://a.ruansky.com/up/417720)
 
 <span id="Spotify"></span>
 ![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)
@@ -1099,7 +1099,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [官方版破解会员6.27.0](http://a.ruansky.com/up/267037)
 
-[第三方客户端Shaft](http://a.ruansky.com/up/326566)
+[Shaft-第三方直连版Pixiv](http://a.ruansky.com/up/417680)
+
+[PixEz-第三方直连版Pixiv](http://a.ruansky.com/up/417674)
 
 <span id="WhatsApp"></span>
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)
