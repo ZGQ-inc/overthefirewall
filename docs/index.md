@@ -7,9 +7,13 @@
 
 **<font size="4">★破解VPN软件分享★</font>**
 
-项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
+![:overthefirewall](https://count.getloli.com/get/@overthefirewall?theme=rule34)
+
+`21/02/06` <span style="color: #C1C1C1">决定启用计数器</span>
 
 ***
+
+项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
 
 欢迎进群**讨论/提问**
 
@@ -36,6 +40,8 @@
 
   - [v2rayNG](#v2rayNG)
   - [Clash](#Clash_Android)
+  - [SagerNet](#SagerNet)
+  - [Surfboard](#Surfboard)
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
 
@@ -198,6 +204,20 @@
 [项目地址 Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
+
+<span id="SagerNet"></span>
++ <font size="5">SagerNet</font>
+
+[官网](https://sagernet.org/)
+
+[下载地址](https://sagernet.org/download/)
+
+[项目地址 SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)
+
+<span id="Surfboard"></span>
++ <font size="5">Surfboard</font>
+
+下载地址 [@surfboardnews](https://t.me/surfboardnews)（TG频道）
 
 <span id="Windows"></span>
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
