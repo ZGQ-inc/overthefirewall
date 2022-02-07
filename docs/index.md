@@ -449,6 +449,8 @@ https://github.com/lhie1/Rules/tree/master
 
 [vpnifyv1.9.7.8Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ih3Lgz48maj)
 
+[vpnifyv1.9.7.12ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/imxMMzps1aj)
+
 > **最新测速结果**
 
 22/01/08 下午1:07
@@ -475,6 +477,8 @@ https://github.com/lhie1/Rules/tree/master
 
 [1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS8mqxpom1a)
 
+[1.1.1.1_6.11_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iLE5nzecvbi)
+
 [2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i0xp8ya8ckj)
 
 [VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iwFV2ya8c8h)
@@ -484,6 +488,8 @@ https://github.com/lhie1/Rules/tree/master
 [KeepSolid_VPN_Unlimited__Free_VPN_for_Android_v8.7.0_Premium__A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ixREmz0yrij)
 
 [VyprVPN MOD_4.5.1.apk](https://zgq-inc.lanzouo.com/izsYXz598wj)
+
+[VyprVPN-4.5.1_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ilVzizps1kj)
 
 [VPN_PE_PRO_v7.0_b7_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iVMpXz728wj)
 
@@ -498,6 +504,12 @@ https://github.com/lhie1/Rules/tree/master
 [120X_VPN_Pro_v1.1_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iP5pBzdgjtc)
 
 [Snap_VPN_v1.4.1_MOD_apkmody.io.apk](https://zgq-inc.lanzouo.com/inTWSzdgjwf)
+
+[Vpn-By-UltraVpn_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iU2cwzklw7a)
+
+[VPN_Master_Pro_v2.0.0_build_110_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/idbpCzklwad)
+
+[VPN_PRO_v1.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ix4Vtzps10j)
 
 ***
 
