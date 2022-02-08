@@ -1002,6 +1002,8 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [Github Pages](https://vpncn.github.io/)
 
+[<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220201/Screenshot_20220208-093348.2vaesgdqvum0.jpg)
+
   <font size="5" color="#FF0000">黑名单列表（点击查看详情）</font>
 
 <details><summary><span style="color: #ff0000">老王VPN</span></summary>
@@ -1074,6 +1076,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 ![Google](https://img.shields.io/badge/-Google-000000?style=for-the-badge&logo=Google&logoColor=FFFFFF)
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
+
+<span style="color: #ff0000">华为新机型无法安装谷歌服务，建议使用下方的第三方谷歌商店</span>
 
 [APKPure Store-知名第三方谷歌商店](http://a.ruansky.com/up/261281)
 
