@@ -34,7 +34,7 @@
  
  [梯子客户端](#VPN)
 
-[![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)
+[![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)![Huawei](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Huawei&logoColor=D1092E)`etc.`
 
 **<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
@@ -112,6 +112,8 @@
 [Blockanet 全球IP共享](#BlockaNet)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) `破解版`
 
 [解决DNS污染问题](#DNS)
+
+[外网&Github文件下载加速](#speedup_download)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [Oracleusa.ml利用甲骨文搭建的反向直连项目（免梯子实现直连）](#Oracleusa_ml)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
@@ -968,6 +970,33 @@ hosts是一个系统文件，在各个系统的位置如下
 进去之后，把`自动获得DNS服务器地址`改成`使用下面的DNS服务器地址`
 
 MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)同理
+
+***
+
+<span id="speedup_download"></span>
+# 文件下载加速
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
+
+## Github文件加速下载
+
+1. [网址](http://toolwa.com/github/)
+2. [网址](https://d.serctl.com/)
+3. [网址](https://gh.api.99988866.xyz/)
+4. [网址](https://g.ioiox.com/)
+5. [网址](http://gitd.cc/)
+6. [网址](https://gh.sky-and-poem.fun/)
+7. [网址](https://github.zhlh6.cn/)
+
+## 外网资源下载加速
+
+**网站不会保留任何用户下载的文件。**
+
+并不是先将文件下载到服务器，而是直接转发下载请求。
+
+[网址](https://sudl.moeweb.site/)
+
+可加速Github下载
 
 ***
 
