@@ -520,7 +520,7 @@ https://github.com/lhie1/Rules/tree/master
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
 
-全局翻墙版腾讯加速器，下载10M+，100M宽带。
+全局翻墙版腾讯加速器，下载`10MB/s+`。
 
 [腾讯手游加速器v全局5_1_0魔改翻墙版.apk](https://zgq-inc.lanzouo.com/iEdo7yrl0qd)
 
