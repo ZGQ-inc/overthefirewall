@@ -7,9 +7,13 @@
 
 **<font size="4">★破解VPN软件分享★</font>**
 
-项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
+![:overthefirewall](https://count.getloli.com/get/@overthefirewall?theme=rule34)
+
+`21/02/06` <span style="color: #C1C1C1">决定启用计数器</span>
 
 ***
+
+项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
 
 欢迎进群**讨论/提问**
 
@@ -26,42 +30,50 @@
 
 > # 目录
 
- [梯子客户端使用教程](#tutorials)
+ [梯子客户端使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
  
  [梯子客户端](#VPN)
 
-[![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)
+[![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)![Huawei](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Huawei&logoColor=D1092E)`etc.`
 
 **<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
   - [v2rayNG](#v2rayNG)
-  - [Clash](#Clash)
+  - [Clash](#Clash_Android)
+  - [SagerNet](#SagerNet)
+  - [Surfboard](#Surfboard)
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
 
 **<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
   - [v2rayN](#v2rayN)
-  - [ClashR](#ClashR)
+  - [Clash](#Clash_Windows)
   - [SocksCap64](#SocksCap64)
 
 [![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
+
   - [OneClick](#OneClick)
+  - [Potatso Lite 在线安装](#Potatso_Lite)
+  - [Shadowrocket 小火箭在线安装](#Shadowrocket)
+  - [Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)
 
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
 
 **<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
-  - [v2rayU](v2rayU)
+  - [v2rayU](#v2rayU)
+  - [Clash](#Clash_MacOS)
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
 
-[未整理&其它](#others)
+  - [未整理&其它](#others)
+
+[路由规则](#rule)
 
 [订阅平台](#sub)
 + [BuLink 永久免费网络加速](#BuLink)
 + [Fly](#Fly)
-+ [iKuuu](#iKuuu)
 + [V2云](#cwv587)<font size="3" color="#FF0000"> !测评中!</font>
 + [五五开咖啡厅](#55kai)<font size="3" color="#FF0000"> !测评中!</font>
 + [节点池-SOCKS5](#proxypool)
@@ -72,24 +84,40 @@
 
 [订阅转换](#subconvert)
 
-[ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
+[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
+[腾讯手游加速器全局魔改版](#Tencent)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
+[ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
 + [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#ExpressVPN_Android) `破解版`
   - [稳定版](#ExpressVPN_stable)
   - [公测版](#ExpressVPN_nightly)
 + [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#ExpressVPN_Windows) `注册码分享`
 + [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#ExpressVPN_MacOS) `注册码分享`
 
-[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1) `破解版`
 
-[Get Shadowrocket iOS小火箭账号分享](#GetShadowrocket)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
+[Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
+
++ [Get Shadowrocket](#GetShadowrocket)
+
++ [苹果帝-Appledi.com](#Appledi)
+
+[注册外区 Apple ID 帐号教程](#Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
 [EveryProxy 共享手机VPN给其它设备](#EveryProxy)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [Steam++ Steam加速器](#Steam++)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![Steam](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Steam&logoColor=0E1E47)
 
-[Blockanet 全球IP共享](#BlockaNet)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)`破解版`
+[Blockanet 全球IP共享](#BlockaNet)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) `破解版`
 
 [解决DNS污染问题](#DNS)
+
+[外网&Github文件下载加速](#speedup_download)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
+
+[Oracleusa.ml利用甲骨文搭建的反向直连项目（免梯子实现直连）](#Oracleusa_ml)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
+
+[Hyperbeam屏幕共享聊天室（远程浏览器投屏）](#Hyperbeam)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [2021翻墙VPN推荐指南&黑名单](#guide)
 
@@ -115,23 +143,27 @@
 
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)](#Reddit) `第三方`
 
-[![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](#Instagram) `第三方`
+[![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](#Instagram) `修改版` `第三方`
 
-[![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](#VKontakte)`第三方`
+[![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](#VKontakte) `修改版` `第三方`
 
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)](#TikTok)`修改版``插件`
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)](#TikTok) `修改版` `插件`
 
-[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)](#Twitch)`第三方`
+[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)](#Twitch) `第三方`
 
-[多功能](#multifunction)`社交媒体多合一`
+[![LINE](https://img.shields.io/badge/-LINE-21BA52?style=for-the-badge&logo=LINE&logoColor=FFFFFF)](#LINE) `LINE相机`
 
-[我的上传](#Upload) `上千破解软件`
+[多功能](#multifunction) `社交媒体多合一`
+
+[我的上传](#upload) `上千破解软件`
 
 [赞助内容](#sponsor)
 
 [鸣谢](#thanks)
 
-[捐赠](#Donate)
+[声明](#announce)
+
+[捐赠](#donate)
 
 ***
 ***
@@ -164,20 +196,30 @@
 
 [项目地址 2dust / v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[使用教程](#tutorials)
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-<span id="Clash"></span>
+<span id="Clash_Android"></span>
 + <font size="5">Clash</font>
 
-[32位（蓝奏云）](https://zgq-inc.lanzoui.com/ixlmIp9i1xg)
-
-[64位（蓝奏云）](https://zgq-inc.lanzoui.com/iFweEp9i1ud)
+`由于更新太频繁，采用Github直链`
 
 [项目地址 Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[使用教程](#tutorials)
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-~~（其它待补）~~
+<span id="SagerNet"></span>
++ <font size="5">SagerNet</font>
+
+[官网](https://sagernet.org/)
+
+[下载地址](https://sagernet.org/download/)
+
+[项目地址 SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)
+
+<span id="Surfboard"></span>
++ <font size="5">Surfboard</font>
+
+下载地址 [@surfboardnews](https://t.me/surfboardnews)（TG频道）
 
 <span id="Windows"></span>
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
@@ -195,16 +237,18 @@
 
 [项目地址 2dust / v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[使用教程](#tutorials)
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-<span id="ClashR"></span>
-+ <font size="5">ClashR</font>
+<span id="Clash_Windows"></span>
++ <font size="5">Clash</font>
 
-[蓝奏云](https://zgq-inc.lanzoui.com/irWwzp9jm3i)
+`由于更新太频繁，采用Github直链`
 
-[项目地址 BoyceLig / ClashR_for_Windows](https://github.com/BoyceLig/ClashR_for_Windows)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-~~（其它待补）~~
+**<font size="4">汉化补丁</font>**[项目地址 BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="SocksCap64"></span>
 + <font size="5">SocksCap64</font>
@@ -216,7 +260,7 @@
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
-**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Get Shadowrocket</font>](#GetShadowrocket)<font size="2">←点击跳转</font>
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Shadowrocket账号分享</font>](#Shadowrocket_Apple_ID)<font size="2">←点击跳转</font>
 
 <span id="OneClick"></span>
 + <font size="5">OneClick</font>
@@ -225,7 +269,21 @@ Unrestricted access to the Internet
 
 [官网](https://oneclick.earth/#/)
 
-[使用教程](#tutorials)
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
+
+<span id="Potatso_Lite"></span>
++ <font size="5">Potatso Lite</font>
+
+[Potatso Lite 代理工具 在线安装](https://shadowsockshelp.github.io/Potatso-Lite/)
+
+[App Store 链接](https://apps.apple.com/us/app/potatso-lite/id1239860606)
+
+<span id="Shadowrocket"></span>
++ <font size="5">Shadowrocket</font>
+
+[Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)
+
+[App Store 链接](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 <span id="MacOS"></span>
 ## MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)
@@ -237,7 +295,18 @@ Unrestricted access to the Internet
 <span id="v2rayU"></span>
 + <font size="5">v2rayU</font>
 
-[蓝奏云](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
+[下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
+
+[项目地址 yanue/V2rayU](https://github.com/yanue/V2rayU)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="Clash_MacOS"></span>
++ <font size="5">Clash</font>
+
+`由于更新太频繁，采用Github直链`
+
+[项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="Linux"></span>
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
@@ -247,15 +316,26 @@ Unrestricted access to the Internet
 <span id="others"></span>
 ## 未整理/其它
 
-[蓝奏云](https://zgq-inc.lanzoux.com/b00ob0zsj)
+[下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/b00ob0zsj)
 
 密码:VPN
 
 [shadowsocks / shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 
-[Fndroid / clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)
-
 [shadowsocksr-backup / shadowsocksr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android)
+
+***
+
+<span id="rule"></span>
+# 路由规则
+
+`含Clash，Surge，Shadowrocket，Quan，Kitsunebi规则`
+
+https://github.com/ACL4SSR/ACL4SSR/tree/master
+
+https://github.com/DivineEngine/Profiles/tree/master
+
+https://github.com/lhie1/Rules/tree/master
 
 ***
 
@@ -291,19 +371,6 @@ Unrestricted access to the Internet
 [网址](https://fly.nullmouse.xyz/)
 
 注册成功后，点击`侧边栏`，进入`套餐购买`，最下面有`白嫖套餐`，**可延长免费账号有效期**。
-
-<span id="iKuuu"></span>
-- <font size="5">iKuuu VPN</font>
-
-`每日签到1GB`
-
-`初始50GB`
-
-`速率最高50Mbps`
-
-**`每月重置签到流量`**
-
-[注册地址](https://ikuuu.co/auth/register)
 
 <span id="cwv587"></span>
 - <font size="5">V2云</font><font size="3" color="#FF0000"> !测评中!</font>
@@ -353,6 +420,126 @@ Unrestricted access to the Internet
 
 [つつの订阅转换 · 鲸歌](https://m.sub.tsutsu.cc/)
 
+[Subscription Converter](https://subcon.dlj.tf/)
+
+[ACL4SSR 在线订阅转换](https://acl4ssr-sub.github.io/)
+
+[项目地址leosam2048/sub-web](https://github.com/leosam2048/sub-web)
+
+[品云订阅转换](https://id9.cc/)
+
+[边缘@订阅转换API](https://bianyuan.xyz/)
+
+[Subscription Converter](https://sub-web.netlify.app/)
+
+[Subscription Converter](https://sublink.dev/)
+
+[在线订阅转换](https://sub.789.st/)
+
+[在线订阅转换](https://www.con8.tk/)
+
+***
+
+<span id="Android_patched_VPN"></span>
+# 安卓破解版VPN分享
+
+**<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
+
+## 可用
+
+[vpnify_Dex_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iSYCcya8c2b)
+
+[vpnifyv1.9.7.8Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ih3Lgz48maj)
+
+[vpnifyv1.9.7.12ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/imxMMzps1aj)
+
+> **最新测速结果**
+
+22/01/08 下午1:07
+
+下载↓ `8.42 MB/s`
+
+上传↑ `2.43 MB/s`
+
+22/01/05 下午3:37
+
+下载↓ `12.0 MB/s`
+
+上传↑ `3.04 MB/s`
+
+> Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
+> 
+> © 2006-2022  Ookla , LLC.All Rights Reserved
+
+## 测评中
+
+[TurboVPNv3.7.3ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iWy6Byi984d)
+
+[2021-12-31PsiphonPro_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iG6Mcya8b4h)
+
+[1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS8mqxpom1a)
+
+[1.1.1.1_6.11_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iLE5nzecvbi)
+
+[2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i0xp8ya8ckj)
+
+[VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iwFV2ya8c8h)
+
+[VPN_Pro_v2.1.3_b213_arm64-v8a_armeabi-v7a_x86_x86_64_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS3P7yw2x7i)
+
+[KeepSolid_VPN_Unlimited__Free_VPN_for_Android_v8.7.0_Premium__A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ixREmz0yrij)
+
+[VyprVPN MOD_4.5.1.apk](https://zgq-inc.lanzouo.com/izsYXz598wj)
+
+[VyprVPN-4.5.1_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ilVzizps1kj)
+
+[VPN_PE_PRO_v7.0_b7_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iVMpXz728wj)
+
+[Betternet.v.5.21.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iZbtRzb48be)
+
+[SkyVPNv2.3.2ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iDNSxzb48xg)
+
+[Speed_VPN_v5.0.6_MOD_apkmody.io.apk](https://zgq-inc.lanzouo.com/i0LT6zb5yyj)
+
+[Smart_OXP_VPN_vV4.0.1-32_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ipcVMzcmfpe)
+
+[120X_VPN_Pro_v1.1_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iP5pBzdgjtc)
+
+[Snap_VPN_v1.4.1_MOD_apkmody.io.apk](https://zgq-inc.lanzouo.com/inTWSzdgjwf)
+
+[Vpn-By-UltraVpn_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iU2cwzklw7a)
+
+[VPN_Master_Pro_v2.0.0_build_110_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/idbpCzklwad)
+
+[VPN_PRO_v1.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ix4Vtzps10j)
+
+***
+
+<span id="Tencent"></span>
+# 腾讯手游加速器全局版
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
+
+全局翻墙版腾讯加速器，下载10M+，100M宽带。
+
+[腾讯手游加速器v全局5_1_0魔改翻墙版.apk](https://zgq-inc.lanzouo.com/iEdo7yrl0qd)
+
+**使用方法**：<font size="5" color="#FF0000">重要</font>
+
+进入应用，点击右下角`游戏`，选择`绝地求生:未来之役(预约专用)`点击`加速`，点击`开始加速`。
+
+> **最新测速结果**
+
+22/02/11 下午3:27
+
+下载↓ `13.0 MB/s`
+
+上传↑ `2.73 MB/s`
+
+> Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
+> 
+> © 2006-2022  Ookla , LLC.All Rights Reserved
+
 ***
 
 <span id="ExpressVPN"></span>
@@ -381,11 +568,32 @@ Unrestricted access to the Internet
 <span id="ExpressVPN_Android"></span>
 # Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-<span style="color: #ff0000">经常有人看不到紧急通知然后反馈进不去，现引用定位锚点至此，以作强调。</span>
+<font size="6" color="#FF0000">※重要通知：破解版目前已失效，提示Update Required，即强制更新，请静待新破解版。</font>
 
-[<font size="5" color="#FF0000">※紧急通知</font>](#ExpressVPN_rednotice)
+这次问题很大，能不能继续白嫖都是个问题。
 
-**※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址</font>![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)<font size="4" color="#FF0000">，如果弹出更新弹窗可以通过此文档获取最新版。</font>
+就目前已知来看
+
+> 破解版：10.16.0（已失效）
+> 
+> 官方版：10.18.0（取消试用按钮）
+> 
+> 测试版：10.20.0（变成7天试用）
+
+大概能知道发生了什么，官方开始行动了，能不能继续白嫖就~~听天由命~~看破解者发力了。
+
+<font size="4" color="#FF0000">目前可以选择</font>
+
+[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
+[腾讯手游加速器全局魔改版](#Tencent)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
+
+<font size="4" color="#FF0000">作为替代品。</font>
+
+<!--
+**※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
 
 **<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
 
@@ -399,6 +607,8 @@ Unrestricted access to the Internet
 
 [**ExpressVPN10.14.1_A2ZAPK.COM.apk**](https://zgq-inc.lanzoui.com/iSpyzw8ydif)
 
+**近期多人反馈此版本无法进入。即将做下架处理，请使用公测版。**
+
 **<font size="4">公测版</font>**
 
 <span id="ExpressVPN_nightly"></span>
@@ -411,7 +621,14 @@ Unrestricted access to the Internet
 即可获得**未完全测试可用性的最新版本**。
 
 <span id="ExpressVPN_Android_instructions"></span>
-**<font size="4">使用方法</font>**：进入应用，点击下方绿色按钮`Start 7-Day Free Trial`，<span style="color: #FF0004">**使用自动生成伪造的邮箱地址（不必另外填写）**</span>，点击`Start Free Trial`，之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
+**<font size="4">使用方法</font>**：进入应用，<font size="5" color="#FF0000">点击下方绿色按钮`Start 7-Day Free Trial`，不要点击`Sign In`，使用自动生成伪造的邮箱地址（不必另外填写）</font>，点击`Start Free Trial`。
+
+<span id="ExpressVPN_rednotice"></span>
+<font size="5" color="#FF0000">※紧急通知</font>
+
+如提示`Invalid email.`，请把邮箱域名`@dexunpacker.jaggu`改成`@gmail.com`。
+
+之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
 
 > 如果**<font size="5">无法进入</font>**，出现此窗口`Free trial is unavailable.`。
 
@@ -419,21 +636,6 @@ Unrestricted access to the Internet
 1. 转到应用程序的`应用程序信息`，清除数据
 2. 打开`飞行模式`，然后关闭
 3. 重新按照[使用方法](#ExpressVPN_Android_instructions)操作
-
-<span id="ExpressVPN_rednotice"></span>
-<font size="5" color="#FF0000">※紧急通知</font>
-
-如按步骤操作后始终无法进入，请在随机生成的邮箱后面额外添加字符
-
-示例：
-
-> ee9821zx1zxz212@Dexunpacker.Jaggu[添加字符a]
-> 
-> 效果如下↓↓↓
-> 
-> ee9821zx1zxz212@Dexunpacker.Jaggua
-
-**在`@Dexunpacker.Jaggu`后面随便添加字符即可进入。**
 
 > 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
@@ -472,192 +674,33 @@ Unrestricted access to the Internet
 点击`侧边栏`，进入`Settings`，点击`Split Tunneling`，选择`Do not allow selected apps to use the VPN`，点击右边`+`添加**不需要代理的应用**。
 
 **在`10.15.0`及以上版本，`侧边栏`变成了右下角的`Options`栏。**
+-->
 
 <span id="ExpressVPN_Windows"></span>
 # Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=for-the-badge&logo=Windows&logoColor=0078D6)
 
 - **<font size="4">官方软件下载地址</font>**
 
-[蓝奏云](https://zgq-inc.lanzoui.com/iLRm5wkps4j)
+[expressvpn_windows_10.11.0.13_release.exe](https://zgq-inc.lanzoui.com/iLRm5wkps4j)
 
 <span id="ExpressVPN_account"></span>
 - **<font size="4">注册码分享（不定时更新）</font>**
 
+**<span style="color: #ff0000">近期出现状况，大部分注册码已失效，如无法使用，请静待新注册码。</span>**
+
+**此栏目已与主文档分离，请仔细浏览一遍[使用方法](#ExpressVPN_Windows_instructions)后操作。**
+
+[<font size="5">点击获取最新注册码</font>](https://zgq-inc.github.io/overthefirewall/ExpressVPN_activation_code.md)
+
 <span id="ExpressVPN_Windows_instructions"></span>
-**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写`注册码`，点击`Continue`。如遇登录失败，请额外填写邮箱和密码（如有）。之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
+**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写
+**注册码**，点击`Continue`。如遇登录失败，请额外填写邮箱和密码（如有）。之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
 
 首页最上方显示
 
 `Free trial expires in □ days`
 
 这将会是**剩余试用天数**。<span style="color: #FF0004">试用期过后将不可用</span>，点击`Sign Out`退出登录，**见文档内最新注册码**，重新按照[使用方法](#ExpressVPN_Windows_instructions)操作一遍。
-
-<font size="4">新注册码</font>
-
-> **EU4O9RJ6TMIYBVYWFFI5CAY**
-> 
-> 邮箱：exxhc@mfk.app
-> 
-> 密码：sxfgA6sf
-
-> **ECVS4PH3Z4QE7XONUDQWAHL**
-> 
-> 邮箱：dylanclarkso.n3.6.7.1.0.1.0@gmail.com
-> 
-> 密码：oE9uDveG
-
-EHIYGFR1C7EXDLXET3C3PTS | 状态: 可用 | 套餐: 完整 | 到期时间: Oct 28, 2021 | 再生次数: 1 
-
-EJAF1CCQABASBTAREXQ2BVY | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 06, 2021 | 再生次数: 0 
-
-EM2ZWKPSIT6TTKASEVVPRAE | 状态: 可用 | 套餐: 完整 | 到期时间: Jul 01, 2022 | 再生次数: 0 
-
-EPRECCKGFX0SJZ77487VYM8 | 状态: 可用 | 套餐: 完整 | 到期时间: Apr 09, 2022 | 再生次数: 0 
-
-ERKQHE34PY8JBLMNYEMEJS7 | 状态: 可用 | 套餐: 完整 | 到期时间: Jan 10, 2022 | 再生次数: 0 
-
-ESCZRIGAVN0ZPAMCZR5UCWM | 状态: 可用 | 套餐: 完整 | 到期时间: Oct 29, 2021 | 再生次数: 1 
-
-EUKXHBARPUSPO1WMYY6ADXX | 状态: 可用 | 套餐: 完整 | 到期时间: Jul 16, 2022 | 再生次数: 0 
-
-EVL8IYGHXUVMSSWGLKBZ7BY | 状态: 可用 | 套餐: 完整 | 到期时间: Jan 12, 2022 | 再生次数: 0 
-
-ERU30LHJEWC167EFLWZXQDK | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 15, 2021 | 再生次数: 0 
-
-ERU30LHJEWC167EFLWZXQDK | 状态: 可用 | 套餐: 完整 | 到期时间: Dec 15, 2021 | 再生次数: 0
-
-> **EI9BDSGVSN4UMU3PYRYNRJE**
-> 
-> Mail: piwavaro@acrossgracealley.com
-> 
-> Pass: mG69Rcx8
-
-> **EP3A9RNY9T7MQJ9B9BJLMRB**
-> 
-> Mail: heyomeb590@ineedsa.com
-> 
-> Pass:7kChKJ2q
-
-> **ECQSTTKHNNPKVKTAXYBY7KP**
-> 
-> Mail: efijxim@leadwizzer.com
-> 
-> Pass: WV2j5sxP
-
-**更新时间：2021/11/30**
-
-<font size="4">旧注册码</font>
-
-EYRJVWCURIN5NHNGELEKFUK
-
-ENGBQPL4VDPWVGAWV4SBCAF
-
-E5G7AEQDPVSALBAARLIKMB3
-
-EH8WUDPJUKUBZFSEPNURKEY
-
-EW4VH2VJKJ2SG9ISCS9UIJ2
-
-EYRDYBMQKBAASXVHN9HBLKX
-
-ECXKSD3YDBQWSRFGQ5VX7T8
-
-ECPF5VJDQABSAGICZZDNVEB
-
-EUKKKKBXHAUXBEPUMWUFFIY
-
-EJVRGJNXCQYVQXQ3BHTTULP
-
-EDKSOGO7DAWLPPSHQ5DBYY3
-
-EWBTMRWMWWK8TDLDITBRFGA
-
-EYKNMG5ZRM9HM4UO4DQTAC3
-
-EFGAYSRE2KNYGOHRUXKBDQM
-
-EUXO8AFFB8XM89JLHWHYGB9
-
-EQPU9AWKLJVIHEHDCE5NQNP
-
-EAXM44TEQU5JK7GNXH4FBRM
-
-EAEFGCRCQEURBDQYT6GAABW
-
-E4APYFHPYYS2RWP8WRSLKVU
-
-EZXVAABJGMYVBH3Y6H5TGOI
-
-EQF7DGWMAPWFUDFQRS83I2L
-
-EGHVLEBPAQM9THCRAMJJIKU
-
-EEKTKE2NBJCIT4KUJXLQNWR
-
-E3WJWC4OO9YMMWZAQJTBDXR
-
-E8FSPRUKRM8MZ8S8KMZBGEK
-
-EBGRENTJU3BMDHRSBHTCVEU
-
-EKRRPPAUJFYRN2BXYVR9EW2
-
-EAFW9XXEP47FRUGAPZKTWBR
-
-EU9SVGYSDVIEYDXVBMGNNU3
-
-EBY3H8KGHMSGABYLW7RSWHU
-
-**更新时间：2021/11/07**
-
-<font size="4">快过期的旧注册码</font>
-
-`EF2USUVRNKXECQLZIH7GDO2`
-
-`E72P6BEH3UE5PV8YTFNRQA4`
-
-`ER4RYYLPTWMEJRHSROYPZKL`
-
-`EDQZX9UDGDXABFSVLKZPNJ7`
-
-`EQWRWPHFWYNXREUB44NFPEK`
-
-`E6SGJDEAVW32CG2Q4TNDLCA`
-
-`ETCHDHMSVODQFWNSYGUFFR9`
-
-`EGSJKAXYRJSA6FGCDPMDJEW`
-
-`EJV7V3RQEJPM3MUNHM88S5E`
-
-> 1.
-> 
-> 注册码：EEDKRYQEBWXJG2NYVGZUCFN
-> 
-> 邮箱：nabire8874@settags.com
-> 
-> 密码：cUFULF4s
-
-> 2.
-> 
-> 注册码：EOSETMKMZ9RRIYACLC4J4YU
-> 
-> 邮箱：neyara4799@otozuz.com
-> 
-> 密码：cQkCLngo
-
-
-> 3.
-> 
-> 注册码：EHM3BCXE99N69KLCYYGRUU2
-> 
-> 邮箱：siravi2437@settags.com
-> 
-> 密码：c5GXBgLo
-
-来自TG频道[@MTPdaili](https://t.me/MTPdaili) [@laobaivpn](https://t.me/laobaivpn)的分享
-
-**更新时间：2021/11/07**
 
 > 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
 
@@ -680,7 +723,7 @@ EBY3H8KGHMSGABYLW7RSWHU
 
 - **<font size="4">官方软件下载地址</font>**
 
-[蓝奏云](https://zgq-inc.lanzoui.com/iFymhwkpsej)
+[expressvpn_mac_10.8.0.2_release.pkg](https://zgq-inc.lanzoui.com/iFymhwkpsej)
 
 使用方法与[Windows版](#ExpressVPN_Windows)一致。
 
@@ -705,7 +748,7 @@ EBY3H8KGHMSGABYLW7RSWHU
 
 来自三星的隐私 VPN，具有免费和高级级别 + 强大的数据节省功能
 
-[谷歌商店](https://play.google.com/store/apps/details?id=com.opera.max.global)
+[谷歌商店](https://play.google.com/store/apps/details?id=com.opera.max.global)![GooglePlay](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=GooglePlay&logoColor=000000)
 
 - **<font size="4">下载地址</font>**
 
@@ -739,22 +782,37 @@ EBY3H8KGHMSGABYLW7RSWHU
 
 > Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
 > 
-> © 2006-2021  Ookla , LLC.All Rights Reserved
+> © 2006-2022  Ookla , LLC.All Rights Reserved
 
 ***
 
-<span id="GetShadowrocket"></span>
-# Get Shadowrocket
+<span id="Shadowrocket_Apple_ID"></span>
+# Shadowrocket 小火箭账号分享
 
 ![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)
 
-Apple ID 已购买小火箭（Shadowrocket）账号分享
+<span id="GetShadowrocket"></span>
++ <font size="5">GetShadowrocket</font>
 
-[网址](https://free.shadowrocket.online/)
+[Apple ID 已购买小火箭（Shadowrocket）账号分享](https://free.shadowrocket.online/)
 
-部分应用大陆无法获取，个人建议注册外区Apple ID，这里提供香港Apple ID注册教程。
+<span id="Appledi"></span>
++ <font size="5">苹果帝-Appledi.com</font>
+
+[苹果美区账号 APPLE ID 免费账号共享](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
+
+***
+
+<span id="Apple_ID"></span>
+# 注册外区 Apple ID 帐号教程
+
+![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)
+
+部分应用大陆区App Store无法获取，个人建议注册外区Apple ID，以便获取国外应用程序。
 
 [港区Apple ID注册流程](https://oneclick.earth/help/appleid.html)
+
+[注册美区 Apple ID 帐号的终极指南](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html)
 
 ***
 
@@ -769,7 +827,7 @@ Apple ID 已购买小火箭（Shadowrocket）账号分享
 
 在Android设备上运行代理服务器
 
-[谷歌商店](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)![GooglePlay](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=GooglePlay&logoColor=00C4FF)
+[谷歌商店](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)![GooglePlay](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=GooglePlay&logoColor=000000)
 
 [官网](http://www.everyproxy.co.uk)
 
@@ -811,7 +869,7 @@ Apple ID 已购买小火箭（Shadowrocket）账号分享
 
 - **<font size="4">下载地址</font>**
 
-[ddm_blocknet-1_51_A2ZAPK.COM.apk](https://zgq-inc.lanzoui.com/iJzXuwgwxjc)
+[BlockaNet-Pro-v1.53_build_78-Mod-arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iWdypzcwcri)
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
@@ -846,15 +904,15 @@ hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过
 
 hosts是一个系统文件，在各个系统的位置如下
 
-- Windows：`C:\windows\system32\drivers\etc`
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)：`C:\windows\system32\drivers\etc`
 
 > 需要管理员权限
 
-- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)：`/etc/hosts`
+- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)：`/etc/hosts`
 
 > Android需要root，也可以免root使用
 > 
-> iOS需要越狱
+> iOS/iPadOS需要越狱
 > 
 > MacOS、Linux可以直接修改
 
@@ -866,7 +924,7 @@ hosts是一个系统文件，在各个系统的位置如下
 
 - Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-[DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/155031)
+[DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/370662)
 
 [DNS Test-发现优质DNS服务器](http://a.ruansky.com/up/191985)
 
@@ -890,18 +948,71 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 ***
 
+<span id="speedup_download"></span>
+# 文件下载加速
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
+
+## Github文件加速下载
+
+1. [网址](http://toolwa.com/github/)
+2. [网址](https://d.serctl.com/)
+3. [网址](https://gh.api.99988866.xyz/)
+4. [网址](https://g.ioiox.com/)
+5. [网址](http://gitd.cc/)
+6. [网址](https://gh.sky-and-poem.fun/)
+7. [网址](https://github.zhlh6.cn/)
+
+## 外网资源下载加速
+
+**网站不会保留任何用户下载的文件。**
+
+并不是先将文件下载到服务器，而是直接转发下载请求。
+
+[网址](https://sudl.moeweb.site/)
+
+可加速Github下载
+
+***
+
+<span id="Oracleusa_ml"></span>
+# Oracleusa.ml
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
+
+用全球顶级VPS提供商之一的甲骨文做的反向直连项目，开发者未知，简单来说就是免梯子访问外网。
+
+[点击打开](https://oracleusa.ml/)
+
+[测试直连](https://oracleusa.ml/-----https://zh.m.wikipedia.org/wiki/%E7%94%B2%E9%AA%A8%E6%96%87%E5%85%AC%E5%8F%B8)
+
+***
+
+<span id="Hyperbeam"></span>
+# Hyperbeam
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
+
+一个支持在线浏览器屏幕共享的聊天室平台，后台基于Linux系统，浏览器画面通过P2P远程传输，服务器在欧洲，可以实现免梯子访问外网。
+
+[官网](https://hyperbeam.com/)
+
+注册账号，创建自己的房间即可，可以私用，也可以发送邀请链接，与他人共享画面。
+
+***
+
 <span id="guide"></span>
 # 2021中国翻墙软件VPN推荐指南
 
 [Github Pages](https://vpncn.github.io/)
+
+[<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220201/Screenshot_20220208-093348.2vaesgdqvum0.jpg)
 
   <font size="5" color="#FF0000">黑名单列表（点击查看详情）</font>
 
 <details><summary><span style="color: #ff0000">老王VPN</span></summary>
 
 有读者和我说对这款老王VPN的安全性有疑虑，据我的了解和调查，老王VPN可能存在钓鱼风险，网上查得到有人因为在手机上使用老王VPN被请喝茶的消息。我自己在手机上测试了一下，下载的最新版，连接方式选择快速连接，显示连上了，已经翻墙状态了哇，结果一查IP笑死我，原本的IP纹丝不动，依然和本地IP一样，这就存在安全隐患了。
-
-总的来说，像Google Play里面的很多国产翻墙软件最好不要碰，尤其是不要在手机上安装，手机上隐私信息太多，存在隐私数据被截获的风险。而且目前网上因为翻墙出问题的，一般都是使用这种野路子VPN翻车的，这种翻墙软件我是不会使用的，测试都不敢。当然如果只是上网查查学习资料，不涉及账号登录和敏感信息，像老王VPN这种类型的可以也最好只在电脑上(Windows/Mac)使用，因为手机上的隐私信息太多并且容易泄露。最好是使用国外知名的VPN服务，虽然有时会被封锁，但一年中绝大部分时间都是可以连接的，最重要的是安全，不泄漏隐私信息。
 
 </details>
 
@@ -945,6 +1056,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 其他国产的私人或者小型VPN避免使用，这些大部分都是名字叫VPN，只有翻墙的功能，并无安全性可言。其中不少涉嫌钓鱼，用户使用的时候被ISP发现并上报的，已经有记录的就有**极光加速器、QuickQ、佛跳墙加速器、老王VPN、IP精灵、旋风加速器、坚果加速器、蚂蚁加速器、快连VPN、神风加速器**等。
 
+总的来说，**像谷歌商店里面的很多国产翻墙软件最好不要碰**，尤其是不要在手机上安装，手机上隐私信息太多，存在隐私数据被截获的风险。而且目前网上因为翻墙出问题的，一般都是使用这种野路子VPN翻车的，这种翻墙软件我是不会使用的，测试都不敢。当然如果只是上网查查学习资料，不涉及账号登录和敏感信息，像**老王VPN**这种类型的可以也最好只在电脑上(Windows/Mac)使用，因为手机上的隐私信息太多并且容易泄露。最好是使用**国外知名的VPN服务**，虽然有时会被封锁，但一年中绝大部分时间都是可以连接的，**最重要的是安全，不泄漏隐私信息**。
+
 ***
 
 <span id="Android_software"></span>
@@ -955,18 +1068,20 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [<font size="5">返回目录</font>](#contents)
 
 <span id="Telegram"></span>
-- ![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
+![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
 
-[Android直连版](http://a.ruansky.com/up/199832)
+[Telegram-直连版](http://a.ruansky.com/up/391880)
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
 [Sticker Downloader-电报贴纸包下载器](http://a.ruansky.com/up/312604)
 
 <span id="Google"></span>
-- ![Google](https://img.shields.io/badge/-Google-000000?style=for-the-badge&logo=Google&logoColor=FFFFFF)
+![Google](https://img.shields.io/badge/-Google-000000?style=for-the-badge&logo=Google&logoColor=FFFFFF)
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
+
+<span style="color: #ff0000">华为新机型无法安装谷歌服务，建议使用下方的第三方谷歌商店</span>
 
 [APKPure Store-知名第三方谷歌商店](http://a.ruansky.com/up/261281)
 
@@ -978,101 +1093,113 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Uptodown App Store-第三方谷歌商店](http://a.ruansky.com/up/273533)
 
-`官方渠道搬运（已停更）`
-
-[蓝奏云](https://zgq-inc.lanzoui.com/b00nj0mlg)
+[β-Maniac-管理谷歌商店测试版应用](http://a.ruansky.com/up/384323)
 
 <span id="YouTube"></span>
-- ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)
+![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)
 
 [Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259)
 
 [Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
 
-[Snaptube-油管视频下载器](http://a.ruansky.com/up/226243)
+[Snaptube-油管视频下载器](http://a.ruansky.com/up/358003)
 
 [TubeMate（版本更新）-油管视频下载器](http://a.ruansky.com/up/179362)
 
 [PowerTube-视频下载器](http://a.ruansky.com/up/254341)
 
 <span id="Twitter"></span>
-- ![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)
+![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)
 
 [推特直连版](http://a.ruansky.com/up/117084)
 
 [Talon-第三方Twitter](http://a.ruansky.com/up/202613)
 
+[TwitPane-第三方Twitter](http://a.ruansky.com/up/338249)
+
 <span id="Facebook"></span>
-- ![Facebook](https://img.shields.io/badge/-Facebook-0470E5?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)
+![Facebook](https://img.shields.io/badge/-Facebook-0470E5?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)
 
 [Swipe-第三方Facebook](http://a.ruansky.com/up/226321)
 
 <span id="Netflix"></span>
-- ![Netflix](https://img.shields.io/badge/-Netflix-221F1F?style=for-the-badge&logo=Netflix&logoColor=E21221)
+![Netflix](https://img.shields.io/badge/-Netflix-221F1F?style=for-the-badge&logo=Netflix&logoColor=E21221)
 
-`第三方网飞`
-
-[Netflix by APKMODY](http://a.ruansky.com/up/310271)
+[Netflix by APKMODY-第三方Netflix](http://a.ruansky.com/up/417720)
 
 <span id="Spotify"></span>
-- ![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)
+![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)
 
-[xManager-Spotify破解版下载](http://a.ruansky.com/up/310318)
+[xManager-Spotify破解版下载](http://a.ruansky.com/up/381388)
 
-[SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/261332)
+[SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/407302)
 
-[Lite版破解高级功能](http://a.ruansky.com/up/136843)
+[Spotify Lite-精简版](http://a.ruansky.com/up/415346)
 
 <span id="Pixiv"></span>
-- ![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)
-
-[官方版破解会员](http://a.ruansky.com/up/283461)
-
-**如安装失败请下载以下版本**
+![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)
 
 [官方版破解会员6.27.0](http://a.ruansky.com/up/267037)
 
-[第三方客户端Shaft](http://a.ruansky.com/up/88394)
+[Shaft-第三方直连版Pixiv](http://a.ruansky.com/up/417680)
+
+[PixEz-第三方直连版Pixiv](http://a.ruansky.com/up/417674)
 
 <span id="WhatsApp"></span>
-- ![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
 
 <span id="Reddit"></span>
-- ![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)
+![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)
 
 [rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/300147)
 
 [BaconReader Premium（版本更新）-第三方Reddit](http://a.ruansky.com/up/300136)
 
-<span id="Instagram"></span>
-- ![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)
+[Joey-第三方Reddit](http://a.ruansky.com/up/354247)
 
-[Instander-第三方Instagram](http://a.ruansky.com/up/224136)
+<span id="Instagram"></span>
+![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)
+
+[Instander-Instagram修改版](http://a.ruansky.com/up/337746)
 
 [iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
 
 <span id="VKontakte"></span>
-- ![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)
+![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)
+
+[VK Mod-VKontakte修改版](http://a.ruansky.com/up/337748)
+
+[VK Minus-VKontakte精简版](http://a.ruansky.com/up/337749)
 
 [Kate Mobile-第三方VKontakte](http://a.ruansky.com/up/232252)
 
 [VK mp3 mod-第三方VKontakte](http://a.ruansky.com/up/232247)
 
-[VK Музыка-VK旗下音乐平台](http://a.ruansky.com/up/310470)
+[VK Музыка-VK旗下音乐平台](http://a.ruansky.com/up/353474)
 
 <span id="TikTok"></span>
-- ![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)
+![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)
 
-[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/224128)
+[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/388270)
 
-[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/296732)
+[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/388251)
+
+[TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
 <span id="Twitch"></span>
-- ![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)
+![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)
+
+[TwitchMod-Twitch修改版](http://a.ruansky.com/up/429088)
 
 [Impulse-第三方Twitch](http://a.ruansky.com/up/292424)
+
+<span id="LINE"></span>
+
+![LINE](https://img.shields.io/badge/-LINE-21BA52?style=for-the-badge&logo=LINE&logoColor=FFFFFF)
+
+[LINE Camera-日本知名社交平台LINE旗下照片美化](http://a.ruansky.com/up/326559)
 
 <span id="multifunction"></span>
 - <font size="5">多功能</font>
@@ -1083,7 +1210,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [TeeHub-Twitter & Tumblr 二合一](http://a.ruansky.com/up/310301)
 
-<span id="Upload"></span>
+<span id="upload"></span>
 - <font size="5">我的上传</font>
 
 项目作者在`软天空`平台分享的软件资源
@@ -1099,21 +1226,19 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span style="color: #ff0000">不再更新，请进赞助群获取。</span>
 
-> - <font size="5">起飞交流群</font>
->
-> [Q群链接](https://dwz.mk/63qiay)
+> - <font size="5">起飞交流群（Q群）</font>
 >
 > 群号：485668627
 >
->问题答案：@freessrvpn
+> 问题答案：@freessrvpn
 >
-> [Telegram群组](https://t.me/freessrvpn) @freessrvpn
+> Telegram群组 [@freessrvpn](https://t.me/freessrvpn)
 > 
 > - <font size="5">中国白嫖党</font>
 >
-> [Telegram群组](https://t.me/CN_baipiaodang)
+> Telegram群组 [@CN_baipiaodang](https://t.me/CN_baipiaodang)
 >
-> [Telegram频道](https://t.me/CN_baipiao)
+> Telegram频道 [@CN_baipiao](https://t.me/CN_baipiao)
 >
 
 ***
@@ -1136,7 +1261,16 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 以及本项目中所有引用链接和内容。
 
-<span id="Donate"></span>
+***
+
+<span id="announce"></span>
+# 声明
+
+所有资源均来源于网络搜集，如有侵权请[联系我](https://zgq-inc.github.io/homepage/#about)删除
+
+***
+
+<span id="donate"></span>
 # 捐赠
 
 **推广这个项目**就是对项目最好的**捐赠**和**支持**。
