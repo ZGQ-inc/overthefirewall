@@ -520,50 +520,25 @@ https://github.com/lhie1/Rules/tree/master
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
 
-<font size="6" color="#FF0000">此版本已失效</font>：
-
-`Apex英雄(香港服)`通道已被移除。
-
-<!--
 全局翻墙版腾讯加速器，下载10M+，100M宽带。
 
 [腾讯手游加速器v全局5_1_0魔改翻墙版.apk](https://zgq-inc.lanzouo.com/iEdo7yrl0qd)
 
 **使用方法**：<font size="5" color="#FF0000">重要</font>
 
-进入应用，点击右下角`游戏`，点击上方`外服`，选择`Among Us`，点击`开始加速`。
+进入应用，点击右下角`游戏`，选择`绝地求生:未来之役(预约专用)`点击`加速`，点击`开始加速`。
 
 > **最新测速结果**
 
-22/01/14 下午3:54
+22/02/11 下午3:27
 
-下载↓ `11.9 MB/s`
+下载↓ `13.0 MB/s`
 
-上传↑ `2.62 MB/s`
+上传↑ `2.73 MB/s`
 
 > Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
 > 
 > © 2006-2022  Ookla , LLC.All Rights Reserved
-
-among us
-
-**可以使用**
-telegram
-twitter
-onedrive
-tiktok
-
-**无法使用**
-浏览器
-gmail
-谷歌翻译
-Instagram
-
-**能连接但是无法使用**
-google play
-google earth
-YouTube
--->
 
 ***
 
