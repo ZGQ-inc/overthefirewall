@@ -463,11 +463,13 @@ https://github.com/lhie1/Rules/tree/master
 
 ## 可用
 
-[vpnify_Dex_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iSYCcya8c2b)
+### vpnify
 
-[vpnifyv1.9.7.8Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ih3Lgz48maj)
+[vpnify_Dex_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iSYCcya8c2b) `旧版本`
 
-[vpnifyv1.9.7.12ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/imxMMzps1aj)
+[vpnifyv1.9.7.8Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ih3Lgz48maj) `旧版本`
+
+[vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/irJr7002raqb) `修复版`
 
 > **最新测速结果**
 
@@ -486,6 +488,10 @@ https://github.com/lhie1/Rules/tree/master
 > Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
 > 
 > © 2006-2022  Ookla , LLC.All Rights Reserved
+
+[Hyper.VPN.v.4.9.7_arm64_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i68GZ002raxi)
+
+[MasterVpnHighSpeedUsVpnv1.6arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iCv5O001a84j)
 
 ## 测评中
 
@@ -528,6 +534,10 @@ https://github.com/lhie1/Rules/tree/master
 [VPN_Master_Pro_v2.0.0_build_110_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/idbpCzklwad)
 
 [VPN_PRO_v1.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ix4Vtzps10j)
+
+[Defence_VPN_v2.1.3_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/idVaXzth0ne)
+
+[GuardillaVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i98FO001a7ze)
 
 ***
 
