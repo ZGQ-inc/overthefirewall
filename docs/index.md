@@ -544,6 +544,8 @@ https://github.com/lhie1/Rules/tree/master
 <span id="Tencent"></span>
 # 腾讯手游加速器全局版
 
+<font size="7" color="#FF0000">此版本已失效！</font>
+
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
 
 全局翻墙版腾讯加速器，下载`10MB/s+`。
