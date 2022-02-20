@@ -972,6 +972,10 @@ hosts是一个系统文件，在各个系统的位置如下
 
 进去之后，把`自动获得DNS服务器地址`改成`使用下面的DNS服务器地址`
 
+**DNS地址可以在此应用内获取**
+
+[DNS Test-发现优质DNS服务器](http://a.ruansky.com/up/191985)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
 MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)同理
 
 ***
@@ -1107,6 +1111,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Google"></span>
 ![Google](https://img.shields.io/badge/-Google-000000?style=for-the-badge&logo=Google&logoColor=FFFFFF)
 
+[AppSales-谷歌商店优惠通知](http://a.ruansky.com/up/87929)
+
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
 <span style="color: #ff0000">华为新机型无法安装谷歌服务，建议使用下方的第三方谷歌商店</span>
@@ -1192,7 +1198,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Instander-Instagram修改版](http://a.ruansky.com/up/337746)
 
-[iGetter Pro-ins视频下载器](http://a.ruansky.com/up/223488)
+[iGetter Pro-Instagram视频下载器](http://a.ruansky.com/up/457943)
 
 <span id="VKontakte"></span>
 ![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)
