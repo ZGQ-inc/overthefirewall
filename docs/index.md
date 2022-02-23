@@ -173,7 +173,7 @@
 
 <font color="#FF0000">文档内所有</font>[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)<font color="#FF0000">都会直接引用此栏目。</font>
 
-<font size="5" color="#FF0000">这个就是教程！！！</font>
+<font size="5" color="#FF0000">↓这个就是教程↓</font>
 
 [<font size="5">Gitbook</font>](https://zgq-inc.gitbook.io/overthefirewall/)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
