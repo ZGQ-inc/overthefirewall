@@ -465,13 +465,11 @@ https://github.com/lhie1/Rules/tree/master
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
-## 可用
+## vpnify `推荐`
 
-### vpnify
+[~~vpnify_Dex_A2ZAPK.COM.apk~~](https://zgq-inc.lanzouo.com/iSYCcya8c2b) `旧版本`
 
-[vpnify_Dex_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iSYCcya8c2b) `旧版本`
-
-[vpnifyv1.9.7.8Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ih3Lgz48maj) `旧版本`
+[~~vpnifyv1.9.7.8Premium_A2ZAPK.COM.apk~~](https://zgq-inc.lanzouo.com/ih3Lgz48maj) `旧版本`
 
 [vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/irJr7002raqb) `修复版`
 
@@ -493,27 +491,35 @@ https://github.com/lhie1/Rules/tree/master
 > 
 > © 2006-2022  Ookla , LLC.All Rights Reserved
 
+## 可用且速度快
+
+[GOVPN_PRO_v1.9.4_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iKPV900kkz8j)
+
+**疑似vpnify换皮**
+
+## 可用但速度慢
+
 [Hyper.VPN.v.4.9.7_arm64_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i68GZ002raxi)
 
 [MasterVpnHighSpeedUsVpnv1.6arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iCv5O001a84j)
 
-## 测评中
+[DarwinVPN_v1.2.23_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iQY3Q00kcwza)
+
+## 大陆无法使用
+
+**以下大陆没有对接落地点或包含政策不提供服务，可以尝试连接其它代理后进入并覆盖当前VPN连接**
 
 [TurboVPNv3.7.3ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iWy6Byi984d)
 
 [2021-12-31PsiphonPro_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iG6Mcya8b4h)
 
-[1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS8mqxpom1a)
-
-[1.1.1.1_6.11_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iLE5nzecvbi)
-
 [2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i0xp8ya8ckj)
 
-[VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iwFV2ya8c8h)
+[VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/irrPj00klelc)
 
-[VPN_Pro_v2.1.3_b213_arm64-v8a_armeabi-v7a_x86_x86_64_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS3P7yw2x7i)
+[VPN_Pro_v2.1.3_b213_arm64-v8a_armeabi-v7a_x86_x86_64_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iS3P7yw2x7i)
 
-[KeepSolid_VPN_Unlimited__Free_VPN_for_Android_v8.7.0_Premium__A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ixREmz0yrij)
+[KeepSolid_VPN_Unlimited__Free_VPN_for_Android_v8.7.0_Premium__A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iZnLi00kla8f)
 
 [VyprVPN MOD_4.5.1.apk](https://zgq-inc.lanzouo.com/izsYXz598wj)
 
@@ -542,6 +548,44 @@ https://github.com/lhie1/Rules/tree/master
 [Defence_VPN_v2.1.3_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/idVaXzth0ne)
 
 [GuardillaVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i98FO001a7ze)
+
+[ArmadaVPN_v1.6.4_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGaAJ004j8bi)
+
+[XPVPNXtraPowerv1.3build4arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ieuag004j8he)
+
+[BitVPN.v.1.4.3_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iUWca005d9yh)
+
+[ElectronVPN_2.5.1_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iHBWD009zcre)
+
+[VPNFORCE_v2.1.6_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iQ3L000a19qh)
+
+[Signal_Secure_VPN_v2.4.0_Premium_Mod_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ijNeo00baqmf)
+
+[FastVPN_v.1.4.4_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i6H2a00f90lg)
+
+[HOTVPN_v1.5.8_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i56LB00f90uf)
+
+[SecVPN.v.6.0.023_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ie6qE00f913e)
+
+[KafeVPN_v3.5.1_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iwrXX00gzxpa)
+
+[i2VPN_3.0.35_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iKGWa00gzyef)
+
+[YoozVPN_v.2.2._A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iPTSj00ibpej)
+
+[Pro_VPN_v1.2_build_5_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i8hDu00ibpje)
+
+[Tryme_VPN_v1.1.128_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iKjPr00kcxhi)
+
+[VPN_Pro_v2.1.3_b213_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iCZDc00km2fa)
+
+### 1.1.1.1 `Cloudflare旗下`
+
+[1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS8mqxpom1a)
+
+[1.1.1.1_6.11_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iLE5nzecvbi)
+
+[1.1.1.1_6.13_beta_Mod_Apk_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ix6CE009zcli)
 
 ***
 
@@ -1297,7 +1341,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 - [A2ZAPK安卓破解网](https://a2zapk.com/)
 - [APKMODY安卓破解网](https://apkmody.io/)
 
-> 提供ExpressVPN破解版
+> [安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)来源
 
 - [软天空平台](http://imtt.dd.qq.com/16891/apk/053D5936E7F1A25D91B538B3313F67F1.apk?fsname=%E8%BD%AF%E5%A4%A9%E7%A9%BA.apk)
 
