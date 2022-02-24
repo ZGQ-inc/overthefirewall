@@ -1235,7 +1235,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Twitch"></span>
 ![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)
 
-[TwitchMod-Twitch修改版](http://a.ruansky.com/up/429088)
+[TwitchMod-Twitch修改版](http://a.ruansky.com/up/429088) `已停更`
 
 [Impulse-第三方Twitch](http://a.ruansky.com/up/292424)
 
