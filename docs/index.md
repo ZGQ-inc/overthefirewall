@@ -1194,6 +1194,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [β-Maniac-管理谷歌商店测试版应用](http://a.ruansky.com/up/384323)
 
+[App Watcher-谷歌商店应用更新跟踪](http://a.ruansky.com/up/467849)
+
 <span id="YouTube"></span>
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)
 
