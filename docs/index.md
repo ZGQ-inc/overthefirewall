@@ -579,6 +579,14 @@ https://github.com/lhie1/Rules/tree/master
 
 [VPN_Pro_v2.1.3_b213_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iCZDc00km2fa)
 
+[DailyVPN_v1.6.6.b.68_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ilx3T00kp4hc)
+
+[33_VPN_v1.2_build_3_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/isxj400megxg)
+
+[GulfSecureVPN_v.3.0.60_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iG1vV00nsy4f)
+
+[TrustedVPN_v.2.0.3_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iu12900nsyab)
+
 ### 1.1.1.1 `Cloudflare旗下`
 
 [1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS8mqxpom1a)
@@ -1084,6 +1092,9 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 <span id="guide"></span>
 # 2021中国翻墙软件VPN推荐指南
 
+中国翻墙软件黑名单-持续更新
+https://www.google.com/amp/s/10beasts.net/china-fanqiang-tools-blacklist/amp/
+
 [Github Pages](https://vpncn.github.io/)
 
 [<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220201/Screenshot_20220208-093348.2vaesgdqvum0.jpg)
@@ -1188,6 +1199,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259)
 
+[NewPipe-轻量多平台聚合播放器 支持下载](http://a.ruansky.com/up/467483)
+
 [Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
 
 [Snaptube-油管视频下载器](http://a.ruansky.com/up/358003)
@@ -1237,6 +1250,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)
 
 [GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
+
+[WABox-WhatsApp工具箱](http://a.ruansky.com/up/467721)
 
 <span id="Reddit"></span>
 ![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)
