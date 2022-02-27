@@ -124,7 +124,7 @@
 
 [Hyperbeam屏幕共享聊天室（远程浏览器投屏）](#Hyperbeam)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-[2021翻墙VPN推荐指南&黑名单](#guide)
+[<font color="#FF0000">2021翻墙VPN推荐指南&黑名单</font>](#guide)
 
 [Android软件](#Android_software)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
@@ -429,14 +429,14 @@ https://github.com/lhie1/Rules/tree/master
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/68e38ba4a460fc1990ee5190dcdeae419ead0e9a/docs/airfield.md)
 
-来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享
+来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 
 <span id="subshare"></span>
 - <font size="5">订阅链接分享</font>
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/696c0152d0ac6f740f9b4d3ff59ef6b8f4b182e8/docs/nodesub.md)
 
-来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享
+来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 
 ***
 
@@ -1095,12 +1095,13 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 ***
 
 <span id="guide"></span>
-# 2021中国翻墙软件VPN推荐指南
+# 2021中国翻墙软件VPN推荐指南&黑名单
 
-中国翻墙软件黑名单-持续更新
-https://www.google.com/amp/s/10beasts.net/china-fanqiang-tools-blacklist/amp/
+[中国翻墙软件黑名单-持续更新](https://www.google.com/amp/s/10beasts.net/china-fanqiang-tools-blacklist/amp/)
 
-[Github Pages](https://vpncn.github.io/)
+[机场曝光/机场黑名单@jichangBG](https://t.me/jichangBG)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
+
+[2021中国翻墙软件VPN推荐指南](https://vpncn.github.io/)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220201/Screenshot_20220208-093348.2vaesgdqvum0.jpg)
 
@@ -1342,13 +1343,13 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 >
 > 问题答案：@freessrvpn
 >
-> Telegram群组 [@freessrvpn](https://t.me/freessrvpn)
+> Telegram群组 [@freessrvpn](https://t.me/freessrvpn)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 > 
 > - <font size="5">中国白嫖党</font>
 >
-> Telegram群组 [@CN_baipiaodang](https://t.me/CN_baipiaodang)
+> Telegram群组 [@CN_baipiaodang](https://t.me/CN_baipiaodang)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 >
-> Telegram频道 [@CN_baipiao](https://t.me/CN_baipiao)
+> Telegram频道 [@CN_baipiao](https://t.me/CN_baipiao)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 >
 
 ***
