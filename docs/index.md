@@ -24,6 +24,11 @@
 **温馨提示**：本文档中所有`蓝体字/下划线`可点击
 
 ***
+
+[<center><h3>赞助商广告（点击查看）</h3></center>](https://zgq-inc.github.io/overthefirewall/docs/sponsor.html)
+
+**明年开始接受并投放赞助商广告，此广告为测试目的。**
+
 ***
 
 <span id="contents"></span>
