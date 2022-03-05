@@ -89,6 +89,8 @@
 
 [订阅转换](#subconvert)
 
+[网速测试](#speedtest)
+
 [安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [腾讯手游加速器全局魔改版](#Tencent)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
@@ -465,6 +467,19 @@ https://github.com/lhie1/Rules/tree/master
 
 ***
 
+<span id="speedtest"></span>
+# 网速测试
+
+[全球知名测速平台Speedtest](https://www.speedtest.net/zh-Hans)
+
+[Speedtest-知名网速测试工具](http://a.ruansky.com/up/478093)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
+[Netflix旗下Fast.com](https://fast.com/)
+
+[CacheFly Speedtest](http://web1.cachefly.net/speedtest/index.html)
+
+***
+
 <span id="Android_patched_VPN"></span>
 # 安卓破解版VPN分享
 
@@ -509,6 +524,10 @@ https://github.com/lhie1/Rules/tree/master
 [MasterVpnHighSpeedUsVpnv1.6arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iCv5O001a84j)
 
 [DarwinVPN_v1.2.23_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iQY3Q00kcwza)
+
+[SpeedVPN_v.1.1.3_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i50DU00uj40j)
+
+[Shield_VPN_Pro_v2.0.9_801_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iq5AY00w1i1i)
 
 ## 大陆无法使用
 
@@ -591,6 +610,30 @@ https://github.com/lhie1/Rules/tree/master
 [GulfSecureVPN_v.3.0.60_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iG1vV00nsy4f)
 
 [TrustedVPN_v.2.0.3_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iu12900nsyab)
+
+[Speed_VPN_Premium_v4.0.5_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iaOvW00qqt2j)
+
+[SkyVPNv2.3.3ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/im2yh00s9teb)
+
+[CoolVPNPro_1.0.091_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iRfMJ00s9v3c)
+
+[UniverseVPN_v.2.0.9_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iLqMX00uj2yb)
+
+[VPN_Fast_v1.20_5_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iIVna00uj36j)
+
+[SnapVPN_v.4.5.6_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iiRdw00uj3ib)
+
+[Premium_VPN_Pro_v4.0_4_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iLP5S00zk88h)
+
+[VPN_4X_Premium_v4.0_4_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iR3dF00zk8uj)
+
+[VPN_GO_Premium_v1.0.11_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/izyw2010ih2j)
+
+[Hot_VPN_Pro_v1.3_build_4_arm64_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/if0Ks010vkxg)
+
+[NoonVPN_v.3.0.25_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iji22010vm2h)
+
+[GreenVPN_Pro_VPN_Master_v1.13_build_14_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGmob010vmbg)
 
 ### 1.1.1.1 `Cloudflare旗下`
 
@@ -1175,6 +1218,10 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Sticker Downloader-电报贴纸包下载器](http://a.ruansky.com/up/312604)
 
+[Telegraph X Pro-发布文章 Telegram旗下](http://a.ruansky.com/up/477318)
+
+[TForwarder-Telegram自动转发消息](http://a.ruansky.com/up/477755)
+
 <span id="Google"></span>
 ![Google](https://img.shields.io/badge/-Google-000000?style=for-the-badge&logo=Google&logoColor=FFFFFF)
 
@@ -1200,7 +1247,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Uptodown App Store-第三方谷歌商店](http://a.ruansky.com/up/273533)
 
-[β-Maniac-管理谷歌商店测试版应用](http://a.ruansky.com/up/384323)
+[β-Maniac-管理谷歌商店测试版应用](http://a.ruansky.com/up/478215)
 
 [App Watcher-谷歌商店应用更新跟踪](http://a.ruansky.com/up/467849)
 
@@ -1241,7 +1288,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Spotify"></span>
 ![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)
 
-[xManager-Spotify破解版下载](http://a.ruansky.com/up/381388)
+[xManager-Spotify破解版下载](http://a.ruansky.com/up/478026)
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/407302)
 
