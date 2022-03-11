@@ -79,8 +79,8 @@
 [订阅平台](#sub)
 + [BuLink 永久免费网络加速](#BuLink)
 + [Fly](#Fly)
-+ [V2云](#cwv587)<font size="3" color="#FF0000"> !测评中!</font>
-+ [五五开咖啡厅](#55kai)<font size="3" color="#FF0000"> !测评中!</font>
++ [V2云](#cwv587)
++ [五五开咖啡厅](#55kai)
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks 免费上网账号](#freess)
 + [上百个节点池合集](#ProxypoolCollection)
@@ -400,12 +400,12 @@ https://github.com/lhie1/Rules/tree/master
 注册成功后，点击`侧边栏`，进入`套餐购买`，最下面有`白嫖套餐`，**可延长免费账号有效期**。
 
 <span id="cwv587"></span>
-- <font size="5">V2云</font><font size="3" color="#FF0000"> !测评中!</font>
+- <font size="5">V2云</font>
 
 [注册地址](https://cwv587.com/auth/register)
 
 <span id="55kai"></span>
-- <font size="5">五五开咖啡厅</font><font size="3" color="#FF0000"> !测评中!</font>
+- <font size="5">五五开咖啡厅</font>
 
 [注册地址](https://55kai.xyz/#/register)
 
@@ -424,21 +424,15 @@ https://github.com/lhie1/Rules/tree/master
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/main/docs/proxypool.md)
 
-来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享
-
 <span id="AirfieldCollection"></span>
 - <font size="5">上百个免费机场合集</font>
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/68e38ba4a460fc1990ee5190dcdeae419ead0e9a/docs/airfield.md)
 
-来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
-
 <span id="subshare"></span>
 - <font size="5">订阅链接分享</font>
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/696c0152d0ac6f740f9b4d3ff59ef6b8f4b182e8/docs/nodesub.md)
-
-来自TG频道[@MTPdaili](https://t.me/MTPdaili)的分享![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 
 ***
 
