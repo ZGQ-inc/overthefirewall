@@ -1142,7 +1142,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220301/Screenshot_20220301-065530.nq6w4188fqo.jpg)
 
-**后来听说有人是OPPO，vivo，魅族没安装国家反诈中心被打电话，建议是能不用国产手机翻墙就不用。**
+**后来听说有人是OPPO，vivo，魅族没安装国家反诈中心被打电话，有人鸿蒙也收到了国家反诈中心的短信，建议是能不用国产手机翻墙就不用。**
 
   <font size="5" color="#FF0000">黑名单列表（点击查看详情）</font>
 
