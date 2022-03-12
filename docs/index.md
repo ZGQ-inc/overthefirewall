@@ -1206,7 +1206,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Telegram"></span>
 ![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
 
-[Telegram-直连版](http://a.ruansky.com/up/391880)
+[Telegram-直连版](http://a.ruansky.com/up/487623)
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
@@ -1254,9 +1254,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
 
-[Snaptube-油管视频下载器](http://a.ruansky.com/up/358003)
+[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/487614)
 
-[TubeMate（版本更新）-油管视频下载器](http://a.ruansky.com/up/179362)
+[TubeMate（版本更新）-YouTube视频下载器](http://a.ruansky.com/up/179362)
 
 [PowerTube-视频下载器](http://a.ruansky.com/up/254341)
 
@@ -1265,9 +1265,13 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [推特直连版](http://a.ruansky.com/up/117084) `已停更`
 
-[Talon-第三方Twitter](http://a.ruansky.com/up/202613)
+[Talon-Twitter第三方客户端](http://a.ruansky.com/up/202613)
 
-[TwitPane-第三方Twitter](http://a.ruansky.com/up/338249)
+[TwitPane-Twitter第三方客户端](http://a.ruansky.com/up/338249)
+
+[Flamingo-Twitter第三方客户端](http://a.ruansky.com/up/487752)
+
+[Fenix-Twitter第三方客户端](http://a.ruansky.com/up/487657)
 
 <span id="Facebook"></span>
 ![Facebook](https://img.shields.io/badge/-Facebook-0470E5?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)
@@ -1291,7 +1295,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="Pixiv"></span>
 ![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)
 
-[官方版破解会员6.27.0](http://a.ruansky.com/up/267037)
+[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/488147)
 
 [Shaft-第三方直连版Pixiv](http://a.ruansky.com/up/417680)
 
