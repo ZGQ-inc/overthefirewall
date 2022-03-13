@@ -1223,13 +1223,13 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
-<span style="color: #ff0000">小米手机需要在系统设置里开启谷歌服务，否则无法使用谷歌应用。</span>
+<span style="color: #ff0000">小米</span>![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)<span style="color: #ff0000">手机需要在系统设置里开启谷歌服务，否则无法使用谷歌应用。</span>
 
-<span style="color: #ff0000">华为新机型无法安装谷歌服务，建议使用下方的第三方谷歌商店。</span>
+<span style="color: #ff0000">华为</span>![Huawei](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Huawei&logoColor=D1092E)<span style="color: #ff0000">新机型无法安装谷歌服务，建议使用下方的第三方谷歌商店。</span>
 
 部分品牌手机安装谷歌商店后桌面无图标，请先尝试重启。
 
-三星等部分品牌的手机自带谷歌服务，只需安装谷歌商店即可。
+三星![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)等部分品牌的手机自带谷歌服务，只需安装谷歌商店即可。
 
 [APKPure Store-知名第三方谷歌商店](http://a.ruansky.com/up/261281)
 
