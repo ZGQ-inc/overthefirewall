@@ -1248,7 +1248,11 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="YouTube"></span>
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)
 
-[Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259)
+[Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259) `已停更`
+
+[**最后的Vanced**蓝奏云备档](https://zgq-inc.lanzouv.com/b00pgxnha)
+
+密码：`vanced`
 
 [NewPipe-轻量多平台聚合播放器 支持下载](http://a.ruansky.com/up/467483)
 
