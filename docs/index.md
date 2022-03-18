@@ -21,10 +21,13 @@
 
 提问前提是在<span style="color: #ff0000">看清这篇文档之后</span>如有问题可以反馈，拒绝粗略看过一遍之后就开始提问。
 
+如果遇到问题可以查阅[常见问题](#Q&A)栏目。
+
 **温馨提示**：本文档中所有`蓝体字/下划线`可点击
 
 ***
 
+<span id="ads"></span>
 ### [<center>赞助商广告（点击查看）</center>](https://zgq-inc.github.io/overthefirewall/sponsor.html)
 
 **明年开始接收并投放赞助商广告，此广告仅为测试目的。**
@@ -165,6 +168,8 @@
 [我的上传](#upload) `上千破解软件`
 
 [赞助内容](#sponsor)
+
+[常见问题](#Q&A)
 
 [鸣谢](#thanks)
 
@@ -523,6 +528,10 @@ https://github.com/lhie1/Rules/tree/master
 
 [Shield_VPN_Pro_v2.0.9_801_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iq5AY00w1i1i)
 
+[FoxSpeedVpn_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i30Zn01g239c)
+
+[SecureVPNVIP3.1.3-EasyAPK_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iwR0o01j0fyf)
+
 ## 大陆无法使用
 
 **以下大陆没有对接落地点或包含政策不提供服务，可以尝试连接其它代理后进入并覆盖当前VPN连接**
@@ -628,6 +637,38 @@ https://github.com/lhie1/Rules/tree/master
 [NoonVPN_v.3.0.25_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iji22010vm2h)
 
 [GreenVPN_Pro_VPN_Master_v1.13_build_14_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGmob010vmbg)
+
+[VPN_Pro_v7.0_7_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iFizx012y9yb)
+
+[GreenNetVPN_1.5.3__A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ixHRU012ycfa)
+
+[HalleyVPN_v2.3.7_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iP34M0153p6b)
+
+[VPNMaster_v2.1.8_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iClxN016t87c)
+
+[NightOwlVPNPRO-FastVPN_1.2.7_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/igtBr018fnpi)
+
+[SecureVPN_v2.5.6_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/impON018frwj)
+
+[GEVPN_v1.9.85_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iBeIU019px8h)
+
+[Eas.VPN_v1.1.9_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iQJZT019pzne)
+
+[SKY_VPN_PRO_v3.1.2_40_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i8wPC019q0cj)
+
+[AmanVPN_v1.7.8_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/imVCQ01bw0kf)
+
+[HighVPN_v1.4.9_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/inTq801em45c)
+
+[404_VPN_v1.1.2_3_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i0Uzk01g22zc)
+
+[Shuttle_VPN_v2.6_MOD_apkmody.io.apk](https://zgq-inc.lanzouv.com/iJqVI01hth5a)
+
+[VPNRussia1.92.92_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i93cZ01j0fof)
+
+[VPNUkraine1.79.79_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iNKdP01j0fvc)
+
+[Vpn_Pro_v1.4_13_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iS3br01j0g9g)
 
 ### 1.1.1.1 `Cloudflare旗下`
 
@@ -1205,7 +1246,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span id="Telegram">![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)</span>
 
-[Telegram-直连版](http://a.ruansky.com/up/487623)
+[Telegram-直连版](http://a.ruansky.com/up/498848)
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
@@ -1283,7 +1324,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span id="Spotify">![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)</span>
 
-[xManager-Spotify破解版下载](http://a.ruansky.com/up/478026)
+[xManager-Spotify破解版下载](http://a.ruansky.com/up/498879)
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/407302)
 
@@ -1391,6 +1432,39 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 ***
 
+<span id="Q&A"></span>
+# 常见问题
+
+1. **MIUI系统VPN授权弹窗点击`确认`为什么没反应？**
+
+> **网络连接请求**
+> 
+> “-"想要设置一个VPN连接,以便监控网络流量。除非您信任该来源，否则请勿接受此请求。
+
+**`答`**：MIUI重启解决99%的问题。
+
+2. [**安卓破解版VPN栏目的vpnify**](#Android_patched_VPN)**为什么无法连接？**
+
+**`答`**：首先可能是因为地区无法连通VPN服务，也有可能是因为国产魔改系统对国外软件兼容性较差，建议使用原生或是类原生系统。
+
+3. **为什么[iOS客户端](#iOS/iPadOS)的在线安装安装完成后无法打开？**
+
+**`答`**：在线安装内为旧版本安装包，是由于iOS版本太高导致的兼容性闪退，如果可以的话建议降级。
+
+4. **为什么连不上？**
+
+**`答`**：免费资源不能保证可用性，有可能已失效，如果需要长期稳定快速的服务，建议使用付费机场，<font color="#FF0000">推荐</font>[此项目赞助商](#ads)。
+
+5. **速度太慢怎么办？**
+
+**`答`**：免费资源无法保证速度，同上。
+
+6. **不会用怎么办？**
+
+**`答`**：凉拌。
+
+***
+
 <span id="thanks"></span>
 # 鸣谢
 
@@ -1414,7 +1488,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 <span id="announce"></span>
 # 声明
 
-所有资源均来源于网络搜集，如有侵权请[联系我](https://zgq-inc.github.io/homepage/#about)删除
+所有资源均来源于网络搜集，如有侵权请[联系我](https://zgq-inc.github.io/homepage/#about)删除。
 
 ***
 
