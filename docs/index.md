@@ -75,6 +75,8 @@
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
 
+  - [Clash](#Clash_Linux)
+
   - [未整理&其它](#others)
 
 [路由规则](#rule)
@@ -343,7 +345,18 @@ Unrestricted access to the Internet
 <span id="Linux"></span>
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-~~正在施工~~
+<span id="Clash_Linux"></span>
++ <font size="5">Clash</font>
+
+`由于更新太频繁，采用Github release`
+
+[从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+
+**如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
+
+[项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="others"></span>
 ## 未整理/其它
