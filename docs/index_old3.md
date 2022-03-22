@@ -44,7 +44,7 @@
 
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)![Huawei](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Huawei&logoColor=D1092E)`etc.`
 
-**<font size="4">推荐使用</font>**[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+**<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
   - [v2rayNG](#v2rayNG)
   - [Clash](#Clash_Android)
@@ -52,6 +52,8 @@
   - [Surfboard](#Surfboard)
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
+
+**<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
   - [v2rayN](#v2rayN)
   - [Clash](#Clash_Windows)
@@ -65,6 +67,8 @@
   - [Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)
 
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
+
+**<font size="4">推荐使用</font>**[![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=flat-square&logo=ExpressVPN&logoColor=FFFFFF)](#ExpressVPN)<font size="2">←点击跳转</font>
 
   - [v2rayU](#v2rayU)
   - [Clash](#Clash_MacOS)
@@ -93,6 +97,8 @@
 [网速测试](#speedtest)
 
 [安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
+[腾讯手游加速器全局魔改版](#Tencent)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
 + [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#ExpressVPN_Android) `破解版`
@@ -195,7 +201,9 @@
 <span id="Android"></span>
 ## Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-**<font size="4">推荐使用</font>**[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)<font size="2">←点击跳转</font>
+
+<font size="5" color="#FF0000">★★★★★五星推荐</font>
 
 <span id="v2rayNG"></span>
 + <font size="5">v2rayNG</font>
@@ -239,6 +247,10 @@
 
 <span id="Windows"></span>
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
+
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)<font size="2">←点击跳转</font>
+
+<font size="5" color="#FF0000">★★★★★五星推荐</font>
 
 <span id="v2rayN"></span>
 + <font size="5">v2rayN</font>
@@ -306,6 +318,10 @@ Unrestricted access to the Internet
 <span id="MacOS"></span>
 ## MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)
 
+**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">ExpressVPN</font>](#ExpressVPN)<font size="2">←点击跳转</font>
+
+<font size="5" color="#FF0000">★★★★★五星推荐</font>
+
 <span id="v2rayU"></span>
 + <font size="5">v2rayU</font>
 
@@ -358,13 +374,13 @@ Unrestricted access to the Internet
 <span id="rule"></span>
 # 路由规则
 
-含Clash，Surge，Shadowrocket，Quan，Kitsunebi规则。
+`含Clash，Surge，Shadowrocket，Quan，Kitsunebi规则`
 
-`https://github.com/ACL4SSR/ACL4SSR/tree/master`
+https://github.com/ACL4SSR/ACL4SSR/tree/master
 
-`https://github.com/DivineEngine/Profiles/tree/master`
+https://github.com/DivineEngine/Profiles/tree/master
 
-`https://github.com/lhie1/Rules/tree/master`
+https://github.com/lhie1/Rules/tree/master
 
 ***
 
@@ -483,7 +499,11 @@ Unrestricted access to the Internet
 
 ## vpnify `推荐`
 
-[vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/irJr7002raqb)
+[~~vpnify_Dex_A2ZAPK.COM.apk~~](https://zgq-inc.lanzouo.com/iSYCcya8c2b) `旧版本`
+
+[~~vpnifyv1.9.7.8Premium_A2ZAPK.COM.apk~~](https://zgq-inc.lanzouo.com/ih3Lgz48maj) `旧版本`
+
+[vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/irJr7002raqb) `修复版`
 
 > **最新测速结果**
 
@@ -663,8 +683,6 @@ Unrestricted access to the Internet
 
 [Vpn_Pro_v1.4_13_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iS3br01j0g9g)
 
-[3XVPN_v.2.7.114_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i9j6001numjg)
-
 ### 1.1.1.1 `Cloudflare旗下`
 
 [1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS8mqxpom1a)
@@ -673,7 +691,34 @@ Unrestricted access to the Internet
 
 [1.1.1.1_6.13_beta_Mod_Apk_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ix6CE009zcli)
 
-[1.1.1.1_6.13_2303_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/idPVD01qlvid)
+***
+
+<span id="Tencent"></span>
+# 腾讯手游加速器全局版
+
+<font size="7" color="#FF0000">此版本已失效！</font>
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
+
+全局翻墙版腾讯加速器，下载`10MB/s+`。
+
+[腾讯手游加速器v全局5_1_0魔改翻墙版.apk](https://zgq-inc.lanzouo.com/iEdo7yrl0qd)
+
+**使用方法**：<font size="5" color="#FF0000">重要</font>
+
+进入应用，点击右下角`游戏`，选择`绝地求生:未来之役(预约专用)`点击`加速`，点击`开始加速`。
+
+> **最新测速结果**
+
+22/02/11 下午3:27
+
+下载↓ `13.0 MB/s`
+
+上传↑ `2.73 MB/s`
+
+> Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
+> 
+> © 2006-2022  Ookla , LLC.All Rights Reserved
 
 ***
 
@@ -721,9 +766,95 @@ Unrestricted access to the Internet
 
 [安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
+[腾讯手游加速器全局魔改版](#Tencent)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
 [SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
 
 <font size="4" color="#FF0000">作为替代品。</font>
+
+<!--
+**※通知**：<font size="4" color="#FF0000">ExpressVPN旧版本会强制更新，无法进入，如果失联则接受不到更新消息，那会很麻烦，建议收藏此文档网址或是Star项目地址，如果弹出更新弹窗可以通过此文档获取最新版。</font>
+
+**<font size="4">破解内容</font>：<span style="color: #ff0000">无限30天试用次数</span>**。
+
+- **<font size="4">破解版下载地址</font>**
+
+**<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
+
+**<font size="4">稳定版</font>**
+
+<span id="ExpressVPN_stable"></span>
+
+[**ExpressVPN10.14.1_A2ZAPK.COM.apk**](https://zgq-inc.lanzoui.com/iSpyzw8ydif)
+
+**近期多人反馈此版本无法进入。即将做下架处理，请使用公测版。**
+
+**<font size="4">公测版</font>**
+
+<span id="ExpressVPN_nightly"></span>
+现开启`先行体验`计划，加入方法很简单，只需下载以下版本
+
+[**ExpressVPN_10.15.0_DEX_A2ZAPK.COM.apk**](https://zgq-inc.lanzoui.com/iywnOwlmach)
+
+[**ExpressVPN10.16.0_final_A2ZAPK.COM.apk**](https://zgq-inc.lanzouo.com/iAp3ex2j0fe)
+
+即可获得**未完全测试可用性的最新版本**。
+
+<span id="ExpressVPN_Android_instructions"></span>
+**<font size="4">使用方法</font>**：进入应用，<font size="5" color="#FF0000">点击下方绿色按钮`Start 7-Day Free Trial`，不要点击`Sign In`，使用自动生成伪造的邮箱地址（不必另外填写）</font>，点击`Start Free Trial`。
+
+<span id="ExpressVPN_rednotice"></span>
+<font size="5" color="#FF0000">※紧急通知</font>
+
+如提示`Invalid email.`，请把邮箱域名`@dexunpacker.jaggu`改成`@gmail.com`。
+
+之后任意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。试用期过后<span style="color: #FF0004">**退出账号**</span>，重新按照[使用方法](#ExpressVPN_Android_instructions)操作一遍。
+
+> 如果**<font size="5">无法进入</font>**，出现此窗口`Free trial is unavailable.`。
+
+**按照步骤**：
+1. 转到应用程序的`应用程序信息`，清除数据
+2. 打开`飞行模式`，然后关闭
+3. 重新按照[使用方法](#ExpressVPN_Android_instructions)操作
+
+> 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
+
+**请点击按钮下方`节点列表`，选择下方的节点。**
+
+- United States `推荐`
+- Singapore - Marina Bay `推荐`
+- Canada - Toronto - 2
+- UK - Wembley
+- Japan
+
+大陆地区只有部分节点能连上，因为只有这些节点**针对大陆GFW（长城防火墙）做了混淆优化，IP不会被封禁**。**来自官方公告**。
+
+**<font size="5">如何判断试用期过期？</font>**
+
+当**通知栏**或**应用内部弹窗**提示
+
+> `Trial Expiring Soon`
+> 
+> Your ExpressVPN trial will expire in 24 hours.
+
+说明24小时后即到期，进入应用，打开`侧边栏`，点击下方的`Sign Out`，**退出账号并重新按照[使用方法](#ExpressVPN_Android_instructions)操作**。
+
+**在新版本`10.9.0`及以上，首页最上方会显示**
+
+`Free trial expires in □ days`
+
+这将会是**剩余试用天数**。
+
+**在`10.15.0`及以上版本，`侧边栏`变成了右下角的`Options`栏。**
+
+**<font size="5">如何设置分应用代理？</font>**
+
+> 可选的步骤
+
+点击`侧边栏`，进入`Settings`，点击`Split Tunneling`，选择`Do not allow selected apps to use the VPN`，点击右边`+`添加**不需要代理的应用**。
+
+**在`10.15.0`及以上版本，`侧边栏`变成了右下角的`Options`栏。**
+-->
 
 <span id="ExpressVPN_Windows"></span>
 # Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=for-the-badge&logo=Windows&logoColor=0078D6)
@@ -1178,8 +1309,6 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
 
-[GoTube-无广告YouTube客户端](http://a.ruansky.com/up/507181)
-
 [Snaptube-YouTube视频下载器](http://a.ruansky.com/up/487614)
 
 [TubeMate（版本更新）-YouTube视频下载器](http://a.ruansky.com/up/179362)
@@ -1204,7 +1333,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span id="Netflix">![Netflix](https://img.shields.io/badge/-Netflix-221F1F?style=for-the-badge&logo=Netflix&logoColor=E21221)</span>
 
-[Netflix-第三方换源Netflix](http://a.ruansky.com/up/507093)
+[Netflix by APKMODY-第三方Netflix](http://a.ruansky.com/up/417720)
 
 <span id="Spotify">![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)</span>
 
