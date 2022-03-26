@@ -9,8 +9,6 @@
 
 ![:overthefirewall](https://count.getloli.com/get/@overthefirewall?theme=rule34)
 
-`21/02/06` <span style="color: #C1C1C1">决定启用计数器</span>
-
 ***
 
 项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
@@ -468,7 +466,7 @@ Unrestricted access to the Internet
 
 [全球知名测速平台Speedtest](https://www.speedtest.net/zh-Hans)
 
-[Speedtest-知名网速测试工具](http://a.ruansky.com/up/478093)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+[Speedtest-知名网速测试工具](http://a.ruansky.com/up/510488)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [Netflix旗下Fast.com](https://fast.com/)
 
@@ -982,6 +980,8 @@ hosts是一个系统文件，在各个系统的位置如下
 [DNS Changer-更改DNS 隐私保护](http://a.ruansky.com/up/243968)
 
 [Net Optimizer-网络优化&改变DNS](http://a.ruansky.com/up/261445)
+
+[Virtual Hosts-导入Hosts文件 自定义DNS](http://a.ruansky.com/up/507051)
 
 - Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
 
