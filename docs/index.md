@@ -11,7 +11,7 @@
 
 ***
 
-项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
+项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/) [**备用个人主页**](https://zgq-inc.github.io/ZGQ-inc/)
 
 欢迎进群**讨论/提问**
 
