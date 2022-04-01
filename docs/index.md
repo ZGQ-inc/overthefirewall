@@ -1225,9 +1225,11 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span id="WhatsApp">![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)</span>
 
-[GBWhatsApp-第三方WhatsApp](http://a.ruansky.com/up/155014)
+[GBWhatsApp-WhatsApp第三方客户端](http://a.ruansky.com/up/524806)
 
 [WABox-WhatsApp工具箱](http://a.ruansky.com/up/467721)
+
+[状态保护程序-WhatsApp媒体下载器](http://a.ruansky.com/up/524741)
 
 <span id="Reddit">![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)</span>
 
