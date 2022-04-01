@@ -1130,6 +1130,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Telegram-直连版](http://a.ruansky.com/up/498848)
 
+[Telegraher-Telegram第三方客户端（破解官方限制）](http://a.ruansky.com/up/524938)
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
 [Sticker Downloader-电报贴纸包下载器](http://a.ruansky.com/up/312604)
@@ -1218,9 +1219,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 [Pixiv官方版客户端破解会员](http://a.ruansky.com/up/488147)
 
-[Shaft-第三方直连版Pixiv](http://a.ruansky.com/up/417680)
+[Shaft-第三方直连版客户端](http://a.ruansky.com/up/417680)
 
-[PixEz-第三方直连版Pixiv](http://a.ruansky.com/up/417674)
+[PixEz-第三方直连版客户端](http://a.ruansky.com/up/524797)
 
 <span id="WhatsApp">![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)</span>
 
@@ -1258,9 +1259,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 <span id="TikTok">![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)</span>
 
-[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/388270)
+[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/524502)
 
-[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/388251)
+[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/524484)
 
 [TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
