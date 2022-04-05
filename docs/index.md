@@ -430,7 +430,7 @@ Unrestricted access to the Internet
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/68e38ba4a460fc1990ee5190dcdeae419ead0e9a/docs/airfield.md)
 
 <span id="subshare"></span>
-- <font size="5">订阅链接分享</font>
+- <font size="5">订阅链接分享</font> `已失效`
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/696c0152d0ac6f740f9b4d3ff59ef6b8f4b182e8/docs/nodesub.md)
 
