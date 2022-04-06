@@ -1063,7 +1063,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [2021中国翻墙软件VPN推荐指南](https://vpncn.github.io/)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/my-picture@master/20220301/Screenshot_20220301-065530.nq6w4188fqo.jpg)
+[<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/Screenshot_20220406-225445.jpg)
 
 **后来听说有人是OPPO，vivo，魅族没安装国家反诈中心被打电话，有人鸿蒙也收到了国家反诈中心的短信，建议是能不用国产手机翻墙就不用。**
 
@@ -1131,6 +1131,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 [Telegram-直连版](http://a.ruansky.com/up/498848)
 
 [Telegraher-Telegram第三方客户端（破解官方限制）](http://a.ruansky.com/up/524938)
+
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
 [Sticker Downloader-电报贴纸包下载器](http://a.ruansky.com/up/312604)
