@@ -11,7 +11,7 @@
 
 ***
 
-项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/) [**备用个人主页**](https://zgq-inc.github.io/ZGQ-inc/)
+项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/) | [**备用个人主页**](https://zgq-inc.github.io/ZGQ-inc/)
 
 欢迎进群**讨论/提问**
 
@@ -1098,20 +1098,6 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然也能勉强使用，但稳定性比较差。我个人的使用体验是2年前在中国还是不错的，速度和稳定性都不错，被屏蔽后修复也快，现在给我的感觉是在中国比较难用，速度和稳定性都不如以前了。我近期测试的VyprVPN，经常连接不上，有时连上了速度也是时快时慢，有时容易掉线。
 
 </details>
-
-**其他在中国根本用不了的VPN**
-
-* TunnelBear
-
-* CyberGhost
-
-* Ipvanish
-
-* VPNHub
-
-* UFO VPN
-
-* Turbo VPN
 
 其他国产的私人或者小型VPN避免使用，这些大部分都是名字叫VPN，只有翻墙的功能，并无安全性可言。其中不少涉嫌钓鱼，用户使用的时候被ISP发现并上报的，已经有记录的就有**极光加速器、QuickQ、佛跳墙加速器、老王VPN、IP精灵、旋风加速器、坚果加速器、蚂蚁加速器、快连VPN、神风加速器**等。
 
