@@ -11,7 +11,7 @@
 
 ***
 
-项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/) | [**备用个人主页**](https://zgq-inc.github.io/ZGQ-inc/)
+项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)｜[**备用主页**](https://zgq-inc.github.io/ZGQ-inc/)
 
 欢迎进群**讨论/提问**
 
@@ -123,7 +123,7 @@
 
 [Hyperbeam屏幕共享聊天室（远程浏览器投屏）](#Hyperbeam)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-[<font color="#FF0000">2021翻墙VPN推荐指南&黑名单</font>](#guide)
+[<font color="#FF0000">翻墙软件&机场黑名单</font>](#blacklist)
 
 [Android软件](#Android_software)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
@@ -481,7 +481,7 @@ Unrestricted access to the Internet
 
 ## vpnify `推荐`
 
-[vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/irJr7002raqb)
+[vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/irJr7002raqb)
 
 > **最新测速结果**
 
@@ -509,9 +509,9 @@ Unrestricted access to the Internet
 
 ## 可用但速度慢
 
-[Hyper.VPN.v.4.9.7_arm64_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i68GZ002raxi)
+[Hyper.VPN.v.4.9.7_arm64_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i68GZ002raxi)
 
-[MasterVpnHighSpeedUsVpnv1.6arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iCv5O001a84j)
+[MasterVpnHighSpeedUsVpnv1.6arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iCv5O001a84j)
 
 [DarwinVPN_v1.2.23_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iQY3Q00kcwza)
 
@@ -527,11 +527,11 @@ Unrestricted access to the Internet
 
 **以下大陆没有对接落地点或包含政策不提供服务，可以尝试连接其它代理后进入并覆盖当前VPN连接**
 
-[TurboVPNv3.7.3ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iWy6Byi984d)
+[TurboVPNv3.7.3ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iWy6Byi984d)
 
-[2021-12-31PsiphonPro_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iG6Mcya8b4h)
+[2021-12-31PsiphonPro_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iG6Mcya8b4h)
 
-[2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i0xp8ya8ckj)
+[2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i0xp8ya8ckj)
 
 [VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/irrPj00klelc)
 
@@ -539,33 +539,33 @@ Unrestricted access to the Internet
 
 [KeepSolid_VPN_Unlimited__Free_VPN_for_Android_v8.7.0_Premium__A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iZnLi00kla8f)
 
-[VyprVPN MOD_4.5.1.apk](https://zgq-inc.lanzouo.com/izsYXz598wj)
+[VyprVPN MOD_4.5.1.apk](https://zgq-inc.lanzouh.com/izsYXz598wj)
 
-[VyprVPN-4.5.1_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ilVzizps1kj)
+[VyprVPN-4.5.1_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/ilVzizps1kj)
 
-[VPN_PE_PRO_v7.0_b7_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iVMpXz728wj)
+[VPN_PE_PRO_v7.0_b7_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iVMpXz728wj)
 
-[Betternet.v.5.21.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iZbtRzb48be)
+[Betternet.v.5.21.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iZbtRzb48be)
 
-[SkyVPNv2.3.2ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iDNSxzb48xg)
+[SkyVPNv2.3.2ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iDNSxzb48xg)
 
-[Speed_VPN_v5.0.6_MOD_apkmody.io.apk](https://zgq-inc.lanzouo.com/i0LT6zb5yyj)
+[Speed_VPN_v5.0.6_MOD_apkmody.io.apk](https://zgq-inc.lanzouh.com/i0LT6zb5yyj)
 
-[Smart_OXP_VPN_vV4.0.1-32_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ipcVMzcmfpe)
+[Smart_OXP_VPN_vV4.0.1-32_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/ipcVMzcmfpe)
 
-[120X_VPN_Pro_v1.1_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iP5pBzdgjtc)
+[120X_VPN_Pro_v1.1_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iP5pBzdgjtc)
 
-[Snap_VPN_v1.4.1_MOD_apkmody.io.apk](https://zgq-inc.lanzouo.com/inTWSzdgjwf)
+[Snap_VPN_v1.4.1_MOD_apkmody.io.apk](https://zgq-inc.lanzouh.com/inTWSzdgjwf)
 
-[Vpn-By-UltraVpn_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iU2cwzklw7a)
+[Vpn-By-UltraVpn_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iU2cwzklw7a)
 
-[VPN_Master_Pro_v2.0.0_build_110_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/idbpCzklwad)
+[VPN_Master_Pro_v2.0.0_build_110_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/idbpCzklwad)
 
-[VPN_PRO_v1.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/ix4Vtzps10j)
+[VPN_PRO_v1.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/ix4Vtzps10j)
 
-[Defence_VPN_v2.1.3_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/idVaXzth0ne)
+[Defence_VPN_v2.1.3_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/idVaXzth0ne)
 
-[GuardillaVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i98FO001a7ze)
+[GuardillaVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i98FO001a7ze)
 
 [ArmadaVPN_v1.6.4_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGaAJ004j8bi)
 
@@ -665,9 +665,9 @@ Unrestricted access to the Internet
 
 ### 1.1.1.1 `Cloudflare旗下`
 
-[1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iS8mqxpom1a)
+[1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iS8mqxpom1a)
 
-[1.1.1.1_6.11_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iLE5nzecvbi)
+[1.1.1.1_6.11_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iLE5nzecvbi)
 
 [1.1.1.1_6.13_beta_Mod_Apk_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ix6CE009zcli)
 
@@ -916,7 +916,7 @@ Unrestricted access to the Internet
 
 - **<font size="4">下载地址</font>**
 
-[BlockaNet-Pro-v1.53_build_78-Mod-arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iWdypzcwcri)
+[BlockaNet-Pro-v1.53_build_78-Mod-arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iWdypzcwcri)
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
@@ -1054,8 +1054,8 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 ***
 
-<span id="guide"></span>
-# 2021中国翻墙软件VPN推荐指南&黑名单
+<span id="blacklist"></span>
+# 翻墙软件&机场黑名单
 
 [中国翻墙软件黑名单-持续更新](https://www.google.com/amp/s/10beasts.net/china-fanqiang-tools-blacklist/amp/)
 
@@ -1063,11 +1063,17 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [2021中国翻墙软件VPN推荐指南](https://vpncn.github.io/)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
+[国家反诈中心是后门软件，请勿安装！](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/20220410_121354.jpg)
+
 [<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/Screenshot_20220406-225445.jpg)
 
 **后来听说有人是OPPO，vivo，魅族没安装国家反诈中心被打电话，有人鸿蒙也收到了国家反诈中心的短信，建议是能不用国产手机翻墙就不用。**
 
-  <font size="5" color="#FF0000">黑名单列表（点击查看详情）</font>
+[翻墙被抓案例.jpg](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/RDT_20220410_1332237515022397726360175.jpg)
+
+[案例集合（项目作者的频道）](https://t.me/ZGQincLiqun/1655)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
+
+ <font size="5" color="#FF0000">黑名单列表（点击查看详情）</font>
 
 <details><summary><span style="color: #ff0000">老王VPN</span></summary>
 
