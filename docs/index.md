@@ -1063,7 +1063,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [2021中国翻墙软件VPN推荐指南](https://vpncn.github.io/)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[国家反诈中心是后门软件，请勿安装！](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/20220410_121354.jpg)
+[<font color="#FF0000">国家反诈中心是后门软件，请勿安装！</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/20220410_121354.jpg)
 
 [<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/Screenshot_20220406-225445.jpg)
 
@@ -1341,7 +1341,11 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 6. **不会用怎么办？**
 
-**`答`**：凉拌。
+**`答`**：别人都会，就你不会。
+
+7. **太麻烦了吧。**
+
+**`答`**：那就别搞。
 
 ***
 
