@@ -1063,7 +1063,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [2021中国翻墙软件VPN推荐指南](https://vpncn.github.io/)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[<font color="#FF0000">国家反诈中心是后门软件，请勿安装！</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/20220410_121354.jpg)
+[<font color="#FF0000">国家反诈中心是后门软件，请勿安装！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/20220410_121354.jpg)
 
 [<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/Screenshot_20220406-225445.jpg)
 
@@ -1083,25 +1083,19 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <details><summary><span style="color: #ff0000">佛跳墙VPN</span></summary>
 
-有读者问我佛跳墙VPN怎么样？好用靠谱吗？
-
-根据我之前的测试结果和与使用过的用户交流，稳定性和安全性都不太好，不建议使用。这款虽然名字叫VPN，但我觉得底层还是基于SS的，而且DNS会有泄漏，对隐私数据的保护不好。这款佛跳墙很久之前买了一年的套餐，收了280，用了几天就被封了，关键是线路更新要等很长时间，无法使用的问题，退款也退不了。不推荐佛跳墙VPN，看到的避免入坑。
+稳定性和安全性都不太好，不建议使用。这款虽然名字叫VPN，但我觉得底层还是基于SS的，而且DNS会有泄漏，对隐私数据的保护不好。不推荐佛跳墙VPN，看到的避免入坑。
 
 </details>
 
 <details><summary><span style="color: #ff0000">蓝灯VPN</span></summary>
 
-之前陆陆续续有不少读者问我蓝灯好用吗，下载蓝灯还能用吗？其实蓝灯VPN我2年前用过，买过一年的套餐，由于蓝灯经常被封、无法连接就没续费了。前段时间我只买了一个月Pro版进行测试，还是老问题，能用率不足6成，不推荐购买蓝灯的付费版。
-
 目前网上流传的蓝灯VPN安全性有漏洞，虽然名字叫蓝灯VPN，但它是基于socks5代理，并不具备传统OpenVPN、L2TP/IPSec、IKEV2等VPN协议的安全性。另外有人使用蓝灯(Latern Pro)软件翻墙上P站，被行政处罚了。总之，能不用就尽量避免吧。
 
 </details>
 
-<details><summary>VyprVPN</summary>
+<details><summary><span style="color: #ff0000">小牛VPN</span></summary>
 
-如果你看到其他人推荐VyprVPN，不要再入坑了。
-
-VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然也能勉强使用，但稳定性比较差。我个人的使用体验是2年前在中国还是不错的，速度和稳定性都不错，被屏蔽后修复也快，现在给我的感觉是在中国比较难用，速度和稳定性都不如以前了。我近期测试的VyprVPN，经常连接不上，有时连上了速度也是时快时慢，有时容易掉线。
+小牛VPN被同行查过，有个专门窃取你个人隐私的后门，比老王VPN这种钓鱼的还要恶心。如果你不想被偷窥，那么最好不要入坑。
 
 </details>
 
