@@ -111,7 +111,7 @@
 
 [EveryProxy 共享手机VPN给其它设备](#EveryProxy)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-[Steam++ Steam加速器](#Steam++)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![Steam](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Steam&logoColor=0E1E47)
+[Steam++ Steam加速器](#Steam++)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [Blockanet 全球IP共享](#BlockaNet)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) `破解版`
 
@@ -889,15 +889,11 @@ Unrestricted access to the Internet
 <span id="Steam++"></span>
 # Steam++
 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
 
 解决Steam/Epic/Origin等平台网络错误问题，另外支持Pixiv、Google等平台的加速服务
 
-[下载地址及官网](https://www.steampp.net/)
-
-[官方下载地址](https://cliencer.lanzoux.com/b0165duja)
-
-密码：1234
+[官网&下载地址](https://www.steampp.net/)
 
 [项目地址](https://github.com/SteamTools-Team/SteamTools)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
