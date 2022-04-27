@@ -262,7 +262,9 @@
 
 [项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-**<font size="4">汉化补丁</font>**[项目地址 BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+**<font size="4">汉化补丁</font>**[<font size="4">下载地址</font>](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+[项目地址 BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
@@ -398,6 +400,11 @@ Unrestricted access to the Internet
 [网址](https://fly.nullmouse.xyz/)
 
 注册成功后，点击`侧边栏`，进入`套餐购买`，最下面有`白嫖套餐`，**可延长免费账号有效期**。
+
+<!--
+Pikap Free airport
+https://pikap.me/#/login
+-->
 
 <span id="cwv587"></span>
 - <font size="5">V2云</font>
