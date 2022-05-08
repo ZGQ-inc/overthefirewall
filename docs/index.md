@@ -404,6 +404,22 @@ Unrestricted access to the Internet
 <!--
 Pikap Free airport
 https://pikap.me/#/login
+
+https://www.startrip.top/ 
+
+Free 公益订阅链接(配合Clash V2ray等客户端使用)
+
+https://www.spcloud.us/api/v1/client/subscribe?token=d7ba10b39538d2c33b226c6092414072
+
+TG代理
+
+https://t.me/socks?server=mtp.spcloud.us&port=48387&user=spcloud.us&pass=spcloud.us
+
+Free 订阅 + SPCloud 按量订阅 = yyds ~
+
+1元/15G不限时按量套餐，注册可试用
+www.spcloud.us
+(所有订阅节点均一致，仅流量和时间差异)
 -->
 
 <span id="cwv587"></span>
@@ -1380,6 +1396,10 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 # 声明
 
 所有资源均来源于网络搜集，如有侵权请[联系我](https://zgq-inc.github.io/homepage/#about)删除。
+
+![CC](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/) 🄯 进行许可。
 
 ***
 
