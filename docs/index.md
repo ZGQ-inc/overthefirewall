@@ -90,6 +90,8 @@
 
 [网速测试](#speedtest)
 
+[IP查询](#IP)
+
 [安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
@@ -494,6 +496,19 @@ www.spcloud.us
 [Netflix旗下Fast.com](https://fast.com/)
 
 [CacheFly Speedtest](http://web1.cachefly.net/speedtest/index.html)
+
+***
+
+<span id="IP"></span>
+# IP查询
+
+<iframe src="https://ip.skk.moe/simple" style="width: 100%; height: 25%; border: 0"></iframe>
+
+[IPAddress.com](https://www.ipaddress.com/)
+
+[查看我的 IP 地址 | Sukka](https://ip.skk.moe/)
+
+[IPAddress.my](https://www.ipaddress.my/)
 
 ***
 
