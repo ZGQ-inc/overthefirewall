@@ -502,7 +502,7 @@ www.spcloud.us
 <span id="IP"></span>
 # IP查询
 
-<iframe src="https://ip.skk.moe/simple" style="width: 100%; height: 235; border: 0"></iframe>
+<iframe src="https://ip.skk.moe/simple" width="100%" height="235" style="border: 0"></iframe>
 
 [IPAddress.com](https://www.ipaddress.com/)
 
