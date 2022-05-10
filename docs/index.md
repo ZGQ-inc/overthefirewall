@@ -502,11 +502,9 @@ www.spcloud.us
 <span id="IP"></span>
 # IP查询
 
-<iframe src="https://ip.skk.moe/simple" style="width: 100%; height: 25%; border: 0"></iframe>
+<iframe src="https://ip.skk.moe/simple" style="width: 100%; height: 235; border: 0"></iframe>
 
 [IPAddress.com](https://www.ipaddress.com/)
-
-[查看我的 IP 地址 | Sukka](https://ip.skk.moe/)
 
 [IPAddress.my](https://www.ipaddress.my/)
 
