@@ -1166,6 +1166,8 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
 
+[Play Services Info-GMS谷歌服务完整性检查](http://a.ruansky.com/up/131039)
+
 <span style="color: #ff0000">小米</span>![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)<span style="color: #ff0000">手机需要在系统设置里开启谷歌服务，否则无法使用谷歌应用。</span>
 
 <span style="color: #ff0000">华为</span>![Huawei](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Huawei&logoColor=D1092E)<span style="color: #ff0000">新机型无法安装谷歌服务，建议使用下方的第三方谷歌商店。</span>
@@ -1250,9 +1252,13 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [WABox-WhatsApp工具箱](http://a.ruansky.com/up/467721)
 
+[WhatsTool-WhatsApp工具箱](http://a.ruansky.com/up/243972)
+
 [状态保护程序-WhatsApp媒体下载器](http://a.ruansky.com/up/524741)
 
 <span id="Reddit">![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)</span>
+
+[Reddit-破解会员](http://a.ruansky.com/up/231175)
 
 [rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/300147)
 
