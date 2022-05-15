@@ -230,7 +230,7 @@
 
 [下载地址](https://sagernet.org/download/)
 
-[项目地址 SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)
+[项目地址 SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Surfboard"></span>
 + <font size="5">Surfboard</font>
