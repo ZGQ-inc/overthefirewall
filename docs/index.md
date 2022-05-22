@@ -1089,7 +1089,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 <span id="blacklist"></span>
 # 翻墙软件&机场黑名单
 
-翻墙这种事，国家睁一只眼闭一只眼，就大陆来看，就有几百万“违法人员”，可是网警没这么多功夫陪这么多人喝茶，但是时不时抓几个杀鸡儆猴还是可以做到的，所以小心为妙，梯子安全一般不会有事。
+翻墙这种事，国家睁一只眼闭一只眼，就大陆来看，就有几百万“违法人员”，可是网警没这么多功夫陪这么多人喝茶，但是时不时抓几个杀鸡儆猴还是可以做到的，轻一点2000～50000，重一点派出所免费住宿，所以小心为妙，梯子安全一般不会有事。
 
 [中国翻墙软件黑名单-持续更新](https://www.google.com/amp/s/10beasts.net/china-fanqiang-tools-blacklist/amp/)
 
