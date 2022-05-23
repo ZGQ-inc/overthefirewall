@@ -26,9 +26,7 @@
 ***
 
 <span id="ads"></span>
-### [<center>赞助商广告（点击查看）</center>](https://zgq-inc.github.io/overthefirewall/sponsor.html)
-
-**明年开始接收并投放赞助商广告，此广告仅为测试目的。**
+## [<center>赞助商广告（点击查看）</center>](https://zgq-inc.github.io/overthefirewall/sponsor.html)
 
 ***
 
