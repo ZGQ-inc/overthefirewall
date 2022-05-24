@@ -1,11 +1,11 @@
 <span id="top"></span>
-**<font size="4">:electron:覆盖全平台:electron:</font>**
-**<font size="4">:electron:完全免费:electron:</font>**
+**<font size="4">★覆盖全平台★</font>**
+**<font size="4">★完全免费★</font>**
 
-**<font size="4">:electron:节点订阅:electron:</font>**
-**<font size="4">:electron:机场推荐:electron:</font>**
+**<font size="4">★节点订阅★</font>**
+**<font size="4">★机场推荐★</font>**
 
-**<font size="4">:electron:破解VPN软件分享:electron:</font>**
+**<font size="4">★破解VPN软件分享★</font>**
 
 ![:overthefirewall](https://count.getloli.com/get/@overthefirewall?theme=rule34)
 
