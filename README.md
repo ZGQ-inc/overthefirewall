@@ -2,14 +2,6 @@
 
 ## 已取消README.md，请点击上方蓝体字进入发布页面查看。
 
-**<font size="4">★覆盖全平台★</font>**
-**<font size="4">★完全免费★</font>**
-
-**<font size="4">★节点订阅★</font>**
-**<font size="4">★机场推荐★</font>**
-
-**<font size="4">★破解VPN软件分享★</font>**
-
 ***
 
 别忘了点个`Star`
