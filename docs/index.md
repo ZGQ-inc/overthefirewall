@@ -1095,13 +1095,13 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [2021中国翻墙软件VPN推荐指南](https://vpncn.github.io/)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[<font color="#FF0000">国家反诈中心是后门软件，请勿安装！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/20220410_121354.jpg)
+[<font color="#FF0000">国家反诈中心是后门软件，请勿安装！（点击查看详情）</font>](https://zgq-inc.github.io/overthefirewall/image/20220410_121354.jpg)
 
-[<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/Screenshot_20220406-225445.jpg)
+[<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://zgq-inc.github.io/overthefirewall/image/Screenshot_20220406-225445.jpg)
 
 **后来听说有人是OPPO，vivo，魅族没安装国家反诈中心被打电话，有人鸿蒙也收到了国家反诈中心的短信，建议是能不用国产手机翻墙就不用。**
 
-[翻墙被抓案例.jpg](https://cdn.jsdelivr.net/gh/ZGQ-inc/overthefirewall@master/image/RDT_20220410_1332237515022397726360175.jpg)
+[翻墙被抓案例.jpg](https://zgq-inc.github.io/overthefirewall/image/RDT_20220410_1332237515022397726360175.jpg)
 
 [案例集合（项目作者的频道）](https://t.me/ZGQincLiqun/1655)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 
