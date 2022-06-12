@@ -34,42 +34,41 @@
 
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)![Huawei](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Huawei&logoColor=D1092E)`etc.`
 
-**<font size="4">推荐使用</font>**[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+**<font size="4">推荐使用</font>**[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-  - [v2rayNG](#v2rayNG)
-  - [Clash](#Clash_Android)
-  - [SagerNet](#SagerNet)
+  - [v2rayNG](#v2rayNG) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+  - [Clash](#Clash_Android) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+  - [SagerNet](#SagerNet) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
   - [Surfboard](#Surfboard)
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
 
-  - [v2rayN](#v2rayN)
-  - [Clash](#Clash_Windows)
+  - [v2rayN](#v2rayN) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+  - [Clash](#Clash_Windows) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
   - [SocksCap64](#SocksCap64)
 
 [![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
 
   - [OneClick](#OneClick)
   - [Potatso Lite 在线安装](#Potatso_Lite)
-  - [Shadowrocket 小火箭在线安装](#Shadowrocket)
-  - [Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)
+  - [Shadowrocket 小火箭在线安装](#Shadowrocket) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
 
-  - [v2rayU](#v2rayU)
-  - [Clash](#Clash_MacOS)
+  - [v2rayU](#v2rayU) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
+  - [Clash](#Clash_MacOS) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
 
-  - [Clash](#Clash_Linux)
+  - [Clash](#Clash_Linux) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
   - [未整理&其它](#others)
 
 [路由规则](#rule)
 
 [订阅平台](#sub)
-+ [BuLink 永久免费网络加速](#BuLink)
-+ [Fly](#Fly)
++ [BuLink 永久免费网络加速](#BuLink) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ [Fly](#Fly) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 + [V2云](#cwv587)
 + [五五开咖啡厅](#55kai)
 + [节点池-SOCKS5](#proxypool)
@@ -84,18 +83,11 @@
 
 [IP查询](#IP)
 
-[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[ExpressVPN 全球第一](#ExpressVPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![ExpressVPN](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=ExpressVPN&logoColor=DB3F46)
-+ [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#ExpressVPN_Android) `破解版`
-  - [稳定版](#ExpressVPN_stable)
-  - [公测版](#ExpressVPN_nightly)
-+ [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#ExpressVPN_Windows) `注册码分享`
-+ [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#ExpressVPN_MacOS) `注册码分享`
+[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg) `破解版`
 
-[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1) `破解版`
-
-[Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
+[Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 + [Get Shadowrocket](#GetShadowrocket)
 
@@ -105,7 +97,7 @@
 
 [EveryProxy 共享手机VPN给其它设备](#EveryProxy)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-[SteamTools 加速Steam社区访问](#SteamTools)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
+[SteamTools 加速Steam社区访问](#SteamTools)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
 
 [Blockanet 全球IP共享](#BlockaNet)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) `破解版`
 
@@ -119,7 +111,7 @@
 
 [<font color="#FF0000">翻墙软件&机场黑名单</font>](#blacklist)
 
-[Android软件](#Android_software)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+[Android软件](#Android_software)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](#Telegram) `直连版` `主题`
 
@@ -190,7 +182,7 @@
 **<font size="4">推荐使用</font>**[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 <span id="v2rayNG"></span>
-+ <font size="5">v2rayNG</font>
++ <font size="5">v2rayNG</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 `由于更新太频繁，采用Github release`
 
@@ -203,7 +195,7 @@
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="Clash_Android"></span>
-+ <font size="5">Clash</font>
++ <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 `由于更新太频繁，采用Github release`
 
@@ -216,7 +208,7 @@
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="SagerNet"></span>
-+ <font size="5">SagerNet</font>
++ <font size="5">SagerNet</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
 
 [官网](https://sagernet.org/)
 
@@ -233,7 +225,7 @@
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
 
 <span id="v2rayN"></span>
-+ <font size="5">v2rayN</font>
++ <font size="5">v2rayN</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 `由于更新太频繁，采用Github release`
 
@@ -246,7 +238,7 @@
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="Clash_Windows"></span>
-+ <font size="5">Clash</font>
++ <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 `由于更新太频繁，采用Github release`
 
@@ -291,7 +283,7 @@ Unrestricted access to the Internet
 [App Store 链接](https://apps.apple.com/us/app/potatso-lite/id1239860606)
 
 <span id="Shadowrocket"></span>
-+ <font size="5">Shadowrocket</font>
++ <font size="5">Shadowrocket</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)
 
@@ -301,14 +293,14 @@ Unrestricted access to the Internet
 ## MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)
 
 <span id="v2rayU"></span>
-+ <font size="5">v2rayU</font>
++ <font size="5">v2rayU</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
 
 [下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
 
 [项目地址 yanue/V2rayU](https://github.com/yanue/V2rayU)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Clash_MacOS"></span>
-+ <font size="5">Clash</font>
++ <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 `由于更新太频繁，采用Github release`
 
@@ -324,7 +316,7 @@ Unrestricted access to the Internet
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 <span id="Clash_Linux"></span>
-+ <font size="5">Clash</font>
++ <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 `由于更新太频繁，采用Github release`
 
@@ -368,7 +360,7 @@ Unrestricted access to the Internet
 [<font size="5">返回目录</font>](#contents)
 
 <span id="BuLink"></span>
-- <font size="5">BuLink永久免费网络加速</font>
+- <font size="5">BuLink永久免费网络加速</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 `推荐使用网友分享节点`
 
@@ -381,7 +373,7 @@ Unrestricted access to the Internet
 [项目地址](https://github.com/freefq/free)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Fly"></span>
-- <font size="5">Fly</font>
+- <font size="5">Fly</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 ~~耗子大神（耗子爱吃草）搭的公益机场~~
 
@@ -483,7 +475,7 @@ www.spcloud.us
 
 [全球知名测速平台Speedtest](https://www.speedtest.net/zh-Hans)
 
-[Speedtest-知名网速测试工具](http://a.ruansky.com/up/510488)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+[Speedtest-知名网速测试工具](http://a.ruansky.com/up/510488)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Netflix旗下Fast.com](https://fast.com/)
 
@@ -503,11 +495,11 @@ www.spcloud.us
 ***
 
 <span id="Android_patched_VPN"></span>
-# 安卓破解版VPN分享
+# 安卓破解版VPN分享 ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
-## vpnify `推荐`
+## vpnify ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/irJr7002raqb)
 
@@ -703,121 +695,8 @@ www.spcloud.us
 
 ***
 
-<span id="ExpressVPN"></span>
-# ExpressVPN
-
-![ExpressVPN](https://img.shields.io/badge/-ExpressVPN-DB3F46?style=for-the-badge&logo=ExpressVPN&logoColor=FFFFFF)
-
-**高速、安全且匿名的 VPN 服务**
-
-**High-Speed, Secure & Anonymous VPN Service**
-
-[官网](https://www.expressvpn.com/)
-
-极力推荐Express VPN，基本可以稳定在**7MB/s**，历史测速最高**33MB/s**`*`。
-
-[<font size="6">最新测速结果</font>](https://zgqinc-my.sharepoint.com/:x:/g/personal/zgq_zgqinc_onmicrosoft_com/ERlGmtlYvYFEgF2IcRR9eKkBMo5JnsujACdIO0u6Lj1N_g?e=kmK5tb)
-
-`历史测速最高33MB/s` ：结果来自群员测速。
-
-<font size="4" color="#FF0000">不要点进官网，请查看对应版本。</font>
-
-+ [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#ExpressVPN_Android) `破解版`
-+ [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#ExpressVPN_Windows) `注册码分享`
-+ [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#ExpressVPN_MacOS) `注册码分享`
-
-<span id="ExpressVPN_Android"></span>
-# Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
-
-<font size="6" color="#FF0000">※重要通知：破解版目前已失效，提示Update Required，即强制更新，请静待新破解版。</font>
-
-这次问题很大，能不能继续白嫖都是个问题。
-
-就目前已知来看
-
-> 破解版：10.16.0（已失效）
-> 
-> 官方版：10.18.0（取消试用按钮）
-> 
-> 测试版：10.20.0（变成7天试用）
-
-大概能知道发生了什么，官方开始行动了，能不能继续白嫖就~~听天由命~~看破解者发力了。
-
-<font size="4" color="#FF0000">目前可以选择</font>
-
-[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
-
-[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)`破解版`
-
-<font size="4" color="#FF0000">作为替代品。</font>
-
-<span id="ExpressVPN_Windows"></span>
-# Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=for-the-badge&logo=Windows&logoColor=0078D6)
-
-- **<font size="4">官方软件下载地址</font>**
-
-[expressvpn_windows_10.11.0.13_release.exe](https://zgq-inc.lanzoui.com/iLRm5wkps4j)
-
-<span id="ExpressVPN_account"></span>
-- **<font size="4">注册码分享（不定时更新）</font>**
-
-**<span style="color: #ff0000">近期出现状况，大部分注册码已失效，如无法使用，请静待新注册码。</span>**
-
-**此栏目已与主文档分离，请仔细浏览一遍[使用方法](#ExpressVPN_Windows_instructions)后操作。**
-
-[<font size="5">点击获取最新注册码</font>](https://zgq-inc.github.io/overthefirewall/ExpressVPN_activation_code.html)
-
-<span id="ExpressVPN_Windows_instructions"></span>
-**<font size="4">使用方法</font>**：安装软件后会自动启动，点击`Sign In`，在输入框中填写
-**注册码**，点击`Continue`。如遇登录失败，请额外填写邮箱和密码（如有）。之后的界面是询问是否设置开机启动，按个人喜好选择，之后的界面随意选择即可进入，上方提示`Tap to connect`，点击连接，当显示`Connected`，说明连接成功。
-
-首页最上方显示
-
-`Free trial expires in □ days`
-
-这将会是**剩余试用天数**。<span style="color: #FF0004">试用期过后将不可用</span>，点击`Sign Out`退出登录，**见文档内最新注册码**，重新按照[使用方法](#ExpressVPN_Windows_instructions)操作一遍。
-
-> 如果**<font size="5">无法连接</font>**，出现此信息`Still trying to connect.`。
-
-**请点击按钮下方`节点列表`，选择下方的节点。**
-
-- United States `推荐`
-- Singapore - Marina Bay `推荐`
-- Canada - Toronto - 2
-- UK - Wembley
-- Japan
-
-大陆地区只有部分节点能连上，因为只有这些节点**针对大陆GFW（长城防火墙）做了混淆优化，IP不会被封禁**。**来自官方公告**。
-
-> 如果**<font size="5">出现窗口</font>**`Connection Limit Reached`，是由于免费试用的账号同时只能给**一台设备**连接。
-
-点击`Cancel`，点击左上角`菜单栏`，点击`Sign Out`退出账号，选择其它[注册码](#ExpressVPN_account)登录。
-
-<span id="ExpressVPN_MacOS"></span>
-# MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=for-the-badge&logo=MacOS&logoColor=999999)
-
-- **<font size="4">官方软件下载地址</font>**
-
-[expressvpn_mac_10.8.0.2_release.pkg](https://zgq-inc.lanzoui.com/iFymhwkpsej)
-
-使用方法与[Windows版](#ExpressVPN_Windows)一致。
-
-**<font size="5">为什么推荐ExpressVPN？</font>**
-
-**总结以下几点**
-
-没有哪个服务比express**更好用，更安全**，付费机场和VPS除外
-
-1. ExpressVPN用的是**RAM服务器**，相当于电脑的内存条，**不可能保留数据**，其它都没一个能做到，齐刷刷全是**硬盘服务器**，你看了什么都留在上面，硬盘就这样，删掉了还能恢复。
-
-2. 还有**两三天更新一波节点，平均一个月会有一次大更新**，防止节点IP被GFW封锁，这也就是为什么**敏感时期照样好用的原因**，其它都有几个能做到？
-
-3. 再有就是照顾大陆用户，提供的**服务质量全球保持一致**，有些节点**针对大陆GFW（长城防火墙）进行混淆优化**，但是不可能所有都给你优化一遍，毕竟GFW太厉害了。
-
-***
-
 <span id="SamsungMax"></span>
-# Samsung Max
+# Samsung Max ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
 
@@ -862,7 +741,7 @@ www.spcloud.us
 ***
 
 <span id="Shadowrocket_Apple_ID"></span>
-# Shadowrocket 小火箭账号分享
+# Shadowrocket 小火箭账号分享 ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 ![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)
 
@@ -902,7 +781,7 @@ www.spcloud.us
 
 在Android设备上运行代理服务器
 
-[谷歌商店](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)![GooglePlay](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=GooglePlay&logoColor=000000)
+[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)
 
 [官网](http://www.everyproxy.co.uk)
 
@@ -915,7 +794,7 @@ www.spcloud.us
 ***
 
 <span id="SteamTools"></span>
-# SteamTools（原Steam++）
+# SteamTools（原Steam++） ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
 
@@ -1140,23 +1019,23 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Telegram">![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)</span>
 
-[Telegram-直连版](http://a.ruansky.com/up/498848)
+[Telegram-直连版](http://a.ruansky.com/up/498848) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[Telegraher-Telegram第三方客户端（破解官方限制）](http://a.ruansky.com/up/524938)
+[Telegraher-Telegram第三方客户端（破解官方限制）](http://a.ruansky.com/up/524938) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Telegram 主题-海量Telegram主题](http://a.ruansky.com/up/163551)
 
 [Sticker Downloader-电报贴纸包下载器](http://a.ruansky.com/up/312604)
 
-[Telegraph X Pro-发布文章 Telegram旗下](http://a.ruansky.com/up/477318)
+[Telegraph X Pro-发布文章 Telegram旗下](http://a.ruansky.com/up/477318) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TForwarder-Telegram自动转发消息](http://a.ruansky.com/up/477755)
 
 <span id="Google">![Google](https://img.shields.io/badge/-Google-000000?style=for-the-badge&logo=Google&logoColor=FFFFFF)</span>
 
-[AppSales-谷歌商店优惠&限免通知](http://a.ruansky.com/up/87929)
+[AppSales-谷歌商店优惠&限免通知](http://a.ruansky.com/up/87929) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340)
+[GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Play Services Info-GMS谷歌服务完整性检查](http://a.ruansky.com/up/131039)
 
@@ -1168,7 +1047,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 三星![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)等部分品牌的手机自带谷歌服务，只需安装谷歌商店即可。
 
-[APKPure Store-知名第三方谷歌商店](http://a.ruansky.com/up/261281)
+[APKPure Store-知名第三方谷歌商店](http://a.ruansky.com/up/261281) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Appvn-第三方谷歌商店](http://a.ruansky.com/up/261239)
 
@@ -1184,7 +1063,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="YouTube">![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)</span>
 
-[Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259) `已停更`
+[Vanced Manager-强大的第三方YouTube](http://a.ruansky.com/up/261259) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg) `已停更`
 
 [**最后的Vanced**蓝奏云备档](https://zgq-inc.lanzouv.com/b00pgxnha)
 
@@ -1196,7 +1075,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 [GoTube-无广告YouTube客户端](http://a.ruansky.com/up/507181)
 
-[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/487614)
+[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/487614) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TubeMate（版本更新）-YouTube视频下载器](http://a.ruansky.com/up/179362)
 
@@ -1204,7 +1083,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Twitter">![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)</span>
 
-[推特直连版](http://a.ruansky.com/up/117084) `已停更`
+[推特直连版](http://a.ruansky.com/up/117084)  ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Talon-Twitter第三方客户端](http://a.ruansky.com/up/202613)
 
@@ -1220,11 +1099,11 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Netflix">![Netflix](https://img.shields.io/badge/-Netflix-221F1F?style=for-the-badge&logo=Netflix&logoColor=E21221)</span>
 
-[Netflix-第三方换源Netflix](http://a.ruansky.com/up/507093)
+[Netflix-第三方换源Netflix](http://a.ruansky.com/up/507093) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 <span id="Spotify">![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)</span>
 
-[xManager-Spotify破解版下载](http://a.ruansky.com/up/498879)
+[xManager-Spotify破解版下载](http://a.ruansky.com/up/498879) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/407302)
 
@@ -1232,15 +1111,15 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Pixiv">![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)</span>
 
-[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/488147)
+[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/488147) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[Shaft-第三方直连版客户端](http://a.ruansky.com/up/417680)
+[Shaft-第三方直连版客户端](http://a.ruansky.com/up/417680) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [PixEz-第三方直连版客户端](http://a.ruansky.com/up/524797)
 
 <span id="WhatsApp">![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)</span>
 
-[GBWhatsApp-WhatsApp第三方客户端](http://a.ruansky.com/up/524806)
+[GBWhatsApp-WhatsApp第三方客户端](http://a.ruansky.com/up/524806) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [WABox-WhatsApp工具箱](http://a.ruansky.com/up/467721)
 
@@ -1262,15 +1141,15 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Instagram">![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)</span>
 
-[Instander-Instagram修改版](http://a.ruansky.com/up/337746)
+[Instander-Instagram修改版](http://a.ruansky.com/up/337746) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [iGetter Pro-Instagram视频下载器](http://a.ruansky.com/up/457943)
 
 <span id="VKontakte">![VKontakte](https://img.shields.io/badge/-VKontakte-0079FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)</span>
 
-[VK Mod-VKontakte修改版](http://a.ruansky.com/up/337748)
+[VK Mod-VKontakte修改版](http://a.ruansky.com/up/337748) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[VK Minus-VKontakte精简版](http://a.ruansky.com/up/337749)
+[VK Minus-VKontakte精简版](http://a.ruansky.com/up/337749) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Kate Mobile-第三方VKontakte](http://a.ruansky.com/up/232252)
 
@@ -1280,15 +1159,15 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="TikTok">![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)</span>
 
-[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/524502)
+[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/524502) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/524484)
+[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/524484) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
 <span id="Twitch">![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)</span>
 
-[TwitchMod-Twitch修改版](http://a.ruansky.com/up/429088) `已停更`
+[TwitchMod-Twitch修改版](http://a.ruansky.com/up/429088) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg) `已停更`
 
 [Impulse-第三方Twitch](http://a.ruansky.com/up/292424)
 
@@ -1306,7 +1185,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 [TeeHub-Twitter & Tumblr 二合一](http://a.ruansky.com/up/310301)
 
 <span id="upload"></span>
-- <font size="5">我的上传</font>
+- <font size="5">我的上传</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 项目作者在`软天空`平台分享的软件资源
 
@@ -1328,13 +1207,6 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 > 问题答案：@freessrvpn
 >
 > Telegram群组 [@freessrvpn](https://t.me/freessrvpn)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
-> 
-> - <font size="5">中国白嫖党</font>
->
-> Telegram群组 [@CN_baipiaodang](https://t.me/CN_baipiaodang)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
->
-> Telegram频道 [@CN_baipiao](https://t.me/CN_baipiao)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
->
 
 ***
 
