@@ -2,7 +2,7 @@
 
 ***
 
-别忘了点个`Star`
+别忘了点个![star](https://zgq-inc.github.io/badge/github/black-star.svg)
 
 ***
 
