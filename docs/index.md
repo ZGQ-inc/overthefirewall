@@ -184,9 +184,11 @@
 <span id="v2rayNG"></span>
 + <font size="5">v2rayNG</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-`由于更新太频繁，采用Github release`
+[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.v2ray.ang)
 
 [从release页面下载](https://github.com/2dust/v2rayNG/releases)
+
+[从Apkpure下载](https://m.apkpure.com/cn/store/apps/details?id=com.v2ray.ang)
 
 **如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
@@ -197,9 +199,11 @@
 <span id="Clash_Android"></span>
 + <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-`由于更新太频繁，采用Github release`
+[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
 
 [从release页面下载](https://github.com/Kr328/ClashForAndroid/releases)
+
+[从Apkpure下载](https://m.apkpure.com/cn/store/apps/details?id=com.github.kr328.clash)
 
 **如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
@@ -212,22 +216,32 @@
 
 [官网](https://sagernet.org/)
 
-[下载地址](https://sagernet.org/download/)
+[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet)
+
+[官方下载地址](https://sagernet.org/download/)
+
+[从release页面下载](https://github.com/SagerNet/SagerNet/releases)
+
+[从Apkpure下载](https://m.apkpure.com/cn/store/apps/details?id=io.nekohasekai.sagernet)
 
 [项目地址 SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Surfboard"></span>
 + <font size="5">Surfboard</font>
 
-下载地址 [@surfboardnews](https://t.me/surfboardnews)（TG频道）
+[官网](https://getsurfboard.com/)
+
+[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.getsurfboard)
+
+[从Apkpure下载](https://m.apkpure.com/cn/store/apps/details?id=com.getsurfboard)
+
+TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 
 <span id="Windows"></span>
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
 
 <span id="v2rayN"></span>
 + <font size="5">v2rayN</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
-
-`由于更新太频繁，采用Github release`
 
 [从release页面下载](https://github.com/2dust/v2rayN/releases)
 
@@ -239,8 +253,6 @@
 
 <span id="Clash_Windows"></span>
 + <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
-
-`由于更新太频繁，采用Github release`
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
@@ -273,6 +285,8 @@ Unrestricted access to the Internet
 
 [官网](https://oneclick.earth/#/)
 
+[![AppStore](https://zgq-inc.github.io/badge/download/appstore.svg)](https://apps.apple.com/us/app/id1545555197)
+
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="Potatso_Lite"></span>
@@ -280,14 +294,14 @@ Unrestricted access to the Internet
 
 [Potatso Lite 代理工具 在线安装](https://shadowsockshelp.github.io/Potatso-Lite/)
 
-[App Store 链接](https://apps.apple.com/us/app/potatso-lite/id1239860606)
+[![AppStore](https://zgq-inc.github.io/badge/download/appstore.svg)](https://apps.apple.com/us/app/potatso-lite/id1239860606)
 
 <span id="Shadowrocket"></span>
 + <font size="5">Shadowrocket</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)
 
-[App Store 链接](https://apps.apple.com/us/app/shadowrocket/id932747118)
+[![AppStore](https://zgq-inc.github.io/badge/download/appstore.svg)](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 <span id="MacOS"></span>
 ## MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)
@@ -295,14 +309,14 @@ Unrestricted access to the Internet
 <span id="v2rayU"></span>
 + <font size="5">v2rayU</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
 
+[从release页面下载](https://github.com/yanue/V2rayU/releases)
+
 [下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
 
 [项目地址 yanue/V2rayU](https://github.com/yanue/V2rayU)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Clash_MacOS"></span>
 + <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
-
-`由于更新太频繁，采用Github release`
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
@@ -317,8 +331,6 @@ Unrestricted access to the Internet
 
 <span id="Clash_Linux"></span>
 + <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
-
-`由于更新太频繁，采用Github release`
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
@@ -702,7 +714,7 @@ www.spcloud.us
 
 来自三星的隐私 VPN，具有免费和高级级别 + 强大的数据节省功能
 
-[谷歌商店](https://play.google.com/store/apps/details?id=com.opera.max.global)![GooglePlay](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=GooglePlay&logoColor=000000)
+详情查看[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.opera.max.global)
 
 - **<font size="4">下载地址</font>**
 
