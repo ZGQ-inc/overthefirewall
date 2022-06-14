@@ -182,7 +182,7 @@
 **<font size="4">推荐使用</font>**[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 <span id="v2rayNG"></span>
-+ <font size="5">v2rayNG</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ <font size="5">v2rayNG ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)</font>
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.v2ray.ang)
 
@@ -197,7 +197,7 @@
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="Clash_Android"></span>
-+ <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ <font size="5">Clash ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)</font>
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
 
@@ -212,7 +212,7 @@
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="SagerNet"></span>
-+ <font size="5">SagerNet</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
++ <font size="5">SagerNet ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)</font>
 
 [官网](https://sagernet.org/)
 
@@ -241,7 +241,7 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
 
 <span id="v2rayN"></span>
-+ <font size="5">v2rayN</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ <font size="5">v2rayN ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)</font>
 
 [从release页面下载](https://github.com/2dust/v2rayN/releases)
 
@@ -252,7 +252,7 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="Clash_Windows"></span>
-+ <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ <font size="5">Clash ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)</font>
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
@@ -316,7 +316,7 @@ Unrestricted access to the Internet
 [项目地址 yanue/V2rayU](https://github.com/yanue/V2rayU)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Clash_MacOS"></span>
-+ <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ <font size="5">Clash ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)</font>
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
@@ -330,7 +330,7 @@ Unrestricted access to the Internet
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 <span id="Clash_Linux"></span>
-+ <font size="5">Clash</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ <font size="5">Clash ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)</font>
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
@@ -372,7 +372,7 @@ Unrestricted access to the Internet
 [<font size="5">返回目录</font>](#contents)
 
 <span id="BuLink"></span>
-- <font size="5">BuLink永久免费网络加速</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+- <font size="5">BuLink永久免费网络加速![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)</font> 
 
 `推荐使用网友分享节点`
 
@@ -385,7 +385,7 @@ Unrestricted access to the Internet
 [项目地址](https://github.com/freefq/free)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Fly"></span>
-- <font size="5">Fly</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+- <font size="5">Fly ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)</font>
 
 ~~耗子大神（耗子爱吃草）搭的公益机场~~
 
@@ -1197,7 +1197,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 [TeeHub-Twitter & Tumblr 二合一](http://a.ruansky.com/up/310301)
 
 <span id="upload"></span>
-- <font size="5">我的上传</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+- <font size="5">我的上传 ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)</font>
 
 项目作者在`软天空`平台分享的软件资源
 
