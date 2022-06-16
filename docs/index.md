@@ -397,7 +397,7 @@ Unrestricted access to the Internet
 
 **并不是本人**
 
-`每月限流5GB`
+`有效期内每月限流15GB`
 
 `速率最高30Mbps`
 
