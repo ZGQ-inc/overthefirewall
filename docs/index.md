@@ -1216,7 +1216,9 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 <span id="sponsor"></span>
 # *赞助内容*
 
-<span style="color: #ff0000">不再更新，请进赞助群获取。</span>
+<font size="6">起飞VPN</font>
+
+[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.ambrose.overwall)
 
 > - <font size="5">起飞交流群（Q群）</font>
 >
