@@ -1039,7 +1039,9 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Telegram">![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)</span>
 
-[Telegram-直连版](http://a.ruansky.com/up/498848) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Telegram-本地高级订阅解锁](http://a.ruansky.com/up/702835) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[Telegram魔法版](http://a.ruansky.com/up/702881) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Telegraher-Telegram第三方客户端（破解官方限制）](http://a.ruansky.com/up/524938) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
@@ -1053,11 +1055,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Google">![Google](https://img.shields.io/badge/-Google-000000?style=for-the-badge&logo=Google&logoColor=FFFFFF)</span>
 
-[AppSales-谷歌商店优惠&限免通知](http://a.ruansky.com/up/87929) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
-
 [GO谷歌安装器-一键安装GMS](http://a.ruansky.com/up/129340) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
-
-[Play Services Info-GMS谷歌服务完整性检查](http://a.ruansky.com/up/131039)
 
 <span style="color: #ff0000">小米</span>![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)<span style="color: #ff0000">手机需要在系统设置里开启谷歌服务，否则无法使用谷歌应用。</span>
 
@@ -1066,6 +1064,11 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 部分品牌手机安装谷歌商店后桌面无图标，请先尝试重启。
 
 三星![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)等部分品牌的手机自带谷歌服务，只需安装谷歌商店即可。
+
+[Play Services Info-GMS谷歌服务完整性检查](http://a.ruansky.com/up/131039)
+
+[AppSales-谷歌商店优惠&限免通知](http://a.ruansky.com/up/707608)
+ ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [APKPure Store-知名第三方谷歌商店](http://a.ruansky.com/up/261281) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
@@ -1089,13 +1092,15 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 密码：`vanced`
 
-[NewPipe-轻量多平台聚合播放器 支持下载](http://a.ruansky.com/up/467483)
+[LibreTube-可观看YouTube付费视频](http://a.ruansky.com/up/704001) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[NewPipe-YouTube第三方客户端](http://a.ruansky.com/up/707627)
 
 [Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
 
 [GoTube-无广告YouTube客户端](http://a.ruansky.com/up/507181)
 
-[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/487614) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/708196) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TubeMate（版本更新）-YouTube视频下载器](http://a.ruansky.com/up/179362)
 
@@ -1103,7 +1108,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Twitter">![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)</span>
 
-[推特直连版](http://a.ruansky.com/up/117084)  ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Twitter魔法版](http://a.ruansky.com/up/711615)  ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Talon-Twitter第三方客户端](http://a.ruansky.com/up/202613)
 
@@ -1112,6 +1117,10 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 [Flamingo-Twitter第三方客户端](http://a.ruansky.com/up/487752)
 
 [Fenix-Twitter第三方客户端](http://a.ruansky.com/up/487657)
+
+[Friendly T-Twitter第三方客户端](http://a.ruansky.com/up/703026)
+
+[Tweet2Pic Pro-Twitter推文转图片](http://a.ruansky.com/up/707922)
 
 <span id="Facebook">![Facebook](https://img.shields.io/badge/-Facebook-0470E5?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)</span>
 
@@ -1123,7 +1132,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="Spotify">![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)</span>
 
-[xManager-Spotify破解版下载](http://a.ruansky.com/up/498879) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[xManager-Spotify破解版下载器](http://a.ruansky.com/up/703222) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/407302)
 
@@ -1158,6 +1167,8 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 [Joey-第三方Reddit](http://a.ruansky.com/up/354247)
 
 [Now for Reddit-Reddit第三方客户端](http://a.ruansky.com/up/493119)
+
+[Sync Pro-Reddit第三方客户端](http://a.ruansky.com/up/707742)
 
 <span id="Instagram">![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)</span>
 
@@ -1198,11 +1209,13 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 <span id="multifunction"></span>
 - <font size="5">多功能</font>
 
-[Friendly IQ-多功能社交媒体工具箱](http://a.ruansky.com/up/243937)
-
 [Feedster-国外社交媒体6合1](http://a.ruansky.com/up/305541)
 
 [TeeHub-Twitter & Tumblr 二合一](http://a.ruansky.com/up/310301)
+
+[Friendly-国外社交媒体多合一](http://a.ruansky.com/up/703021)
+
+[Friendly IQ-国外社交媒体账号管理器](http://a.ruansky.com/up/703025)
 
 <span id="upload"></span>
 - <font size="5">我的上传</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
