@@ -519,6 +519,8 @@ www.spcloud.us
 
 ## vpnify ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
+[vpnify_v.2.0.0_Active_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i4hJA073oqof)
+
 [vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/irJr7002raqb)
 
 > **最新测速结果**
