@@ -493,7 +493,7 @@ www.spcloud.us
 
 [全球知名测速平台Speedtest](https://www.speedtest.net/zh-Hans)
 
-[Speedtest-知名网速测试工具](http://a.ruansky.com/up/510488)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Speedtest-知名网速测试工具](http://a.ruansky.com/up/722577)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Netflix旗下Fast.com](https://fast.com/)
 
@@ -1190,15 +1190,15 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 <span id="TikTok">![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)</span>
 
-[TikTok-国际版（修改版 配合插件使用）](http://a.ruansky.com/up/524502) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok（修改版 配合插件使用）](http://a.ruansky.com/up/722326) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[TikTok Plugin-国际版插件（需配合修改版使用）](http://a.ruansky.com/up/524484) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok 插件（需配合修改版使用）](http://a.ruansky.com/up/722316) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
 <span id="Twitch">![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)</span>
 
-[TwitchMod-Twitch修改版](http://a.ruansky.com/up/429088) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg) `已停更`
+[TwitchMod-Twitch修改版](http://a.ruansky.com/up/722613) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Impulse-第三方Twitch](http://a.ruansky.com/up/292424)
 
