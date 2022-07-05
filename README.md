@@ -4,6 +4,8 @@
 
 别忘了点个![star](https://zgq-inc.github.io/badge/github/black-star.svg)
 
+![Stargazers over time](https://starchart.cc/ZGQ-inc/overthefirewall.svg)
+
 ***
 
 项目作者の[**个人主页**](https://zgq-inc.github.io/homepage/)
