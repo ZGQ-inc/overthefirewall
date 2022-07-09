@@ -73,7 +73,8 @@
 [路由规则](#rule)
 
 [订阅平台](#sub)
-+ [BuLink 永久免费网络加速](#BuLink) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ [Openit](#Openit) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ [BuLink](#BuLink) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 + [Fly](#Fly) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 + [V2云](#cwv587)
 + [五五开咖啡厅](#55kai)
@@ -111,9 +112,11 @@
 
 [外网&Github文件下载加速](#speedup_download)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-[Oracleusa.ml利用甲骨文搭建的反向直连项目（免梯子实现直连）](#Oracleusa_ml)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
+[Oracleusa.ml利用甲骨文搭建的反向直连项目](#Oracleusa_ml)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-[Hyperbeam屏幕共享聊天室（远程浏览器投屏）](#Hyperbeam)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
+[Hyperbeam屏幕共享聊天室](#Hyperbeam)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
+
+[Neverinstall在线运行应用程序](#Neverinstall)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [<font color="#FF0000">翻墙软件&机场黑名单</font>](#blacklist)
 
@@ -377,6 +380,17 @@ Unrestricted access to the Internet
 
 [<font size="5">返回目录</font>](#contents)
 
+<span id="Openit"></span>
+- <font size="5">Openit致力于打造免费无感的翻墙环境</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+`不限流量`
+
+`速率玄学`
+
+[网址](http://openit.ml/)
+
+[项目地址](https://github.com/yu-steven/openit)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
 <span id="BuLink"></span>
 - <font size="5">BuLink永久免费网络加速</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
@@ -404,27 +418,6 @@ Unrestricted access to the Internet
 [网址](https://fly.nullmouse.xyz/)
 
 注册成功后，点击`侧边栏`，进入`套餐购买`，最下面有`白嫖套餐`，**可延长免费账号有效期**。
-
-<!--
-Pikap Free airport
-https://pikap.me/#/login
-
-https://www.startrip.top/ 
-
-Free 公益订阅链接(配合Clash V2ray等客户端使用)
-
-https://www.spcloud.us/api/v1/client/subscribe?token=d7ba10b39538d2c33b226c6092414072
-
-TG代理
-
-https://t.me/socks?server=mtp.spcloud.us&port=48387&user=spcloud.us&pass=spcloud.us
-
-Free 订阅 + SPCloud 按量订阅 = yyds ~
-
-1元/15G不限时按量套餐，注册可试用
-www.spcloud.us
-(所有订阅节点均一致，仅流量和时间差异)
--->
 
 <span id="cwv587"></span>
 - <font size="5">V2云</font>
@@ -519,6 +512,8 @@ www.spcloud.us
 
 ## vpnify ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
+[vpnify_Premium_v2.0.0_FIX_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGq9Z07lu0uj) `修复版`
+
 [vpnify_v.2.0.0_Active_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i4hJA073oqof)
 
 [vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/irJr7002raqb)
@@ -572,6 +567,8 @@ www.spcloud.us
 [2021-12-31PsiphonPro_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iG6Mcya8b4h)
 
 [2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i0xp8ya8ckj)
+
+[iTop_VPN_v3.0.0_30000_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ibxko07lu1gb)
 
 [VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/irrPj00klelc)
 
@@ -969,11 +966,26 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
 
-一个支持在线浏览器屏幕共享的聊天室平台，后台基于Linux系统，浏览器画面通过P2P远程传输，服务器在欧洲，可以实现免梯子访问外网。
+A Better Way to Watch Together Online
 
 [官网](https://hyperbeam.com/)
 
+一个支持在线浏览器屏幕共享的聊天室平台，后台基于Linux系统，浏览器画面通过P2P远程传输，服务器在欧洲，可以实现免梯子访问外网。
+
 注册账号，创建自己的房间即可，可以私用，也可以发送邀请链接，与他人共享画面。
+
+***
+
+<span id="Neverinstall"></span>
+# Neverinstall
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
+
+Your browser is the new operating system
+
+[官网](https://neverinstall.com/)
+
+在线运行应用程序，应用程序可以在多个地区建立，支持的应用程序很多，画面远程传输，无需连接代理，免费套餐只支持一次运行一个应用程序。
 
 ***
 
