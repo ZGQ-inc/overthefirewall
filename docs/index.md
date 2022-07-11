@@ -102,7 +102,11 @@
 
 [注册外区 Apple ID 帐号教程](#Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
-[EveryProxy 共享手机VPN给其它设备](#EveryProxy)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+[热点共享手机VPN给其它设备](#hotspot)
+
++ [EveryProxy](#EveryProxy)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
+
++ [VPN 热点](#VPNhotspot)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [SteamTools 加速Steam社区访问](#SteamTools)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
 
@@ -387,7 +391,7 @@ Unrestricted access to the Internet
 
 `速率玄学`
 
-[网址](http://openit.ml/)
+[网址](https://doc.opit.top/)
 
 [项目地址](https://github.com/yu-steven/openit)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -787,8 +791,11 @@ Unrestricted access to the Internet
 
 ***
 
+<span id="hotspot"></span>
+# 热点共享手机VPN给其它设备
+
 <span id="EveryProxy"></span>
-# EveryProxy
++ <font size="5">EveryProxy</font>
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
 
@@ -807,6 +814,17 @@ Unrestricted access to the Internet
 [使用教程](https://zgq-inc.gitbook.io/overthefirewall/every-proxy/every-proxy)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 [官方论坛](https://groups.google.com/forum/#!forum/every-proxy)![Google](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Google&logoColor=000000)
+
+<span id="VPNhotspot"></span>
++ <font size="5">VPN 热点</font>
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
+
+连接 VPN 从此更简单。通过无线中继或系统共享共享你的 VPN。（需要 root）
+
+[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=be.mygod.vpnhotspot)
+
+[项目地址](https://github.com/Mygod/VPNHotspot)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 ***
 
