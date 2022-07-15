@@ -393,7 +393,7 @@ Unrestricted access to the Internet
 
 `速率玄学`
 
-[网址](https://doc.opit.top/)
+[网址](https://openit.link/)
 
 [项目地址](https://github.com/yu-steven/openit)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -873,7 +873,7 @@ Unrestricted access to the Internet
 
 3. **DNS污染**
 
-一部分情况属于第 3 种，通过修改电脑和手机hosts文件多数可以解决这个问题。但是像Google等网站和手机上的一些APP是直接IP都被墙了，这种办法就行不通了，只能翻墙访问。
+一部分情况属于第 3 种，只是域名被SNI阻断，通过修改电脑和手机hosts文件或更改DNS服务器多数可以解决这个问题。但是像Google等网站和手机上的一些APP是直接IP都被墙了，这种办法就行不通了，只能翻墙访问。
 
 **<font size="5">什么是hosts文件？</font>**
 
@@ -938,6 +938,14 @@ hosts是一个系统文件，在各个系统的位置如下
 [DNS Test-发现优质DNS服务器](http://a.ruansky.com/up/191985)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)同理
+
+同样的
+
+[SteamTools 加速Steam社区访问](#SteamTools)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
+
+[Accesser 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST](https://urenko.github.io/Accesser/)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
+
+也是通过更改DNS解决SNI阻断问题。
 
 ***
 
