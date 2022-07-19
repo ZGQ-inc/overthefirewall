@@ -1093,7 +1093,7 @@ Your browser is the new operating system
 
 [Telegram-本地高级订阅解锁](http://a.ruansky.com/up/702835) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[Telegram魔法版](http://a.ruansky.com/up/702881) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Telegram魔法版](http://a.ruansky.com/up/762900) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Telegraher-Telegram第三方客户端（破解官方限制）](http://a.ruansky.com/up/524938) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
@@ -1145,6 +1145,8 @@ Your browser is the new operating system
 密码：`vanced`
 
 [LibreTube-可观看YouTube付费视频](http://a.ruansky.com/up/704001) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[Vanced Manager v2-Vanced第三方维护版本](http://a.ruansky.com/up/763087)
 
 [NewPipe-YouTube第三方客户端](http://a.ruansky.com/up/707627)
 
