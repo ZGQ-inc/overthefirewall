@@ -4,7 +4,7 @@
 
 别忘了点个![star](https://zgq-inc.github.io/badge/github/black-star.svg)
 
-![Stargazers over time](https://starchart.cc/ZGQ-inc/overthefirewall.svg)
+![Star History Chart](https://api.star-history.com/svg?repos=ZGQ-inc/overthefirewall&type=Date)
 
 ***
 
