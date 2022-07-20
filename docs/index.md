@@ -465,9 +465,7 @@ Unrestricted access to the Internet
 <span id="subconvert"></span>
 # 订阅转换
 
-[つつの订阅转换 · 鲸歌](https://m.sub.tsutsu.cc/)
-
-[Subscription Converter](https://subcon.dlj.tf/)
+[つつの订阅转换 · 鲸歌](https://sub.tsutsu.one/)
 
 [ACL4SSR 在线订阅转换](https://acl4ssr-sub.github.io/)
 
@@ -477,6 +475,8 @@ Unrestricted access to the Internet
 
 [边缘@订阅转换API](https://bianyuan.xyz/)
 
+[Subscription Converter](https://subcon.dlj.tf/)
+
 [Subscription Converter](https://sub-web.netlify.app/)
 
 [Subscription Converter](https://sublink.dev/)
@@ -484,6 +484,12 @@ Unrestricted access to the Internet
 [在线订阅转换](https://sub.789.st/)
 
 [在线订阅转换](https://www.con8.tk/)
+
+[在线订阅转换工具](https://sub.v1.mk/)
+
+[在线订阅转换工具](https://sub.ffq.la/)
+
+[在线订阅转换工具](https://sub.feng666.tk/)
 
 ***
 
