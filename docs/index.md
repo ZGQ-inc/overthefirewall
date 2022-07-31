@@ -1160,7 +1160,7 @@ Your browser is the new operating system
 
 [GoTube-无广告YouTube客户端](http://a.ruansky.com/up/507181)
 
-[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/708196) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/808535) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TubeMate（版本更新）-YouTube视频下载器](http://a.ruansky.com/up/179362)
 
@@ -1291,7 +1291,7 @@ Your browser is the new operating system
 ***
 
 <span id="sponsor"></span>
-# *赞助内容*
+# 赞助内容
 
 <font size="6">起飞VPN</font>
 
