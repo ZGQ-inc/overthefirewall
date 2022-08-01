@@ -492,7 +492,7 @@ Unrestricted access to the Internet
 <span id="speedtest"></span>
 # 网速测试
 
-[全球知名测速平台Speedtest](https://www.speedtest.net/zh-Hans)
+[全球知名测速平台Speedtest](https://www.speedtest.net/zh-Hans) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Speedtest-知名网速测试工具](http://a.ruansky.com/up/722577)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
