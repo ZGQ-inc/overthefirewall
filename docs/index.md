@@ -78,13 +78,10 @@
 + [Openit](#Openit) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 + [BuLink](#BuLink) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 + [Fly](#Fly) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
-+ [V2云](#cwv587)
-+ [五五开咖啡厅](#55kai)
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks 免费上网账号](#freess)
 + [上百个节点池合集](#ProxypoolCollection)
 + [上百个免费机场合集](#AirfieldCollection)
-+ [订阅链接分享](#subshare)
 
 [订阅转换](#subconvert)
 
@@ -207,7 +204,7 @@
 
 **如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-[项目地址 2dust / v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 2dust/v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
@@ -222,14 +219,14 @@
 
 **如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-[项目地址 Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="SagerNet"></span>
 + <font size="5">SagerNet</font> ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
 
-[官网](https://sagernet.org/)
+[官网 sagernet.org](https://sagernet.org/)
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet)
 
@@ -244,7 +241,7 @@
 <span id="Surfboard"></span>
 + <font size="5">Surfboard</font>
 
-[官网](https://getsurfboard.com/)
+[官网 getsurfboard.com](https://getsurfboard.com/)
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.getsurfboard)
 
@@ -262,7 +259,7 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 **如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-[项目地址 2dust / v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 2dust/v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
@@ -298,7 +295,7 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 Unrestricted access to the Internet
 
-[官网](https://oneclick.earth/#/)
+[官网 oneclick.earth](https://oneclick.earth/#/)
 
 [![AppStore](https://zgq-inc.github.io/badge/download/appstore.svg)](https://apps.apple.com/us/app/id1545555197)
 
@@ -362,9 +359,9 @@ Unrestricted access to the Internet
 
 密码:VPN
 
-[shadowsocks / shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
+[shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 
-[shadowsocksr-backup / shadowsocksr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android)
+[shadowsocksr-backup/shadowsocksr-android](https://github.com/shadowsocksr-backup/shadowsocksr-android)
 
 ***
 
@@ -393,9 +390,21 @@ Unrestricted access to the Internet
 
 `速率玄学`
 
-[网址](https://openit.link/)
+[网址 openit.daycat.space](http://openit.daycat.space/)
 
-[项目地址](https://github.com/yu-steven/openit)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[备用域名 openit.pw](https://openit.pw)
+
+[备用域名 openitsub.net](https://openitsub.net)
+
+[备用域名 openitsub.com](https://openitsub.com)
+
+[备用域名 ShareCentre.xyz](https://ShareCentre.xyz)
+
+[备用域名 ShareCentre.Pro](https://ShareCentre.Pro)
+
+[备用域名 openit.992266.xyz](https://openit.992266.xyz)
+
+[项目地址 yu-steven/openit](https://github.com/yu-steven/openit)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="BuLink"></span>
 - <font size="5">BuLink永久免费网络加速</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
@@ -406,9 +415,9 @@ Unrestricted access to the Internet
 
 `速率最高可到5MB/s`
 
-[网址](https://bulink.xyz/)
+[网址 bulink.xyz](https://bulink.xyz/)
 
-[项目地址](https://github.com/freefq/free)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 freefq/free](https://github.com/freefq/free)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Fly"></span>
 - <font size="5">Fly</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
@@ -421,29 +430,21 @@ Unrestricted access to the Internet
 
 `速率最高30Mbps`
 
-[网址](https://fly.nullmouse.xyz/)
+[网址 flyairport.top](https://flyairport.top/)
+
+[备用域名 12315.cn.com](https://12315.cn.com/)
 
 注册成功后，点击`侧边栏`，进入`套餐购买`，最下面有`白嫖套餐`，**可延长免费账号有效期**。
-
-<span id="cwv587"></span>
-- <font size="5">V2云</font>
-
-[注册地址](https://cwv587.com/auth/register)
-
-<span id="55kai"></span>
-- <font size="5">五五开咖啡厅</font>
-
-[注册地址](https://55kai.xyz/#/register)
 
 <span id="proxypool"></span>
 - <font size="5">节点池-所有国家 代理服务器 - SOCKS5</font>
 
-[网址](http://free-proxy.cz/zh/proxylist/country/all/socks5/ping/all)
+[网址 free-proxy.cz](http://free-proxy.cz/zh/proxylist/country/all/socks5/ping/all)
 
 <span id="freess"></span>
 - <font size="5">Shadowsocks免费上网账号</font>
 
-[网址](https://free-ss.site/)
+[网址 free-ss.site](https://free-ss.site/)
 
 <span id="ProxypoolCollection"></span>
 - <font size="5">上百个节点池合集</font>
@@ -455,11 +456,6 @@ Unrestricted access to the Internet
 
 [点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/68e38ba4a460fc1990ee5190dcdeae419ead0e9a/docs/airfield.md)
 
-<span id="subshare"></span>
-- <font size="5">订阅链接分享</font> `已失效`
-
-[点击打开](https://github.com/ZGQ-inc/overthefirewall/blob/696c0152d0ac6f740f9b4d3ff59ef6b8f4b182e8/docs/nodesub.md)
-
 ***
 
 <span id="subconvert"></span>
@@ -469,7 +465,7 @@ Unrestricted access to the Internet
 
 [ACL4SSR 在线订阅转换](https://acl4ssr-sub.github.io/)
 
-[项目地址leosam2048/sub-web](https://github.com/leosam2048/sub-web)
+[项目地址leosam2048/sub-web](https://github.com/leosam2048/sub-web)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [品云订阅转换](https://id9.cc/)
 
@@ -815,7 +811,7 @@ Unrestricted access to the Internet
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)
 
-[官网](http://www.everyproxy.co.uk)
+[官网 everyproxy.co.uk](http://www.everyproxy.co.uk)
 
 [下载地址（Apkpure）](https://m.apkpure.com/cn/every-proxy/com.gorillasoftware.everyproxy/download)
 
@@ -832,7 +828,7 @@ Unrestricted access to the Internet
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=be.mygod.vpnhotspot)
 
-[项目地址](https://github.com/Mygod/VPNHotspot)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 ***
 
@@ -843,9 +839,9 @@ Unrestricted access to the Internet
 
 解决Steam/Epic/Origin等平台网络错误问题，另外支持Pixiv、Google等平台的加速服务
 
-[官网&下载地址](https://www.steampp.net/)
+[官网 www.steampp.net](https://www.steampp.net/)
 
-[项目地址](https://github.com/SteamTools-Team/SteamTools)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 SteamTools-Team/SteamTools](https://github.com/SteamTools-Team/SteamTools)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 ***
 
@@ -980,7 +976,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 ## Github镜像站
 
-[网址](https://github.qqcn.xyz/)
+[网址 github.qqcn.xyz](https://github.qqcn.xyz/)
 
 ## 外网资源下载加速
 
@@ -988,7 +984,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 并不是先将文件下载到服务器，而是直接转发下载请求。
 
-[网址](https://sudl.moeweb.site/)
+[网址 sudl.moeweb.site](https://sudl.moeweb.site/)
 
 可加速Github下载
 
@@ -1014,7 +1010,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 A Better Way to Watch Together Online
 
-[官网](https://hyperbeam.com/)
+[官网 hyperbeam.com](https://hyperbeam.com/)
 
 一个支持在线浏览器屏幕共享的聊天室平台，后台基于Linux系统，浏览器画面通过P2P远程传输，服务器在欧洲，可以实现免梯子访问外网。
 
@@ -1029,7 +1025,7 @@ A Better Way to Watch Together Online
 
 Your browser is the new operating system
 
-[官网](https://neverinstall.com/)
+[官网 neverinstall.com](https://neverinstall.com/)
 
 在线运行应用程序，应用程序可以在多个地区建立，支持的应用程序很多，画面远程传输，无需连接代理，免费套餐只支持一次运行一个应用程序。
 
