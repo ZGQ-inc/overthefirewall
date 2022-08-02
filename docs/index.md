@@ -997,7 +997,7 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 用全球顶级VPS提供商之一的甲骨文做的反向直连项目，开发者未知，简单来说就是免梯子访问外网。
 
-[点击打开](https://oracleusa.ml/)
+[网址 oracleusa.ml](https://oracleusa.ml/)
 
 [测试直连](https://oracleusa.ml/-----https://zh.m.wikipedia.org/wiki/%E7%94%B2%E9%AA%A8%E6%96%87%E5%85%AC%E5%8F%B8)
 
