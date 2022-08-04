@@ -155,6 +155,8 @@
 
 [![LINE](https://img.shields.io/badge/-LINE-21BA52?style=for-the-badge&logo=LINE&logoColor=FFFFFF)](#LINE) `LINE相机`
 
+[![Discord](https://img.shields.io/badge/-Discord-4F5BDA?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](#Discord) `修改版`
+
 [多功能](#multifunction) `社交媒体多合一`
 
 [我的上传](#upload) `上千破解软件`
@@ -1238,7 +1240,7 @@ Your browser is the new operating system
 
 [VK Minus-VKontakte精简版](http://a.ruansky.com/up/337749) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[Kate Mobile-第三方VKontakte](http://a.ruansky.com/up/232252)
+[KatePlus-VKontakte第三方客户端](http://a.ruansky.com/up/822107)
 
 [VK mp3 mod-第三方VKontakte](http://a.ruansky.com/up/232247)
 
@@ -1246,9 +1248,9 @@ Your browser is the new operating system
 
 <span id="TikTok">![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)</span>
 
-[TikTok（修改版 配合插件使用）](http://a.ruansky.com/up/722326) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok（修改版 配合插件使用）](http://a.ruansky.com/up/822144) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[TikTok 插件（需配合修改版使用）](http://a.ruansky.com/up/722316) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok 插件（需配合修改版使用）](http://a.ruansky.com/up/822139) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
@@ -1263,6 +1265,10 @@ Your browser is the new operating system
 <span id="LINE">![LINE](https://img.shields.io/badge/-LINE-21BA52?style=for-the-badge&logo=LINE&logoColor=FFFFFF)</span>
 
 [LINE Camera-日本知名社交平台LINE旗下照片美化](http://a.ruansky.com/up/326559)
+
+<span id="Discord">![Discord](https://img.shields.io/badge/-Discord-4F5BDA?style=for-the-badge&logo=Discord&logoColor=FFFFFF)</span>
+
+[Discord-修改版](http://a.ruansky.com/up/822164)
 
 <span id="multifunction"></span>
 - <font size="5">多功能</font>
