@@ -586,9 +586,7 @@ Unrestricted access to the Internet
 
 [KeepSolid_VPN_Unlimited__Free_VPN_for_Android_v8.7.0_Premium__A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iZnLi00kla8f)
 
-[VyprVPN MOD_4.5.1.apk](https://zgq-inc.lanzouh.com/izsYXz598wj)
-
-[VyprVPN-4.5.1_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/ilVzizps1kj)
+[VyprVpnMod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ie5z708xufbi)
 
 [VPN_PE_PRO_v7.0_b7_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iVMpXz728wj)
 
@@ -712,13 +710,11 @@ Unrestricted access to the Internet
 
 ### 1.1.1.1 `Cloudflare旗下`
 
-[1.1.1.1v6.102158_modded_by_Arsc_editor_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iS8mqxpom1a)
+[1.1.1.1_Faster_and_Safer_Internet_Unlimited_v6.16_build_2483_Mod_AOSP_No_Google_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i6H8U092g67g)
 
-[1.1.1.1_6.11_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iLE5nzecvbi)
+### AdGuard VPN
 
-[1.1.1.1_6.13_beta_Mod_Apk_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ix6CE009zcli)
-
-[1.1.1.1_6.13_2303_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/idPVD01qlvid)
+[AdGuard_VPN_Premium_v2.1.51_build_131812_Mod_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iIZVX092eleb)
 
 ***
 
@@ -733,7 +729,7 @@ Unrestricted access to the Internet
 
 - **<font size="4">下载地址</font>**
 
-[SamsungMax_4.4.18_A2ZAPK.COM.apk](https://zgq-inc.lanzoui.com/iulIxwzqs9a)
+[SamsungMax_4.4.18_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i07Pr092eltg)
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
@@ -860,7 +856,7 @@ Unrestricted access to the Internet
 
 - **<font size="4">下载地址</font>**
 
-[BlockaNet-Pro-v1.53_build_78-Mod-arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iWdypzcwcri)
+[BlockaNet-Premium-v1.71_build_86-Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iWKnf082tpte)
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
