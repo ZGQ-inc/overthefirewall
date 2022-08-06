@@ -546,6 +546,16 @@ Unrestricted access to the Internet
 > 
 > © 2006-2022  Ookla , LLC.All Rights Reserved
 
+## 1.1.1.1 `Cloudflare旗下`
+
+第一次进入可能需要连接代理进行初始化。
+
+[1.1.1.1_Faster_and_Safer_Internet_Unlimited_v6.16_build_2483_Mod_AOSP_No_Google_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i6H8U092g67g)
+
+## AdGuard VPN
+
+[AdGuard_VPN_Premium_v2.1.51_build_131812_Mod_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iIZVX092eleb)
+
 ## 可用且速度快
 
 [GOVPN_PRO_v1.9.4_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iKPV900kkz8j)
@@ -707,14 +717,6 @@ Unrestricted access to the Internet
 [Vpn_Pro_v1.4_13_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iS3br01j0g9g)
 
 [3XVPN_v.2.7.114_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i9j6001numjg)
-
-### 1.1.1.1 `Cloudflare旗下`
-
-[1.1.1.1_Faster_and_Safer_Internet_Unlimited_v6.16_build_2483_Mod_AOSP_No_Google_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i6H8U092g67g)
-
-### AdGuard VPN
-
-[AdGuard_VPN_Premium_v2.1.51_build_131812_Mod_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iIZVX092eleb)
 
 ***
 
