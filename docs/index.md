@@ -90,21 +90,20 @@
 [IP查询](#IP)
 
 [安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ [vpnify](#vpnify)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ [1.1.1.1](#1.1.1.1)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ [AdGuard VPN](#AdGuard_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg) `破解版`
 
 [Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
-
 + [Get Shadowrocket](#GetShadowrocket)
-
 + [苹果帝-Appledi.com](#Appledi)
 
 [注册外区 Apple ID 帐号教程](#Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
 [热点共享手机VPN给其它设备](#hotspot)
-
 + [EveryProxy](#EveryProxy)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
-
 + [VPN 热点](#VPNhotspot)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
 [SteamTools 加速Steam社区访问](#SteamTools)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
@@ -520,6 +519,7 @@ Unrestricted access to the Internet
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
+<span id="vpnify"></span>
 ## vpnify ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [vpnify_Premium_v2.0.0_FIX_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGq9Z07lu0uj) `修复版`
@@ -546,12 +546,26 @@ Unrestricted access to the Internet
 > 
 > © 2006-2022  Ookla , LLC.All Rights Reserved
 
-## 1.1.1.1 `Cloudflare旗下`
+<span id="1.1.1.1"></span>
+## 1.1.1.1 `Cloudflare旗下` ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 第一次进入可能需要连接代理进行初始化。
 
 [1.1.1.1_Faster_and_Safer_Internet_Unlimited_v6.16_build_2483_Mod_AOSP_No_Google_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i6H8U092g67g)
 
+> **最新测速结果**
+
+22/08/07 下午5:10
+
+下载↓ `5.84 MB/s`
+
+上传↑ `2.47 MB/s`
+
+> Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
+> 
+> © 2006-2022  Ookla , LLC.All Rights Reserved
+
+<span id="AdGuard_"></span>
 ## AdGuard VPN
 
 [AdGuard_VPN_Premium_v2.1.51_build_131812_Mod_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iIZVX092eleb)
