@@ -555,6 +555,12 @@ Unrestricted access to the Internet
 
 > **最新测速结果**
 
+22/08/09 下午1:10
+
+下载↓ `14.1 MB/s`
+
+上传↑ `2.79 MB/s`
+
 22/08/07 下午5:10
 
 下载↓ `5.84 MB/s`
