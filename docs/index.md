@@ -897,17 +897,15 @@ Unrestricted access to the Internet
 
 一部分情况属于第 3 种，只是域名被SNI阻断，通过修改电脑和手机hosts文件或更改DNS服务器多数可以解决这个问题。但是像Google等网站和手机上的一些APP是直接IP都被墙了，这种办法就行不通了，只能翻墙访问。
 
-**<font size="5">什么是hosts文件？</font>**
+## 什么是hosts文件？
 
 hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过编辑它能把域名定向到正确的ip，可以解锁在国内受到DNS污染的网站服务。
 
 修改电脑和手机Hosts文件，可以绕过网络运营商的DNS，为域名指定正确的 IP 地址，达到访问被屏蔽网站的目的。
 
-**<font size="5">解决方法：</font>**
+## 解决方法
 
-<ol type="1" start="1">
-
-**<li>修改hosts文件</li>**
+### 修改hosts文件
 
 首先通过网站IP查询工具或网站查询某一网站的所有域名的真实IP
 
@@ -931,7 +929,7 @@ hosts是一个系统文件，在各个系统的位置如下
 
 然后保存，注意Windows不能直接保存，因为记事本没有写入system32文件夹的权限，点击另存为，然后把另存为的文件去除后缀.txt，然后替换原有的hosts文件。
 
-**<li>更改系统DNS</li>**
+### 更改系统DNS
 
 - Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
@@ -970,8 +968,6 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 [Accesser 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具](https://urenko.github.io/Accesser/)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6) ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg)
 
 也是通过更改DNS解决SNI阻断问题。
-
-</ol>
 
 ***
 
@@ -1334,9 +1330,7 @@ Your browser is the new operating system
 <span id="Q&A"></span>
 # 常见问题
 
-<ol type="1" start="1">
-
-**<li>MIUI系统VPN授权弹窗点击`确认`为什么没反应？</li>**
++ **MIUI系统VPN授权弹窗点击`确认`为什么没反应？**
 
 > **网络连接请求**
 > 
@@ -1344,35 +1338,35 @@ Your browser is the new operating system
 
 **`答`**：MIUI重启解决99%的问题。
 
-**<li>安卓破解版VPN栏目的[vpnify](#vpnify)为什么无法连接？</li>**
++ **安卓破解版VPN栏目的[vpnify](#vpnify)为什么无法连接？**
 
 **`答`**：首先可能是因为地区无法连通VPN服务，也有可能是因为国产魔改系统对国外软件兼容性较差，建议使用原生或是类原生系统。
 
-**<li>为什么[iOS客户端](#iOS/iPadOS)的在线安装安装完成后无法打开？</li>**
++ **为什么[iOS客户端](#iOS/iPadOS)的在线安装安装完成后无法打开？**
 
 **`答`**：在线安装内为旧版本安装包，是由于iOS版本太高导致的兼容性闪退，如果可以的话建议降级。
 
-**<li>为什么连不上？</li>**
++ **为什么连不上？**
 
 **`答`**：免费资源不能保证可用性，有可能已失效，如果需要长期稳定快速的服务，建议使用付费机场，<font color="#FF0000">推荐</font>[此项目赞助商](#ads)。
 
-**<li>速度太慢怎么办？</li>**
++ **速度太慢怎么办？**
 
 **`答`**：免费资源无法保证速度，同上。
 
-**<li>不会用怎么办？</li>**
++ **不会用怎么办？**
 
 **`答`**：别人都会，就你不会。
 
-**<li>看不懂怎么办？</li>**
++ **看不懂怎么办？**
 
 **`答`**：那就别看。
 
-**<li>找不到怎么办？</li>**
++ **找不到怎么办？**
 
 **`答`**：去看一下眼科。
 
-**<li>太麻烦了吧。</li>**
++ **太麻烦了吧。**
 
 **`答`**：那就别搞。
 
