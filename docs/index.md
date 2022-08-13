@@ -937,7 +937,7 @@ hosts是一个系统文件，在各个系统的位置如下
 
 - Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-[DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/370662)
+[DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/848110)
 
 [DNS Test-发现优质DNS服务器](http://a.ruansky.com/up/191985)
 
@@ -1058,7 +1058,7 @@ Your browser is the new operating system
 <span id="blacklist"></span>
 # 翻墙软件&机场黑名单
 
-翻墙这种事，国家睁一只眼闭一只眼，就大陆来看，就有几百万“违法人员”，可是网警没这么多功夫陪这么多人喝茶，但是时不时抓几个杀鸡儆猴还是可以做到的，轻一点2000～50000，重一点派出所免费住宿，所以小心为妙，梯子安全一般不会有事。
+翻墙这种事，国家睁一只眼闭一只眼，就大陆来看，就有几百万“违法人员”，可是网警没这么多功夫陪这么多人喝茶，但是时不时抓几个杀鸡儆猴还是可以做到的，轻一点2000～50000，重一点派出所免费住宿，排除言论不当的，一年几十个案例，所以小心为妙，梯子安全一般不会有事。
 
 [中国翻墙软件黑名单-持续更新](https://www.google.com/amp/s/10beasts.net/china-fanqiang-tools-blacklist/amp/)
 
@@ -1068,7 +1068,7 @@ Your browser is the new operating system
 
 [<font color="#FF0000">国家反诈中心是后门软件，请勿安装！（点击查看详情）</font>](https://zgq-inc.github.io/overthefirewall/image/20220410_121354.jpg)
 
-[<font size="4" color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://zgq-inc.github.io/overthefirewall/image/Screenshot_20220406-225445.jpg)
+[<font color="#FF0000">MIUI13疑似翻墙自动报警！已证实内置国家反诈中心！（点击查看详情）</font>](https://zgq-inc.github.io/overthefirewall/image/Screenshot_20220406-225445.jpg)
 
 **后来听说有人是OPPO，vivo，魅族没安装国家反诈中心被打电话，有人鸿蒙也收到了国家反诈中心的短信，建议是能不用国产手机翻墙就不用。**
 
@@ -1080,11 +1080,11 @@ Your browser is the new operating system
 
 <details><summary><span style="color: #ff0000">老王VPN</span></summary>
 
-有读者和我说对这款老王VPN的安全性有疑虑，据我的了解和调查，老王VPN可能存在钓鱼风险，网上查得到有人因为在手机上使用老王VPN被请喝茶的消息。我自己在手机上测试了一下，下载的最新版，连接方式选择快速连接，显示连上了，已经翻墙状态了哇，结果一查IP笑死我，原本的IP纹丝不动，依然和本地IP一样，这就存在安全隐患了。
+有读者和我说对这款老王VPN的安全性有疑虑，据我的了解和调查，老王VPN可能存在钓鱼风险，网上查得到有人因为在手机上使用老王VPN被请喝茶的消息。我自己在手机上测试了一下，下载的最新版，连接方式选择快速连接，显示连上了，已经翻墙状态了哇，结果一查IP笑死我，原本的IP纹丝不动，依然和本地IP一样，这就存在安全隐患了。而老王也是案例最多的一个，最近一个已知案例为2022年4月份。
 
 </details>
 
-<details><summary><span style="color: #ff0000">佛跳墙VPN</span></summary>
+<details><summary><span style="color: #ff0000">极光VPN（原佛跳墙VPN）</span></summary>
 
 稳定性和安全性都不太好，不建议使用。这款虽然名字叫VPN，但我觉得底层还是基于SS的，而且DNS会有泄漏，对隐私数据的保护不好。不推荐佛跳墙VPN，看到的避免入坑。
 
@@ -1092,7 +1092,7 @@ Your browser is the new operating system
 
 <details><summary><span style="color: #ff0000">蓝灯VPN</span></summary>
 
-目前网上流传的蓝灯VPN安全性有漏洞，虽然名字叫蓝灯VPN，但它是基于socks5代理，并不具备传统OpenVPN、L2TP/IPSec、IKEV2等VPN协议的安全性。另外有人使用蓝灯(Latern Pro)软件翻墙上P站，被行政处罚了。总之，能不用就尽量避免吧。
+目前网上流传的蓝灯VPN安全性有漏洞，虽然名字叫蓝灯VPN，但它是基于socks5代理，并不具备传统OpenVPN、L2TP/IPSec、IKEV2等VPN协议的安全性。另外有人使用蓝灯(Latern Pro)软件翻墙上Pornhub和维基百科，被行政处罚了。总之，能不用就尽量避免吧。
 
 </details>
 
@@ -1101,6 +1101,8 @@ Your browser is the new operating system
 小牛VPN被同行查过，有个专门窃取你个人隐私的后门，比老王VPN这种钓鱼的还要恶心。如果你不想被偷窥，那么最好不要入坑。
 
 </details>
+
+**黑洞加速器、旋风加速器、雷霆加速器、蜜蜂加速器**都是换皮VPN，由某个国内团队开发，而2021年八月份就有人因为使用旋风加速器被行政处罚。
 
 其他国产的私人或者小型VPN避免使用，这些大部分都是名字叫VPN，只有翻墙的功能，并无安全性可言。其中不少涉嫌钓鱼，用户使用的时候被ISP发现并上报的，已经有记录的就有**极光加速器、QuickQ、佛跳墙加速器、老王VPN、IP精灵、旋风加速器、坚果加速器、蚂蚁加速器、快连VPN、神风加速器**等。
 
