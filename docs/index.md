@@ -305,12 +305,16 @@ Unrestricted access to the Internet
 <span id="Potatso_Lite"></span>
 + <font size="5">Potatso Lite</font>
 
+如遇无法安装或闪退的问题，见[常见问题](#Q&A)。
+
 [Potatso Lite 代理工具 在线安装](https://shadowsockshelp.github.io/Potatso-Lite/)
 
 [![AppStore](https://zgq-inc.github.io/badge/download/appstore.svg)](https://apps.apple.com/us/app/potatso-lite/id1239860606)
 
 <span id="Shadowrocket"></span>
 + <font size="5">Shadowrocket</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+如遇无法安装或闪退的问题，见[常见问题](#Q&A)。
 
 [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)
 
@@ -827,7 +831,7 @@ Unrestricted access to the Internet
 
 `支持HTTP/HTTPS/SOCKS4/SOCKS5协议`
 
-在Android设备上运行代理服务器
+在Android设备上运行代理服务器。
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)
 
@@ -857,7 +861,7 @@ Unrestricted access to the Internet
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
 
-解决Steam/Epic/Origin等平台网络错误问题，另外支持Pixiv、Google等平台的加速服务
+解决Steam/Epic/Origin等平台网络错误问题，另外支持Pixiv、Google等平台的加速服务。
 
 [官网 www.steampp.net](https://www.steampp.net/)
 
@@ -874,7 +878,7 @@ Unrestricted access to the Internet
 
 **<font size="4">破解内容</font>**：高级功能已解锁。
 
-与[节点池](#proxypool)类似
+与[节点池](#proxypool)类似。
 
 - **<font size="4">下载地址</font>**
 
@@ -1342,9 +1346,9 @@ Your browser is the new operating system
 
 **`答`**：首先可能是因为地区无法连通VPN服务，也有可能是因为国产魔改系统对国外软件兼容性较差，建议使用原生或是类原生系统。
 
-+ **为什么[iOS客户端](#iOS/iPadOS)的在线安装安装完成后无法打开？**
++ **为什么[iOS客户端](#iOS/iPadOS)的在线安装无法安装或是安装完成后无法打开？**
 
-**`答`**：在线安装内为旧版本安装包，是由于iOS版本太高导致的兼容性闪退，如果可以的话建议降级。
+**`答`**：在线安装内为旧版本安装包，是由于iOS版本太高（iOS15或以上）导致的兼容性闪退，建议使用其它客户端比如[OneClick](#OneClick)，以及可以尝试降级。
 
 + **为什么连不上？**
 
