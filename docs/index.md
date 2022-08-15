@@ -553,7 +553,7 @@ Unrestricted access to the Internet
 <span id="1.1.1.1"></span>
 ## 1.1.1.1 `Cloudflare旗下` ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-**<span style="color: #ff0000">第一次进入可能需要连接代理进行初始化，否则提示“发生未知错误”。</span>**
+**<span style="color: #ff0000">第一次进入可能需要谷歌服务并且连接代理进行初始化，否则提示“发生未知错误”。</span>**
 
 [1.1.1.1_Faster_and_Safer_Internet_Unlimited_v6.16_build_2483_Mod_AOSP_No_Google_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i6H8U092g67g)
 
