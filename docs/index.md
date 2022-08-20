@@ -503,8 +503,6 @@ Unrestricted access to the Internet
 
 [Netflix旗下Fast.com](https://fast.com/)
 
-[CacheFly Speedtest](http://web1.cachefly.net/speedtest/index.html)
-
 ***
 
 <span id="IP"></span>
@@ -1121,7 +1119,7 @@ Your browser is the new operating system
 
 [Telegram-本地高级订阅解锁](http://a.ruansky.com/up/702835) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[Telegram魔法版](http://a.ruansky.com/up/762900) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Telegram魔法版](http://a.ruansky.com/up/872456) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Telegraher-Telegram第三方客户端（破解官方限制）](http://a.ruansky.com/up/524938) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
@@ -1182,7 +1180,7 @@ Your browser is the new operating system
 
 [GoTube-无广告YouTube客户端](http://a.ruansky.com/up/507181)
 
-[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/808535) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/872715) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TubeMate（版本更新）-YouTube视频下载器](http://a.ruansky.com/up/179362)
 
@@ -1191,6 +1189,10 @@ Your browser is the new operating system
 <span id="Twitter">![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)</span>
 
 [Twitter魔法版](http://a.ruansky.com/up/711615)  ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[harpy free-Twitter第三方客户端 极致体验](http://a.ruansky.com/up/872582) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[harpy Pro-Twitter第三方客户端 极致体验](http://a.ruansky.com/up/873850) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Talon-Twitter第三方客户端](http://a.ruansky.com/up/202613)
 
