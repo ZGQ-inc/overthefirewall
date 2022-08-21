@@ -557,17 +557,17 @@ Unrestricted access to the Internet
 
 > **最新测速结果**
 
+22/08/20 下午6:56
+
+下载↓ `14.2 MB/s`
+
+上传↑ `2.55 MB/s`
+
 22/08/13 下午5:29
 
 下载↓ `14.3 MB/s`
 
 上传↑ `2.57 MB/s`
-
-22/08/09 下午1:10
-
-下载↓ `14.1 MB/s`
-
-上传↑ `2.79 MB/s`
 
 > Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
 > 
@@ -1322,6 +1322,8 @@ Your browser is the new operating system
 # 赞助内容
 
 <font size="6">起飞VPN</font>
+
+[官网 www.departuresvpn.tk](https://www.departuresvpn.tk/)
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.ambrose.overwall)
 
