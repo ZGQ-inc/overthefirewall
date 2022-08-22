@@ -1072,6 +1072,8 @@ Your browser is the new operating system
 
 [翻墙被抓案例.jpg](https://zgq-inc.github.io/overthefirewall/image/RDT_20220410_1332237515022397726360175.jpg)
 
+[维基百科摘录](https://zgq-inc.github.io/overthefirewall/blacklist-Wiki.html)
+
 [案例集合（项目作者的频道）](https://t.me/ZGQincLiqun/1655)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 
  <font size="5" color="#FF0000">黑名单列表（点击查看详情）</font>
