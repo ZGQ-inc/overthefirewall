@@ -1150,6 +1150,8 @@ Your browser is the new operating system
 [AppSales-谷歌商店优惠&限免通知](http://a.ruansky.com/up/707608)
  ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
+[AppsFree-发现谷歌商店限免应用](http://a.ruansky.com/up/888376)
+
 [APKPure Store-知名第三方谷歌商店](http://a.ruansky.com/up/261281) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Appvn-第三方谷歌商店](http://a.ruansky.com/up/261239)
@@ -1172,7 +1174,7 @@ Your browser is the new operating system
 
 密码：`vanced`
 
-[LibreTube-可观看YouTube付费视频](http://a.ruansky.com/up/704001) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[LibreTube-可观看YouTube付费视频](http://a.ruansky.com/up/888321) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Vanced Manager v2-Vanced第三方维护版本](http://a.ruansky.com/up/763087)
 
@@ -1226,7 +1228,7 @@ Your browser is the new operating system
 
 <span id="Pixiv">![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)</span>
 
-[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/488147) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/888342) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Shaft-第三方直连版客户端](http://a.ruansky.com/up/417680) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
