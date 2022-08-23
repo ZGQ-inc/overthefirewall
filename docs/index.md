@@ -158,7 +158,7 @@
 
 [多功能](#multifunction) `社交媒体多合一`
 
-[我的上传](#upload) `上千破解软件`
+[2000个安卓破解软件](#upload) `项目作者的分享`
 
 [赞助内容](#sponsor)
 
@@ -1312,11 +1312,7 @@ Your browser is the new operating system
 [Friendly IQ-国外社交媒体账号管理器](http://a.ruansky.com/up/703025)
 
 <span id="upload"></span>
-- <font size="5">我的上传</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
-
-项目作者在`软天空`平台分享的软件资源
-
-~~这其实是在做宣传（打广告）~~
+- <font size="5">2000个安卓破解软件</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [点我查看](https://zgq-inc.github.io/homepage/rtk_up.html)
 
