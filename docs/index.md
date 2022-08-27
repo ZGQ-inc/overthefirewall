@@ -524,11 +524,13 @@ Unrestricted access to the Internet
 <span id="vpnify"></span>
 ## vpnify ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
+[vpnify_v2.0.0-rc17_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iR0Z10acyk5c) `最新版`
+
 [vpnify_Premium_v2.0.0_FIX_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGq9Z07lu0uj) `修复版`
 
-[vpnify_v.2.0.0_Active_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i4hJA073oqof)
+[vpnify_v.2.0.0_Active_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i4hJA073oqof) `全新版`
 
-[vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/irJr7002raqb)
+[vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/irJr7002raqb) `旧版本`
 
 > **最新测速结果**
 
