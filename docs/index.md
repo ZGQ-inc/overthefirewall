@@ -1280,9 +1280,9 @@ Your browser is the new operating system
 
 <span id="TikTok">![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)</span>
 
-[TikTok（修改版 配合插件使用）](http://a.ruansky.com/up/822144) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok（修改版 配合插件使用）](http://a.ruansky.com/up/919028) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[TikTok 插件（需配合修改版使用）](http://a.ruansky.com/up/822139) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok 插件（需配合修改版使用）](http://a.ruansky.com/up/919041) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
