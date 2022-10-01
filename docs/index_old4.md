@@ -524,7 +524,13 @@ Unrestricted access to the Internet
 <span id="vpnify"></span>
 ## vpnify ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[vpnify_v2.0.0-rc24_Premium_UserUpload.Net.apk](https://zgq-inc.lanzouv.com/iH9mM0cq6wcj)
+[vpnify_v2.0.0-rc17_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iR0Z10acyk5c) `最新版`
+
+[vpnify_Premium_v2.0.0_FIX_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGq9Z07lu0uj) `修复版`
+
+[vpnify_v.2.0.0_Active_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i4hJA073oqof) `全新版`
+
+[vpnify.v.1.9.7.12_Fixed_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/irJr7002raqb) `旧版本`
 
 > **最新测速结果**
 
@@ -549,21 +555,21 @@ Unrestricted access to the Internet
 
 **<span style="color: #ff0000">第一次进入可能需要谷歌服务并且连接代理进行初始化，否则提示“发生未知错误”。</span>**
 
-[1.1.1.1_Faster_and_Safer_Internet_Unlimited_v6.17_2698_Mod_AOSP_No_Google_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iPiTe0clos2d)
+[1.1.1.1_Faster_and_Safer_Internet_Unlimited_v6.16_build_2483_Mod_AOSP_No_Google_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i6ybH09lsnvi)
 
 > **最新测速结果**
-
-22/09/29 下午10:35
-
-下载↓ `14.3 MB/s`
-
-上传↑ `2.85 MB/s`
 
 22/08/20 下午6:56
 
 下载↓ `14.2 MB/s`
 
 上传↑ `2.55 MB/s`
+
+22/08/13 下午5:29
+
+下载↓ `14.3 MB/s`
+
+上传↑ `2.57 MB/s`
 
 > Powered by [Speedtest](https://www.speedtest.net/zh-Hans)![Speedtest](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Speedtest&logoColor=1F2033)
 > 
@@ -600,13 +606,141 @@ Unrestricted access to the Internet
 
 **以下大陆没有对接落地点或包含政策不提供服务，可以尝试连接其它代理后进入并覆盖当前VPN连接**
 
+[TurboVPNv3.7.3ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iWy6Byi984d)
+
 [2021-12-31PsiphonPro_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iG6Mcya8b4h)
 
 [2021-12-31iTopVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i0xp8ya8ckj)
 
 [iTop_VPN_v3.0.0_30000_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ibxko07lu1gb)
 
+[VPNProxyMaster_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/irrPj00klelc)
+
+[VPN_Pro_v2.1.3_b213_arm64-v8a_armeabi-v7a_x86_x86_64_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iS3P7yw2x7i)
+
+[KeepSolid_VPN_Unlimited__Free_VPN_for_Android_v8.7.0_Premium__A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iZnLi00kla8f)
+
 [VyprVpnMod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ie5z708xufbi)
+
+[VPN_PE_PRO_v7.0_b7_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iVMpXz728wj)
+
+[Betternet.v.5.21.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iZbtRzb48be)
+
+[SkyVPNv2.3.2ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iDNSxzb48xg)
+
+[Speed_VPN_v5.0.6_MOD_apkmody.io.apk](https://zgq-inc.lanzouh.com/i0LT6zb5yyj)
+
+[Smart_OXP_VPN_vV4.0.1-32_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/ipcVMzcmfpe)
+
+[120X_VPN_Pro_v1.1_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iP5pBzdgjtc)
+
+[Snap_VPN_v1.4.1_MOD_apkmody.io.apk](https://zgq-inc.lanzouh.com/inTWSzdgjwf)
+
+[Vpn-By-UltraVpn_Premium_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/iU2cwzklw7a)
+
+[VPN_Master_Pro_v2.0.0_build_110_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/idbpCzklwad)
+
+[VPN_PRO_v1.0_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/ix4Vtzps10j)
+
+[Defence_VPN_v2.1.3_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/idVaXzth0ne)
+
+[GuardillaVPN_A2ZAPK.COM.apk](https://zgq-inc.lanzouh.com/i98FO001a7ze)
+
+[ArmadaVPN_v1.6.4_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGaAJ004j8bi)
+
+[XPVPNXtraPowerv1.3build4arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ieuag004j8he)
+
+[BitVPN.v.1.4.3_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iUWca005d9yh)
+
+[ElectronVPN_2.5.1_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iHBWD009zcre)
+
+[VPNFORCE_v2.1.6_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iQ3L000a19qh)
+
+[Signal_Secure_VPN_v2.4.0_Premium_Mod_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ijNeo00baqmf)
+
+[FastVPN_v.1.4.4_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i6H2a00f90lg)
+
+[HOTVPN_v1.5.8_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i56LB00f90uf)
+
+[SecVPN.v.6.0.023_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ie6qE00f913e)
+
+[KafeVPN_v3.5.1_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iwrXX00gzxpa)
+
+[i2VPN_3.0.35_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iKGWa00gzyef)
+
+[YoozVPN_v.2.2._A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iPTSj00ibpej)
+
+[Pro_VPN_v1.2_build_5_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i8hDu00ibpje)
+
+[Tryme_VPN_v1.1.128_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iKjPr00kcxhi)
+
+[VPN_Pro_v2.1.3_b213_SAP_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iCZDc00km2fa)
+
+[DailyVPN_v1.6.6.b.68_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ilx3T00kp4hc)
+
+[33_VPN_v1.2_build_3_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/isxj400megxg)
+
+[GulfSecureVPN_v.3.0.60_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iG1vV00nsy4f)
+
+[TrustedVPN_v.2.0.3_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iu12900nsyab)
+
+[Speed_VPN_Premium_v4.0.5_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iaOvW00qqt2j)
+
+[SkyVPNv2.3.3ModdedbyMixroot_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/im2yh00s9teb)
+
+[CoolVPNPro_1.0.091_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iRfMJ00s9v3c)
+
+[UniverseVPN_v.2.0.9_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iLqMX00uj2yb)
+
+[VPN_Fast_v1.20_5_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iIVna00uj36j)
+
+[SnapVPN_v.4.5.6_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iiRdw00uj3ib)
+
+[Premium_VPN_Pro_v4.0_4_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iLP5S00zk88h)
+
+[VPN_4X_Premium_v4.0_4_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iR3dF00zk8uj)
+
+[VPN_GO_Premium_v1.0.11_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/izyw2010ih2j)
+
+[Hot_VPN_Pro_v1.3_build_4_arm64_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/if0Ks010vkxg)
+
+[NoonVPN_v.3.0.25_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iji22010vm2h)
+
+[GreenVPN_Pro_VPN_Master_v1.13_build_14_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iGmob010vmbg)
+
+[VPN_Pro_v7.0_7_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iFizx012y9yb)
+
+[GreenNetVPN_1.5.3__A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ixHRU012ycfa)
+
+[HalleyVPN_v2.3.7_Mod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iP34M0153p6b)
+
+[VPNMaster_v2.1.8_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iClxN016t87c)
+
+[NightOwlVPNPRO-FastVPN_1.2.7_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/igtBr018fnpi)
+
+[SecureVPN_v2.5.6_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/impON018frwj)
+
+[GEVPN_v1.9.85_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iBeIU019px8h)
+
+[Eas.VPN_v1.1.9_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iQJZT019pzne)
+
+[SKY_VPN_PRO_v3.1.2_40_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i8wPC019q0cj)
+
+[AmanVPN_v1.7.8_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/imVCQ01bw0kf)
+
+[HighVPN_v1.4.9_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/inTq801em45c)
+
+[404_VPN_v1.1.2_3_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i0Uzk01g22zc)
+
+[Shuttle_VPN_v2.6_MOD_apkmody.io.apk](https://zgq-inc.lanzouv.com/iJqVI01hth5a)
+
+[VPNRussia1.92.92_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i93cZ01j0fof)
+
+[VPNUkraine1.79.79_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iNKdP01j0fvc)
+
+[Vpn_Pro_v1.4_13_arm64-v8a_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iS3br01j0g9g)
+
+[3XVPN_v.2.7.114_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i9j6001numjg)
 
 ***
 
@@ -621,7 +755,7 @@ Unrestricted access to the Internet
 
 - **<font size="4">下载地址</font>**
 
-[SamsungMax_v4.4.19.1_Deluxe_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i07Pr092eltg)
+[SamsungMax_4.4.18_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/i07Pr092eltg)
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
