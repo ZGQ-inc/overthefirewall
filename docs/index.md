@@ -19,7 +19,6 @@
 
 - 图标说明
 
-| :-: | :-: | :-: | :-: |
 | ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) | 开源软件 | ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg) | 推荐使用 |
 
 ***
