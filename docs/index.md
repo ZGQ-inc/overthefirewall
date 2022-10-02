@@ -499,7 +499,7 @@ Unrestricted access to the Internet
 
 [全球知名测速平台Speedtest](https://www.speedtest.net/zh-Hans) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[Speedtest-知名网速测试工具](http://a.ruansky.com/up/722577)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Speedtest-知名网速测试工具](http://a.ruansky.com/up/1015996)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Netflix旗下Fast.com](https://fast.com/)
 
@@ -1020,7 +1020,7 @@ Your browser is the new operating system
 
 [AppsFree-发现谷歌商店限免应用](http://a.ruansky.com/up/888376)
 
-[APKPure Store-知名第三方谷歌商店](http://a.ruansky.com/up/261281) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[APKPure-知名第三方谷歌商店](http://a.ruansky.com/up/1020760) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Appvn-第三方谷歌商店](http://a.ruansky.com/up/261239)
 
@@ -1044,15 +1044,17 @@ Your browser is the new operating system
 
 [LibreTube-可观看YouTube付费视频](http://a.ruansky.com/up/888321) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
+[ViMusic-YouTube Music第三方客户端](http://a.ruansky.com/up/1021025) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
 [Vanced Manager v2-Vanced第三方维护版本](http://a.ruansky.com/up/763087)
 
-[NewPipe-YouTube第三方客户端](http://a.ruansky.com/up/707627)
+[NewPipe-YouTube第三方客户端](http://a.ruansky.com/up/1015543)
 
 [Float Tube-第三方YouTube](http://a.ruansky.com/up/232269)
 
 [GoTube-无广告YouTube客户端](http://a.ruansky.com/up/507181)
 
-[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/872715) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/1015508) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TubeMate（版本更新）-YouTube视频下载器](http://a.ruansky.com/up/179362)
 
@@ -1068,7 +1070,7 @@ Your browser is the new operating system
 
 [Talon-Twitter第三方客户端](http://a.ruansky.com/up/202613)
 
-[TwitPane-Twitter第三方客户端](http://a.ruansky.com/up/338249)
+[TwitPane-Twitter第三方客户端](http://a.ruansky.com/up/1020824)
 
 [Flamingo-Twitter第三方客户端](http://a.ruansky.com/up/487752)
 
@@ -1088,7 +1090,7 @@ Your browser is the new operating system
 
 <span id="Spotify">![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)</span>
 
-[xManager-Spotify破解版下载器](http://a.ruansky.com/up/703222) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[xManager-Spotify破解版下载器](http://a.ruansky.com/up/1016030) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/407302)
 
@@ -1096,7 +1098,7 @@ Your browser is the new operating system
 
 <span id="Pixiv">![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)</span>
 
-[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/888342) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/1016378) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Shaft-第三方直连版客户端](http://a.ruansky.com/up/417680) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
@@ -1115,6 +1117,8 @@ Your browser is the new operating system
 <span id="Reddit">![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=FFFFFF)</span>
 
 [Reddit-破解会员](http://a.ruansky.com/up/231175)
+
+[Reddit-修改版](http://a.ruansky.com/up/1021386)
 
 [rif is fun golden platinum-第三方Reddit](http://a.ruansky.com/up/300147)
 
@@ -1146,9 +1150,9 @@ Your browser is the new operating system
 
 <span id="TikTok">![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)</span>
 
-[TikTok（修改版 配合插件使用）](http://a.ruansky.com/up/919028) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok（修改版 配合插件使用）](http://a.ruansky.com/up/1020923) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[TikTok 插件（需配合修改版使用）](http://a.ruansky.com/up/919041) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok 插件（需配合修改版使用）](http://a.ruansky.com/up/1020937) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
