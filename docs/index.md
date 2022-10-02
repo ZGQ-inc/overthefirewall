@@ -9,9 +9,7 @@
 
 项目作者の[**个人主页**](https://zgq-inc.github.io)
 
-欢迎进群**讨论/提问**
-
-[我的资源群](https://zgq-inc.github.io/transit-groups/)
+欢迎进群**讨论/提问** [我的资源群](https://zgq-inc.github.io/transit-groups/)
 
 提问前提是在<span style="color: #ff0000">看清这篇文档之后</span>如有问题可以反馈，拒绝粗略看过一遍之后就开始提问。
 
@@ -21,9 +19,8 @@
 
 - 图标说明
 
-![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) 开源软件
-
-![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg) 推荐使用
+| :-: | :-: | :-: | :-: |
+| ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) | 开源软件 | ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg) | 推荐使用 |
 
 ***
 
@@ -940,7 +937,7 @@ Your browser is the new operating system
 
 [翻墙被抓案例.jpg](https://zgq-inc.github.io/overthefirewall/image/RDT_20220410_1332237515022397726360175.jpg)
 
-[维基百科摘录](https://zgq-inc.github.io/overthefirewall/blacklist-Wiki.html)
+[维基百科摘录](https://zgq-inc.github.io/overthefirewall/blacklist-Wiki.html)![Wikipedia](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Wikipedia&logoColor=2E2E2E)
 
 [案例集合（项目作者的频道）](https://t.me/ZGQincLiqun/1655)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
 
