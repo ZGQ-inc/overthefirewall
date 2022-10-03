@@ -17,8 +17,7 @@
 
 **温馨提示**：本文档中所有`蓝体字/下划线`可点击
 
-- 图标说明
-
+| 图标说明 |
 | ![oss](https://zgq-inc.github.io/badge/ico/min-oss.svg) | 开源软件 | ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg) | 推荐使用 |
 
 ***
