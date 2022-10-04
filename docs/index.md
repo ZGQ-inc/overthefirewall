@@ -1057,11 +1057,13 @@ Your browser is the new operating system
 
 <span id="Twitter">![Twitter](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)</span>
 
-[Twitter魔法版](http://a.ruansky.com/up/711615)  ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Twitter-Aero修改版](http://a.ruansky.com/up/1036601) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [harpy free-Twitter第三方客户端 极致体验](http://a.ruansky.com/up/872582) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [harpy Pro-Twitter第三方客户端 极致体验](http://a.ruansky.com/up/873850) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[Twitter魔法版](http://a.ruansky.com/up/711615)
 
 [Talon-Twitter第三方客户端](http://a.ruansky.com/up/202613)
 
@@ -1093,13 +1095,15 @@ Your browser is the new operating system
 
 <span id="Pixiv">![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)</span>
 
-[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/1016378) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/1036318) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Shaft-第三方直连版客户端](http://a.ruansky.com/up/417680) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [PixEz-第三方直连版客户端](http://a.ruansky.com/up/524797)
 
 <span id="WhatsApp">![WhatsApp](https://img.shields.io/badge/-WhatsApp-35DB53?style=for-the-badge&logo=WhatsApp&logoColor=FFFFFF)</span>
+
+[WhatsApp-Aero修改版](http://a.ruansky.com/up/1036536) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [GBWhatsApp-WhatsApp第三方客户端](http://a.ruansky.com/up/524806) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
@@ -1126,6 +1130,8 @@ Your browser is the new operating system
 [Sync Pro-Reddit第三方客户端](http://a.ruansky.com/up/707742)
 
 <span id="Instagram">![Instagram](https://img.shields.io/badge/-Instagram-D63173?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)</span>
+
+[Instagram-Aero修改版](http://a.ruansky.com/up/1036573) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Instander-Instagram修改版](http://a.ruansky.com/up/337746) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
