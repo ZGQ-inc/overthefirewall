@@ -1095,7 +1095,7 @@ Your browser is the new operating system
 
 <span id="Pixiv">![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)</span>
 
-[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/1036318) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/1054259) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Shaft-第三方直连版客户端](http://a.ruansky.com/up/417680) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
