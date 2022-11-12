@@ -23,7 +23,15 @@
 ***
 
 <span id="ads"></span>
-## [<center>赞助商广告（点击查看）</center>](https://zgq-inc.github.io/overthefirewall/sponsor.html)
+# 赞助商广告
+
+[<font size="5">天枢互联</font>](https://zgq-inc.github.io/overthefirewall/sponsor.html) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+全球网络中继服务,随时随处尽情使用
+
+[<font size="5">YunGcun</font>](https://zgq-inc.github.io/overthefirewall/sponsor_2.html)
+
+勇敢发现新世界的美
 
 ***
 
