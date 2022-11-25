@@ -9,3 +9,23 @@
 ***
 
 欢迎提交`Issues`
+
+***
+
+# To do（备忘录）
+
+- 更新Shadowrocket在线安装IPA版本，解决iOS15以上闪退的问题。
+
+- 添加Clash Meta（Android）。
+
+- 添加Clash重制版。
+
+- 添加更多iOS客户端。
+
+- 更新破解版VPN版本（1.1.1.1）。
+
+- 添加更多可用的用于免费获取Shadowrocket的账号。
+
+- 更新Android软件。
+
+预计明年7月份开始动工。
