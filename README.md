@@ -28,4 +28,6 @@
 
 - 更新Android软件。
 
+- 添加BlockaNet bot和IP tools bot。
+
 预计明年（2023）7月份开始动工。
