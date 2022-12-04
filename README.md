@@ -24,6 +24,8 @@
 
 - 更新破解版VPN版本（1.1.1.1）。
 
+- 更新安卓Speedtest。
+
 - 添加更多可用的用于免费获取Shadowrocket的账号。
 
 - 更新Android软件。
