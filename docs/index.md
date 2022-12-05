@@ -251,7 +251,7 @@
 
 [从Apkpure下载](https://m.apkpure.com/cn/store/apps/details?id=com.getsurfboard)
 
-TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
+TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
 
 <span id="Windows"></span>
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
@@ -931,7 +931,7 @@ Your browser is the new operating system
 
 [中国翻墙软件黑名单-持续更新](https://www.google.com/amp/s/10beasts.net/china-fanqiang-tools-blacklist/amp/)
 
-[机场曝光/机场黑名单@jichangBG](https://t.me/jichangBG)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
+[机场曝光/机场黑名单@jichangBG](https://t.me/jichangBG)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
 
 [2021中国翻墙软件VPN推荐指南](https://vpncn.github.io/)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -945,7 +945,7 @@ Your browser is the new operating system
 
 [维基百科摘录](blacklist-Wiki.html)![Wikipedia](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Wikipedia&logoColor=2E2E2E)
 
-[案例集合（项目作者的频道）](https://t.me/ZGQincLiqun/1655)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
+[案例集合（项目作者的频道）](https://t.me/ZGQincLiqun/1655)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
 
  <font size="5" color="#FF0000">黑名单列表（点击查看详情）</font>
 
@@ -1214,7 +1214,7 @@ Your browser is the new operating system
 >
 > 问题答案：@freessrvpn
 >
-> Telegram群组 [@freessrvpn](https://t.me/freessrvpn)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=4d4d4d)
+> Telegram群组 [@freessrvpn](https://t.me/freessrvpn)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
 
 ***
 
@@ -1271,7 +1271,6 @@ Your browser is the new operating system
 > 修复目录跳转问题
 
 - [A2ZAPK安卓破解网](https://a2zapk.com/)
-- [APKMODY安卓破解网](https://apkmody.io/)
 
 > [安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)来源
 
