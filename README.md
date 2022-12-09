@@ -32,4 +32,6 @@
 
 - 添加BlockaNet bot和IP tools bot。
 
+- 由于Openit创始人疑似被抓，服务即将失效，考虑移除。
+
 预计明年（2023）7月份开始动工。
