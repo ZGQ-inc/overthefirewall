@@ -33,6 +33,10 @@
 
 勇敢发现新世界的美
 
+[<font size="5">Sausage Cloud</font>](sponsor_3.html)
+
+高性价比网络中继服务，随时随处尽情使用
+
 ***
 
 <span id="contents"></span>
