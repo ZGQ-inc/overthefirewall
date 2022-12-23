@@ -20,9 +20,9 @@
 
 - 添加Clash重制版。
 
-- 添加更多iOS客户端。
+- 添加更多iOS客户端（Quantumult，Surge，Kitsunebi）。
 
-- 更新破解版VPN版本（1.1.1.1）。
+- 更新破解版VPN版本（1.1.1.1，vpnify）。
 
 - 更新安卓Speedtest。
 
@@ -33,5 +33,7 @@
 - 添加BlockaNet bot和IP tools bot。
 
 - 由于Openit创始人疑似被抓，服务即将失效，考虑移除。
+
+- 添加一些TG频道&群组（项目作者是频道管理）。
 
 预计明年（2023）7月份开始动工。
