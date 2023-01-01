@@ -6,6 +6,10 @@
 
 ![Star History Chart](https://api.star-history.com/svg?repos=ZGQ-inc/overthefirewall&type=Date)
 
+[![Stargazers repo roster for @ZGQ-inc/overthefirewall](https://reporoster.com/stars/ZGQ-inc/overthefirewall)](https://github.com/ZGQ-inc/overthefirewall/stargazers)
+
+[![Forkers repo roster for @ZGQ-inc/overthefirewall](https://reporoster.com/forks/ZGQ-inc/overthefirewall)](https://github.com/ZGQ-inc/overthefirewall/network/members)
+
 ***
 
 欢迎提交`Issues`
