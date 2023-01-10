@@ -29,11 +29,11 @@
 
 全球网络中继服务,随时随处尽情使用
 
-[<font size="5">YunGcun</font>](sponsor_2.html)
+[<font size="5">雲村YUNCUN</font>](sponsor_2.html)
 
 勇敢发现新世界的美
 
-[<font size="5">Sausage Cloud</font>](sponsor_3.html)
+[<font size="5">Sausage Cloud</font>](sponsor_3.html) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 高性价比网络中继服务，随时随处尽情使用
 
