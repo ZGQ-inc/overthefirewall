@@ -7,7 +7,7 @@
 
 ***
 
-项目作者の[**个人主页**](https://zgq-inc.github.io)
+项目作者の[**个人主页**](https://domain.zgqinc.gq)
 
 欢迎进群**讨论/提问** [我的资源群](https://zgq-inc.github.io/transit-groups/)
 
@@ -37,7 +37,7 @@
 
 高性价比网络中继服务，随时随处尽情使用
 
-[<font size="5">AUB NETWORK</font>](sponsor_4.html)
+[<font size="5">FUTURE NETWORK</font>](sponsor_4.html)
 
 奥布里的私人机场，不做盈利，补充VPS费用。
 
@@ -989,7 +989,7 @@ Your browser is the new operating system
 
 其他国产的私人或者小型VPN避免使用，这些大部分都是名字叫VPN，只有翻墙的功能，并无安全性可言。其中不少涉嫌钓鱼，用户使用的时候被ISP发现并上报的，已经有记录的就有**极光加速器、QuickQ、佛跳墙加速器、老王VPN、IP精灵、旋风加速器、坚果加速器、蚂蚁加速器、快连VPN、神风加速器**等。
 
-总的来说，**像谷歌商店里面的很多国产翻墙软件最好不要碰**，尤其是不要在手机上安装，手机上隐私信息太多，存在隐私数据被截获的风险。而且目前网上因为翻墙出问题的，一般都是使用这种野路子VPN翻车的，这种翻墙软件我是不会使用的，测试都不敢。当然如果只是上网查查学习资料，不涉及账号登录和敏感信息，像**老王VPN**这种类型的可以也最好只在电脑上(Windows/Mac)使用，因为手机上的隐私信息太多并且容易泄露。最好是使用**国外知名的VPN服务**，虽然有时会被封锁，但一年中绝大部分时间都是可以连接的，**最重要的是安全，不泄漏隐私信息**。
+总的来说，**像谷歌商店里面的很多国产翻墙软件最好不要碰**。而且目前网上因为翻墙出问题的，一般都是使用这种野路子VPN翻车的，这种翻墙软件我是不会使用的，测试都不敢。最好是使用**国外知名的VPN服务或机场**，**最重要的是安全，不泄漏隐私信息**。
 
 ***
 
@@ -1026,7 +1026,7 @@ Your browser is the new operating system
 
 部分品牌手机安装谷歌商店后桌面无图标，请先尝试重启。
 
-三星![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)等部分品牌的手机自带谷歌服务，只需安装谷歌商店即可。
+三星![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)等部分品牌的手机自带谷歌服务，国行移除了谷歌商店，使用安装器安装即可。
 
 [Play Services Info-GMS谷歌服务完整性检查](http://a.ruansky.com/up/131039)
 
