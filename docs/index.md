@@ -45,6 +45,10 @@
 
 EdNovas is the best!
 
+[<font size="5">V2云</font>](sponsor_6.html)
+
+开始探索新的世界
+
 ***
 
 <span id="contents"></span>
