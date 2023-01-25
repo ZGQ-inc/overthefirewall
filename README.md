@@ -18,26 +18,26 @@
 
 # To do（备忘录）
 
-- 更新Shadowrocket在线安装IPA版本，解决iOS15以上闪退的问题。
+- [ ] 更新Shadowrocket在线安装IPA版本，解决iOS15以上闪退的问题。
 
-- 添加Clash Meta（Android）。
+- [ ] 添加Clash Meta（Android）。
 
-- 添加Clash重制版。
+- [ ] 添加Clash for Android重制版。
 
-- 添加更多iOS客户端（Quantumult，Surge，Kitsunebi）。
+- [ ] 添加更多iOS客户端（Quantumult，Surge，Kitsunebi）。
 
-- 更新破解版VPN版本（1.1.1.1，vpnify）。
+- [ ] 更新破解版VPN版本（1.1.1.1，vpnify）。
 
-- 更新安卓Speedtest。
+- [ ] 更新安卓Speedtest。
 
-- 添加更多可用的用于免费获取Shadowrocket的账号。
+- [ ] 添加更多可用的用于免费获取Shadowrocket的账号。
 
-- 更新Android软件。
+- [ ] 更新Android软件。
 
-- 添加BlockaNet bot和IP tools bot。
+- [ ] 添加BlockaNet bot和IP tools bot。
 
-- 由于Openit创始人疑似被抓，服务即将失效，考虑移除。
+- [x] 由于Openit创始人疑似被抓，服务即将失效，考虑移除。
 
-- 添加一些TG频道&群组（项目作者是频道管理）。
+- [ ] 添加一些TG频道&群组（项目作者是频道管理）。
 
 预计明年（2023）7月份开始动工。
