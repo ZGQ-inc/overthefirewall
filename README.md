@@ -26,17 +26,17 @@
 
 - [ ] 添加更多iOS客户端（Quantumult，Surge，Kitsunebi）。
 
-- [ ] 更新破解版VPN版本（1.1.1.1，vpnify）。
+- [x] 更新破解版VPN版本（1.1.1.1，vpnify）。
 
 - [ ] 再次更新破解版VPN版本。
 
-- [ ] 更新安卓Speedtest。
+- [x] 更新安卓Speedtest。
 
 - [ ] 再次更新安卓Speedtest。
 
 - [ ] 添加更多可用的用于免费获取Shadowrocket的账号。
 
-- [ ] 更新Android软件。
+- [x] 更新Android软件。
 
 - [ ] 再次更新Android软件。
 
