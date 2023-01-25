@@ -34,10 +34,10 @@
 
 - [ ] 更新Android软件。
 
-- [ ] 添加BlockaNet bot和IP tools bot。
+- [ ] ~~添加BlockaNet bot和IP tools bot。~~
 
 - [x] 由于Openit创始人疑似被抓，服务即将失效，考虑移除。
 
-- [ ] 添加一些TG频道&群组（项目作者是频道管理）。
+- [x] 添加一些TG频道&群组（项目作者是频道管理）。
 
 预计明年（2023）7月份开始动工。
