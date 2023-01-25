@@ -28,11 +28,17 @@
 
 - [ ] 更新破解版VPN版本（1.1.1.1，vpnify）。
 
+- [ ] 再次更新破解版VPN版本。
+
 - [ ] 更新安卓Speedtest。
+
+- [ ] 再次更新安卓Speedtest。
 
 - [ ] 添加更多可用的用于免费获取Shadowrocket的账号。
 
 - [ ] 更新Android软件。
+
+- [ ] 再次更新Android软件。
 
 - [ ] ~~添加BlockaNet bot和IP tools bot。~~
 
