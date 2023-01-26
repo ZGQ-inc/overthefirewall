@@ -94,6 +94,9 @@ EdNovas is the best!
 [路由规则](#rule)
 
 [订阅平台](#sub)
++ [Openit](#Openit) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ [BuLink](#BuLink) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
++ [Fly](#Fly) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 + [节点池-SOCKS5](#proxypool)
 + [Shadowsocks 免费上网账号](#freess)
 + [上百个节点池合集](#ProxypoolCollection)
@@ -171,8 +174,6 @@ EdNovas is the best!
 [![LINE](https://img.shields.io/badge/-LINE-21BA52?style=for-the-badge&logo=LINE&logoColor=FFFFFF)](#LINE) `LINE相机`
 
 [![Discord](https://img.shields.io/badge/-Discord-4F5BDA?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](#Discord) `修改版`
-
-[![Mastodon](https://img.shields.io/badge/-Mastodon-5347CF?style=for-the-badge&logo=Mastodon&logoColor=FFFFFF)](#Mastodon) `第三方`
 
 [多功能](#multifunction) `社交媒体多合一`
 
@@ -406,6 +407,59 @@ Unrestricted access to the Internet
 
 [<font size="5">返回目录</font>](#contents)
 
+<span id="Openit"></span>
+- <font size="5">Openit致力于打造免费无感的翻墙环境</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+`不限流量`
+
+`速率玄学`
+
+[网址 openit.daycat.space](http://openit.daycat.space/)
+
+[备用域名 openit.pw](https://openit.pw)
+
+[备用域名 openitsub.net](https://openitsub.net)
+
+[备用域名 openitsub.com](https://openitsub.com)
+
+[备用域名 ShareCentre.xyz](https://ShareCentre.xyz)
+
+[备用域名 ShareCentre.Pro](https://ShareCentre.Pro)
+
+[备用域名 openit.992266.xyz](https://openit.992266.xyz)
+
+[项目地址 yu-steven/openit](https://github.com/yu-steven/openit)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="BuLink"></span>
+- <font size="5">BuLink永久免费网络加速</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+`推荐使用网友分享节点`
+
+`每月限流5GB`
+
+`速率最高可到5MB/s`
+
+[网址 bulink.xyz](https://bulink.xyz/)
+
+[项目地址 freefq/free](https://github.com/freefq/free)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="Fly"></span>
+- <font size="5">Fly</font> ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+~~耗子大神（耗子爱吃草）搭的公益机场~~
+
+**并不是本人**
+
+`有效期内每月限流15GB`
+
+`速率最高30Mbps`
+
+[网址 flyairport.top](https://flyairport.top/)
+
+[备用域名 12315.cn.com](https://12315.cn.com/)
+
+注册成功后，点击`侧边栏`，进入`套餐购买`，最下面有`白嫖套餐`，**可延长免费账号有效期**。
+
 <span id="proxypool"></span>
 - <font size="5">节点池-所有国家 代理服务器 - SOCKS5</font>
 
@@ -464,7 +518,7 @@ Unrestricted access to the Internet
 
 [全球知名测速平台Speedtest](https://www.speedtest.net/zh-Hans) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[Speedtest-知名网速测试工具](http://a.ruansky.com/up/1497824)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Speedtest-知名网速测试工具](http://a.ruansky.com/up/1015996)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Netflix旗下Fast.com](https://fast.com/)
 
@@ -489,7 +543,7 @@ Unrestricted access to the Internet
 <span id="vpnify"></span>
 ## vpnify ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[vpnifyPremium_2.0.4byANiK555_enc_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iYg4R0ljataf)
+[vpnify_v2.0.0-rc24_Premium_UserUpload.Net.apk](https://zgq-inc.lanzouv.com/iH9mM0cq6wcj)
 
 > **最新测速结果**
 
@@ -514,7 +568,7 @@ Unrestricted access to the Internet
 
 **<span style="color: #ff0000">第一次进入可能需要谷歌服务并且连接代理进行初始化，否则提示“发生未知错误”。</span>**
 
-[1.1.1.1_Faster_and_Safer_Internet_Unlimited_v6.22_2970_Mod_AOSP_No_Google_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/i1h4p0ljauvc)
+[1.1.1.1_Faster_and_Safer_Internet_Unlimited_v6.17_2698_Mod_AOSP_No_Google_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iPiTe0clos2d)
 
 > **最新测速结果**
 
@@ -541,7 +595,7 @@ Unrestricted access to the Internet
 
 ## 可用且速度快
 
-[GOVPNBlackPremium_1.9.4byANiK555_enc_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iOaNc0ljqsvg)
+[GOVPN_PRO_v1.9.4_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/iKPV900kkz8j)
 
 **疑似vpnify换皮**
 
@@ -770,7 +824,7 @@ hosts是一个系统文件，在各个系统的位置如下
 
 [DNS Changer-免root更改系统DNS](http://a.ruansky.com/up/848110)
 
-[Dns v2-DNS测速优选](http://a.ruansky.com/up/1497626)
+[DNS Test-发现优质DNS服务器](http://a.ruansky.com/up/191985)
 
 [DNS Optimizer-查找优质DNS并改变系统DNS](http://a.ruansky.com/up/224129)
 
@@ -952,7 +1006,9 @@ Your browser is the new operating system
 
 <span id="Telegram">![Telegram](https://img.shields.io/badge/-Telegram-31A6E0?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)</span>
 
-[Telegram魔法版](http://a.ruansky.com/up/1490371) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Telegram-本地高级订阅解锁](http://a.ruansky.com/up/702835) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[Telegram魔法版](http://a.ruansky.com/up/872456) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Telegraher-Telegram第三方客户端（破解官方限制）](http://a.ruansky.com/up/524938) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
@@ -1017,7 +1073,7 @@ Your browser is the new operating system
 
 [GoTube-无广告YouTube客户端](http://a.ruansky.com/up/507181)
 
-[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/1490240) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Snaptube-YouTube视频下载器](http://a.ruansky.com/up/1015508) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [TubeMate（版本更新）-YouTube视频下载器](http://a.ruansky.com/up/179362)
 
@@ -1027,7 +1083,21 @@ Your browser is the new operating system
 
 [Twitter-Aero修改版](http://a.ruansky.com/up/1036601) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-由于推特对第三方客户端实施了禁令，现在只有修改版可以使用。
+[harpy free-Twitter第三方客户端 极致体验](http://a.ruansky.com/up/872582) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[harpy Pro-Twitter第三方客户端 极致体验](http://a.ruansky.com/up/873850) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[Twitter魔法版](http://a.ruansky.com/up/711615)
+
+[Talon-Twitter第三方客户端](http://a.ruansky.com/up/202613)
+
+[TwitPane-Twitter第三方客户端](http://a.ruansky.com/up/1020824)
+
+[Flamingo-Twitter第三方客户端](http://a.ruansky.com/up/487752)
+
+[Fenix-Twitter第三方客户端](http://a.ruansky.com/up/487657)
+
+[Friendly T-Twitter第三方客户端](http://a.ruansky.com/up/703026)
 
 [Tweet2Pic Pro-Twitter推文转图片](http://a.ruansky.com/up/707922)
 
@@ -1041,15 +1111,17 @@ Your browser is the new operating system
 
 <span id="Spotify">![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=000000)</span>
 
-[xManager-Spotify破解版下载器](http://a.ruansky.com/up/1493510) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[xManager-Spotify破解版下载器](http://a.ruansky.com/up/1016030) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [SpotiFlyer-Spotify音乐下载器](http://a.ruansky.com/up/407302)
 
+[Spotify Lite-精简版](http://a.ruansky.com/up/415346)
+
 <span id="Pixiv">![Pixiv](https://img.shields.io/badge/-Pixiv-0096FA?style=for-the-badge&logo=Pixiv&logoColor=FFFFFF)</span>
 
-[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/1497680) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Pixiv官方版客户端破解会员](http://a.ruansky.com/up/1054259) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[Shaft-第三方直连版客户端](http://a.ruansky.com/up/1497597) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Shaft-第三方直连版客户端](http://a.ruansky.com/up/417680) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [PixEz-第三方直连版客户端](http://a.ruansky.com/up/524797)
 
@@ -1085,7 +1157,7 @@ Your browser is the new operating system
 
 [Instagram-Aero修改版](http://a.ruansky.com/up/1036573) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[Instander-Instagram修改版](http://a.ruansky.com/up/1490341) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[Instander-Instagram修改版](http://a.ruansky.com/up/337746) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [iGetter Pro-Instagram视频下载器](http://a.ruansky.com/up/457943)
 
@@ -1103,9 +1175,11 @@ Your browser is the new operating system
 
 <span id="TikTok">![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=FFFFFF)</span>
 
-[TikTok（修改版 配合插件使用）](http://a.ruansky.com/up/1499334) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok（修改版 配合插件使用）](http://a.ruansky.com/up/1020923) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
-[TikTok 插件（需配合修改版使用）](http://a.ruansky.com/up/1490304) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[TikTok 插件（需配合修改版使用）](http://a.ruansky.com/up/1020937) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+
+[TikTok-内置地区选择器](http://a.ruansky.com/up/359359)
 
 <span id="Twitch">![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)</span>
 
@@ -1122,12 +1196,6 @@ Your browser is the new operating system
 <span id="Discord">![Discord](https://img.shields.io/badge/-Discord-4F5BDA?style=for-the-badge&logo=Discord&logoColor=FFFFFF)</span>
 
 [Discord-修改版](http://a.ruansky.com/up/822164)
-
-<span id="Mastodon">![Mastodon](https://img.shields.io/badge/-Mastodon-5347CF?style=for-the-badge&logo=Mastodon&logoColor=FFFFFF)</span>
-
-[Megalodon-Mastodon第三方客户端](http://a.ruansky.com/up/1493274)
-
-[Tusky-Mastodon第三方客户端](http://a.ruansky.com/up/1497793)
 
 <span id="multifunction"></span>
 - <font size="5">多功能</font>
@@ -1156,15 +1224,13 @@ Your browser is the new operating system
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.ambrose.overwall)
 
-> Telegram频道 [@ShareOpenVPN](https://t.me/ShareOpenVPN)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
-> 
+> - <font size="5">起飞交流群（Q群）</font>
+>
+> 群号：485668627
+>
+> 问题答案：@freessrvpn
+>
 > Telegram群组 [@freessrvpn](https://t.me/freessrvpn)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
-
-<font size="6">免费节点频道</font>
-
-项目作者是频道管理员。
-
-> Telegram频道 [@tuidaoGFW](https://t.me/tuidaoGFW)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
 
 ***
 
