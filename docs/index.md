@@ -541,7 +541,7 @@ Unrestricted access to the Internet
 
 ## 可用且速度快
 
-[GOVPNBlackPremium_1.9.4byANiK555_enc_A2ZAPK.COM.apk](https://zgq-inc.lanzouo.com/iOaNc0ljqsvg)
+[GOVPN v1.9.5 [Premium].apk](https://zgq-inc.lanzouo.com/iCczY0m90h6f)
 
 **疑似vpnify换皮**
 
@@ -1109,7 +1109,7 @@ Your browser is the new operating system
 
 <span id="Twitch">![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)</span>
 
-[TwitchMod-Twitch修改版](http://a.ruansky.com/up/722613) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
+[PurpleTV-Twitch修改版 原TwitchMod](http://a.ruansky.com/up/1521942) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
 [Xtra-Twitch开源第三方客户端](http://a.ruansky.com/up/743114) ![tuijian](https://zgq-inc.github.io/badge/ico/min-tuijian.svg)
 
