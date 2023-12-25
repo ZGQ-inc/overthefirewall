@@ -37,10 +37,6 @@
 
 高性价比网络中继服务，随时随处尽情使用
 
-[<font size="5">FUTURE NETWORK</font>](sponsor_4.html)
-
-奥布里的私人机场，不做盈利，补充VPS费用。
-
 [<font size="5">EdNovas云</font>](sponsor_5.html)
 
 EdNovas is the best!
