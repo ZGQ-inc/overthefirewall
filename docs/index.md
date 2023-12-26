@@ -45,6 +45,10 @@ EdNovas is the best!
 
 开始探索新的世界
 
+[<font size="5">遨游机场</font>](sponsor_4.html)
+
+谷歌ceo比尔盖茨亲临一线指导部署
+
 ***
 
 <span id="contents"></span>
