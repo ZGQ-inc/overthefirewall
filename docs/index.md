@@ -88,7 +88,7 @@ EdNovas is the best!
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
 
-  - 用[Wine](https://www.winehq.org/)算了
+  - [Wine](#Wine) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
   - [未整理&其它](#others)
 
@@ -215,16 +215,12 @@ EdNovas is the best!
 
 [项目地址 2dust/v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
-
 <span id="CMFA"></span>
 + <font size="5">Clash Meta</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
 [从release页面下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
 [项目地址 MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
-
-[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
 <span id="SagerNet"></span>
 + <font size="5">SagerNet</font> ![oss](min-oss.svg)
@@ -267,52 +263,56 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 [项目地址 2dust/v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
+<span id="Clash_Verge_rev"></span>
++ <font size="5">Clash Verge rev</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
-<span id="Clash_Windows"></span>
-+ <font size="5">Clash</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+[从release页面下载](https://github.com/wonfen/clash-verge-rev/releases)
 
-[从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+[项目地址 wonfen/clash-verge-rev](https://github.com/wonfen/clash-verge-rev)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+<span id="Clash_Nyanpasu"></span>
++ <font size="5">Clash Nyanpasu</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
-**<font size="4">汉化补丁</font>**[<font size="4">下载地址</font>](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[从release页面下载](https://github.com/keiko233/clash-nyanpasu/releases)
 
-[项目地址 BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
+<span id="NekoRay"></span>
++ <font size="5">NekoRay</font> ![oss](min-oss.svg)
+
+[从release页面下载](https://github.com/MatsuriDayo/nekoray/releases)
+
+[项目地址 MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
-<span id="OneClick"></span>
-+ <font size="5">OneClick</font>
+<span id="Shadowrocket"></span>
++ <font size="5">Shadowrocket</font> ![tuijian](min-tuijian.svg)
 
-Unrestricted access to the Internet
+[![AppStore](appstore.svg)](https://apps.apple.com/us/app/shadowrocket/id932747118)
+
+<span id="OneClick"></span>
++ <font size="5">OneClick</font> ![tuijian](min-tuijian.svg)
 
 [官网 oneclick.earth](https://oneclick.earth/#/)
 
 [![AppStore](appstore.svg)](https://apps.apple.com/us/app/id1545555197)
 
-[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
+<span id="Quantumult_X"></span>
++ <font size="5">Quantumult X</font>
 
-<span id="Potatso_Lite"></span>
-+ <font size="5">Potatso Lite</font>
+[![AppStore](appstore.svg)](https://apps.apple.com/us/app/quantumult-x/id1443988620)
 
-如遇无法安装或闪退的问题，见[常见问题](#Q&A)。
+<span id="Surge_5"></span>
++ <font size="5">Surge 5</font>
 
-[Potatso Lite 代理工具 在线安装](https://shadowsockshelp.github.io/Potatso-Lite/)
+[![AppStore](appstore.svg)](https://apps.apple.com/hk/app/surge-5/id1442620678)
 
-[![AppStore](appstore.svg)](https://apps.apple.com/us/app/potatso-lite/id1239860606)
+<span id="Potatso"></span>
++ <font size="5">Potatso</font>
 
-<span id="Shadowrocket"></span>
-+ <font size="5">Shadowrocket</font> ![tuijian](min-tuijian.svg)
-
-如遇无法安装或闪退的问题，见[常见问题](#Q&A)。
-
-[Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)
-
-[![AppStore](appstore.svg)](https://apps.apple.com/us/app/shadowrocket/id932747118)
+[![AppStore](appstore.svg)](https://apps.apple.com/us/app/potatso/id1239860606)
 
 <span id="MacOS"></span>
 ## MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)
@@ -326,26 +326,15 @@ Unrestricted access to the Internet
 
 [项目地址 yanue/V2rayU](https://github.com/yanue/V2rayU)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
-<span id="Clash_MacOS"></span>
-+ <font size="5">Clash</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
-
-[从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-
-[项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
-
-[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
-
 <span id="Linux"></span>
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-<span id="Clash_Linux"></span>
-+ <font size="5">Clash</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+<span id="Wine"></span>
++ <font size="5">Wine</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
-[从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+用Wine算了。
 
-[项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
-
-[使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
+[官网 winehq.org](https://www.winehq.org/)
 
 <span id="others"></span>
 ## 未整理/其它

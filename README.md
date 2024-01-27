@@ -18,15 +18,15 @@
 
 - [ ] ~~更新Shadowrocket在线安装IPA版本，解决iOS15以上闪退的问题。~~
 
-- [ ] 添加Clash Meta（Android）。
+- [x] 添加Clash Meta（Android）。
 
 - [ ] ~~添加Clash for Android重制版。~~
 
-- [ ] 添加更多Android客户端。
+- [x] 添加更多Android客户端。
 
-- [ ] 添加更多Windows客户端。
+- [x] 添加更多Windows客户端。
 
-- [ ] 添加更多iOS客户端（Quantumult, Surge, Kitsunebi, Potatso Lite）。
+- [x] 添加更多iOS客户端（Quantumult, Surge, Kitsunebi, Potatso Lite）。
 
 - [x] 更新破解版VPN版本（1.1.1.1，vpnify）。
 
