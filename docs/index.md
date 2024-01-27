@@ -219,8 +219,6 @@ EdNovas is the best!
 
 [从release页面下载](https://github.com/2dust/v2rayNG/releases)
 
-[从Apkpure下载](https://m.apkpure.com/cn/store/apps/details?id=com.v2ray.ang)
-
 **如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [项目地址 2dust/v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
@@ -233,8 +231,6 @@ EdNovas is the best!
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
 
 [从release页面下载](https://github.com/Kr328/ClashForAndroid/releases)
-
-[从Apkpure下载](https://m.apkpure.com/cn/store/apps/details?id=com.github.kr328.clash)
 
 **如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
@@ -253,8 +249,6 @@ EdNovas is the best!
 
 [从release页面下载](https://github.com/SagerNet/SagerNet/releases)
 
-[从Apkpure下载](https://m.apkpure.com/cn/store/apps/details?id=io.nekohasekai.sagernet)
-
 [项目地址 SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Surfboard"></span>
@@ -263,8 +257,6 @@ EdNovas is the best!
 [官网 getsurfboard.com](https://getsurfboard.com/)
 
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.getsurfboard)
-
-[从Apkpure下载](https://m.apkpure.com/cn/store/apps/details?id=com.getsurfboard)
 
 TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
 
@@ -667,8 +659,6 @@ Unrestricted access to the Internet
 [![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)
 
 [官网 everyproxy.co.uk](http://www.everyproxy.co.uk)
-
-[下载地址（Apkpure）](https://m.apkpure.com/cn/every-proxy/com.gorillasoftware.everyproxy/download)
 
 [使用教程](https://zgq-inc.gitbook.io/overthefirewall/every-proxy/every-proxy)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
