@@ -62,21 +62,25 @@ EdNovas is the best!
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)![Huawei](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Huawei&logoColor=D1092E)`etc.`
 
   - [v2rayNG](#v2rayNG) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
-  - [Clash Meta For_Android](#CMFA) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+  - [Clash Meta](#CMFA) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
   - [SagerNet](#SagerNet) ![oss](min-oss.svg)
   - [Surfboard](#Surfboard) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+  - [NekoBox](#NekoBox) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
 
   - [v2rayN](#v2rayN) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
-  - [Clash](#Clash_Windows) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
-  - [SocksCap64](#SocksCap64)
+  - [Clash Verge rev](#Clash_Verge_rev) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+  - [Clash Nyanpasu](#Clash_Nyanpasu) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+  - [NekoRay](#NekoRay) ![oss](min-oss.svg)
 
 [![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
 
-  - [OneClick](#OneClick)
-  - [Potatso Lite 在线安装](#Potatso_Lite)
-  - [Shadowrocket 小火箭在线安装](#Shadowrocket) ![tuijian](min-tuijian.svg)
+  - [Shadowrocket](#Shadowrocket) ![tuijian](min-tuijian.svg)
+  - [OneClick](#OneClick) ![tuijian](min-tuijian.svg)
+  - [Quantumult X](#Quantumult_X)
+  - [Surge 5](#Surge_5)
+  - [Potatso](#Potatso)
 
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
 
@@ -206,24 +210,20 @@ EdNovas is the best!
 <span id="v2rayNG"></span>
 + <font size="5">v2rayNG</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
-[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+[![GooglePlay](googleplay.svg)](https://play.google.com/store/apps/details?id=com.v2ray.ang)
 
 [从release页面下载](https://github.com/2dust/v2rayNG/releases)
-
 
 [项目地址 2dust/v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-<span id="Clash_Android"></span>
-+ <font size="5">Clash</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+<span id="CMFA"></span>
++ <font size="5">Clash Meta</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
-[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
+[从release页面下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 
-[从release页面下载](https://github.com/Kr328/ClashForAndroid/releases)
-
-
-[项目地址 Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+[项目地址 MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
@@ -232,7 +232,7 @@ EdNovas is the best!
 
 [官网 sagernet.org](https://sagernet.org/)
 
-[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet)
+[![GooglePlay](googleplay.svg)](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet)
 
 [官方下载地址](https://sagernet.org/download/)
 
@@ -241,13 +241,22 @@ EdNovas is the best!
 [项目地址 SagerNet/SagerNet](https://github.com/SagerNet/SagerNet)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Surfboard"></span>
-+ <font size="5">Surfboard</font>
++ <font size="5">Surfboard</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
 [官网 getsurfboard.com](https://getsurfboard.com/)
 
-[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.getsurfboard)
+[![GooglePlay](googleplay.svg)](https://play.google.com/store/apps/details?id=com.getsurfboard)
 
 TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
+
+<span id="NekoBox"></span>
++ <font size="5">NekoBox</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+
+[![GooglePlay](googleplay.svg)](https://play.google.com/store/apps/details?id=moe.nb4a)
+
+[从release页面下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+
+[项目地址 MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Windows"></span>
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)
@@ -256,7 +265,6 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 + <font size="5">v2rayN</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
 [从release页面下载](https://github.com/2dust/v2rayN/releases)
-
 
 [项目地址 2dust/v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -267,7 +275,6 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-
 [项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 **<font size="4">汉化补丁</font>**[<font size="4">下载地址</font>](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
@@ -276,16 +283,8 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
-<span id="SocksCap64"></span>
-+ <font size="5">SocksCap64</font>
-
-`支持HTTP/SOCKS 4/SOCKS 5协议`
-
-[SocksCap64-setup-4.7下载地址](https://zgq-inc.lanzoui.com/iLkIRs6mcoh)
-
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
-
 
 <span id="OneClick"></span>
 + <font size="5">OneClick</font>
@@ -294,7 +293,7 @@ Unrestricted access to the Internet
 
 [官网 oneclick.earth](https://oneclick.earth/#/)
 
-[![AppStore](https://zgq-inc.github.io/badge/download/appstore.svg)](https://apps.apple.com/us/app/id1545555197)
+[![AppStore](appstore.svg)](https://apps.apple.com/us/app/id1545555197)
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
 
@@ -305,7 +304,7 @@ Unrestricted access to the Internet
 
 [Potatso Lite 代理工具 在线安装](https://shadowsockshelp.github.io/Potatso-Lite/)
 
-[![AppStore](https://zgq-inc.github.io/badge/download/appstore.svg)](https://apps.apple.com/us/app/potatso-lite/id1239860606)
+[![AppStore](appstore.svg)](https://apps.apple.com/us/app/potatso-lite/id1239860606)
 
 <span id="Shadowrocket"></span>
 + <font size="5">Shadowrocket</font> ![tuijian](min-tuijian.svg)
@@ -314,7 +313,7 @@ Unrestricted access to the Internet
 
 [Shadowrocket（小火箭）在线安装](https://shadowsockshelp.github.io/ios/)
 
-[![AppStore](https://zgq-inc.github.io/badge/download/appstore.svg)](https://apps.apple.com/us/app/shadowrocket/id932747118)
+[![AppStore](appstore.svg)](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
 <span id="MacOS"></span>
 ## MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)
@@ -333,7 +332,6 @@ Unrestricted access to the Internet
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-
 [项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 [使用教程](#tutorials)![Gitbook](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Gitbook&logoColor=000000)
@@ -345,7 +343,6 @@ Unrestricted access to the Internet
 + <font size="5">Clash</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-
 
 [项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -556,7 +553,7 @@ Unrestricted access to the Internet
 
 来自三星的隐私 VPN，具有免费和高级级别 + 强大的数据节省功能
 
-详情查看[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.opera.max.global)
+详情查看[![GooglePlay](googleplay.svg)](https://play.google.com/store/apps/details?id=com.opera.max.global)
 
 - **<font size="4">下载地址</font>**
 
@@ -638,7 +635,7 @@ Unrestricted access to the Internet
 
 在Android设备上运行代理服务器。
 
-[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)
+[![GooglePlay](googleplay.svg)](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy)
 
 [官网 everyproxy.co.uk](http://www.everyproxy.co.uk)
 
@@ -653,7 +650,7 @@ Unrestricted access to the Internet
 
 连接 VPN 从此更简单。通过无线中继或系统共享共享你的 VPN。（需要 root）
 
-[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=be.mygod.vpnhotspot)
+[![GooglePlay](googleplay.svg)](https://play.google.com/store/apps/details?id=be.mygod.vpnhotspot)
 
 [项目地址 Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -1089,7 +1086,7 @@ A Better Way to Watch Together Online
 <span id="upload"></span>
 - <font size="5">2000个安卓破解软件</font> ![tuijian](min-tuijian.svg)
 
-[点我查看](https://zgq-inc.github.io/homepage/rtk_up.html)
+[点我查看](https://zgqinc.gq/rtk_up)
 
 ***
 
@@ -1100,7 +1097,7 @@ A Better Way to Watch Together Online
 
 [官网 www.departuresvpn.tk](https://www.departuresvpn.tk/)
 
-[![GooglePlay](https://zgq-inc.github.io/badge/download/googleplay.svg)](https://play.google.com/store/apps/details?id=com.ambrose.overwall)
+[![GooglePlay](googleplay.svg)](https://play.google.com/store/apps/details?id=com.ambrose.overwall)
 
 > Telegram频道 [@ShareOpenVPN](https://t.me/ShareOpenVPN)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
 > 
@@ -1181,7 +1178,7 @@ A Better Way to Watch Together Online
 <span id="announce"></span>
 # 声明
 
-所有资源均来源于网络搜集，如有侵权请[联系我](https://zgq-inc.github.io/homepage/#about)删除。
+所有资源均来源于网络搜集，如有侵权请[联系我](https://zgqinc.gq/#about)删除。
 
 ![CC](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 

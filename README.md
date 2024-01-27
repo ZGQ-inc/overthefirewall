@@ -24,6 +24,8 @@
 
 - [ ] 添加更多Android客户端。
 
+- [ ] 添加更多Windows客户端。
+
 - [ ] 添加更多iOS客户端（Quantumult, Surge, Kitsunebi, Potatso Lite）。
 
 - [x] 更新破解版VPN版本（1.1.1.1，vpnify）。
