@@ -85,11 +85,10 @@ EdNovas is the best!
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
 
   - [v2rayU](#v2rayU) ![oss](min-oss.svg)
-  - [Clash](#Clash_MacOS) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
 
-  - [Clash](#Clash_Linux) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+  - 用[Wine](https://www.winehq.org/)算了
 
   - [未整理&其它](#others)
 
