@@ -61,12 +61,10 @@ EdNovas is the best!
 
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)![Huawei](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Huawei&logoColor=D1092E)`etc.`
 
-**<font size="4">推荐使用</font>**[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84) ![tuijian](min-tuijian.svg)
-
   - [v2rayNG](#v2rayNG) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
-  - [Clash](#Clash_Android) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+  - [Clash Meta For_Android](#CMFA) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
   - [SagerNet](#SagerNet) ![oss](min-oss.svg)
-  - [Surfboard](#Surfboard)
+  - [Surfboard](#Surfboard) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
 
@@ -109,8 +107,7 @@ EdNovas is the best!
 + [vpnify](#vpnify)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![tuijian](min-tuijian.svg)
 + [1.1.1.1](#1.1.1.1)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![tuijian](min-tuijian.svg)
 + [AdGuard VPN](#AdGuard_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
-
-[SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1) ![tuijian](min-tuijian.svg) `破解版`
++ [SamsungMax 三星旗下隐私保护软件](#SamsungMax)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1) ![tuijian](min-tuijian.svg) `破解版`
 
 [Shadowrocket 小火箭账号分享](#Shadowrocket_Apple_ID)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000) ![tuijian](min-tuijian.svg)
 + [Get Shadowrocket](#GetShadowrocket)
@@ -130,11 +127,7 @@ EdNovas is the best!
 
 [外网&Github文件下载加速](#speedup_download)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-[Oracleusa.ml利用甲骨文搭建的反向直连项目](#Oracleusa_ml)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
-
 [Hyperbeam屏幕共享聊天室](#Hyperbeam)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
-
-[Neverinstall在线运行应用程序](#Neverinstall)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [<font color="#FF0000">翻墙软件&机场黑名单</font>](#blacklist)
 
@@ -210,8 +203,6 @@ EdNovas is the best!
 <span id="Android"></span>
 ## Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-**<font size="4">推荐使用</font>**[安卓破解版VPN分享](#Android_patched_VPN)![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
-
 <span id="v2rayNG"></span>
 + <font size="5">v2rayNG</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
@@ -219,7 +210,6 @@ EdNovas is the best!
 
 [从release页面下载](https://github.com/2dust/v2rayNG/releases)
 
-**如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [项目地址 2dust/v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -232,7 +222,6 @@ EdNovas is the best!
 
 [从release页面下载](https://github.com/Kr328/ClashForAndroid/releases)
 
-**如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [项目地址 Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -268,7 +257,6 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 [从release页面下载](https://github.com/2dust/v2rayN/releases)
 
-**如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [项目地址 2dust/v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -279,7 +267,6 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-**如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -299,7 +286,6 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
 
-**<font size="6" color="#FF0000">推荐使用</font>**[<font size="6" color="#7093DB">Shadowrocket账号分享</font>](#Shadowrocket_Apple_ID)<font size="2">←点击跳转</font>
 
 <span id="OneClick"></span>
 + <font size="5">OneClick</font>
@@ -347,7 +333,6 @@ Unrestricted access to the Internet
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-**如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -361,7 +346,6 @@ Unrestricted access to the Internet
 
 [从release页面下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-**如果觉得下载速度太慢可以使用[外网&Github文件下载加速](#speedup_download)**![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Windows&logoColor=0078D6)![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
 [项目地址 Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
@@ -465,7 +449,7 @@ Unrestricted access to the Internet
 <span id="IP"></span>
 # IP查询
 
-<iframe src="https://ip.skk.moe/simple" width="100%" height="250" style="border: 0"></iframe>
+<iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>
 
 [IPAddress.com](https://www.ipaddress.com/)
 
@@ -474,7 +458,7 @@ Unrestricted access to the Internet
 ***
 
 <span id="Android_patched_VPN"></span>
-# 安卓破解版VPN分享 ![tuijian](min-tuijian.svg)
+# 安卓破解版VPN分享<span style="color: #ff0000">（不再更新）</span> ![tuijian](min-tuijian.svg)
 
 **<span style="color: #ff0000">如更新失败请卸载旧版本然后再安装。</span>**
 
@@ -565,10 +549,8 @@ Unrestricted access to the Internet
 
 [VyprVpnMod_A2ZAPK.COM.apk](https://zgq-inc.lanzouv.com/ie5z708xufbi)
 
-***
-
 <span id="SamsungMax"></span>
-# Samsung Max ![tuijian](min-tuijian.svg)
+## Samsung Max ![tuijian](min-tuijian.svg)
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)
 
@@ -835,19 +817,6 @@ MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS
 
 ***
 
-<span id="Oracleusa_ml"></span>
-# Oracleusa.ml
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
-
-用全球顶级VPS提供商之一的甲骨文做的反向直连项目，开发者未知，简单来说就是免梯子访问外网。
-
-[网址 oracleusa.ml](https://oracleusa.ml/)
-
-[测试直连](https://oracleusa.ml/-----https://zh.m.wikipedia.org/wiki/%E7%94%B2%E9%AA%A8%E6%96%87%E5%85%AC%E5%8F%B8)
-
-***
-
 <span id="Hyperbeam"></span>
 # Hyperbeam
 
@@ -860,19 +829,6 @@ A Better Way to Watch Together Online
 一个支持在线浏览器屏幕共享的聊天室平台，后台基于Linux系统，浏览器画面通过P2P远程传输，服务器在欧洲，可以实现免梯子访问外网。
 
 注册账号，创建自己的房间即可，可以私用，也可以发送邀请链接，与他人共享画面。
-
-***
-
-<span id="Neverinstall"></span>
-# Neverinstall
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=FFFFFF)![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=flat-square&logo=Apple&logoColor=FFFFFF)![MacOS](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=MacOS&logoColor=FFFFFF)![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=222222)
-
-Your browser is the new operating system
-
-[官网 neverinstall.com](https://neverinstall.com/)
-
-在线运行应用程序，应用程序可以在多个地区建立，支持的应用程序很多，画面远程传输，无需连接代理，免费套餐只支持一次运行一个应用程序。
 
 ***
 
