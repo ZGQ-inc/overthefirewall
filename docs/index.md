@@ -49,6 +49,10 @@ EdNovas is the best!
 
 谷歌ceo比尔盖茨亲临一线指导部署
 
+[<font size="5">Nanocloud</font>](sponsor_7.html)
+
+亏本运营，节点质量同价位找不到第二家
+
 ***
 
 <span id="contents"></span>
