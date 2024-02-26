@@ -89,10 +89,13 @@ EdNovas is the best!
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
 
   - [v2rayU](#v2rayU) ![oss](min-oss.svg)
+  - [Clash Verge rev](#Clash_Verge_rev_MacOS) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+  - [Clash Nyanpasu](#Clash_Nyanpasu_MacOS) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
 
-  - [Wine](#Wine) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+  - [Clash Verge rev](#Clash_Verge_rev_Linux) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+  - [Clash Nyanpasu](#Clash_Nyanpasu_Linux) ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
   - [未整理&其它](#others)
 
@@ -326,26 +329,45 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 [从release页面下载](https://github.com/yanue/V2rayU/releases)
 
-[下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/iHUK9mz4b3a)
-
 [项目地址 yanue/V2rayU](https://github.com/yanue/V2rayU)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="Clash_Verge_rev_MacOS"></span>
++ <font size="5">Clash Verge rev</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+
+[从release页面下载](https://github.com/wonfen/clash-verge-rev/releases)
+
+[项目地址 wonfen/clash-verge-rev](https://github.com/wonfen/clash-verge-rev)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="Clash_Nyanpasu_MacOS"></span>
++ <font size="5">Clash Nyanpasu</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+
+[从release页面下载](https://github.com/keiko233/clash-nyanpasu/releases)
+
+[项目地址 keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Linux"></span>
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
 
-<span id="Wine"></span>
-+ <font size="5">Wine</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+<span id="Clash_Verge_rev_Linux"></span>
++ <font size="5">Clash Verge rev</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
 
-用Wine算了。
+[从release页面下载](https://github.com/wonfen/clash-verge-rev/releases)
 
-[官网 winehq.org](https://www.winehq.org/)
+[项目地址 wonfen/clash-verge-rev](https://github.com/wonfen/clash-verge-rev)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="Clash_Nyanpasu_Linux"></span>
++ <font size="5">Clash Nyanpasu</font> ![oss](min-oss.svg) ![tuijian](min-tuijian.svg)
+
+[从release页面下载](https://github.com/keiko233/clash-nyanpasu/releases)
+
+[项目地址 keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="others"></span>
 ## 未整理/其它
 
-[下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/b00ob0zsj)
+<!-- [下载地址（蓝奏云）](https://zgq-inc.lanzoux.com/b00ob0zsj)
 
-密码:VPN
+密码:VPN -->
 
 [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)
 
