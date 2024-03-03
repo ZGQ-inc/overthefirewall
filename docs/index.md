@@ -53,9 +53,9 @@ EdNovas is the best!
 
 谷歌ceo比尔盖茨亲临一线指导部署
 
-[<font size="5">遨游机场</font>](sponsor_8.html)
+[<font size="5">VMSSR</font>](sponsor_8.html)
 
-
+全球中继网络
 
 ***
 
