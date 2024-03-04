@@ -1117,12 +1117,6 @@ A Better Way to Watch Together Online
 > 
 > Telegram群组 [@freessrvpn](https://t.me/freessrvpn)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
 
-<font size="6">免费节点频道</font>
-
-项目作者是频道管理员。
-
-> Telegram频道 [@tuidaoGFW](https://t.me/tuidaoGFW)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
-
 ***
 
 <span id="Q&A"></span>
