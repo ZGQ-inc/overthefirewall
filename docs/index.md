@@ -57,6 +57,10 @@ EdNovas is the best!
 
 全球中继网络
 
+[<font size="5">EteralNetwork</font>](sponsor_9.html)
+
+你的网络安全之选
+
 ***
 
 <span id="contents"></span>
