@@ -61,6 +61,9 @@ EdNovas is the best!
 
 你的网络安全之选
 
+[<font size="5">白米团子</font>](sponsor_10.html)
+
+致力于提供稳定高速的互联网服务
 ***
 
 <span id="contents"></span>
