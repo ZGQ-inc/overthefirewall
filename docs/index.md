@@ -64,6 +64,11 @@ EdNovas is the best!
 [<font size="5">米白云</font>](sponsor_10.html)
 
 致力于提供稳定高速的互联网服务
+
+[<font size="5">万达云</font>](sponsor_11.html)
+
+多地区自有硬件服务器
+
 ***
 
 <span id="contents"></span>
