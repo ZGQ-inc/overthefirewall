@@ -69,6 +69,10 @@ EdNovas is the best!
 
 多地区自有硬件服务器
 
+[<font size="5">轻舞云</font>](sponsor_12.html)
+
+大陆首选 亚洲区最佳 VPN
+
 ***
 
 <span id="contents"></span>
