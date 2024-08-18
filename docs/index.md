@@ -73,6 +73,10 @@ EdNovas is the best!
 
 大陆首选 亚洲区最佳 VPN
 
+[<font size="5">青云梯</font>](sponsor_13.html)
+
+完美运营三周年，让您畅游全球网络
+
 ***
 
 <span id="contents"></span>
