@@ -41,7 +41,7 @@ layout: default
 
 亏本运营，节点质量同价位找不到第二家
 
-[<font size="5">青云梯</font>](sponsor/sponsor_14.html)
+[<font size="5">奥创</font>](sponsor/sponsor_14.html) ![tuijian](assets/min-tuijian.svg)
 
 全球网络中继服务，随时随处尽情使用
 
