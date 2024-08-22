@@ -29,55 +29,55 @@ layout: default
 <span id="ads"></span>
 # 赞助商广告
 
-[<font size="5">天枢互联</font>](sponsor.html) ![tuijian](assets/min-tuijian.svg)
+[<font size="5">天枢互联</font>](sponsor/sponsor.html) ![tuijian](assets/min-tuijian.svg)
 
 全球网络中继服务,随时随处尽情使用
 
-[<font size="5">Sausage Cloud</font>](sponsor_3.html) ![tuijian](assets/min-tuijian.svg)
+[<font size="5">Sausage Cloud</font>](sponsor/sponsor_3.html) ![tuijian](assets/min-tuijian.svg)
 
 高性价比网络中继服务，随时随处尽情使用
 
-[<font size="5">Nanocloud</font>](sponsor_7.html) ![tuijian](assets/min-tuijian.svg)
+[<font size="5">Nanocloud</font>](sponsor/sponsor_7.html) ![tuijian](assets/min-tuijian.svg)
 
 亏本运营，节点质量同价位找不到第二家
 
-[<font size="5">雲村YUNCUN</font>](sponsor_2.html)
+[<font size="5">雲村YUNCUN</font>](sponsor/sponsor_2.html)
 
 勇敢发现新世界的美
 
-[<font size="5">EdNovas云</font>](sponsor_5.html)
+[<font size="5">EdNovas云</font>](sponsor/sponsor_5.html)
 
 EdNovas is the best!
 
-[<font size="5">V2云</font>](sponsor_6.html)
+[<font size="5">V2云</font>](sponsor/sponsor_6.html)
 
 开始探索新的世界
 
-[<font size="5">遨游机场</font>](sponsor_4.html)
+[<font size="5">遨游机场</font>](sponsor/sponsor_4.html)
 
 谷歌ceo比尔盖茨亲临一线指导部署
 
-[<font size="5">VMSSR</font>](sponsor_8.html)
+[<font size="5">VMSSR</font>](sponsor/sponsor_8.html)
 
 全球中继网络
 
-[<font size="5">EteralNetwork</font>](sponsor_9.html)
+[<font size="5">EteralNetwork</font>](sponsor/sponsor_9.html)
 
 你的网络安全之选
 
-[<font size="5">米白云</font>](sponsor_10.html)
+[<font size="5">米白云</font>](sponsor/sponsor_10.html)
 
 致力于提供稳定高速的互联网服务
 
-[<font size="5">万达云</font>](sponsor_11.html)
+[<font size="5">万达云</font>](sponsor/sponsor_11.html)
 
 多地区自有硬件服务器
 
-[<font size="5">轻舞云</font>](sponsor_12.html)
+[<font size="5">轻舞云</font>](sponsor/sponsor_12.html)
 
 大陆首选 亚洲区最佳 VPN
 
-[<font size="5">青云梯</font>](sponsor_13.html)
+[<font size="5">青云梯</font>](sponsor/sponsor_13.html)
 
 完美运营三周年，让您畅游全球网络
 
