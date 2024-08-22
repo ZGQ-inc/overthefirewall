@@ -1,0 +1,81 @@
+.oui-menu-trigger {
+    cursor: pointer;
+    list-style: none;
+}
+.js-focus-visible :focus:not(.focus-visible) {
+    outline: none;
+}
+.oui-menu-trigger::-webkit-details-marker {
+  display: none;
+}
+.oui-menu {
+    position: relative;
+    height: min-content;
+}
+.oui-menu>ul {
+	position: absolute;
+	transform: scale(0.8);
+	transform-origin: 0 0;
+	z-index: 100;
+    transition: opacity 0.1s ease-in, transform 0.3s var(--easeOutBack);
+    opacity: 0;
+    line-height: normal;
+    top: 0;
+    left: 0;
+    width: max-content;
+    padding-left: 0;
+    padding-right: 0;
+    cursor: auto;
+}
+.oui-menu[open]>ul {
+    transform: scale(1);
+    opacity: 1;
+}
+.oui-menu-trigger::before {
+    content: "▾ ";
+}
+.oui-menu-direction-up.oui-menu-direction-up {
+    bottom: 0;
+    top: auto;
+}
+.oui-menu-direction-left.oui-menu-direction-left {
+    right: 0;
+    left: auto;
+}
+.oui-menu>ul>li {
+    padding: 0;
+}
+.oui-menu>ul>li>a {
+    position: relative;
+    padding: 10px 20px;
+    display: block;
+}
+.oui-menu>ul>li>a::before {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    content: '';
+    background-color: var(--dark-m-grey);
+    clip-path: circle(0%);
+    transition: clip-path 0.5s ease-out;
+    z-index: -1;
+}
+
+.oui-menu>ul>li>a:hover::before,
+.js-focus-visible .oui-menu>ul>li>a.focus-visible::before
+{
+    clip-path: circle(100%);
+}
+
+.oui-menu>ul>li>a {
+    text-decoration: none;
+    color: inherit;
+}
+
+@media (prefers-reduced-motion) {
+	.oui-menu,.oui-menu>ul>li::before {
+		transition: none;
+	}
+}

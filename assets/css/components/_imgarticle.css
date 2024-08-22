@@ -1,0 +1,22 @@
+.oui-imgarticle {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.oui-imgarticle-img {
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.oui-imgarticle-title {
+    margin: 0 0 3px 0;
+    font-size: 1.3em;
+    font-weight: 400;
+}
+
+.oui-imgarticle-text {
+    color: var(--on-background);
+}

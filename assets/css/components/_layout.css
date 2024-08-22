@@ -1,0 +1,32 @@
+.oui-viewing {
+    scroll-snap-align: start;
+    background-color: var(--background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 40%;
+    padding: 4em;
+}
+
+.oui-viewing-title {
+    text-align: center;
+    word-wrap: break-word;
+    width: 60%;
+}
+
+.oui-viewing-subtitle {
+    margin-top: 16px;
+}
+
+.oui-interaction {
+    min-height: 60%;
+    scroll-snap-align: start;
+    margin-bottom: 60pt;
+}
+
+.container {
+    min-width: 260px;
+    max-width: 400px;
+    margin: 0 auto;
+}

@@ -1,0 +1,91 @@
+
+/*fonts used in oneui web*/
+@font-face {
+  font-family: 'SamsungSharpSans-Regular';
+  src: url('../fonts/SamsungSharpSans-Regular.eot') format('embedded-opentype'),  url('../fonts/SamsungSharpSans-Regular.woff') format('woff'), url('../fonts/SamsungSharpSans-Regular.ttf')  format('truetype'), url('../fonts/SamsungSharpSans-Regular.svg#SamsungSharpSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'SamsungSharpSans-Bold';
+  src: url('../fonts/SamsungSharpSans-Bold.eot') format('embedded-opentype'),  url('../fonts/SamsungSharpSans-Bold.woff') format('woff'), url('../fonts/SamsungSharpSans-Bold.ttf')  format('truetype'), url('../fonts/SamsungSharpSans-Bold.svg#SamsungSharpSans-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'SamsungOne-Regular';
+  src: url('../fonts/samsungone-300-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'SamsungOne-Regular';
+  src: url('../fonts/samsungone-600-webfont.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'SamsungOne-Regular';
+  src: url('../fonts/samsungone-700-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'SamsungOne-Regular';
+  src: url('../fonts/samsungone-800-webfont.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: auto;
+}
+
+body {
+  font-family: 'SamsungOne-Regular', sans-serif;
+  font-weight: 300;
+  font-size: 13px;
+}
+
+@media (min-width: var(--s-tablet)) {
+  font-size: 15px;
+}
+
+.oui-page-title {
+  text-align: center;
+}
+
+h1 {
+  padding: 1em 0;
+  font-weight: 400;
+  font-size: 2.5em;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 1.6em;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 1.4em;
+}
+
+p {
+  line-height: 1.4em;
+}
+
+a {
+  color: var(--app-accent);
+}
+
+a:hover, a:active {
+  color: var(--active);
+}

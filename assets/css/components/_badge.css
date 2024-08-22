@@ -1,0 +1,23 @@
+.oui-badge {
+    width: max-content;
+    color: var(--on-accent-badge);
+    background-color: var(--accent-badge);
+    margin: 1em;
+    padding: .5em;
+    display: flex;
+    flex-direction: row;
+    font-size: 1em;
+    min-width: 2em;
+    min-height: 2em;
+    max-height: 5px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1em;
+    position:relative;
+}
+
+.oui-badge-placement {
+    position: absolute;
+    top: 0.1em;
+    right: 0.1em;
+}

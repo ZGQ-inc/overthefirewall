@@ -1,0 +1,23 @@
+.oui-tab {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: var(--control-background);
+}
+
+.oui-tab-link {
+    margin: 20px 20px 30px 20px;
+    padding-bottom: 4px;
+    font-size: 1.3em;
+    text-decoration: none;
+    color: var(--text-secondary);
+    flex-grow: 1;
+    text-align: center;
+}
+
+.oui-tab-link--active {
+    border-bottom: 2px dotted var(--on-background);
+    color: var(--app-accent);
+}

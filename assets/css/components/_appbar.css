@@ -1,0 +1,81 @@
+.oui-appbar {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: var(--on-surface);
+    height: 25.2pt;
+    align-items: center;
+    background-color: var(--background);
+    margin-bottom: 5.4pt;
+    position: relative;
+}
+
+.oui-appbar:before{
+    display: inline-block;
+    content: '';
+    position: absolute;
+    top: 100%;
+    width: 25px;
+    height: 25px;
+    left: 0;
+    background-color: var(--background);
+    mask-image: url(../icons/left.svg);
+    -webkit-mask-image: url(../icons/left.svg);
+}
+
+.oui-appbar::after{
+    display: inline-block;
+    content: '';
+    position: absolute;
+    top: 100%;
+    width: 25px;
+    height: 25px;
+    right: 0;
+    background-color: var(--background);
+    mask-image: url(../icons/right.svg);
+    -webkit-mask-image: url(../icons/right.svg);
+}
+
+.oui-appbar-back-button {
+    flex: 0 1 auto;
+    width: 32px;
+    height: 32px;
+    line-height: 53px;
+    background-color: var(--text);
+    margin-left: 9pt;
+    color: var(--text);
+
+    /* wip */
+    mask-image: url(../icons/previous.svg);
+    -webkit-mask-image: url(../icons/previous.svg);
+    mask-position: center;
+    -webkit-mask-position: center;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-size: 20px;
+    -webkit-mask-size: 20px;
+}
+
+.oui-appbar-title {
+    flex: 1 1 auto;
+    align-self: center;
+    word-wrap: break-word;
+    margin-left: 5.4pt;
+}
+
+.oui-appbar-actions {
+    flex: 0 1 auto;
+    width: 32px;
+    height: 32px;
+    line-height: 53px;
+    background: center no-repeat;
+    margin-right: 9pt;
+    background-color: var(--text);
+    /* wip */
+    mask-image: url(../icons/vertical_ellipsis.svg);
+    -webkit-mask-image: url(../icons/vertical_ellipsis.svg);
+    mask-position: center;
+    -webkit-mask-position: center;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+}

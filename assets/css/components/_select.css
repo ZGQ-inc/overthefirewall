@@ -1,0 +1,14 @@
+.oui-input-select {
+    height: 48px;
+    padding: 0 24px;
+    line-height: 48px;
+    border: solid 1px var(--surface-background);
+    border-radius: 24px;
+    background-color: var(--surface-background);
+    transition: border .3s;
+}
+
+.oui-input-select:focus,
+.oui-input-select:hover {
+    border: solid 1px var(--app-accent);
+}

@@ -1,0 +1,65 @@
+:root {
+    /*color palette*/
+    --p-white: #FFFFFF;
+    --white-col: 252,252,252;
+    --white: rgb(var(--white-col));
+    --black-col: 37, 37, 37;
+    --black: rgb(var(--black-col));
+    --d-grey: #737373;
+    --dark-m-grey: #b6b6b6;
+    --m-grey: #c4c4c4;
+    --l-grey: #E6E6E6;
+    --xl-grey-col: 242,242,242; /*#F2F2F2*/
+    --xl-grey: rgb(var(--xl-grey-col));
+    --orange: #C65306;
+    --blue: #0865C3;
+    --l-blue: #4297FF;
+    --xl-blue: #AAD0F5;
+    --red: #F01346;
+    --green: #15B76C;
+    --purple: #6446E6;
+    --yellow: #FF9E01;
+
+    /*main theme variables*/
+    --text: var(--black);
+    --text-secondary: var(--d-grey);
+    --primary: var(--blue);
+    --secondary: var();
+    --active: var(--l-blue);
+    --inactive: var(--xl-blue);
+    --app-accent: var(--primary);
+
+    /*backgrounds*/
+    --background: var(--xl-grey);
+    --control-background: var(--l-grey);
+    --textual-background: var(--white);
+    --surface-background: var(--white);
+    --alt-surface-background: var(--d-grey);
+    --frosted-opacity: 0.8;
+    --frosted-blur-size: 0.5rem;
+    --frosted-background-color: rgba(var(--xl-grey-col), var(--frosted-opacity));
+
+    /*accents*/
+    --error: var(--red);
+    --confirmation: var(--green);
+    --accent-badge: var(--orange);
+
+    /*on top colors*/
+    --on-primary: var(--p-white);
+    --on-secondary: var();
+    --on-active: var(--p-white);
+    --on-background: var(--black);
+    --on-alt-background: var(--p-white);
+    --on-surface: var(--black);
+    --on-error: var(--white);
+    --on-confirmation: var(--white);
+    --on-accent-badge: var(--p-white);
+
+    /*borders*/
+    --border-surface: var(--l-grey);
+    --border-alt-surface: var(--l-grey);
+    --border-control: var(--d-grey);
+
+    /*misc*/
+    --shadow-color: rgba(var(--black-col), 0.3);
+}

@@ -1,0 +1,24 @@
+.oui-toast {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: fixed;
+    z-index: 1000;
+    bottom: 10%;
+    width: 100%;
+    margin: 2.25pt;
+}
+
+.oui-toast-text {
+    text-align: center;
+    background: var(--alt-surface-background);
+    color: var(--white);
+    border: 1px solid var(--text-color);
+    border-radius: 1em;
+    padding: 7.2pt;
+    padding-left: 7.2pt;
+    padding-right: 7.2pt;
+    padding-top: 4.5pt;
+    padding-bottom: 4.5pt;
+    max-width: 52%;
+}

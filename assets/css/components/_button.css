@@ -1,0 +1,47 @@
+.oui-button {
+    display: inline-block;
+    height: 48px;
+    padding: 0 24px;
+    line-height: 48px;
+    border: 1px solid transparent;
+    border-radius: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: var(--app-accent);
+    background-color: var(--control-background);
+    transition: border .3s;
+    text-decoration: none;
+    text-align: center;
+    -webkit-appearance: none;
+}
+
+.oui-icon-button {
+    padding: 0;
+    border: 1px solid transparent;
+    line-height: inherit;
+    border-radius: 50%;
+    color: var(--app-accent);
+    background-color: var(--control-background);
+    transition: border .3s;
+}
+
+.oui-button:hover, 
+.oui-button:focus,
+.oui-icon-button:hover,
+.oui-icon-button:focus {
+    color: var(--active);
+    border: solid 1px var(--app-accent);
+}
+
+.oui-button--active, 
+.oui-icon-button--active {
+    color: var(--on-primary);
+    background-color: var(--app-accent);
+    border: solid 1px var(--app-accent);
+}
+
+.oui-button--active:hover,
+.oui-icon-button--active:hover {
+    color: var(--on-active);
+    background-color: var(--active)
+}

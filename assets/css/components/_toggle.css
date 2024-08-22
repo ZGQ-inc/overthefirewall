@@ -1,0 +1,55 @@
+/* The switch - the box around the toggle-slider */
+.oui-container-toggle {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.toggle {
+    opacity: 0;
+    position: absolute;
+    width: 0;
+    height: 0;
+}
+
+.toggle-slider {
+    position: relative;
+    display: block;
+    width: 38px;
+    height: 18px;
+    border-radius: 10px;
+    margin: 20px;
+    border: 1px solid var(--on-background);
+    cursor: pointer;
+}
+
+.toggle-slider:after {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    top: -2px;
+    left: -2px;
+    border-radius: 50%;
+    border: 1px solid var(--on-background);
+    background-color: var(--on-primary);
+    transition: .5s;
+}
+
+input:checked + .toggle-slider {
+    background-color: var(--app-accent);
+    border-color: var(--app-accent);
+}
+
+input:focus + .toggle-slider {
+    box-shadow: 0 0 1px var(--app-accent);
+}
+
+input:checked + .toggle-slider:after {
+    transform: translateX(20px);
+    border-color: var(--app-accent);
+}
+
+.oui-container-toggle:hover .toggle-slider:after {
+    box-shadow: 0px 0px 0px 10px rgba(0,0,0,0.2);
+}

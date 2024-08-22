@@ -1,0 +1,11 @@
+:root {
+    --s-handset: 240px;
+    --m-handset: 360px;
+    --l-handset: 480px;
+  
+    --s-tablet: 600px;
+    --m-tablet: 720px;
+    --l-tablet: 840px;
+    
+    --desktop: 960px;
+}

@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+}
+
+.lozenge {
+    background-color: var(--control-background);
+    display: inline-block;
+    width: auto;
+    margin: 1em;
+    padding: 2px 10px;
+    border-radius: calc(0.5em + 2px);
+    font-size: 1em;
+    font-weight: 400;
+}

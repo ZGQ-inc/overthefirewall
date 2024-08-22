@@ -1,0 +1,53 @@
+.oui-row {
+    display: flex !important;
+    flex: 0 1 auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 0px !important;
+}
+
+.x1,
+.x2,
+.x3,
+.x4,
+.x5,
+.x6 {
+    flex: 1;
+    box-sizing: border-box;
+}
+
+.x1 {
+    flex: 0 0 auto;
+    flex-basis: calc(100% / 6 );
+    max-width: calc(100% / 6 );
+}
+
+.x2 {
+    flex: 0 0 auto;
+    flex-basis: calc(100% / 6 * 2);
+    max-width: calc(100% / 6 * 2);
+}
+
+.x3 {
+    flex: 0 0 auto;
+    flex-basis: calc(100% / 6 * 3);
+    max-width: calc(100% / 6 * 3);
+}
+
+.x4 {
+    flex: 0 0 auto;
+    flex-basis: calc(100% / 6 * 4);
+    max-width: calc(100% / 6 * 4);
+}
+
+.x5 {
+    flex: 0 0 auto;
+    flex-basis: calc(100% / 6 * 5);
+    max-width: calc(100% / 6 * 5);
+}
+
+.x6 {
+    flex-basis: 100%;
+    max-width: 100%;
+    flex: 0 0 auto;
+}

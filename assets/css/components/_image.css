@@ -1,0 +1,19 @@
+:root {
+    --oui-thumbnail-radius: 26px;
+}
+
+.oui-image-cover {
+    border-radius: var(--oui-thumbnail-radius);
+    border: 1px solid var(--border-surface);
+    object-fit: cover;
+    width: 100%;
+}
+
+.oui-image-caption {
+    margin: auto;
+    font-size: .8em;
+    color: var(--on-surface);
+    line-height: .8em;
+}
+
+ 

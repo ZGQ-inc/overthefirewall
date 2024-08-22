@@ -1,0 +1,62 @@
+.oui-dialog {
+    /* Inherit from bubble */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    min-height: 300px;
+    padding: 40px 17pt;
+    border-radius: 24px;
+    border: 1px solid var(--border-surface);
+    background-color: var(--surface-background);
+    z-index: 2000;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.oui-dialog-header {
+    font-size: 17pt;
+    font-weight: medium;
+}
+
+.oui-dialog-description {
+    padding-top: 20pt;
+    color: var(--on-background);
+}
+
+.oui-dialog-action {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    display: flex;
+}
+
+.oui-dialog-action-link {
+    flex-grow: 5;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    color: var(--app-accent)
+}
+
+.oui-dialog-divider {
+    width: 1px;
+    margin: 6px 0;
+    height: 1.5em;
+    background: var(--border-surface);
+    align-self: center;
+}
+
+.oui-dialog-mask {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: black;
+    opacity: 0.8;
+    z-index: 1000;
+    backdrop-filter: blur(var(--frosted-blur-size));
+}

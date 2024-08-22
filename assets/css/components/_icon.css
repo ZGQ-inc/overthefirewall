@@ -1,0 +1,29 @@
+.oui-icon {
+    display: block;
+    width: 32px;
+    height: 32px;
+    line-height: 53px;
+    background: center no-repeat;
+    background-size: 20px;
+}
+
+.oui-icon--large {
+    display: block;
+    width: 52px;
+    height: 52px;
+    line-height: 53px;
+    background: center no-repeat;
+    background-size: 30px;
+}
+
+.oui-icon-plus {
+    background-image: url(../icons/plus.svg);
+}
+
+.oui-icon-palette {
+    background-image: url(../icons/palette.svg);
+}
+
+.oui-icon-save {
+    background-image: url(../icons/plus.svg);
+}
