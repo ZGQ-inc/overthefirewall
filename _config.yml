@@ -1,0 +1,12 @@
+markdown: kramdown
+highlighter: rouge
+theme: null
+title: 节点订阅 β
+
+
+exclude:
+  - LICENSE.txt
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
