@@ -41,6 +41,10 @@ layout: default
 
 亏本运营，节点质量同价位找不到第二家
 
+[<font size="5">青云梯</font>](sponsor/sponsor_14.html)
+
+全球网络中继服务，随时随处尽情使用
+
 [<font size="5">雲村YUNCUN</font>](sponsor/sponsor_2.html)
 
 勇敢发现新世界的美
