@@ -282,8 +282,6 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 <span id="NekoBox"></span>
 + <font size="5">NekoBox</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
 
-[![GooglePlay](assets/googleplay.svg)](https://play.google.com/store/apps/details?id=moe.nb4a)
-
 [从release页面下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 
 [项目地址 MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
