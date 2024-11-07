@@ -1,4 +1,4 @@
-![overthefirewall](https://socialify.git.ci/ZGQ-inc/overthefirewall/image?font=Inter&forks=1&logo=https%3A%2F%2Foverthefirewall.zgqinc.gq%2Ffavicon.ico&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Auto)
+![overthefirewall](https://socialify.git.ci/ZGQ-inc/overthefirewall/image?font=Inter&forks=1&logo=https%3A%2F%2Foverthefirewall.zgqinc.gq%2Ffavicon.ico&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Light)
 
 <a href="https://star-history.com/#ZGQ-inc/overthefirewall&Date">
  <picture>
