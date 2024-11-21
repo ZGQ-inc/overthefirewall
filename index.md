@@ -1135,7 +1135,7 @@ A Better Way to Watch Together Online
 
 <font size="6">起飞VPN</font>
 
-[官网 www.departuresvpn.tk](https://www.departuresvpn.tk/)
+[官网 goflyvpn.com](https://goflyvpn.com/)
 
 [![GooglePlay](assets/googleplay.svg)](https://play.google.com/store/apps/details?id=com.ambrose.overwall)
 
