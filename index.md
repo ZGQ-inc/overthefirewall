@@ -97,18 +97,20 @@ EdNovas is the best!
 
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF)](#Android)![Samsung](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Samsung&logoColor=024DA1)![Xiaomi](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Xiaomi&logoColor=FF6900)![Huawei](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Huawei&logoColor=D1092E)`etc.`
 
-  - [v2rayNG](#v2rayNG) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [Clash Meta](#CMFA) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [SagerNet](#SagerNet) ![oss](assets/min-oss.svg)
   - [Surfboard](#Surfboard) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+  - [FlClash](#FlClash) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [NekoBox](#NekoBox) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+  - [v2rayNG](#v2rayNG) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
 
-  - [v2rayN](#v2rayN) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [Clash Verge rev](#Clash_Verge_rev) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [Clash Nyanpasu](#Clash_Nyanpasu) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+  - [FlClash](#FlClash_Windows) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [NekoRay](#NekoRay) ![oss](assets/min-oss.svg)
+  - [v2rayN](#v2rayN) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
 
 [![iOS](https://img.shields.io/badge/-iOS/iPadOS-000000?style=for-the-badge&logo=Apple&logoColor=FFFFFF)](#iOS/iPadOS)
 
@@ -120,16 +122,19 @@ EdNovas is the best!
 
 [![MacOS](https://img.shields.io/badge/-MacOS-999999?style=for-the-badge&logo=MacOS&logoColor=FFFFFF)](#MacOS)
 
-  - [v2rayU](#v2rayU) ![oss](assets/min-oss.svg)
   - [Clash Verge rev](#Clash_Verge_rev_MacOS) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [Clash Nyanpasu](#Clash_Nyanpasu_MacOS) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+  - [FlClash](#FlClash_MacOS) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+  - [v2rayU](#v2rayU) ![oss](assets/min-oss.svg)
 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=222222)](#Linux)
 
   - [Clash Verge rev](#Clash_Verge_rev_Linux) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [Clash Nyanpasu](#Clash_Nyanpasu_Linux) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+  - [FlClash](#FlClash_Linux) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+  - [v2rayN](#v2rayN_Linux) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
 
-  - [未整理&其它](#others)
+  + [未整理&其它](#others)
 
 [路由规则](#rule)
 
@@ -241,15 +246,6 @@ EdNovas is the best!
 <span id="Android"></span>
 ## Android![Android](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Android&logoColor=3DDC84)
 
-<span id="v2rayNG"></span>
-+ <font size="5">v2rayNG</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
-
-[![GooglePlay](assets/googleplay.svg)](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-
-[从release页面下载](https://github.com/2dust/v2rayNG/releases)
-
-[项目地址 2dust/v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
-
 <span id="CMFA"></span>
 + <font size="5">Clash Meta</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
 
@@ -279,6 +275,13 @@ EdNovas is the best!
 
 TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Telegram&logoColor=31A6E0)
 
+<span id="FlClash"></span>
++ <font size="5">FlClash</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+
+[从release页面下载](https://github.com/chen08209/FlClash/releases)
+
+[项目地址 chen08209/FlClash](https://github.com/chen08209/FlClash)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
 <span id="NekoBox"></span>
 + <font size="5">NekoBox</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
 
@@ -286,15 +289,17 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 [项目地址 MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
+<span id="v2rayNG"></span>
++ <font size="5">v2rayNG</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+
+[![GooglePlay](assets/googleplay.svg)](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+
+[从release页面下载](https://github.com/2dust/v2rayNG/releases)
+
+[项目地址 2dust/v2rayNG](https://github.com/2dust/v2rayNG)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
 <span id="Windows"></span>
 ## Windows![Windows](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZmlsbD0iIzAwNzhENiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4=&logoColor=0078D6)
-
-<span id="v2rayN"></span>
-+ <font size="5">v2rayN</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
-
-[从release页面下载](https://github.com/2dust/v2rayN/releases)
-
-[项目地址 2dust/v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Clash_Verge_rev"></span>
 + <font size="5">Clash Verge rev</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
@@ -310,12 +315,26 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 
 [项目地址 keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
+<span id="FlClash_Windows"></span>
++ <font size="5">FlClash</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+
+[从release页面下载](https://github.com/chen08209/FlClash/releases)
+
+[项目地址 chen08209/FlClash](https://github.com/chen08209/FlClash)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
 <span id="NekoRay"></span>
 + <font size="5">NekoRay</font> ![oss](assets/min-oss.svg)
 
 [从release页面下载](https://github.com/MatsuriDayo/nekoray/releases)
 
 [项目地址 MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="v2rayN"></span>
++ <font size="5">v2rayN</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+
+[从release页面下载](https://github.com/2dust/v2rayN/releases)
+
+[项目地址 2dust/v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="iOS/iPadOS"></span>
 ## iOS/iPadOS![iOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Apple&logoColor=000000)
@@ -350,13 +369,6 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 <span id="MacOS"></span>
 ## MacOS![MacOS](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=MacOS&logoColor=999999)
 
-<span id="v2rayU"></span>
-+ <font size="5">v2rayU</font> ![oss](assets/min-oss.svg)
-
-[从release页面下载](https://github.com/yanue/V2rayU/releases)
-
-[项目地址 yanue/V2rayU](https://github.com/yanue/V2rayU)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
-
 <span id="Clash_Verge_rev_MacOS"></span>
 + <font size="5">Clash Verge rev</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
 
@@ -370,6 +382,20 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 [从release页面下载](https://github.com/keiko233/clash-nyanpasu/releases)
 
 [项目地址 keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="FlClash_MacOS"></span>
++ <font size="5">FlClash</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+
+[从release页面下载](https://github.com/chen08209/FlClash/releases)
+
+[项目地址 chen08209/FlClash](https://github.com/chen08209/FlClash)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="v2rayU"></span>
++ <font size="5">v2rayU</font> ![oss](assets/min-oss.svg)
+
+[从release页面下载](https://github.com/yanue/V2rayU/releases)
+
+[项目地址 yanue/V2rayU](https://github.com/yanue/V2rayU)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="Linux"></span>
 ## Linux![Linux](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Linux&logoColor=000000)
@@ -387,6 +413,20 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 [从release页面下载](https://github.com/keiko233/clash-nyanpasu/releases)
 
 [项目地址 keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="FlClash_Linux"></span>
++ <font size="5">FlClash</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+
+[从release页面下载](https://github.com/chen08209/FlClash/releases)
+
+[项目地址 chen08209/FlClash](https://github.com/chen08209/FlClash)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
+
+<span id="v2rayN_Linux"></span>
++ <font size="5">v2rayN</font> ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
+
+[从release页面下载](https://github.com/2dust/v2rayN/releases)
+
+[项目地址 2dust/v2rayN](https://github.com/2dust/v2rayN)![Github](https://img.shields.io/badge/--FFFFFF?style=flat-square&logo=Github&logoColor=0E1E47)
 
 <span id="others"></span>
 ## 未整理/其它
@@ -415,7 +455,7 @@ TG频道 [@surfboardnews](https://t.me/surfboardnews)![Telegram](https://img.shi
 ***
 
 <span id="sub"></span>
-# 订阅平台
+# 订阅平台<span style="color: #ff0000">（不再更新）</span>
 
 [<font size="5">返回目录</font>](#contents)
 
