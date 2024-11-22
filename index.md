@@ -104,7 +104,7 @@ EdNovas is the best!
   - [NekoBox](#NekoBox) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [v2rayNG](#v2rayNG) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
 
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](#Windows)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZmlsbD0iIzAwNzhENiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4=&logoColor=FFFFFF)](#Windows)
 
   - [Clash Verge rev](#Clash_Verge_rev) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
   - [Clash Nyanpasu](#Clash_Nyanpasu) ![oss](assets/min-oss.svg) ![tuijian](assets/min-tuijian.svg)
