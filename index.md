@@ -29,21 +29,21 @@ layout: default
 <span id="ads"></span>
 # 赞助商广告
 
-[<font size="5">天枢互联</font>](sponsor/sponsor.html) ![tuijian](assets/min-tuijian.svg)
+[<font size="5">Nanocloud</font>](sponsor/sponsor_7.html) ![tuijian](assets/min-tuijian.svg)
 
-全球网络中继服务,随时随处尽情使用
+亏本运营，节点质量同价位找不到第二家
 
 [<font size="5">Sausage Cloud</font>](sponsor/sponsor_3.html) ![tuijian](assets/min-tuijian.svg)
 
 高性价比网络中继服务，随时随处尽情使用
 
-[<font size="5">Nanocloud</font>](sponsor/sponsor_7.html) ![tuijian](assets/min-tuijian.svg)
-
-亏本运营，节点质量同价位找不到第二家
-
 [<font size="5">奥创</font>](sponsor/sponsor_14.html) ![tuijian](assets/min-tuijian.svg)
 
 全球网络中继服务，随时随处尽情使用
+
+[<font size="5">天枢互联</font>](sponsor/sponsor.html) ![tuijian](assets/min-tuijian.svg)
+
+全球网络中继服务,随时随处尽情使用
 
 [<font size="5">雲村YUNCUN</font>](sponsor/sponsor_2.html)
 
