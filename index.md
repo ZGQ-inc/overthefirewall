@@ -13,7 +13,7 @@ layout: default
 
 项目作者の[**个人主页**](https://domain.zgqinc.gq)
 
-欢迎进群**讨论/提问** [我的资源群](https://zgq-inc.github.io/transit-groups/)
+<!-- 欢迎进群**讨论/提问** [我的资源群](https://zgq-inc.github.io/transit-groups/) -->
 
 提问前提是在<span style="color: #ff0000">看清这篇文档之后</span>如有问题可以反馈，拒绝粗略看过一遍之后就开始提问。
 
