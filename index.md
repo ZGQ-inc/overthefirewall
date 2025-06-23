@@ -39,11 +39,11 @@ layout: default
 
 [<font size="5">奥创</font>](sponsor/sponsor_14.html) ![tuijian](assets/min-tuijian.svg)
 
-五年老牌专线，性价比高节点多，低至每个月八元的专线
+完美运营三周年，让您畅游全球网络
 
 [<font size="5">青云梯</font>](sponsor/sponsor_13.html)
 
-完美运营三周年，让您畅游全球网络
+五年老牌专线，低至每个月八元的专线
 
 [<font size="5">银河云</font>](sponsor/sponsor_16.html)
 
