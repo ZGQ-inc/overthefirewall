@@ -47,7 +47,7 @@ layout: default
 
 [<font size="5">银河云</font>](sponsor/sponsor_16.html)
 
-新加坡海外团队大机房产品，性价比专线，
+新加坡海外团队大机房产品，性价比专线
 
 [<font size="5">瀚海舟</font>](sponsor/sponsor_15.html) ![tuijian](assets/min-tuijian.svg)
 
