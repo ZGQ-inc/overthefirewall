@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><defs><style>.a{fill:#fff;}</style></defs><title>Asset 2</title><path class="a" d="M0,0H200V200S200,0,0,0Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><defs><style>.a{fill:#fff}</style></defs><title>Asset 2</title><path d="M0,0H200V200S200,0,0,0Z" class="a"/></svg>
