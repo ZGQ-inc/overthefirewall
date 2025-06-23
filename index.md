@@ -39,7 +39,15 @@ layout: default
 
 [<font size="5">奥创</font>](sponsor/sponsor_14.html) ![tuijian](assets/min-tuijian.svg)
 
-全球网络中继服务，随时随处尽情使用
+五年老牌专线，性价比高节点多，低至每个月八元的专线
+
+[<font size="5">青云梯</font>](sponsor/sponsor_13.html)
+
+完美运营三周年，让您畅游全球网络
+
+[<font size="5">银河云</font>](sponsor/sponsor_16.html)
+
+新加坡海外团队大机房产品，性价比专线，
 
 [<font size="5">瀚海舟</font>](sponsor/sponsor_15.html) ![tuijian](assets/min-tuijian.svg)
 
@@ -84,10 +92,6 @@ EdNovas is the best!
 [<font size="5">轻舞云</font>](sponsor/sponsor_12.html)
 
 大陆首选 亚洲区最佳 VPN
-
-[<font size="5">青云梯</font>](sponsor/sponsor_13.html)
-
-完美运营三周年，让您畅游全球网络
 
 ***
 
