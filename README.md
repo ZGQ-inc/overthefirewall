@@ -1,10 +1,10 @@
 ![overthefirewall](https://socialify.git.ci/ZGQ-inc/overthefirewall/image?forks=1&logo=https%3A%2F%2Fgithub.com%2FZGQ-inc%2Foverthefirewall%2Fraw%2Frefs%2Fheads%2Fmain%2Finternet.svg&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Light)
 
-<a href="https://star-history.com/#ZGQ-inc/overthefirewall&Date">
+<a href="https://www.star-history.com/?repos=ZGQ-inc%2Foverthefirewall&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ZGQ-inc/overthefirewall&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ZGQ-inc/overthefirewall&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ZGQ-inc/overthefirewall&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ZGQ-inc/overthefirewall&type=date&theme=dark&legend=top-left&sealed_token=g3tSTGvkippt_f5evAEgujX7JhgSrj1GmGt_RH0AR0AEu4HT8qAmNRhj95-1d7f_IsZz3RTzuq1mqsfyvJEZOQ8cYANTTwmnnKUzIXwMrDX_RhReSFxlhA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ZGQ-inc/overthefirewall&type=date&legend=top-left&sealed_token=g3tSTGvkippt_f5evAEgujX7JhgSrj1GmGt_RH0AR0AEu4HT8qAmNRhj95-1d7f_IsZz3RTzuq1mqsfyvJEZOQ8cYANTTwmnnKUzIXwMrDX_RhReSFxlhA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ZGQ-inc/overthefirewall&type=date&legend=top-left&sealed_token=g3tSTGvkippt_f5evAEgujX7JhgSrj1GmGt_RH0AR0AEu4HT8qAmNRhj95-1d7f_IsZz3RTzuq1mqsfyvJEZOQ8cYANTTwmnnKUzIXwMrDX_RhReSFxlhA" />
  </picture>
 </a>
 
