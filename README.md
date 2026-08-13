@@ -1,10 +1,10 @@
 ![overthefirewall](https://socialify.git.ci/ZGQ-inc/overthefirewall/image?forks=1&logo=https%3A%2F%2Fgithub.com%2FZGQ-inc%2Foverthefirewall%2Fraw%2Frefs%2Fheads%2Fmain%2Finternet.svg&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Light)
 
-<a href="https://star-history.com/#ZGQ-inc/overthefirewall&Date">
+<a href="https://star-history.dera.page/#ZGQ-inc/overthefirewall&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ZGQ-inc/overthefirewall&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ZGQ-inc/overthefirewall&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ZGQ-inc/overthefirewall&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.dera.page/svg?repos=ZGQ-inc/overthefirewall&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.dera.page/svg?repos=ZGQ-inc/overthefirewall&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.dera.page/svg?repos=ZGQ-inc/overthefirewall&type=Date" />
  </picture>
 </a>
 
